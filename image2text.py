@@ -28,11 +28,10 @@ vgg_x         = RepeatVector(200)(vgg_x)
 input_tensor2 = Input(shape=(200, 1000))
 
 encoded = Concatenate(axis=1)( [vgg_x, input_tensor2] )
-x           = RepeatVector(timesteps)(encoded)
-x           = Bi(LSTM(256, return_sequences=True))(x)
-decoded     = TD(Dense(DIM, activation='softmax'))(x)
+x           = Bi(LSTM(256, return_sequences=True))(encoded)
+decoded     = TD(Dense(1000, activation='softmax'))(x)
 
-t2i         = Model(input_tensor, decoded)
+t2i         = Model([input_tensor1, input_tensor2], decoded)
 t2i.compile(optimizer=Adam(), loss='categorical_crossentropy')
 
 """
@@ -62,8 +61,6 @@ t2i.compile(optimizer=Adam(), loss='categorical_crossentropy')
 23 <keras.layers.wrappers.Bidirectional object at 0x7f9e8dcfd9b0>
 24 <keras.layers.wrappers.TimeDistributed object at 0x7f9e8dba6ac8>
 """
-for i, layer in enumerate(t2i.layers): # default 15
-  print( i, layer )
 
 for layer in t2i.layers[:18]:
   layer.trainable = False
