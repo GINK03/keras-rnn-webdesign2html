@@ -1,0 +1,444 @@
+<!DOCTYPE html><!--[if lt IE 7 ]><html class="ie6"><![endif]--><!--[if IE 7 ]><html class="ie7"><![endif]--><!--[if IE 8 ]><html class="ie8"><![endif]--><!--[if IE 9 ]><html class="ie9"><![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" lang="ja" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta content="width=device-width, initial-scale=1, user-scalable=yes" name="viewport" />
+		<meta content="black-translucent" name="apple-mobile-web-app-status-bar-style" />
+
+		<meta property="og:title" content="仁誠会‐熊本の人工透析・臨時透析・介護・リハビリ" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="http://www.jinseikai.or.jp/" />
+		<meta property="og:image" content="http://www.jinseikai.or.jp/common/images/facebook-ogp-image.png" />
+		<meta property="og:email" content="jinseikai-madoguchi@jinseikai.or.jp" />
+		<meta property="og:phone_number" content="096-360-7112" />
+		<meta property="og:site_name" content="仁誠会‐熊本の人工透析・臨時透析・介護・リハビリ" />
+		<meta property="og:locale" content="ja_JP" />
+		<meta property="og:description" content="腎臓病や生活習慣病など腎疾患の診療として一般内科および腎臓内科ならびに人工透析治療を行っている専門医療機関です。" />
+
+		<meta name="description" content="腎臓病や生活習慣病など腎疾患の診療として一般内科および腎臓内科ならびに人工透析治療を行っている専門医療機関です。" />
+		<meta name="keywords" content="仁誠会,熊本,人口透析,臨時透析,腎臓内科,介護,ショートステイ,デイサービス,入所,リハビリ,居宅介護,老人ホーム" />
+
+		<title>仁誠会‐熊本の人工透析・臨時透析・介護・リハビリ</title>
+
+		<link rel="shortcut icon" href="/common/images/favicon.ico" />
+		<link rel="apple-touch-icon" href="/common/images/apple-touch-icon-precomposed.png" />
+		<link rel="stylesheet" href="/common/css/init.css" type="text/css" media="all" />
+		<link rel="stylesheet" href="/common/css/html5reset-1.6.1.css" type="text/css" media="all" />
+		<link rel="stylesheet" href="/common/css/icon.css" type="text/css" media="all" />
+		<link rel="stylesheet" href="/common/css/common.css" type="text/css" media="all" />
+		<link rel="stylesheet" href="css/default.css" media="all" class="style" />
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/common/js/lib/jquery.js"></script>
+		<script type="text/javascript" src="/common/js/lib/jquery.easing.1.3.js"></script>
+		<script type="text/javascript" src="/common/js/lib/modernizr.js"></script>
+		<script type="text/javascript" src="/common/js/pageScroller.js"></script>
+		<script type="text/javascript" src="/common/js/extension.js"></script><style type="text/css"></style>
+		<script type="text/javascript" src="/common/js/common.js"></script>
+		<script type="text/javascript" src="js/script.js"></script><style type="text/css"></style>
+	</head>
+	<body style="">
+
+<!--
+		<script type="text/javascript">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-7785606-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+-->
+
+
+		<header id="header" class="">
+			<div class="wrap">
+				<h1 id="logo"><a href="/"><img src="/common/images/img_logo.png" alt="医療法人社団 仁誠会" /></a></h1><div id="spmn"><span></span></div>
+				<div id="headui">
+					<nav id="navigation">
+						<ul>
+							<li><a href="/news/" class="ui icon info wt active">お知らせ</a></li>
+							<li>
+								<a href="/medical/" class="ui icon kit wt active">内科・透析</a>
+								<ul class="pull">
+									<li><a href="/medical/approach.php" class="ui arrow_ss rwt">クリニックの専門スタッフによる取り組み</a></li>
+									<li><a href="/medical/temporary.php" class="ui arrow_ss rwt">臨時透析</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="/care/" class="ui icon note wt active">介護<br />サービス</a>
+								<ul class="pull">
+									<li><a href="/care/admitted.php" class="ui arrow_ss rwt">入所サービス</a></li>
+									<li><a href="/care/daycare.php" class="ui arrow_ss rwt">デイケア</a></li>
+									<li><a href="/care/nursinghome.php" class="ui arrow_ss rwt">有料老人ホーム</a></li>
+									<li><a href="/care/multiple.php" class="ui arrow_ss rwt">小規模多機能</a></li>
+									<li><a href="/care/helper.php" class="ui arrow_ss rwt">ヘルパー</a></li>
+									<li><a href="/care/home.php" class="ui arrow_ss rwt">居宅介護支援</a></li>
+									<li><a href="/care/dementia.php" class="ui arrow_ss rwt">認知症予防の取り組み</a></li>
+									<li><a href="/care/reha.php" class="ui arrow_ss rwt">赤とんぼのリハビリテーション</a></li>
+									<li><a href="/care/enjoy.php" class="ui arrow_ss rwt">赤とんぼの楽しみ</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="/facilities/" class="ui icon home wt active">施設の紹介</a>
+								<ul class="pull">
+									<li><a href="/facilities/kurokami.php" class="ui arrow_ss rwt">仁誠会クリニック黒髪</a></li>
+									<li><a href="/facilities/ozu.php" class="ui arrow_ss rwt">仁誠会クリニック大津</a></li>
+									<li><a href="/facilities/shinyashiki.php" class="ui arrow_ss rwt">仁誠会クリニック新屋敷</a></li>
+									<li><a href="/facilities/nagamine.php" class="ui arrow_ss rwt">仁誠会クリニックながみね</a></li>
+									<li><a href="/facilities/hikarinomori.php" class="ui arrow_ss rwt">仁誠会クリニック光の森</a></li>
+									<li><a href="/facilities/carecenter.php" class="ui arrow_ss rwt">介護老人保健施設<br />ケアセンター赤とんぼ</a></li>
+									<li><a href="/facilities/akatonbo_k.php" class="ui arrow_ss rwt">住宅型有料老人ホーム赤とんぼ黒髪</a></li>
+									<li><a href="/facilities/akatonbo_reha.php" class="ui arrow_ss rwt">通所リハビリテーション<br />赤とんぼ黒髪</a></li>
+									<li><a href="/facilities/akatonbo_n.php" class="ui arrow_ss rwt">介護付き有料老人ホーム赤とんぼ長嶺</a></li>
+									<li><a href="/facilities/akatonbo_m.php" class="ui arrow_ss rwt">小規模多機能ホーム 赤とんぼ長嶺</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="/about/" class="ui icon info wt active">仁誠会に<br />ついて</a>
+								<ul class="pull">
+									<li><a href="/about/#greeting" class="anchor ui arrow_ss rwt">理事長あいさつ</a></li>
+									<li><a href="/about/#president" class="anchor ui arrow_ss rwt">会長あいさつ</a></li>
+									<li><a href="/about/#vision" class="anchor ui arrow_ss rwt">経営ビジョン</a></li>
+									<li><a href="/about/#outline" class="anchor ui arrow_ss rwt">組織概要</a></li>
+									<li><a href="/about/#local_cate01" class="anchor ui arrow_ss rwt">地域連携室</a></li>
+									<li><a href="/about/#local_cate02" class="anchor ui arrow_ss rwt">地域への貢献活動</a></li>
+								</ul>
+							</li>
+							<li><a href="/recruit/" class="ui icon user wt active">採用情報</a></li>
+						</ul>
+					</nav>
+					<div id="headsub">
+						<ul class="headnav">
+							<li><a href="/magazine/" class="ui icon book ye">仁誠会通信</a></li>
+							<li><a href="/contact/" class="ui icon root ye">施設見学</a></li>
+							<li><a href="https://www.facebook.com/jinseikai.kumamoto/" target="_blank" class="headnav-fb icon ui">公式facebook</a></li>
+						</ul>
+						<div class="contact">
+							<span class="conlist"><a href="/contact/list.php" class="ui icon tel ye">各施設お問い合わせ</a></span>
+							<span class="btn"><a href="/contact/">資料請求・お問い合わせ</a></span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<div id="keyvisual">
+			<ul class="kvwrap">
+				<li class="medical"><a href="medical/"><span class="name"><img src="images/txt_kv_medical.png" alt="内科・透析" /></span></a></li>
+				<li class="care"><a href="care/"><span class="name"><img src="images/txt_kv_care.png" alt="介護サービス" /></span></a></li>
+			</ul>
+			<div class="catch">
+				<span class="tex1"><img src="images/txt_kv_catch.png" alt="透析治療と介護福祉 安心のネットワーク" /></span>
+				<span class="tex2"><img src="images/txt_kv_catch2.png" alt="透析治療と介護福祉 安心のネットワーク" /></span>
+			</div>
+			<div class="kvimg">
+				<ul class="slidearea medical" style="min-height: 0; opacity: 1; visibility: visible; -webkit-transition: opacity 600ms ease; transition: opacity 600ms ease; ">
+					<li style="opacity: 1; z-index: 20; background-image: url(&quot;http://www.jinseikai.or.jp/images/img_kv_medical01.jpg&quot;);"><img src="images/img_kv_medical01.jpg" alt="" style="display: none;" /></li>
+					<li style="opacity: 0.348539; z-index: 50; background-image: url(&quot;http://www.jinseikai.or.jp/images/img_kv_medical02.jpg&quot;);"><img src="images/img_kv_medical02.jpg" alt="" style="display: none;" /></li>
+					<li style="opacity: 0; z-index: 0; background-image: url(&quot;http://www.jinseikai.or.jp/images/img_kv_medical03.jpg&quot;);"><img src="images/img_kv_medical03.jpg" alt="" style="display: none;" /></li>
+				</ul>
+				<div class="preloader" style="opacity: 0;"><img src="/recruit/common/images/indicator.gif" /></div><ul class="slidearea care" style="min-height: 0; opacity: 1; visibility: visible; -webkit-transition: opacity 600ms ease; transition: opacity 600ms ease; ">
+					<li style="opacity: 1; z-index: 20; background-image: url(&quot;http://www.jinseikai.or.jp/images/img_kv_care01.jpg&quot;);"><img src="images/img_kv_care01.jpg" alt="" style="display: none;" /></li>
+					<li style="opacity: 0.348539; z-index: 50; background-image: url(&quot;http://www.jinseikai.or.jp/images/img_kv_care02.jpg&quot;);"><img src="images/img_kv_care02.jpg" alt="" style="display: none;" /></li>
+					<li style="opacity: 0; z-index: 0; background-image: url(&quot;http://www.jinseikai.or.jp/images/img_kv_care03.jpg&quot;);"><img src="images/img_kv_care03.jpg" alt="" style="display: none;" /></li>
+				</ul>
+			</div>
+		</div>
+
+		<div id="topwrsp" class="wrap">
+
+			<div><a href="facilities/nursery.php"><img src="images/bnr_nursery.png" alt="赤とんぼ保育園" /></a></div>
+
+			<div class="fbnr">
+				<a href="https://www.facebook.com/jinseikai.kumamoto/" target="_blank">
+					<figure class="fbnr-logo"><img src="common/images/img_logo_fb.png" alt="facebook" /></figure>
+					<h3 class="fbnr-title"><img src="common/images/img_tex_fb.png" alt="医療法人社団  仁誠会　公式facebook" /></h3>
+					<p class="fbnr-title-tex">仁誠会で行われている各種イベントや採用関連情報など、<br />さまざまな情報を発信しています！ぜひご覧ください。</p>
+				</a>
+			</div>
+
+			<div id="recruit" class="contents">
+				<div id="recruithead">
+					<a href="recruit/">
+						<h2><img src="images/txt_recruit_head.png" alt="仁誠会 採用情報サイト 私たちと一緒に働きませんか？" /></h2>
+						<span>仁誠会 採用情報サイトはこちら</span>
+					</a>
+				</div>
+				<h3 class="blocktit ui icon info wt">
+					<a href="news/">採用に関するおしらせ</a>
+				</h3>
+				<ul class="newslist">
+				<li>
+<a href="http://www.jinseikai.or.jp/news/2018/01/post-216.html">
+<span class="update ui icon doc wt">2018/01/30</span>
+<span class="tit">「仁誠会の看護師お仕事説明会」仁誠会クリニック光の森で開催！</span>
+</a>
+</li>
+<li>
+<a href="http://www.jinseikai.or.jp/news/2018/01/post-214.html">
+<span class="update ui icon doc wt">2018/01/23</span>
+<span class="tit">★インターンシップ情報★</span>
+</a>
+</li>
+<li>
+<a href="http://www.jinseikai.or.jp/news/2018/01/-13-34-264-4-sss-s-s-s4-mt4.html">
+<span class="update ui icon doc wt">2018/01/18</span>
+<span class="tit">平成29年度 フィロソフィ論文入賞作品のご紹介 その1</span>
+</a>
+</li>
+<li>
+<a href="http://www.jinseikai.or.jp/news/2018/01/-4.html">
+<span class="update ui icon doc wt">2018/01/18</span>
+<span class="tit">１年の成長を語る ーたくさんの学びに感謝を込めてー（第4弾・介護福祉士）</span>
+</a>
+</li>
+<li>
+<a href="http://www.jinseikai.or.jp/news/2018/01/3031.html">
+<span class="update ui icon doc wt">2018/01/06</span>
+<span class="tit">平成30年〜31年、介護事業拡大につき大募集！</span>
+</a>
+</li>
+				</ul>
+			</div>
+
+			<section id="news" class="contents">
+				<h2 class="blocktit ui icon info ye">
+					<a href="news/">仁誠会からのお知らせ</a>
+				</h2>
+				<ul class="newslist">
+				<li>
+<a href="http://www.jinseikai.or.jp/news/2018/02/post-212.html">
+<span class="update ui icon doc ye">2018/02/01</span>
+<span class="category current"><span>現在の募集職種</span></span>
+<span class="tit">採用情報      ☆現在の募集職種☆</span>
+</a>
+</li>
+<li>
+<a href="http://www.jinseikai.or.jp/news/2018/01/post-215.html">
+<span class="update ui icon doc ye">2018/01/30</span>
+<span class="category news"><span>お知らせ</span></span>
+<span class="tit">「仁誠会の看護師お仕事説明会」仁誠会クリニック光の森で開催！</span>
+</a>
+</li>
+<li>
+<a href="http://www.jinseikai.or.jp/news/2018/01/post-213.html">
+<span class="update ui icon doc ye">2018/01/23</span>
+<span class="category news"><span>お知らせ</span></span>
+<span class="tit">★インターンシップ情報★</span>
+</a>
+</li>
+<li>
+<a href="http://www.jinseikai.or.jp/news/2018/01/post-209.html">
+<span class="update ui icon doc ye">2018/01/02</span>
+<span class="category news"><span>お知らせ</span></span>
+<span class="tit">新年のご挨拶</span>
+</a>
+</li>
+<li>
+<a href="http://www.jinseikai.or.jp/news/2017/12/post-211.html">
+<span class="update ui icon doc ye">2017/12/23</span>
+<span class="category news"><span>お知らせ</span></span>
+<span class="tit">「仁誠会忘年会」を開催しました</span>
+</a>
+</li>
+				</ul>
+			</section>
+
+			<section id="facilities" class="contents facilities">
+				<h2 class="factit">
+					<span class="ui icon home wt">
+						透析クリニック・<br />介護施設のご案内
+						<a href="/contact/">施設見学のお申し込み</a>
+					</span>					
+				</h2>
+				<div class="faclist">
+					<div class="kurokami">
+						<ul>
+							<li><a href="/facilities/kurokami.php" class="facicon clinic">仁誠会クリニック黒髪</a></li>
+							<li><a href="/facilities/akatonbo_k.php" class="facicon care">住宅型有料老人ホーム赤とんぼ黒髪</a></li>
+							<li><a href="/facilities/akatonbo_reha.php" class="facicon care">通所リハビリテーション赤とんぼ黒髪</a></li>
+						</ul>
+					</div>
+					<div class="ozu">
+						<ul>
+							<li><a href="/facilities/ozu.php" class="facicon clinic">仁誠会クリニック大津</a></li>
+						</ul>
+					</div>
+					<div class="shinyashiki">
+						<ul>
+							<li><a href="/facilities/shinyashiki.php" class="facicon clinic">仁誠会クリニック新屋敷</a></li>
+						</ul>
+					</div>
+					<div class="nagamine">
+						<ul>
+							<li>
+								<a href="/facilities/nagamine.php" class="facicon clinic">
+									<span class="tit">仁誠会クリニックながみね</span>
+									<span class="sub">仁誠会クリニックながみね 訪問リハビリテーション</span>
+								</a>
+							</li>
+							<li>
+								<a href="/facilities/carecenter.php" class="facicon care">
+									<span class="tit">介護老人保健施設 ケアセンター赤とんぼ</span>
+									<span class="sub">赤とんぼ訪問介護事業所</span>
+									<span class="sub">赤とんぼ居宅介護支援事業所</span>
+								</a>
+							</li>
+						</ul>
+					</div>
+					<div class="akatonbo">
+						<ul>
+							<li><a href="/facilities/akatonbo_n.php" class="facicon care">介護付き有料老人ホーム赤とんぼ長嶺</a></li>
+							<li><a href="/facilities/akatonbo_m.php" class="facicon care">小規模多機能ホーム 赤とんぼ長嶺</a></li>
+						</ul>
+					</div>
+					<div class="hikarinomori">
+						<ul>
+							<li><a href="/facilities/hikarinomori.php" class="facicon clinic">仁誠会クリニック光の森</a></li>
+						</ul>
+					</div>
+				</div>
+			</section>
+			<section id="blog" class="contents">
+				<h2 class="blocktit ui icon post ye">各施設のブログ</h2>
+				<div id="bloglist">
+					<section>
+<a href="http://www.jinseikai.or.jp/blog/kurokami/2018/02/-12425.html" class="clinic">
+<h3 class="facicon clinic">仁誠会クリニック黒髪</h3>
+<span class="date">2018/02/07<span class="new">new</span></span>
+<span class="title">血糖コントロールで糖尿病の合併症予防</span>
+</a>
+</section>
+<section>
+<a href="http://www.jinseikai.or.jp/blog/ozu/2018/02/post-123.html" class="clinic">
+<h3 class="facicon clinic">仁誠会クリニック大津</h3>
+<span class="date">2018/02/05<span class="new">new</span></span>
+<span class="title">親睦が深まった患者さん新年会</span>
+</a>
+</section>
+<section>
+<a href="http://www.jinseikai.or.jp/blog/shinyashiki/2018/01/post-101.html" class="clinic">
+<h3 class="facicon clinic">仁誠会クリニック新屋敷</h3>
+<span class="date">2018/01/12</span>
+<span class="title">『仁誠会クリニック新屋敷のお正月』</span>
+</a>
+</section>
+<section>
+<a href="http://www.jinseikai.or.jp/blog/nagamine/2018/01/12.html" class="clinic">
+<h3 class="facicon clinic">仁誠会クリニックながみね</h3>
+<span class="date">2018/01/16</span>
+<span class="title">☆おみくじで今年1年の運試し☆</span>
+</a>
+</section>
+<section>
+<a href="http://www.jinseikai.or.jp/blog/hikarinomori/2018/01/post-182.html" class="clinic">
+<h3 class="facicon clinic">仁誠会クリニック光の森</h3>
+<span class="date">2018/01/31</span>
+<span class="title">仁誠会クリニック光の森の 新しい仲間をご紹介！☆</span>
+</a>
+</section>
+<section>
+<a href="http://www.jinseikai.or.jp/blog/carecenter/2018/02/post-187.html" class="care">
+<h3 class="facicon care">介護老人保健施設 ケアセンター赤とんぼ</h3>
+<span class="date">2018/02/02</span>
+<span class="title">赤とんぼ通所「新年会」を行いました！</span>
+</a>
+</section>
+<section>
+<a href="http://www.jinseikai.or.jp/blog/akatonbo/2018/01/post-86.html" class="care">
+<h3 class="facicon care">通所リハビリテーション赤とんぼ黒髪</h3>
+<span class="date">2018/01/25</span>
+<span class="title">「認知機能向上！」作業療法士とものづくりをしました</span>
+</a>
+</section>
+<section>
+<a href="http://www.jinseikai.or.jp/akatonbo_n/2018/01/1.html" class="care">
+<h3 class="facicon care">小規模多機能赤とんぼ長嶺</h3>
+<span class="date">2018/01/13</span>
+<span class="title">☆赤とんぼ長嶺の新年 絵馬作りで今年の幸せ願い☆</span>
+</a>
+</section>
+				</div>
+			</section>
+
+			<div id="topbtnset">
+				<ul>
+					<li class="greeting"><a href="about/">理事長よりごあいさつ</a></li>
+					<li class="magazine"><a href="magazine/">仁誠会通信</a></li>
+					<li class="tour"><a href="contact/">施設見学のお申し込み</a></li>
+				</ul>
+			</div>
+
+			<div class="sp-wrap">
+				<ul class="support">
+					<li class="support-left"><a href="http://roasso-k.com/" target="_blank"><img src="images/img_roasso.png" alt="ロアッソ熊本" /></a></li>
+					<li class="support-right"><a href="https://www.volters.jp/" target="_blank"><img src="images/img_volters.png" alt="熊本ヴォルターズ" /></a></li>
+					<li class="support-tex">仁誠会は地元チーム<span>ロアッソ熊本、熊本ヴォルターズを応援します！</span></li>
+				</ul>
+			</div>
+
+		</div>
+
+		<span class="contactbtn btn"><a href="/contact/" class="ui icon mail wt">資料請求・お問い合わせはこちら</a></span>
+
+		<footer id="footer">
+			<div id="retop">
+				<a href="/" class="home">ホーム</a>
+			<span id="pagetop"><a class="anchor top ui arrow_m twt" href="#pagetop"></a></span></div>
+			<nav id="footnav" class="wrap">
+				<dl>
+					<dt><a href="/medical/" class="ui icon kit ye">内科・透析</a></dt>
+					<dd><a href="/medical/approach.php" class="ui arrow_ss rbk">クリニックの専門スタッフによる取り組み</a></dd>
+					<dd><a href="/medical/temporary.php" class="ui arrow_ss rbk">臨時透析</a></dd>
+				</dl>
+				<dl>
+					<dt><a href="/care/" class="ui icon note ye">介護サービス</a></dt>
+					<dd><a href="/care/admitted.php" class="ui arrow_ss rbk">入所サービス</a></dd>
+					<dd><a href="/care/daycare.php" class="ui arrow_ss rbk">デイケア</a></dd>
+					<dd><a href="/care/nursinghome.php" class="ui arrow_ss rbk">有料老人ホーム</a></dd>
+					<dd><a href="/care/multiple.php" class="ui arrow_ss rbk">小規模多機能</a></dd>
+					<dd><a href="/care/helper.php" class="ui arrow_ss rbk">ヘルパー</a></dd>
+					<dd><a href="/care/home.php" class="ui arrow_ss rbk">居宅介護支援</a></dd>
+					<dd><a href="/care/dementia.php" class="ui arrow_ss rbk">認知症予防の取り組み</a></dd>
+					<dd><a href="/care/reha.php" class="ui arrow_ss rbk">赤とんぼのリハビリテーション</a></dd>
+					<dd><a href="/care/enjoy.php" class="ui arrow_ss rbk">赤とんぼの楽しみ</a></dd>
+				</dl>
+				<dl>
+					<dt><a href="/facilities/" class="ui icon home ye">施設のご案内</a></dt>
+					<dd><a href="/facilities/kurokami.php" class="ui arrow_ss rbk">仁誠会クリニック黒髪</a></dd>
+					<dd><a href="/facilities/ozu.php" class="ui arrow_ss rbk">仁誠会クリニック大津</a></dd>
+					<dd><a href="/facilities/shinyashiki.php" class="ui arrow_ss rbk">仁誠会クリニック新屋敷</a></dd>
+					<dd><a href="/facilities/nagamine.php" class="ui arrow_ss rbk">仁誠会クリニックながみね</a></dd>
+					<dd><a href="/facilities/hikarinomori.php" class="ui arrow_ss rbk">仁誠会クリニック光の森</a></dd>
+					<dd><a href="/facilities/carecenter.php" class="ui arrow_ss rbk">介護老人保健施設<br />ケアセンター赤とんぼ</a></dd>
+					<dd><a href="/facilities/akatonbo_k.php" class="ui arrow_ss rbk">住宅型有料老人ホーム赤とんぼ黒髪</a></dd>
+					<dd><a href="/facilities/akatonbo_reha.php" class="ui arrow_ss rbk">通所リハビリテーション<br />赤とんぼ黒髪</a></dd>
+					<dd><a href="/facilities/akatonbo_n.php" class="ui arrow_ss rbk">介護付き有料老人ホーム赤とんぼ長嶺</a></dd>
+					<dd><a href="/facilities/akatonbo_m.php" class="ui arrow_ss rbk">小規模多機能ホーム 赤とんぼ長嶺</a></dd>
+				</dl>
+				<dl>
+					<dt><a href="/about/" class="ui icon info ye">仁誠会について</a></dt>
+					<dd><a href="/about/#greeting" class="ui arrow_ss rbk anchor">理事長あいさつ</a></dd>
+					<dd><a href="/about/#president" class="ui arrow_ss rbk anchor">会長あいさつ</a></dd>
+					<dd><a href="/about/#vision" class="ui arrow_ss rbk anchor">経営ビジョン</a></dd>
+					<dd><a href="/about/#outline" class="ui arrow_ss rbk anchor">組織概要</a></dd>
+					<dd><a href="/about/#local_cate01" class="ui arrow_ss rbk anchor">地域への貢献活動</a></dd>
+					<dd><a href="/about/#local_cate02" class="ui arrow_ss rbk anchor">地域連携室</a></dd>
+				</dl>
+				<dl>
+					<dt><a href="/contact/" class="ui icon mail ye">お問い合わせ</a></dt>
+					<dd><a href="/contact/list.php" class="ui arrow_ss rbk">資料請求・見学・お問い合わせ</a></dd>
+				</dl>
+			</nav>
+			<div id="footsub">
+				<ul>
+					<li><a href="/privacy/">プライバシーポリシー</a></li>
+					<li><a href="/policy/">ウェブサイトのご利用について</a></li>
+					<li><a href="/sitemap/">サイトマップ</a></li>
+				</ul>
+				<small>Copyright © 2015 Jinseikai. All Rights Reserved.</small>
+			</div>
+		</footer>
+
+	
+
+
+</body></html>

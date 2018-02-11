@@ -1,0 +1,464 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>平和台ファミリー歯科｜練馬区平和台の歯医者さん。インプラント・歯周病治療等</title>
+<meta name="description" content="平和台ファミリー歯科は練馬区平和台の歯医者さんです。インプラントや歯周病治療、根管治療、審美・ホワイトニングなど、幅広い診療を行います。 安心・安全な歯科治療で、地域の皆様の歯の健康をサポートいたします。お子様からご年配の方まで、お気軽にご来院下さい。" />
+<meta name="keywords" content="歯科,平和台,歯医者,練馬区,田柄,インプラント,歯周病,入れ歯,根管治療,ホワイトニング" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="css/base.css" rel="stylesheet" type="text/css" />
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script type="text/javascript" src="js/feed.js"></script>
+<script type="text/javascript" src="js/pageTop.js"></script>
+<script type="text/javascript" src="js/stickyHeader.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script language="javascript">
+if (document.referrer.indexOf('http://www.heiwadai-dental.com/') == -1 &amp;&amp; ((navigator.userAgent.indexOf('iPhone') &gt; 0 &amp;&amp; navigator.userAgent.indexOf('iPad') == -1) || navigator.userAgent.indexOf('iPod') &gt; 0 || navigator.userAgent.indexOf('Android') &gt; 0)) {
+  if(confirm) {
+    location.href = 'http://www.heiwadai-dental.com/sp/';
+  }
+}
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51279175-1', 'heiwadai-dental.com');
+  ga('send', 'pageview');
+
+</script>
+<style type="text/css">
+&lt;!--
+.style1 {
+	color: #FF0000
+}
+--&gt;
+</style>
+</head>
+<body class="home">
+<div id="header_01">
+  <h1><a href="//www.heiwadai-dental.com" class="imgHover05"><img src="img/common/img_logo_header01.jpg" width="357" height="68" alt="平和台ファミリー歯科" /></a></h1>
+</div>
+<div id="header_out">
+  <div id="header_inner">
+    <ul id="gnav">
+      <li class="gnav01"><a href="index.html">ホーム</a></li>
+      <li class="gnav02"><a href="about/index.html">当院について</a></li>
+      <li class="gnav03"><a href="guidance/index.html">診療案内</a></li>
+      <li class="gnav04"><a href="staff/index.html">スタッフ紹介</a></li>
+    </ul>
+    <div id="header_right">
+      <p><img src="img/common/bnr_tel_header01.jpg" width="218" height="32" alt="03-5967-1812" /></p>
+      <p><a href="access/index.html" class="imgHover05"><img src="img/common/bnr_access_header01.jpg" width="101" height="32" alt="アクセス" /></a></p>
+    </div>
+    <!-- end #header_right -->
+  </div>
+  <!-- end #header_inner-->
+</div>
+<!-- end #header_out -->
+<div id="header_bottom"></div>
+<!-- #header_bottom -->
+<div id="contents">
+  <div id="mainvisual">
+    <div id="mvimg1" class="mvimg_in" style="display: none;"></div>
+    <div id="mvimg2" class="mvimg_in" style="background-image: url(&quot;img/img_mv01.jpg&quot;); display: block; z-index: -2;"></div>
+    <div id="mvimg3" class="mvimg_in"></div>
+    <div id="mv_btn">
+      <p id="btn_01"><a class="imgHover07" href="about/index.html"><img src="img/btn_mainnav01.png" width="202" height="124" alt="" /></a></p>
+      <p id="btn_02"><a class="imgHover07" href="guidance/index.html"><img src="img/btn_mainnav02.png" width="175" height="142" alt="" /></a></p>
+      <p id="btn_03"><a class="imgHover07" href="staff/index.html"> </a></p>
+      <p id="btn_04"><a class="imgHover07" href="recruit/index.html"><img src="img/btn_mainnav04.png" width="194" height="140" alt="" /></a></p>
+    </div>
+    <!-- /#mv_btn -->
+  </div>
+  <div id="contents_inner">
+    <div id="contents_left">
+      <p id="snav_menu"><img src="img/common/img_snav_top.png" width="200" height="77" alt="診療科目" /></p>
+      <ul id="snav_menulist">
+        <li><a href="general/index.html" class="imgHover05"><img src="img/common/snav01.png" width="200" height="20" alt="一般歯科" /></a></li>
+        <li><a href="pedodontics/index.html" class="imgHover05"><img src="img/common/snav02.png" width="200" height="20" alt="小児歯科" /></a></li>
+        <li><a href="orthodontics/index.html" class="imgHover05"><img src="img/common/snav03.png" width="200" height="20" alt="矯正歯科" /></a></li>
+        <li><a href="implant/index.html" class="imgHover05"><img src="img/common/snav04.png" width="200" height="20" alt="インプラント" /></a></li>
+        <li><a href="aesthetic/index.html" class="imgHover05"><img src="img/common/snav05.png" width="200" height="20" alt="審美歯科" /></a></li>
+        <li><a href="whitening/index.html" class="imgHover05"><img src="img/common/snav06.png" width="200" height="20" alt="ホワイトニング" /></a></li>
+        <li><a href="perio/index.html" class="imgHover05"><img src="img/common/snav07.png" width="200" height="20" alt="歯周病予防" /></a></li>
+        <li><a href="prevention/index.html" class="imgHover05"><img src="img/common/snav08.png" width="200" height="20" alt="予防歯科" /></a></li>
+        <li class="menu_last"><a href="maternity/index.html" class="imgHover05"><img src="img/common/snav09.png" width="200" height="20" alt="マタニティ外来" /></a></li>
+      </ul>
+      <p class="side_bnr"><a href="voice/index.html" class="imgHover05"><img src="img/common/bnr_side01.png" width="202" height="82" alt="患者様の声" /></a></p>
+      <p class="side_bnr"><a href="recruit/index.html" class="imgHover05"><img src="img/common/bnr_side02.png" width="202" height="82" alt="採用情報" /></a></p>
+      <p class="side_bnr"><a href="access/index.html" class="imgHover05"><img src="img/common/bnr_side03.png" width="202" height="82" alt="アクセス" /></a></p>
+      <p class="side_bnr last"><a href="blog" class="imgHover05"><img src="img/common/bnr_side04.png" width="200" height="80" alt="スタッフブログ" /></a></p>
+      <!--<p class="side_bnr">
+      	<a href="https://tenshoku.mynavi.jp/jobinfo-177138-5-3-1/" class="imgHover05" target="_blank"><img src="img/common/bnr_side05.png" width="200" height="60" alt="マイナビ転職"/></a></p>-->
+      <p class="side_bnr"> <a href="https://doctorsfile.jp/h/40961/df/1/" class="imgHover05" target="_blank"><img src="img/common/bnr_doctors01.jpg" width="200" alt="doctors File" /></a></p>
+      <p class="side_bnr last"> <a href="https://doctorsfile.jp/h/40961/mt/1/" class="imgHover05" target="_blank"><img src="img/common/bnr_doctors02.jpg" width="200" alt="doctors File" /></a></p>
+      <!-- enjapan linktool_banner START-->
+      <!--<a href="https://employment.en-japan.com/desc_754007/" target="_blank" class="imgHover05">
+          <img src="https://employment.en-japan.com/html/linktool/images/banner1.png" alt="エン転職" width="200" border="0">
+        </a>-->
+      <!-- enjapan linktool_banner END-->
+      <p></p>
+    </div>
+    <!-- end #contents_left -->
+    <div id="contents_right">
+      <div class="contents_right_box">
+        <!--<div class="equipment_top">
+          <div class="campaign_bottom">
+            <div class="campaign_middle">
+              <div class="campaign_inner">
+                <p class="campaign_text"><img src="img/ti_campaign01.png" width="640" height="50" alt="ホワイトニングお試しキャンペーン実施中（6月末まで）"/>現在当院では、12月25日まで、<strong>先着20人様</strong>（先行受付中）に<strong>ホワイトニングキャンペーン</strong>を実施しております。ホワイトニングにご興味のある方はこの機会にぜひお試しになってください。また歯を診てもらうのが久しぶりという方には、まずは検診からご案内させていただいております。詳しくはお気軽にお問い合わせください。</p>
+        		<table class="ta_top box100">
+          			<tr>
+            			<th class="box30"><strong>キャンペーン項目</strong></th>
+            			<td class="box35" style="text-align:center"><strong>通常価格</strong></td>
+            			<td class="box35" style="text-align:center"><strong>キャンペーン価格</strong></td>
+          			</tr>
+          			<tr>
+            			<th rowspan="2"><strong>ポリリン酸ホワイトニング</strong></th>
+            			<td>15,000円（1回コース）</td>
+            			<td><span class="style01">10,000円（1回コース）</span></td>
+          			</tr>
+          			<tr>
+            			<td>45,000円（3回コース）</td>
+            			<td><span class="style01">30,000円（3回コース）</span></td>
+          			</tr>
+          			<tr>
+            			<th><strong>ホームホワイトニング</strong></th>
+            			<td style="text-align:center">30,000円</td>
+            			<td style="text-align:center"><span class="style01">20,000円</span></td>
+          			</tr>
+        		</table>
+              </div>
+              <!--end .equipment_inner-->
+        <!--</div>
+            <!--end .equipment_middle-->
+        <!--</div>
+          <!--end .equipment_bottom-->
+        <!--</div>
+        <!--end .equipment_middle-->
+        <!--</div>
+      <!--end #contents_right_box-->
+        <div class="contents_right_box">
+          <p class="left"><a href="guidance/index.html#feature" class="imgHover05"><img src="img/img_cont_top05.png" width="230" height="302" alt="通いやすい医院" /></a></p>
+          <p class="left"><a href="guidance/index.html#feature" class="imgHover05"><img src="img/img_cont_top02.png" width="230" height="302" alt="治療から予防へ" /></a></p>
+          <p class="right"><a href="guidance/index.html#feature" class="imgHover05"><img src="img/img_cont_top03.png" width="230" height="302" alt="お子様とご一緒に" /></a></p>
+        </div>
+        <!-- end #contents_right_box -->
+        <!-- 空き時間フィード -->
+        <div id="blogBox">
+          <div id="blog_feed">
+            <h2 class="title"><img src="img/tit_top03.png" width="218" height="22" alt="time スタッフブログ" /></h2>
+            <div class="feedBox">
+              <div class="feedBoxIn">
+                <div id="feed"></div>
+              </div>
+            </div>
+            <!-- /infoRight -->
+          </div>
+          <!--<div id="bnr_summer">
+            <p><a href="http://www.heiwadai-dental.com/blog/2017/09/29/%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%BE%E3%81%99%EF%BC%81%EF%BC%81/" class="imgHover05"><img src="img/bnr_halloween.png" alt="ハロウィンイベント" width="340" height="450"></a></p>
+          </div>-->
+          <!-- /blogBox -->
+        </div>
+        <div class="text_sub_time">
+          <div class="text_sub_time_bottom">
+            <div class="text_sub_time_middle">
+              <p class="aln_c"><img src="img/ti_time_feed.png" alt="当院の空き時間" width="584" height="71" /></p>
+              <br />
+              <div class="top_time_feed">
+                <div class="pd_b05 feedBox">
+                	<div id="feed2" class="feedBoxIn"><div><dl><dt>2018年2月6日</dt><dd><a href="http://www.heiwadai-dental.com/blog/2018/02/06/%e3%81%9f%e3%81%a0%e3%81%84%e3%81%be%e3%81%ae%e7%a9%ba%e3%81%8d%e6%99%82%e9%96%93%e3%81%af%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82-2/">2月6日（火）空き時間のご案内</a></dd></dl></div></div>
+                </div>
+              </div>
+              <p class="aln_c pd_t10"> <a href="http://www.heiwadai-dental.com/blog/category/%E7%A9%BA%E3%81%8D%E6%99%82%E9%96%93/" class="imgHover05"> <img src="img/btn_time.png" /> </a> </p>
+            </div>
+          </div>
+        </div>
+        <!-- /.text_sub_time -->
+        <!-- 空き時間フィード -->
+        <div class="contents_right_box">
+          <div class="cont_doctor_top">
+            <div class="cont_doctor_bottom">
+              <div class="cont_doctor_middle">
+                <div class="cont_doctor_inner">
+                  <p><img src="img/tit_doctor_top01.jpg" width="426" height="21" alt="地域の皆様が通いやすい医院を目指して" /></p>
+                  <p class="doctor_text"><strong>平和台ファミリー歯科は練馬区平和台の歯医者さん</strong>です。インプラントや歯周病治療、根管治療、審美・ホワイトニングなど、幅広い診療を行います。 私たちは「人を明るくする医院」を目指し、治療にあたらせて頂きます。ご家族がお口の悩みで苦しんでいる時にまず相談してみて下さい。いち早く悩みを解決し、明るく楽しい食事、生活が出来るよう精一杯お手伝いいたします。 </p>
+                  <p class="t_right pd_b25"><img src="img/tit_doctor_top02.jpg" width="171" height="22" alt="院長　池田　春樹" /></p>
+                </div>
+                <!-- end .cont_doctor_inner -->
+              </div>
+              <!-- end .cont_doctor_middle -->
+            </div>
+            <!-- end .cont_doctor_bottom -->
+          </div>
+          <!-- end .cont_doctor_middle -->
+        </div>
+        <!-- end #contents_right_box -->
+        <!--      <div class="contents_right_box">
+        <div class="equipment_top">
+          <div class="campaign_bottom">
+            <div class="campaign_middle">
+              <div class="campaign_inner">
+                <p class="campaign_text"><img src="img/ti_campaign.png" width="640" height="50" alt="ホワイトニングお試しキャンペーン実施中（6月末まで）"/>現在当院では<strong>ホワイトニングお試しキャンペーン</strong>を実施しております。ホワイトニングにご興味のある方はこの機会にぜひお試しになってください。また歯医者が久しぶりの方には、まずは検診からご案内させていただいております。詳しくはお気軽にお問い合わせください。</p>
+        		<table class="ta_top box100">
+          			<tr>
+            			<th class="box30"><strong>キャンペーン項目</strong></th>
+            			<td class="box35" style="text-align:center"><strong>通常価格</strong></td>
+            			<td class="box35" style="text-align:center"><strong>キャンペーン価格</strong></td>
+          			</tr>
+          			<tr>
+            			<th rowspan="2"><strong>ポリリン酸ホワイトニング</strong></th>
+            			<td>15,000円（1回コース）</td>
+            			<td><span class="style01">10,000円（1回コース）</span></td>
+          			</tr>
+          			<tr>
+            			<td>35,000円（3回コース）</td>
+            			<td><span class="style01">30,000円（3回コース）</span></td>
+          			</tr>
+          			<tr>
+            			<th><strong>ホームホワイトニング</strong></th>
+            			<td style="text-align:center">30,000円</td>
+            			<td style="text-align:center"><span class="style01">20,000円</span></td>
+          			</tr>
+        		</table>
+              </div>-->
+        <!-- end .equipment_inner -->
+        <!--</div>-->
+        <!-- end .equipment_middle -->
+        <!--</div>-->
+        <!-- end .equipment_bottom -->
+        <!--</div>-->
+        <!-- end .equipment_middle -->
+        <!--</div>-->
+        <!-- end #contents_right_box -->
+        <div class="contents_right_box">
+          <div class="equipment_top">
+            <div class="equipment_bottom">
+              <div class="equipment_middle">
+                <div class="equipment_inner">
+                  <p><img src="img/ti_topix.png" width="397" height="29" alt="高圧蒸気滅菌器　メラクイック12" /></p>
+                  <p class="equipment_text">当院ではヨーロッパ規格EN13060/滅菌性能クラスSに準拠したコンパクトな滅菌機器を導入し、患者さんごとに滅菌された歯科用器材を使用しています。当院で導入している<strong>高圧蒸気滅菌器「メラクイック12＋」</strong>なら近年問題となっている歯を削る機器（ハンドピース）やその他の使用する機器を素早く確実に滅菌できるため、たとえ多くの患者さんが来院しても迅速に対応できるようになっています。 </p>
+                </div>
+                <!-- end .equipment_inner -->
+              </div>
+              <!-- end .equipment_middle -->
+            </div>
+            <!-- end .equipment_bottom -->
+          </div>
+          <!-- end .equipment_middle -->
+        </div>
+        <!-- end #contents_right_box -->
+        <div class="contents_right_box"> <img src="img/img_view.png" alt="院内風景を360度パノラマでご覧いただけます" width="721" height="100" />
+          <iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sja!2sjp!4v1459591938287!6m8!1m7!1sD4HJVZTHNp8AAAQ0GjSUbQ!2m2!1d35.75954225242779!2d139.6475828896666!3f278.4387827292219!4f-11.209889896573656!5f0.7820865974627469" width="721" height="540" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+        </div>
+        <!-- end #contents_right_box -->
+        <div class="contents_right_box">
+          <div class="top_news">
+            <p class="title"><img src="img/tit_top01.png" width="197" height="22" alt="news 最新情報" /></p>
+            <dl class="news_inner">
+              <!--<dt>2016.09.06 【ホワイトニングキャンペーンのお知らせ】</dt>
+            <dd>現在当院では、9月1日（木）〜10月31日（月）までホワイトニングキャンペーンを実施しております。ホワイトニングにご興味のある方はこの機会にぜひお試しになってください。詳しくはお気軽にお問い合わせください。</dd>
+          
+			<!--<dt>2016.08.04 【夏季休診のお知らせ】</dt>
+            <dd>8月10日（水）午後から15日（月）まで夏季休診となります。あらかじめご了承ください。</dd>-->
+              <dt>2017.06.30 【お知らせ】</dt>
+              <dd>当院のドクターがドクターズファイルに紹介されました。
+                詳しくは<a href="https://doctorsfile.jp/h/40961/df/1/" target="_blank">こちら</a>をご覧ください。</dd>
+              <dt>2017.03.30 【診療時間変更のお知らせ】</dt>
+              <dd>2017年4月1日（土）より、診療時間を以下の通り変更致します。皆様ご理解の程、よろしくお願い申し上げます。<br />
+                平日：午前10：00〜13：30 / 午後15：00〜19：00<br />
+                土曜：午前9：00〜13：30 / 午後15：00〜18：00<br />
+                ※休診日（日・月・祝）に変更はございません。<br />
+                今後共末永くご愛顧賜りますよう、お願い申し上げます。</dd>
+<!--              <dt>2017.01.06 【採用募集のご案内】</dt>
+              <dd>当院では受付･歯科助手、歯科衛生士の募集を行っています。詳しくは<a href="recruit/index.html">こちら</a>をご覧の上、お気軽にご応募ください。</dd>-->
+              <dt>2017.01.06 【休診日・診療時間変更のお知らせ】</dt>
+              <dd>2017年1月より日曜は休診、土曜は18時までの診療となります。あらかじめご了承ください。</dd>
+              <!--<dt>2016.12.12 【休診日・診療時間変更のお知らせ】</dt>
+            <dd>2017年1月より日曜は休診、土曜は18時までの診療となります。あらかじめご了承ください。</dd>-->
+              <!--<dt>2016.11.14 【年末年始休診のお知らせ】</dt>
+            <dd>12月28日（水）～1月3日（火）まで年末年始のお休みとさせていただきます。あらかじめご了承ください。</dd>
+              <dt>2016.04.28 【診療時間変更のお知らせ】</dt>
+              <dd>5月1日（日）より火曜・木曜の診療時間が19時までとなります。あらかじめご了承ください。</dd>
+              <dt>2015.12.25 【お知らせ】</dt>
+              <dd>当院の治療を受けられた患者様のご感想等をご紹介する<span class="style01">「患者様の声」</span>ページを更新いたしました。<br>
+                詳しくは<a href="voice/index.html">こちら</a>をご覧ください。</dd>
+              <dt>2014.09.17 【お知らせ】</dt>
+              <dd>当院で導入しております、設備機器高圧蒸気滅菌器<span class="style01">「メラクイック12＋」</span>をご紹介いたします。<br>
+                詳しくは<a href="guidance/index.html#01">こちら</a>をご覧ください。</dd>-->
+            </dl>
+          </div>
+          <!-- end. top_news-->
+          <!--<div class="top_blog">
+          <p class="title"><img src="img/tit_top03.png" width="218" height="22" alt="time スタッフブログ"/></p>
+		  <ul id="feed" class="pd_b05">
+<!-- 		  	<li><a href="http://www.heiwadai-dental.com/blog/">夏季休診のお知らせ</a></li>
+		  	<li>診察時間変更と休診日のお知らせ</li>
+		  	<li>第1回　ホワイトニングキャンペーン</li>
+		  	<li>平和台ファミリー歯科ブログ開始！</li>
+		  	<li>夏季休診のお知らせ</li>
+		  	 -->
+          <!--</ul>
+		  <p class="blog_btn"><a href="http://www.heiwadai-dental.com/blog/category/未分類/" class="imgHover05"><img src="img/btn_blog.png" width="234" height="41" alt="スタッフブログ記事一覧はこちら" ></a></p>
+        </div>
+        <!-- end. top_time -->
+        </div>
+        <!-- end #contents_right_box -->
+        <div class="contents_right_box last">
+          <div class="top_time">
+            <p class="title"><img src="img/tit_top02.png" width="197" height="22" alt="time 診療時間" /></p>
+            <p class="pd_b05"><img src="img/img_time_top01.png" width="340" height="104" alt="ストリートビュー" /></p>
+            <p class="pd_b30">※土曜は9:00〜13:30、15:00〜18:00の診療となります。<br />
+              【休診日】日曜・月曜・祝日<br />
+            </p>
+          </div>
+          <!-- end. top_time -->
+          <div class="top_access">
+            <p><a href="access/" class="imgHover05"><img src="img/bnr_access_top01.png" width="340" height="90" alt="写真でわかる道順アクセスマップ" /></a></p>
+          </div>
+        </div>
+        <!-- end #contents_right_box -->
+        <p id="pagetop" style="display: none;"><a href="#header_inner" class="imgHover05"><img src="img/common/page_top.png" width="65" height="65" alt="page top" /></a></p>
+      </div>
+      <!-- end #contents_right -->
+      <div class="floatclear"></div>
+      <!-- end .floatclear -->
+    </div>
+    <!-- end #contents_inner -->
+  </div>
+  <!-- end #contents -->
+</div>
+<div id="footer">
+  <div id="footer_inner">
+    <div id="footer_left">
+      <p class="pd_b10"><a href="//www.heiwadai-dental.com" class="imgHover05"><img src="img/common/img_logo_footer01.jpg" width="326" height="62" alt="平和台ファミリー歯科" /></a></p>
+      <p>平和台ファミリー歯科　〒179-0073 東京都練馬区田柄1-1-1</p>
+    </div>
+    <!-- end #footer_left -->
+    <div id="footer_right">
+      <div class="footer_right_in">
+        <ul>
+          <li><a href="index.html">HOME</a></li>
+          <li><a href="about/index.html">当院について</a></li>
+          <li><a href="guidance/index.html">診療案内</a></li>
+        </ul>
+      </div>
+      <!-- footer_right_in -->
+      <div class="footer_right_in">
+        <ul>
+          <li><a href="staff/index.html">スタッフ紹介</a></li>
+          <li><a href="voice/index.html">患者様の声</a></li>
+          <li><a href="recruit/index.html">採用情報</a></li>
+        </ul>
+      </div>
+      <!-- footer_right_in -->
+      <div class="footer_right_in mini">
+        <ul>
+          <li><a href="general/index.html">一般歯科</a></li>
+          <li><a href="pedodontics/index.html">小児歯科</a></li>
+          <li><a href="orthodontics/index.html">矯正歯科</a></li>
+        </ul>
+      </div>
+      <!-- footer_right_in -->
+      <div class="footer_right_in">
+        <ul>
+          <li><a href="implant/index.html">インプラント</a></li>
+          <li><a href="aesthetic/index.html">審美歯科</a></li>
+          <li><a href="whitening/index.html">ホワイトニング</a></li>
+        </ul>
+      </div>
+      <!-- footer_right_in -->
+      <div class="footer_right_in">
+        <ul>
+          <li><a href="perio/index.html">歯周病治療</a></li>
+          <li><a href="prevention/index.html">予防歯科</a></li>
+          <li><a href="maternity/index.html">マタニティ外来</a></li>
+        </ul>
+      </div>
+      <!-- footer_right_in -->
+    </div>
+    <!-- end #footer_right -->
+  </div>
+  <!-- end #footer_inner -->
+</div>
+<!-- end #footer-->
+<div id="footer_bottom">
+  <div id="footer_bottom_inner">
+    <p class="left">Copyright © 2014 HEIWADAI FAMILY DENTAL CLINIC All Rights Reserved.</p>
+    <p class="right">｜<a href="blog">スタッフブログ</a>｜<a href="access/index.html">アクセス</a>｜<a href="privacy/index.html">プライバシーポリシー</a>｜</p>
+  </div>
+</div>
+<!-- end #footer_bottom -->
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<!--
+<script type="text/javascript">
+//Google Feed Api
+google.load("feeds", "1");
+
+function initialize() {
+var feed = new google.feeds.Feed("http://www.heiwadai-dental.com/blog/category/%E7%A9%BA%E3%81%8D%E6%99%82%E9%96%93/?feed=rss2");
+feed.setNumEntries(5);
+feed.load(function(result) {
+if (!result.error) {
+var container = document.getElementById("feed1");
+for (var i = 0; i < result.feed.entries.length; i++) {
+var entry = result.feed.entries[i];
+var dd = new Date(entry.publishedDate); // now
+var yearNum = dd.getYear();
+if (yearNum < 2000) yearNum += 1900;
+var m = dd.getMonth() + 1;
+if (m < 10) {m = "0" + m;}
+var d = dd.getDate();
+if (d < 10) {d = "0" + d;}
+var date = yearNum + "." + m + "." + d + " ";
+container.innerHTML += "<li><a href='" + entry.link + "' target='_self'>" + entry.title + "</a></li>";
+}
+}
+});
+}
+google.setOnLoadCallback(initialize);
+
+</script>
+
+<script type="text/javascript">
+//Google Feed Api
+google.load("feeds", "1");
+
+function initialize() {
+var feed = new google.feeds.Feed("http://www.heiwadai-dental.com/blog/category/%E6%9C%AA%E5%88%86%E9%A1%9E/?feed=rss2");
+feed.setNumEntries(5);
+feed.load(function(result) {
+if (!result.error) {
+var container = document.getElementById("feed");
+for (var i = 0; i < result.feed.entries.length; i++) {
+var entry = result.feed.entries[i];
+var dd = new Date(entry.publishedDate); // now
+var yearNum = dd.getYear();
+if (yearNum < 2000) yearNum += 1900;
+var m = dd.getMonth() + 1;
+if (m < 10) {m = "0" + m;}
+var d = dd.getDate();
+if (d < 10) {d = "0" + d;}
+var date = yearNum + "." + m + "." + d + " ";
+container.innerHTML += "<li><a href='" + entry.link + "' target='_blank'>" + entry.title + "</a></li>";
+}
+}
+});
+}
+google.setOnLoadCallback(initialize);
+
+</script>
+
+-->
+
+<script type="text/javascript">
+$(function() {
+    //フィード読込関数
+    feed2();
+})(jQuery);
+</script>
+
+
+
+</body></html>

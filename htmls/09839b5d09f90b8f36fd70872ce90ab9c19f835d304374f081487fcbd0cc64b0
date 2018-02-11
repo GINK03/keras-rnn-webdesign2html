@@ -1,0 +1,327 @@
+<!DOCTYPE html><!--[if lt IE 7]><html class="ie6" xmlns:fb="http://ogp.me/ns/fb#"><![endif]--><!--[if IE 7]><html class="ie7" xmlns:fb="http://ogp.me/ns/fb#"><![endif]--><!--[if IE 8]><html class="ie8" xmlns:fb="http://ogp.me/ns/fb#"><![endif]--><!--[if IE 9]><html class="ie9" xmlns:fb="http://ogp.me/ns/fb#" ><![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head><style type="text/css">.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}
+</style><link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700" /><style type="text/css">.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px}
+</style><style type="text/css">@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style type="text/css">.gm-style-pbc{transition:opacity ease-in-out;background-color:rgba(0,0,0,0.45);text-align:center}.gm-style-pbt{font-size:22px;color:white;font-family:Roboto,Arial,sans-serif;position:relative;margin:0;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}
+</style>
+<meta charset="UTF-8" />
+<title>ペエ歯科クリニック | 治療と予防を通じて地域の「元気」を応援する、菊池市の歯科医院です。
+</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1000" />
+
+<meta name="description" content="ペエ歯科クリニックは、治療と予防を通じて地域の「元気」を応援する、菊池市の歯科医院です。" />
+<meta name="keywords" content="ペエ歯科クリニック, 熊本, 菊池, 歯医者, インプラント, 予防歯科, 自由診療, ホワイトニング, 小児歯科, 口腔外科" />
+<meta property="og:title" content="ペエ歯科クリニック" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.pae-dc.com/" />
+<meta property="og:image" content="http://pae-dc.com/images/facebook-ogp-image.png" />
+<meta property="og:site_name" content="ペエ歯科クリニック" />
+<meta property="og:description" content="ペエ歯科クリニックは、治療と予防を通じて地域の「元気」を応援する、菊池市の歯科医院です。" />
+<link href="common/css/normalize.css" rel="stylesheet" type="text/css" />
+<link href="common/css/common.css" rel="stylesheet" type="text/css" />
+<link href="css/top.css" rel="stylesheet" type="text/css" />
+<link href="css/jquery.bxslider.css" rel="stylesheet" />
+<link rel="stylesheet" href="//fonts.googleapis.com/earlyaccess/notosansjapanese.css" />
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="common/js/jquery-1.9.0.min.js"></script>
+<script type="text/javascript" src="common/js/jquery.easing.min.js"></script>
+<script type="text/javascript" src="common/js/script.js"></script>
+<script type="text/javascript" src="js/slide.js"></script>
+<script type="text/javascript" src="js/jquery.bxSlider.js"></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" charset="UTF-8" src="http://maps.google.com/maps-api-v3/api/js/31/8a/common.js"></script><script type="text/javascript" charset="UTF-8" src="http://maps.google.com/maps-api-v3/api/js/31/8a/map.js"></script><script type="text/javascript" charset="UTF-8" src="http://maps.google.com/maps-api-v3/api/js/31/8a/util.js"></script><script type="text/javascript" charset="UTF-8" src="http://maps.google.com/maps-api-v3/api/js/31/8a/marker.js"></script><style type="text/css">.gm-style {
+        font: 400 11px Roboto, Arial, sans-serif;
+        text-decoration: none;
+      }
+      .gm-style img { max-width: none; }</style><script type="text/javascript" charset="UTF-8" src="http://maps.google.com/maps-api-v3/api/js/31/8a/onion.js"></script><script type="text/javascript" charset="UTF-8" src="http://maps.googleapis.com/maps/api/js/ViewportInfoService.GetViewportInfo?1m6&amp;1m2&amp;1d32.92168781727876&amp;2d130.7391068447696&amp;2m2&amp;1d32.93117957080209&amp;2d130.8034058202502&amp;2u17&amp;4sen-US&amp;5e0&amp;6sm%40410000000&amp;7b0&amp;8e0&amp;callback=_xdc_._ok5qfu&amp;token=92081"></script><script type="text/javascript" charset="UTF-8" src="http://maps.google.com/maps-api-v3/api/js/31/8a/controls.js"></script><script type="text/javascript" charset="UTF-8" src="http://maps.google.com/maps/vt?pb=!1m4!1m3!1i17!2i113144!3i52827!1m4!1m3!1i17!2i113145!3i52827!1m4!1m3!1i17!2i113146!3i52827!1m4!1m3!1i17!2i113147!3i52827!1m4!1m3!1i17!2i113144!3i52828!1m4!1m3!1i17!2i113145!3i52828!1m4!1m3!1i17!2i113146!3i52828!1m4!1m3!1i17!2i113147!3i52828!1m4!1m3!1i17!2i113148!3i52827!1m4!1m3!1i17!2i113149!3i52827!1m4!1m3!1i17!2i113150!3i52827!1m4!1m3!1i17!2i113151!3i52827!1m4!1m3!1i17!2i113148!3i52828!1m4!1m3!1i17!2i113149!3i52828!1m4!1m3!1i17!2i113150!3i52828!1m4!1m3!1i17!2i113151!3i52828!1m4!1m3!1i17!2i113152!3i52827!1m4!1m3!1i17!2i113152!3i52828!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e3!12m1!5b1&amp;callback=_xdc_._t21jha&amp;token=78509"></script><script type="text/javascript" charset="UTF-8" src="http://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttp%3A%2F%2Fpae-dc.com%2F&amp;callback=_xdc_._irzpns&amp;token=92761"></script></head>
+
+<body style="zoom: 1;">
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-67604830-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<!--ヘッダー-->
+<header id="top">
+<!--メインイメージ-->
+<div class="wideslider">
+<div class="wideslider_base" style="left: 482.5px; width: 1020px; height: 400px;"><div class="wideslider_wrap" style="left: -3060px; width: 9180px; height: 400px;"><ul style="width: 3060px; height: 400px;">
+<li style="width: 1020px; height: 400px;"><img src="images/slide01.png" /></li>
+<li style="width: 1020px; height: 400px;"><img src="images/slide02.png" /></li>
+<li style="width: 1020px; height: 400px;"><img src="images/slide03.png" /></li>
+</ul><ul style="width: 3060px; height: 400px;">
+<li style="width: 1020px; height: 400px;"><img src="images/slide01.png" /></li>
+<li style="width: 1020px; height: 400px;"><img src="images/slide02.png" /></li>
+<li style="width: 1020px; height: 400px;"><img src="images/slide03.png" /></li>
+</ul><ul style="width: 3060px; height: 400px;">
+<li style="width: 1020px; height: 400px;"><img src="images/slide01.png" /></li>
+<li style="width: 1020px; height: 400px;"><img src="images/slide02.png" /></li>
+<li style="width: 1020px; height: 400px;"><img src="images/slide03.png" /></li>
+</ul></div><div class="slider_prev" style="left: -482.5px; width: 482.5px; height: 400px; opacity: 0.5;"></div><div class="slider_next" style="right: -482.5px; width: 482.5px; height: 400px; opacity: 0.5;"></div></div>
+<div class="pagination"><a href="javascript:void(0);" class="pn1 active" style="opacity: 0.5;"></a><a href="javascript:void(0);" class="pn2" style="opacity: 0.5;"></a><a href="javascript:void(0);" class="pn3" style="opacity: 0.5;"></a></div></div>
+
+<!--ロゴ-->
+<div id="header-top">
+<h1><img src="common/images/logo.png" alt="ペエ歯科クリニック" /></h1>
+
+<a href="contact/">
+<div id="header-tel">
+<img src="common/images/head-contact-txt.png" alt="ご予約・お問い合わせはこちら" /><br />
+<img src="images/head-contact-tel.png" alt="0968-38-0202" style="margin:20px 0" />
+<p>
+9:00 - 13:00 / 14:30 -18:30<br />
+<span>休診日：日・祝日および水・土曜午後</span>
+</p>
+</div>
+</a>
+</div>
+</header>
+
+<!--メインメニュー-->
+<nav id="globalnav">
+<ul>
+<li class="nav01"><a href="minute/"><img src="common/images/menu-txt01.png" alt="1分でわかるペエ歯科" /></a></li>
+<li class="nav02"><a href="news/"><img src="common/images/menu-txt02.png" alt="お知らせ" /></a></li>
+<li class="nav03"><a href="about/"><img src="common/images/menu-txt03.png" alt="当院について" /></a></li>
+<li class="nav04"><a href="staff/"><img src="common/images/menu-txt04.png" alt="先生・スタッフ紹介" /></a></li>
+<li class="nav05"><a href="recruit/"><img src="common/images/menu-txt05.png" alt="スタッフ募集" /></a></li>
+<li class="nav06"><a href="free/"><img src="common/images/menu-txt06.png" alt="自由診療について" /></a></li>
+</ul>
+</nav>
+
+
+<!--1分でわかるぺえ歯科-->
+<section id="con-minute">
+<img src="images/wave-blue.png" class="wave" />
+
+<div class="con-inner">
+<h1><img src="images/title-minute.png" alt="1分でわかるペエ歯科クリニック" /></h1>
+<p class="btn btn_detail"><a href="minute"><img src="images/btn_detail_off.png" alt="詳しく見る" /></a></p>
+
+<div class="step">
+<img src="images/img-minute01.png" alt="来院" />
+<img src="images/img-minute02.png" alt="治療" />
+<img src="images/img-minute03.png" alt="アフターケア" style="margin:0;" />
+<br class="cl" />
+</div>
+
+</div>
+<img src="common/images/wave-wh.png" class="wave-wh" />
+</section>
+
+
+<!--診療内容について-->
+<section id="con-treat">
+<div class="con-inner">
+<h1><img src="images/title-treat.png" alt="診療内容について" /></h1>
+<p class="btn btn_other"><a href="free/"><img src="images/btn_other_off.png" alt="その他の診療内容" /></a></p>
+
+<div class="treat">
+<img src="images/treat01.png" alt="一般歯科" />
+<img src="images/treat02.png" alt="小児歯科" />
+<img src="images/treat03.png" alt="口腔外科" />
+<img src="images/treat04.png" alt="インプラント" />
+<img src="images/treat05.png" alt="ホワイトニング" />
+<img src="images/treat06.png" alt="ピーリング" style="margin:0;" />
+<br class="cl" />
+</div>
+
+</div>
+</section>
+
+<!--お知らせなど-->
+<section id="con-news">
+<div class="con-inner">
+<img src="common/images/line.png" class="line" />
+
+<div style="margin-top:25px;">
+<section id="news">
+<h1><img src="images/title-news.png" alt="お知らせ" /></h1>
+<p class="news-detail"><a href="news/"><img src="images/icn_arrow_r.png" /></a></p>
+
+<dl>
+  <dt class="new">09月20日</dt>
+  <dd><a href="news/#20170920221555">院内勉強会</a></dd>
+  <dt class="">04月15日</dt>
+  <dd><a href="news/#20170415084245">休診のおしらせ</a></dd>
+  <dt class="">08月09日</dt>
+  <dd><a href="news/#20160809135507">お盆休みのお知らせ</a></dd>
+  <dt class="">02月09日</dt>
+  <dd><a href="news/#20160209224714">２月１０日　午後も診療いたします</a></dd>
+</dl>
+
+</section>
+
+<section id="bnr-menu">
+<p class="btn btn_about left"><a href="about/"><img src="images/btn_about_off.png" alt="当院について" /></a></p>
+<p class="btn btn_staff right"><a href="recruit/"><img src="images/btn_staff_off.png" alt="スタッフ募集" /></a></p>
+<br class="cl" />
+</section>
+<br class="cl" />
+</div>
+
+</div>
+</section>
+
+
+<!--facebockなど-->
+<section id="con-news" style="padding-top: 0; ">
+<div class="con-inner">
+
+<div>
+<section id="news">
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fpaedentalclinic%2F&amp;tabs=timeline&amp;width=440&amp;height=230&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId" width="440" height="230" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+
+</section>
+
+<section id="bnr-menu">
+<p class="btn" style="background: url(images/face_img01_on.png) ; background-repeat: no-repeat; margin-left: 1px; width: 539px; "><a href="staff/"><img src="images/face_img01_off.png" alt="当院について" /></a></p>
+</section>
+<br class="cl" />
+</div>
+
+</div>
+</section>
+
+
+
+<!--病院情報-->
+<section id="info">
+<div id="map" style="width: 100%; height: 340px; position: relative; overflow: hidden;"><div style="height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223);"><div class="gm-style" style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px;"><div tabindex="0" style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; cursor: url(&quot;http://maps.gstatic.com/mapfiles/openhand_8_8.cur&quot;) 8 8, default;"><div style="z-index: 1; position: absolute; top: 0px; left: 0px; width: 100%; transform-origin: 0px 0px 0px; transform: matrix(1, 0, 0, 1, 0, 0);"><div style="position: absolute; left: 0px; top: 0px; z-index: 100; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div aria-hidden="true" style="position: absolute; left: 0px; top: 0px; z-index: 1; visibility: inherit;"><div style="width: 256px; height: 256px; position: absolute; left: 907px; top: -10px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 907px; top: 246px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 1163px; top: -10px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 651px; top: -10px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 651px; top: 246px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 1163px; top: 246px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 395px; top: 246px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 395px; top: -10px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 1419px; top: -10px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 1419px; top: 246px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 139px; top: 246px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 139px; top: -10px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 1675px; top: -10px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 1675px; top: 246px;"></div><div style="width: 256px; height: 256px; position: absolute; left: -117px; top: -10px;"></div><div style="width: 256px; height: 256px; position: absolute; left: -117px; top: 246px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 1931px; top: -10px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 1931px; top: 246px;"></div></div></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 101; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 102; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 103; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: -1;"><div aria-hidden="true" style="position: absolute; left: 0px; top: 0px; z-index: 1; visibility: inherit;"><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 907px; top: -10px;"><canvas draggable="false" height="256" width="256" style="user-select: none; position: absolute; left: 0px; top: 0px; height: 256px; width: 256px;"></canvas></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 907px; top: 246px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 1163px; top: -10px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 651px; top: -10px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 651px; top: 246px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 1163px; top: 246px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 395px; top: 246px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 395px; top: -10px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 1419px; top: -10px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 1419px; top: 246px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 139px; top: 246px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 139px; top: -10px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 1675px; top: -10px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 1675px; top: 246px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -117px; top: -10px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -117px; top: 246px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 1931px; top: -10px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 1931px; top: 246px;"></div></div></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div aria-hidden="true" style="position: absolute; left: 0px; top: 0px; z-index: 1; visibility: inherit;"><div style="position: absolute; left: 907px; top: -10px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.google.com/maps/vt?pb=!1m5!1m4!1i17!2i113148!3i52827!4i256!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=48025" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: 1163px; top: -10px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.google.com/maps/vt?pb=!1m5!1m4!1i17!2i113149!3i52827!4i256!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=8304" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: 651px; top: -10px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.google.com/maps/vt?pb=!1m5!1m4!1i17!2i113147!3i52827!4i256!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=87746" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: 907px; top: 246px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.google.com/maps/vt?pb=!1m5!1m4!1i17!2i113148!3i52828!4i256!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=84046" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: 395px; top: 246px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.google.com/maps/vt?pb=!1m5!1m4!1i17!2i113146!3i52828!4i256!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=32417" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: 395px; top: -10px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.google.com/maps/vt?pb=!1m5!1m4!1i17!2i113146!3i52827!4i256!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=127467" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: 651px; top: 246px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.google.com/maps/vt?pb=!1m5!1m4!1i17!2i113147!3i52828!4i256!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=123767" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: 1419px; top: 246px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.google.com/maps/vt?pb=!1m5!1m4!1i17!2i113150!3i52828!4i256!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=12196" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: 1419px; top: -10px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.google.com/maps/vt?pb=!1m5!1m4!1i17!2i113150!3i52827!4i256!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=107246" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: 139px; top: 246px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.google.com/maps/vt?pb=!1m5!1m4!1i17!2i113145!3i52828!4i256!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=72138" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: 1675px; top: -10px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.google.com/maps/vt?pb=!1m5!1m4!1i17!2i113151!3i52827!4i256!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=67525" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: 139px; top: -10px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.google.com/maps/vt?pb=!1m5!1m4!1i17!2i113145!3i52827!4i256!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=36117" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: 1675px; top: 246px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.google.com/maps/vt?pb=!1m5!1m4!1i17!2i113151!3i52828!4i256!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=103546" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: -117px; top: -10px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.google.com/maps/vt?pb=!1m5!1m4!1i17!2i113144!3i52827!4i256!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=75838" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: 1163px; top: 246px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.google.com/maps/vt?pb=!1m5!1m4!1i17!2i113149!3i52828!4i256!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=44325" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: -117px; top: 246px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.google.com/maps/vt?pb=!1m5!1m4!1i17!2i113144!3i52828!4i256!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=111859" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: 1931px; top: 246px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.google.com/maps/vt?pb=!1m5!1m4!1i17!2i113152!3i52828!4i256!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=63825" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: 1931px; top: -10px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.google.com/maps/vt?pb=!1m5!1m4!1i17!2i113152!3i52827!4i256!2m3!1e0!2sm!3i410108962!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=27804" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div></div></div></div><div class="gm-style-pbc" style="z-index: 2; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; opacity: 0;"><p class="gm-style-pbt"></p></div><div style="z-index: 3; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px;"><div style="z-index: 1; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px;"></div></div><div style="z-index: 4; position: absolute; top: 0px; left: 0px; width: 100%; transform-origin: 0px 0px 0px; transform: matrix(1, 0, 0, 1, 0, 0);"><div style="position: absolute; left: 0px; top: 0px; z-index: 104; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 105; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 106; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 107; width: 100%;"></div></div></div><div style="margin-left: 5px; margin-right: 5px; z-index: 1000000; position: absolute; left: 0px; bottom: 0px;"><a target="_blank" href="https://maps.google.com/maps?ll=32.92639,130.77118&amp;z=17&amp;t=m&amp;hl=en-US&amp;gl=US&amp;mapclient=apiv3" title="Click to see this area on Google Maps" style="position: static; overflow: visible; float: none; display: inline;"><div style="width: 66px; height: 26px; cursor: pointer;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/google4.png" draggable="false" style="position: absolute; left: 0px; top: 0px; width: 66px; height: 26px; user-select: none; border: 0px; padding: 0px; margin: 0px;" /></div></a></div><div style="background-color: white; padding: 15px 21px; border: 1px solid rgb(171, 171, 171); font-family: Roboto, Arial, sans-serif; color: rgb(34, 34, 34); box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 16px; z-index: 10000002; display: none; width: 256px; height: 148px; position: absolute; left: 843px; top: 80px;"><div style="padding: 0px 0px 10px; font-size: 16px;">Map Data</div><div style="font-size: 13px;">Map data ©2018 Google, ZENRIN</div><div style="width: 13px; height: 13px; overflow: hidden; position: absolute; opacity: 0.7; right: 12px; top: 12px; z-index: 10000; cursor: pointer;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/mapcnt6.png" draggable="false" style="position: absolute; left: -2px; top: -336px; width: 59px; height: 492px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div></div><div class="gmnoprint" style="z-index: 1000001; position: absolute; right: 71px; bottom: 0px; width: 160px;"><div draggable="false" class="gm-style-cc" style="user-select: none; height: 14px; line-height: 14px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a style="text-decoration: none; cursor: pointer; display: none;">Map Data</a><span>Map data ©2018 Google, ZENRIN</span></div></div></div><div class="gmnoscreen" style="position: absolute; right: 0px; bottom: 0px;"><div style="font-family: Roboto, Arial, sans-serif; font-size: 11px; color: rgb(68, 68, 68); direction: ltr; text-align: right; background-color: rgb(245, 245, 245);">Map data ©2018 Google, ZENRIN</div></div><div class="gmnoprint gm-style-cc" draggable="false" style="z-index: 1000001; user-select: none; height: 14px; line-height: 14px; position: absolute; right: 0px; bottom: 0px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a href="https://www.google.com/intl/en-US_US/help/terms_maps.html" target="_blank" style="text-decoration: none; cursor: pointer; color: rgb(68, 68, 68);">Terms of Use</a></div></div><button draggable="false" title="Toggle fullscreen view" aria-label="Toggle fullscreen view" type="button" style="background: none; border: 0px; margin: 10px 14px; padding: 0px; position: absolute; cursor: pointer; user-select: none; width: 25px; height: 25px; overflow: hidden; top: 0px; right: 0px;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/sv9.png" draggable="false" class="gm-fullscreen-control" style="position: absolute; left: -52px; top: -86px; width: 164px; height: 175px; user-select: none; border: 0px; padding: 0px; margin: 0px;" /></button><div draggable="false" class="gm-style-cc" style="user-select: none; height: 14px; line-height: 14px; display: none; position: absolute; right: 0px; bottom: 0px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a target="_new" title="Report errors in the road map or imagery to Google" href="https://www.google.com/maps/@32.9263901,130.77118,17z/data=!10m1!1e1!12b1?source=apiv3&amp;rapsrc=apiv3" style="font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); text-decoration: none; position: relative;">Report a map error</a></div></div><div class="gmnoprint gm-bundled-control gm-bundled-control-on-bottom" draggable="false" controlwidth="28" controlheight="93" style="margin: 10px; user-select: none; position: absolute; bottom: 107px; right: 28px;"><div class="gmnoprint" controlwidth="28" controlheight="55" style="position: absolute; left: 0px; top: 38px;"><div draggable="false" style="user-select: none; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; border-radius: 2px; cursor: pointer; background-color: rgb(255, 255, 255); width: 28px; height: 55px;"><button draggable="false" title="Zoom in" aria-label="Zoom in" type="button" style="background: none; display: block; border: 0px; margin: 0px; padding: 0px; position: relative; cursor: pointer; user-select: none; width: 28px; height: 27px; top: 0px; left: 0px;"><div style="overflow: hidden; position: absolute; width: 15px; height: 15px; left: 7px; top: 6px;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/tmapctrl.png" draggable="false" style="position: absolute; left: 0px; top: 0px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none; width: 120px; height: 54px;" /></div></button><div style="position: relative; overflow: hidden; width: 67%; height: 1px; left: 16%; background-color: rgb(230, 230, 230); top: 0px;"></div><button draggable="false" title="Zoom out" aria-label="Zoom out" type="button" style="background: none; display: block; border: 0px; margin: 0px; padding: 0px; position: relative; cursor: pointer; user-select: none; width: 28px; height: 27px; top: 0px; left: 0px;"><div style="overflow: hidden; position: absolute; width: 15px; height: 15px; left: 7px; top: 6px;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/tmapctrl.png" draggable="false" style="position: absolute; left: 0px; top: -15px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none; width: 120px; height: 54px;" /></div></button></div></div><div class="gm-svpc" controlwidth="28" controlheight="28" style="background-color: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; border-radius: 2px; width: 28px; height: 28px; cursor: url(&quot;http://maps.gstatic.com/mapfiles/openhand_8_8.cur&quot;) 8 8, default; position: absolute; left: 0px; top: 0px;"><div style="position: absolute; left: 1px; top: 1px;"></div><div style="position: absolute; left: 1px; top: 1px;"><div aria-label="Street View Pegman Control" style="width: 26px; height: 26px; overflow: hidden; position: absolute; left: 0px; top: 0px;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/cb_scout5.png" draggable="false" style="position: absolute; left: -147px; top: -26px; width: 215px; height: 835px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div aria-label="Pegman is on top of the Map" style="width: 26px; height: 26px; overflow: hidden; position: absolute; left: 0px; top: 0px; visibility: hidden;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/cb_scout5.png" draggable="false" style="position: absolute; left: -147px; top: -52px; width: 215px; height: 835px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div aria-label="Street View Pegman Control" style="width: 26px; height: 26px; overflow: hidden; position: absolute; left: 0px; top: 0px; visibility: hidden;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/cb_scout5.png" draggable="false" style="position: absolute; left: -147px; top: -78px; width: 215px; height: 835px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div></div></div><div class="gmnoprint" controlwidth="28" controlheight="0" style="display: none; position: absolute;"><div title="Rotate map 90 degrees" style="width: 28px; height: 28px; overflow: hidden; position: absolute; background-color: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; border-radius: 2px; cursor: pointer; display: none;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/tmapctrl4.png" draggable="false" style="position: absolute; left: -141px; top: 6px; width: 170px; height: 54px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div class="gm-tilt" style="width: 28px; height: 28px; overflow: hidden; position: absolute; background-color: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; border-radius: 2px; top: 0px; cursor: pointer;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/tmapctrl4.png" draggable="false" style="position: absolute; left: -141px; top: -13px; width: 170px; height: 54px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div></div></div><div class="gmnoprint" style="margin: 10px; z-index: 0; position: absolute; cursor: pointer; left: 0px; top: 0px;"><div class="gm-style-mtc" style="float: left; position: relative;"><div role="button" tabindex="0" title="Show street map" aria-label="Show street map" aria-pressed="true" draggable="false" style="direction: ltr; overflow: hidden; text-align: center; position: relative; color: rgb(0, 0, 0); font-family: Roboto, Arial, sans-serif; user-select: none; font-size: 11px; background-color: rgb(255, 255, 255); padding: 8px; border-bottom-left-radius: 2px; border-top-left-radius: 2px; background-clip: padding-box; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; min-width: 21px; font-weight: 500;">Map</div><div style="background-color: white; z-index: -1; padding: 2px; border-bottom-left-radius: 2px; border-bottom-right-radius: 2px; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; position: absolute; left: 0px; top: 29px; text-align: left; display: none;"><div draggable="false" title="Show street map with terrain" style="color: rgb(0, 0, 0); font-family: Roboto, Arial, sans-serif; user-select: none; font-size: 11px; background-color: rgb(255, 255, 255); padding: 6px 8px 6px 6px; direction: ltr; text-align: left; white-space: nowrap;"><span role="checkbox" style="box-sizing: border-box; position: relative; line-height: 0; font-size: 0px; margin: 0px 5px 0px 0px; display: inline-block; background-color: rgb(255, 255, 255); border: 1px solid rgb(198, 198, 198); border-radius: 1px; width: 13px; height: 13px; vertical-align: middle;"><div style="position: absolute; left: 1px; top: -2px; width: 13px; height: 11px; overflow: hidden; display: none;"><img alt="" src="http://maps.gstatic.com/mapfiles/mv/imgs8.png" draggable="false" style="position: absolute; left: -52px; top: -44px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none; width: 68px; height: 67px;" /></div></span><label style="vertical-align: middle; cursor: pointer;">Terrain</label></div></div></div><div class="gm-style-mtc" style="float: left; position: relative;"><div role="button" tabindex="0" title="Show satellite imagery" aria-label="Show satellite imagery" aria-pressed="false" draggable="false" style="direction: ltr; overflow: hidden; text-align: center; position: relative; color: rgb(86, 86, 86); font-family: Roboto, Arial, sans-serif; user-select: none; font-size: 11px; background-color: rgb(255, 255, 255); padding: 8px; border-bottom-right-radius: 2px; border-top-right-radius: 2px; background-clip: padding-box; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; min-width: 39px; border-left: 0px;">Satellite</div><div style="background-color: white; z-index: -1; padding: 2px; border-bottom-left-radius: 2px; border-bottom-right-radius: 2px; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; position: absolute; right: 0px; top: 29px; text-align: left; display: none;"><div draggable="false" title="Show imagery with street names" style="color: rgb(0, 0, 0); font-family: Roboto, Arial, sans-serif; user-select: none; font-size: 11px; background-color: rgb(255, 255, 255); padding: 6px 8px 6px 6px; direction: ltr; text-align: left; white-space: nowrap;"><span role="checkbox" style="box-sizing: border-box; position: relative; line-height: 0; font-size: 0px; margin: 0px 5px 0px 0px; display: inline-block; background-color: rgb(255, 255, 255); border: 1px solid rgb(198, 198, 198); border-radius: 1px; width: 13px; height: 13px; vertical-align: middle;"><div style="position: absolute; left: 1px; top: -2px; width: 13px; height: 11px; overflow: hidden;"><img alt="" src="http://maps.gstatic.com/mapfiles/mv/imgs8.png" draggable="false" style="position: absolute; left: -52px; top: -44px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none; width: 68px; height: 67px;" /></div></span><label style="vertical-align: middle; cursor: pointer;">Labels</label></div></div></div></div></div></div></div>
+
+<div class="con-inner">
+<div class="information">
+<h1><img src="common/images/logo-access.png" alt="ペエ歯科クリニック" /></h1>
+<p>
+熊本県菊池市泗水町豊水3359-1<br />
+TEL 0968-38-0202　FAX 0968-38-0203<br />
+</p>
+<dl>
+  <dt>月・火・木・金</dt>
+  <dd>9:00-13:00 / 14:30-18:30</dd>
+  <dt>水・土</dt>
+  <dd>9:00-13:00</dd>
+  <dt>休診日</dt>
+  <dd>日曜日、祝日</dd>
+  </dl>
+</div>
+
+<div class="time">
+<table>
+  <tbody><tr>
+    <th>受付時間</th>
+    <th width="80">月</th>
+    <th width="80">火</th>
+    <th width="80">水</th>
+    <th width="80">木</th>
+    <th width="80">金</th>
+    <th width="80">土</th>
+  </tr>
+  <tr>
+    <td class="bt">9:00-13:00</td>
+    <td class="bt">◯</td>
+    <td class="bt">◯</td>
+    <td class="bt">◯</td>
+    <td class="bt">◯</td>
+    <td class="bt">◯</td>
+    <td class="bt br">◯</td>
+  </tr>
+  <tr>
+    <td>14:30-18:30</td>
+    <td>◯</td>
+    <td>◯</td>
+    <td>×</td>
+    <td>◯</td>
+    <td>◯</td>
+    <td class="br">×</td>
+  </tr>
+</tbody></table>
+
+<p class="news-footer">
+2016.6.16    衛生士が研修会参加のため、午後の診療時間は１８時までとさせていただきます</p>
+
+</div>
+<br class="cl" />
+</div>
+</section>
+
+
+<!--フッター-->
+<footer>
+<img src="common/images/wave-footer.png" class="wave" style="vertical-align:bottom;" />
+<div id="footer">
+<div id="footer-inner">
+<h1><img src="common/images/logo-footer.png" alt="ペエ歯科クリニック" /></h1>
+<p>熊本県菊池市泗水町豊水3359-1<br />
+TEL 0968-38-0202　FAX 0968-38-0203</p>
+<dl>
+  <dt>月・火・木・金</dt>
+  <dd>9:00-13:00 / 14:30-18:30</dd>
+  <dt>水・土</dt>
+  <dd>9:00-13:00</dd>
+  <dt>休診日</dt>
+  <dd>日曜日、祝日</dd>
+</dl>
+<br class="cl" />
+
+<!--フッターメニュー-->
+<nav id="footer-nav">
+<ul>
+<li style="margin:0;"><a href="minute">1分でわかるペエ歯科</a></li>
+<li><a href="news">お知らせ</a></li>
+<li><a href="about">当院について</a></li>
+<li><a href="staff">先生・スタッフ紹介</a></li>
+<li><a href="recruit">スタッフ募集</a></li>
+<li><a href="free">自由診療について</a></li>
+<li><a href="contact">お問い合わせ</a></li>
+<br class="cl" />
+</ul>
+</nav>
+
+<!--ページトップ-->
+<div id="pagetop" class="btn"><a href="#top"><img src="common/images/pagetop_off.png" alt="ページトップ" /></a></div>
+
+</div>
+
+
+<p id="copy">© PAE DENTAL CLINIC ALL RIGHTS RESERVED.</p>
+</div>
+</footer>
+
+
+
+
+<script type="text/javascript">
+// 地図
+var map = new google.maps.Map(document.getElementById("map"), {
+  zoom: 17,
+  center: new google.maps.LatLng(32.9263901,130.77118),
+  scrollwheel: false,
+  mapTypeId: google.maps.MapTypeId.ROADMAP
+});
+
+// マーカー
+new google.maps.Marker({
+  position:   new google.maps.LatLng(32.9263901,130.77118),
+  map: map,
+  icon: new google.maps.MarkerImage(
+    'common/images/icon_map.png',                     // url
+    new google.maps.Size(82,94), // size
+    new google.maps.Point(0,0),  // origin
+    new google.maps.Point(30,70), // anchor
+	new google.maps.Size(82, 94)      // アイコン画像の実際の表示サイズ
+  )
+});
+</script>
+
+</body></html>

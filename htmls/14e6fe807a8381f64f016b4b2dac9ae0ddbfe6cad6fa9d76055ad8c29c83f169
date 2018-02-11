@@ -1,0 +1,954 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="ja"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+<meta name="keywords" content="パナソニック ヘルスケア株式会社,パナソニック,Panasonic,ヘルスケア,医療ITシステム,フードケータリング,医療映像,診断治療機器,バイオメディカ機器,メディコム,デンタル," />
+<meta name="description" content="パナソニック ヘルスケアの公式ウエブサイト。一人ひとりに最適なヘルスケアを実現するためにお役立ちし続ける企業を目指します。" />
+<meta name="author" content="パナソニック ヘルスケア株式会社" />
+<meta name="format-detection" content="telephone=no" />
+
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/common/img/favicon.ico" />
+<link rel="icon" type="image/vnd.microsoft.icon" href="/common/img/favicon.ico" />
+<meta property="og:title" content="パナソニック ヘルスケア株式会社 | Panasonic" />
+<meta property="og:description" content="パナソニック ヘルスケアの公式ウエブサイト。一人ひとりに最適なヘルスケアを実現するためにお役立ちし続ける企業を目指します。" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://www.panasonic-healthcare.com/jp/~/media/Images/jp/imhs/logo_h.gif" />
+<meta property="og:site_name" content="Panasonic Healthcare JP" />
+<!-- Google Tag Manager -->
+<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5JBZSLZ"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5JBZSLZ');</script>
+<!-- End Google Tag Manager -->
+
+
+<link href="/jp/~/media/css/font_jp.css" rel="stylesheet" type="text/css" media="screen,print" />
+<link href="/jp/~/media/css/path.css" rel="stylesheet" type="text/css" media="screen,print" />
+<link href="/jp/~/media/css/style.css" rel="stylesheet" type="text/css" media="screen,print" />
+<!--[if lt IE 9]>
+    <script src="/res/js/html5shiv.min.js"></script>
+<![endif]-->
+<meta name="VIcurrentDateTime" content="636539175948523059" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+<script type="text/javascript" src="/jp/~/media/js/vendor/jquery1112min.js"></script><script type="text/javascript" src="/jp/~/media/js/vendor/lib.js"></script><script type="text/javascript" src="/jp/~/media/js/main.js"></script><script type="text/javascript" src="/jp/~/media/js/vendor/html5shivmin.js"></script>
+<title>
+	パナソニック ヘルスケア株式会社 | Panasonic
+</title><link rel="stylesheet" type="text/css" href="/layouts/system/VisitorIdentificationCSS.aspx?1518320797505" /></head>
+    <body>
+        <!-- Google Tag Manager (noscript) -->
+<noscript>&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5JBZSLZ"
+height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+        <form method="post" action="/jp/" id="form">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTg2NTgwNDk3DxYCHhNWYWxpZGF0ZVJlcXVlc3RNb2RlAgEWAgIHEGRkFgICAQ9kFgRmD2QWAmYPZBYCZg9kFgICAQ9kFgJmD2QWBAIBDxYCHgtfIUl0ZW1Db3VudAIBFgICAQ9kFgICAQ9kFgJmDxUCPC9qcC9+L21lZGlhL0ltYWdlcy9jb21tb24vY291bnRyeS10b3AvY29tbW9uX2pwXzIwMTYwNDE4LnBuZzovanAvfi9tZWRpYS9JbWFnZXMvY29tbW9uL2NvdW50cnktdG9wL3NwX2hlYWx0aGNhcmVfanAuanBnZAIDDxYCHgdWaXNpYmxlaBYCAgIPFQEAZAIBD2QWAmYPZBYCAgEPZBYGAgEPZBYCZg9kFgRmDxYCHwECBBYIAgEPZBYCAgEPZBYEZg8VARIvanAvbmV3cy8yMDE3LzEwMDRkAgMPFgIfAQIBFgICAQ9kFgJmDxUBD2xhYmVsLW1lZGljYWxpdGQCAg9kFgICAQ9kFgRmDxUBEi9qcC9uZXdzLzIwMTcvMDkyOGQCAw8WAh8BAgIWBAIBD2QWAmYPFQEQbGFiZWwtaGVhbHRoY2FyZWQCAg9kFgJmDxUBEGxhYmVsLWhlYWx0aGNhcmVkAgMPZBYCAgEPZBYEZg8VARQvanAvbmV3cy8yMDE3LzA4MDRfMmQCAw8WAh8BAgEWAgIBD2QWAmYPFQEPbGFiZWwtbWVkaWNhbGl0ZAIED2QWAgIBD2QWBGYPFQESL2pwL25ld3MvMjAxNy8wODA0ZAIDDxYCHwECARYCAgEPZBYCZg8VARBsYWJlbC1oZWFsdGhjYXJlZAIBDxYCHwFmZAICD2QWAmYPZBYCAgIPFgIfAQIEFggCAQ9kFgRmDxUBCi9qcC9ldmVudHNkAgMPDxYCHwJoZGQCAg9kFgRmDxUBCi9qcC9ldmVudHNkAgMPDxYCHwJoZGQCAw9kFgRmDxUBCi9qcC9ldmVudHNkAgMPDxYCHwJoZGQCBA9kFgRmDxUBCi9qcC9ldmVudHNkAgMPDxYCHwJoZGQCAw8PFgIfAmhkZGQez1TgXoPOaaRgiIUpfkh6GWxIKqKLkQRM6TOrj+cfzQ==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BE7F034C" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAJYdCwAChyss/XPZmbkMF9FEukhEsu0P9OrW2BxgqznybeEeTClRouU7z1RC/v4XpwUAuov6JVxDG/NOW0Uv0JL" />
+</div>
+            
+<header class="header-global">
+	<div class="inner-header">
+        <a class="logo-header" href="/jp">
+            <img src="/jp/~/media/Images/logo.png?h=70&amp;la=ja-JP&amp;w=146&amp;hash=AC120BBEE37BC892879904081D8E483D4A58D32E" alt="パナソニック ヘルスケア株式会社" width="146" height="70" />
+		</a>
+		<ul class="btns-sp-header">
+			<li>
+				<a href="#form-header" class="btn-sp-search">
+					<span>
+                        検索
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="#menu-header" class="btn-sp-menu">
+					<span class="bar-top"></span>
+					<span class="bar-middle"></span>
+					<span class="bar-bottom"></span>
+				</a>
+			</li>
+		</ul>
+		<div class="menu-header" id="menu-header">
+			<nav class="nav-header">
+                
+                        <ul class="select-nav">
+                    
+                            <li>
+                                <a href="/jp/products" class=" has-megadrop" data-target="products-detail">
+                                    商品一覧
+                                </a>
+                            </li>
+                    
+                            <li>
+                                <a href="/jp/case-studies" class=" has-megadrop" data-target="case-detail">
+                                    導入事例
+                                </a>
+                            </li>
+                    
+                            <li>
+                                <a href="/jp/news" class=" " data-target="">
+                                    ニュース
+                                </a>
+                            </li>
+                    
+                            <li>
+                                <a href="/jp/events" class=" has-megadrop" data-target="event-detail">
+                                    イベント
+                                </a>
+                            </li>
+                    
+                            <li>
+                                <a href="/jp/corporate" class=" has-megadrop" data-target="corporate-detail">
+                                    企業情報
+                                </a>
+                            </li>
+                    
+                            <li>
+                                <a href="/jp/support" class=" " data-target="">
+                                    サポート
+                                </a>
+                            </li>
+                    
+                        </ul>
+                    
+                <div class="nav-megadrop" style="margin-left: -360px; margin-right: -360px;">
+<div class="nav-detail-header">
+<div class="wrapper-dropdown-header">
+<ul class="list-nav-detail">
+    <li id="products-detail">
+    <a href="/jp/products/" class="has-accordion">商品一覧 </a>
+    <dl>
+        <dt><a href="/jp/products/">商品一覧 トップ</a></dt>
+        <dd>
+        <ul class="tab-list-nav-detail">
+            <li>
+            <a href="/jp/biomedical"><img height="62" alt="バイオメディカ機器" width="60" src="/jp/~/media/Images/header/megadrop/thumb_biomedical.png?h=62&amp;&amp;w=60&amp;la=ja-JP&amp;hash=01BFE660BA0EB5CDC97C01CD9CA81D1599411DA9" />バイオメディカ</a>
+            <div class="btn-list-nav-detail">
+            <a href="#each-biomedical">詳細</a>
+            </div>
+            </li>
+            <li>
+            <a href="/jp/medicom"><img height="62" alt="メディコム" width="60" src="/jp/~/media/Images/header/megadrop/thumb_medicom.png?h=62&amp;&amp;w=60&amp;la=ja-JP&amp;hash=5D57528ACD3BC58A4E1A328B422E387BB8FB5FFA" />メディコム</a>
+            <div class="btn-list-nav-detail">
+            <a href="#each-medicalit">詳細</a>
+            </div>
+            </li>
+            <li>
+            <a href="/jp/diabetescare"><img height="62" alt="ダイアベティスケア" width="60" src="/jp/~/media/Images/header/megadrop/thumb_diabetescare.png?h=62&amp;&amp;w=60&amp;la=ja-JP&amp;hash=EEB089820C17F34DD3150B24BBF172B93A4EBFC3" />ダイアベティスケア</a>
+            <div class="btn-list-nav-detail">
+            <a href="#each-daia">詳細</a>
+            </div>
+            </li>
+        </ul>
+        </dd>
+    </dl>
+    </li>
+    <li id="case-detail">
+    <a href="/jp/case-studies/" class="has-accordion">導入事例</a>
+    <dl>
+        <dt><a href="/jp/case-studies/">導入事例 トップ</a></dt>
+        <dd>
+        <ul class="link-list-nav-detail">
+            <li>
+            <a href="/jp/biomedical/case-studies?C2=2CC8FC1F-E608-4181-BBBB-CA28A7EB6CAB"><img height="80" alt="case biomedical" width="172" src="/jp/~/media/Images/header/megadrop/gn_case_172x80_01.png?la=ja-JP&amp;hash=B524204677ABAE14DCA1BD0689051D285919137F" />
+            <div class="nav-detail-label"><span class="label-healthcare">バイオメディカ</span></div>
+            バイオメディカ</a>
+            </li>
+            <li>
+            <a href="/jp/biomedical/case-studies?C2=A5F43CC5-75B4-4D85-9CE0-7A35E30FE452"><img height="80" alt="case cpws" width="172" src="/jp/~/media/Images/header/megadrop/gn_case_172x80_02.png?la=ja-JP&amp;hash=0B00C54F831C300042819EE3C9B4ED7954DA0DC1" />
+            <div class="nav-detail-label"><span class="label-healthcare">バイオメディカ</span></div>
+            再生医療支援</a>
+            </li>
+            <li>
+            <a href="/jp/biomedical/case-studies?C2=A2220F94-2F4F-48CB-8279-00AA92E76B93"><img height="80" alt="case biomedical global" width="172" src="/jp/~/media/Images/header/megadrop/gn_case_172x80_03.png?la=ja-JP&amp;hash=5EACFEF5E05BE9B103914A06F83060D3A800108C" />
+            <div class="nav-detail-label"><span class="label-healthcare">バイオメディカ</span></div>
+            グローバル</a>
+            </li>
+            <li>
+            <a href="/jp/medicom/case-studies?C2=89F0F0B3-E831-417F-B3CE-25182A410DF7"><img height="80" alt="case medicom Clinic" width="172" src="/jp/~/media/Images/header/megadrop/gn_case_172x80_04.png?la=ja-JP&amp;hash=1115ED2586EEB07A0DAE385225E131E5AAC539DE" />
+            <div class="nav-detail-label"><span class="label-healthcare">メディコム</span></div>
+            診療所</a>
+            </li>
+            <li>
+            <a href="/jp/medicom/case-studies?C2=167BBC97-CB82-4E14-804D-0C38AE9165C0"><img height="80" alt="case medicom hospital" width="172" src="/jp/~/media/Images/header/megadrop/gn_case_172x80_05.png?la=ja-JP&amp;hash=376FB1C9654CC3954D17CB9A4784DEF18B530C1C" />
+            <div class="nav-detail-label"><span class="label-healthcare">メディコム</span></div>
+            病院</a>
+            </li>
+            <li>
+            <a href="/jp/medicom/case-studies?C2=90DC1F2E-5B07-45B7-9449-DDB59066D36A"><img height="80" alt="case medicom pharmacy" width="172" src="/jp/~/media/Images/header/megadrop/gn_case_172x80_06.png?la=ja-JP&amp;hash=B5463F3F513271ABF825A23203287048BE2A9410" />
+            <div class="nav-detail-label"><span class="label-healthcare">メディコム</span></div>
+            保険薬局</a>
+            </li>
+        </ul>
+        <!--ul class="link-list-nav-detail">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul-->
+        </dd>
+    </dl>
+    </li>
+    <li><a href="/jp/news/">ニュース</a></li>
+    <li id="event-detail">
+    <a href="/jp/event/" class="has-accordion">イベント</a>
+    <dl>
+        <dt><a href="/jp/events/">イベント トップ</a></dt>
+        <dd>
+        <ul class="link-list-nav-detail">
+            <li>
+            <a href="/jp/events/"><img height="80" alt="events biomedical" width="172" src="/jp/~/media/Images/header/megadrop/gn_events_172x80_01.png?la=ja-JP&amp;hash=558AE99113A7FC18BC9B26778C93F7979C47A82B" />バイオメディカ</a>
+            </li>
+            <li>
+            <a href="/jp/events/"><img height="80" alt="events medicom" width="172" src="/jp/~/media/Images/header/megadrop/gn_events_172x80_02.png?la=ja-JP&amp;hash=75B860EFD6BC5E2308F0CB3170961C3F679C683D" />メディコム</a>
+            </li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+        </dd>
+    </dl>
+    </li>
+    <li id="corporate-detail">
+    <a href="/jp/corporate/" class="has-accordion">企業情報</a>
+    <dl>
+        <dt><a href="/jp/corporate/">企業情報 トップ</a></dt>
+        <dd>
+        <ul class="link-list-nav-detail">
+            <li>
+            <a href="/jp/corporate"><img height="80" alt="corporate" width="172" src="/jp/~/media/Images/header/megadrop/gn_corporate_172x80_01.png?la=ja-JP&amp;hash=5C5E82E199B87175D6C615B074FC0B9338B8DC3F" />会社情報</a>
+            </li>
+            <li>
+            <a href="/jp/corporate/environment"><img height="80" alt="environment" width="172" src="/jp/~/media/Images/header/megadrop/gn_corporate_172x80_02.png?la=ja-JP&amp;hash=9251CD6DCAF95DA109B5A1B82733F435081281ED" />環境情報</a>
+            </li>
+            <li>
+            <a href="/jp/corporate/careers"><img height="80" alt="careers" width="172" src="/jp/~/media/Images/header/megadrop/gn_corporate_172x80_03.png?la=ja-JP&amp;hash=34DBF2FBA70B440EF333441DA6DFB950BE814D85" />採用情報</a>
+            </li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+        </dd>
+    </dl>
+    </li>
+</ul>
+</div>
+</div>
+<div class="nav-products-header">
+<div class="wrapper-dropdown-header02">
+<div class="inner-nav-products-header">
+<dl class="nav-each-products" id="each-biomedical">
+    <dt><a href="/jp/biomedical">バイオメディカ トップ</a></dt>
+    <dd class="body-nav-each-products">
+    <div class="line-each-products">
+    <dl>
+        <dt><a href="/jp/biomedical/preservation">保存機器</a></dt>
+        <dd>
+        <ul>
+            <li><a href="/jp/biomedical/preservation/pharmaceutical-refrigerators">薬用冷蔵庫</a></li>
+            <li><a href="/jp/biomedical/preservation/blood-bank-refrigerators">血液保冷庫</a></li>
+            <li><a href="/jp/biomedical/preservation/biomedical-freezers">バイオメディカルフリーザー</a></li>
+            <li><a href="/jp/biomedical/preservation/ultra-low-freezers">超低温フリーザー</a></li>
+        </ul>
+        </dd>
+    </dl>
+    <dl>
+        <dt><a href="/jp/biomedical/pharmacy">薬局関連機器</a></dt>
+        <dd>
+        <ul>
+            <li><a href="/jp/biomedical/pharmacy/atc">自動錠剤包装機</a></li>
+            <li><a href="/jp/biomedical/pharmacy/compact-atc">小型自動錠剤包装機</a></li>
+            <li><a href="/jp/biomedical/pharmacy/aic">散薬監査システム</a></li>
+            <li><a href="/jp/biomedical/pharmacy/dispensary">薬局業務支援</a></li>
+        </ul>
+        </dd>
+    </dl>
+    </div>
+    <div class="line-each-products">
+    <dl>
+        <dt><a href="/jp/biomedical/incubation">培養機器</a></dt>
+        <dd>
+        <ul>
+            <li><a href="/jp/biomedical/incubation/CO2incubators">CO2インキュベーター</a></li>
+            <li><a href="/jp/biomedical/incubation/multi-gas-incubators">マルチガスインキュベーター</a></li>
+            <li><a href="/jp/biomedical/incubation/cooled-incubators">冷凍庫付インキュベーター</a></li>
+            <li><a href="/jp/biomedical/incubation/heated-incubators">ヒーター式インキュベーター</a></li>
+            <li><a href="/jp/biomedical/incubation/shakers">振とう機</a></li>
+            <li><a href="/jp/biomedical/incubation/plant-growth-chambers">グロースチャンバー/照明付培養棚</a></li>
+        </ul>
+        </dd>
+    </dl>
+    <dl>
+        <dt><a href="/jp/biomedical/cpc">再生医療関連機器</a></dt>
+    </dl>
+    </div>
+    <div class="line-each-products">
+    <dl>
+        <dt><a href="/jp/biomedical/experiment-systems">実験環境機器</a></dt>
+        <dd>
+        <ul>
+            <li><a href="/jp/biomedical/experiment-systems/biosafety-cabinets">バイオハザード対策用キャビネット</a></li>
+            <li><a href="/jp/biomedical/experiment-systems/bioclean-benchs">バイオクリーンベンチ/クリーンベンチ</a></li>
+        </ul>
+        </dd>
+    </dl>
+    <dl>
+        <dt><a href="/jp/biomedical/sterilization">滅菌・乾燥機器</a></dt>
+        <dd>
+        <ul>
+            <li><a href="/jp/biomedical/sterilization/laboratory-autoclaves">ラボ・オートクレーブ</a></li>
+            <!--li><a href="/jp/biomedical/sterilization/ovens">乾燥器</a></li-->
+            <!--li><a href="/jp/biomedical/sterilization/sterilizers">減菌器</a></li-->
+        </ul>
+        </dd>
+    </dl>
+    <dl>
+        <dt><a href="/jp/biomedical/consumer-products">消耗品</a></dt>
+    </dl>
+    <dl>
+        <dt><a href="/jp/food-catering">フードケータリング</a></dt>
+        <dd>
+        <ul>
+            <li><a href="/jp/food-catering/delicart-g3">デリカートG3シリーズ</a></li>
+            <li><a href="/jp/food-catering/delicart">デリカート</a></li>
+            <li><a href="/jp/food-catering/delicart-rh">デリカート再加熱カート</a></li>
+            <li><a href="/jp/food-catering/flat-tray">フラットトレー</a></li>
+            <li><a href="/jp/food-catering/delicart-cd">デリカート用除菌剤</a></li>
+            <li><a href="/jp/food-catering/delicart-g3_2016-option">適温配膳車デリカート 2016年度限定オプション</a></li>
+        </ul>
+        </dd>
+    </dl>
+    </div>
+    </dd>
+</dl>
+<dl class="nav-each-products" id="each-medicalit">
+    <dt><a href="/jp/medicom">メディコム トップ</a></dt>
+    <dd class="body-nav-each-products">
+    <div class="line-each-products">
+    <dl>
+        <dt><a href="/jp/medicom/clinics">診療所向けソリューション</a></dt>
+        <dd>
+        <ul>
+            <li><a href="/jp/medicom/clinics">電子カルテシステム</a></li>
+            <li><a href="/jp/medicom/clinics">医事システム</a></li>
+            <li><a href="/jp/medicom/clinics">周辺ソリューション</a></li>
+        </ul>
+        </dd>
+    </dl>
+    <p><a href="/jp/medicom/hcs">健康管理ソリューション</a></p>
+    </div>
+    <div class="line-each-products">
+    <dl>
+        <dt><a href="/jp/medicom/hospitals">病院向けソリューション</a></dt>
+        <dd>
+        <ul>
+            <li><a href="/jp/medicom/hospitals">医事システム</a></li>
+            <li><a href="/jp/medicom/hospitals">電子カルテシステム</a></li>
+        </ul>
+        </dd>
+    </dl>
+    <p><a href="/jp/medicom/healthcarenote">ヘルスケア手帳サービス</a></p>
+    </div>
+    <div class="line-each-products">
+    <dl>
+        <dt><a href="/jp/medicom/pharmacies">保険薬局向けソリューション</a></dt>
+        <dd>
+        <ul>
+            <li><a href="/jp/medicom/pharmacies">電子薬歴システム</a></li>
+            <li><a href="/jp/medicom/pharmacies">医事システム</a></li>
+            <li><a href="/jp/medicom/pharmacies">周辺ソリューション</a></li>
+        </ul>
+        </dd>
+    </dl>
+    </div>
+    </dd>
+</dl>
+<dl class="nav-each-products" id="each-daia">
+    <dt><a href="/jp/diabetescare">ダイアベティスケア トップ</a></dt>
+    <dd class="body-nav-each-products">
+    <div class="line-each-products">
+    <ul>
+        <li><a href="/jp/diabetescare/breeze2">血糖自己測定機器 ブリーズ2（医療従事者）</a></li>
+        <li><a href="/jp/diabetescare/breeze2">血糖自己測定機器 ブリーズ2（一般）</a></li>
+    </ul>
+    </div>
+    <div class="line-each-products">
+    <ul>
+        <li><a href="/Error/404?item=web%3a%7bB45027DE-D2FB-493E-A0AC-46231EEC054C%7d%40ja-JP">自己測定用採血穿刺器具（医療従事者）</a></li>
+        <li><a href="/Error/404?item=web%3a%7bB45027DE-D2FB-493E-A0AC-46231EEC054C%7d%40ja-JP">自己測定用採血穿刺器具（一般）</a></li>
+    </ul>
+    </div>
+    </dd>
+</dl>
+</div>
+<div class="close-nav-products"><a href="#">閉じる</a></div>
+</div>
+</div>
+</div>
+	        </nav><!-- /.nav-header -->
+
+            <div class="nav-header-sub">
+                <ul class="tool-header">
+                    <li class="tool-header-search">
+                        <a href="#form-header" class="link-search">
+                            <span>
+                                検索
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#region-header" class="btn-region">
+                            <span>
+                                Select Region
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                </ul>
+
+                
+            </div>
+
+            <div class="tool-el-header">
+                <div class="region-header js-ddm" id="region-header" style="margin-left: -360px; margin-right: -360px;">
+                    <div class="wrapper-dropdown-header">
+<dl class="select-area-region-header">
+    <dt><a href="/global?item=JP">GLOBAL</a></dt>
+    <dd>
+    <ul>
+        <li><a href="#region-africa" class="is-current"><img src="/jp/~/media/Images/header/regions/thumb_africa.png?la=ja-JP&amp;hash=687DFD940DEF90BBCB476F4C94F44B2C18E5075D" width="44" height="52" alt="AFRICA" />AFRICA</a></li>
+        <li><a href="#region-america"><img src="/jp/~/media/Images/header/regions/thumb_america.png?la=ja-JP&amp;hash=F09E709FDA3933EFC000884272E8058CE22E10D3" width="40" height="52" alt="AMERICAS" />AMERICAS</a></li>
+        <li><a href="#region-asia"><img src="/jp/~/media/Images/header/regions/thumb_asia.png?la=ja-JP&amp;hash=DDDC973A1E5342BD9B8E1AEEC05502BEE0C5186C" width="51" height="52" alt="ASIA PACIFIC" />ASIA PACIFIC</a></li>
+        <li><a href="#region-europ"><img src="/jp/~/media/Images/header/regions/thumb_europe.png?la=ja-JP&amp;hash=8B29BA5CADDD12F24526D912702CD99ABF1999BB" width="64" height="52" alt="EUROPE" />EUROPE</a></li>
+        <li><a href="#region-middleeast"><img src="/jp/~/media/Images/header/regions/thumb_middleeast.png?la=ja-JP&amp;hash=D75A23CA29AA4E2B74465B66CA99538324FEB9B3" width="48" height="52" alt="MIDDLE EAST" />MIDDLE EAST</a></li>
+    </ul>
+    </dd>
+</dl>
+</div>
+<div class="tab-body-region-header">
+<div class="wrapper-dropdown-header">
+<div class="inner-tab-body">
+<p class="area-region-header" id="region-africa"><a href="http://www.biomedical.panasonic.eu/">AFRICA</a></p>
+<dl class="area-region-header" id="region-america">
+    <dt><a href="#">AMERICAS</a></dt>
+    <dd>
+    <ul>
+        <li><a href="/us?item=JP&amp;contry=US">United States</a></li>
+    </ul>
+    </dd>
+</dl>
+<dl class="area-region-header" id="region-asia">
+    <dt><a href="#">ASIA PACIFIC</a></dt>
+    <dd>
+    <ul>
+        <li><a href="/jp?item=JP&amp;contry=JP">Japan</a></li>
+        <li><a href="/sg?item=JP">South East Asia and India</a></li>
+        <li><a href="/global?item=JP&amp;contry=AU">Australia</a></li>
+        <li><a href="/global?item=JP&amp;contry=NZ">New Zealand</a></li>
+        <li><a href="/global?item=JP&amp;contry=KR">Korea</a></li>
+        <li><a href="/global?item=JP&amp;contry=TW">Taiwan</a></li>
+        <li><a href="/global?item=JP&amp;contry=HK">Hong Kong</a></li>
+    </ul>
+    </dd>
+</dl>
+<dl class="area-region-header" id="region-europ">
+    <dt><a href="#">EUROPE</a></dt>
+    <dd>
+    <ul>
+        <li><a href="http://www.biomedical.panasonic.eu/">EUROPE</a></li>
+    </ul>
+    </dd>
+</dl>
+<p class="area-region-header" id="region-middleeast"><a href="/global?item=JP&amp;contry=MIDDLE-EAST">MIDDLE EAST</a></p>
+</div>
+</div>
+</div>
+                </div><!-- /.region-header -->
+            </div>
+        </div><!-- /.menu-header -->
+        <div class="form-header js-ddm" id="form-header" style="margin-left: -360px; margin-right: -360px;">
+            <div class="wrapper-dropdown-header">
+                <div class="inner-dropdown-header">
+                    <div class="text-form-header">
+                        <input name="body_0$header_0$TxtSearchKey" type="text" id="body_0_header_0_TxtSearchKey" placeholder="Search Here" />
+                    </div>
+                    <div class="btn-form-header">
+                        <button>Search</button>
+                        <input type="hidden" id="SearchResultPageUrl" value="/jp/search" />
+                    </div>
+                </div>
+            </div>
+        </div><!-- /.form-header -->
+    </div>
+</header><!-- /.header-global -->
+<div class="visual-main visual-main-region-top">
+    <div class="inner-visual-main">
+        
+                <ul>
+            
+                    <li>
+                        <a href="/jp/corporate">
+                            <img src="/jp/~/media/Images/common/country-top/common_jp_20160418.png" data-srcset="/jp/~/media/Images/common/country-top/sp_healthcare_jp.jpg" width="980" height="320" alt="" />
+                        </a>
+                    </li>
+            
+                </ul>
+            
+    </div>
+</div><!-- /.carousel-main -->
+
+
+<main class="container">
+    <div class="container-region-top">
+<div class="boxes">
+<div class="box-2">
+<div class="inbox-falf">
+<a href="/jp/ascensia" class="box-emphasis" onclick="ga('send', 'event', 'jptop-ascensia', 'click', 'http://www.panasonic-healthcare.com/jp/ascensia');">
+<div class="box-2 pos-lt">
+<div class="inbox-full">
+<div class="inner-box" style="height: 330px;">
+<div class="content-box">
+<figure class="thumbnail-box-sp"><img height="280" alt="ASCENSIA" width="280" src="/jp/~/media/Images/common/country-top/products/cat_ascensia.jpg?la=ja-JP&amp;hash=49CA595A569496600AF5F6E31CFCE021AF9A40F3" /></figure>
+<dl class="topic-box-nonImg">
+    <dt>アセンシア ダイアベティスケア</dt>
+    <dd>私たちは、糖尿病ケアソリューションの第一人者であると自負しており、これまでの長い歴史とともに、今後の取り組みも継続して築いていきます。<br />
+    <br />
+    </dd>
+    <dd class="align-right">»　詳細はこちら</dd>
+</dl>
+</div>
+</div>
+</div>
+</div>
+<div class="box-2 pos-rt box-sp-hidden">
+<img height="660" alt="ASCENSIA" width="660" src="/jp/~/media/Images/common/country-top/products/cat_ascensia.jpg?la=ja-JP&amp;hash=49CA595A569496600AF5F6E31CFCE021AF9A40F3" />
+</div>
+</a>
+</div>
+</div>
+<div class="box-2">
+<div class="inbox-half">
+<a href="/jp/biomedical" class="box-emphasis" onclick="ga('send', 'event', 'jptop-biomedical', 'click', 'http://www.panasonic-healthcare.com/jp/biomedical');">
+<div class="box-2 pos-lt">
+<div class="inbox-full">
+<div class="inner-box" style="height: 330px;">
+<div class="content-box">
+<figure class="thumbnail-box-sp"><img height="280" alt="Biomedical" width="280" src="/jp/~/media/Images/common/country-top/products/cat_biomedical_03.jpg?la=ja-JP&amp;hash=1B026003305F0A83B568A33904D417D202B4D774" /></figure>
+<dl class="topic-box-nonImg">
+    <dt>バイオメディカ</dt>
+    <dd>ライフサイエンスと医療の発展に貢献し、人々の健康と幸福を実現<br />
+    <br />
+    <br />
+    </dd>
+    <dd class="align-right">»　詳細はこちら</dd>
+</dl>
+</div>
+</div>
+</div>
+</div>
+<div class="box-2 pos-rt box-sp-hidden">
+<img height="660" alt="Biomedical" width="660" src="/jp/~/media/Images/common/country-top/products/cat_biomedical_03.jpg?la=ja-JP&amp;hash=1B026003305F0A83B568A33904D417D202B4D774" />
+</div>
+</a>
+</div>
+</div>
+<div class="box-2 border-right">
+<div class="inbox-half">
+<a href="/jp/medicom" class="box-emphasis" onclick="ga('send', 'event', 'jptop-medicom', 'click', 'http://www.panasonic-healthcare.com/jp/medicom');">
+<div class="box-2 pos-r box-sp-hidden">
+<img height="660" alt="Medicom" width="660" src="/jp/~/media/Images/common/country-top/products/cat_medicom_03_A.png?la=ja-JP&amp;hash=2CBA6847BED158DA0224BC3BDAC8F54F1B31D99E" />
+</div>
+<div class="box-2 pos-r">
+<div class="inner-box" style="height: 330px;">
+<div class="content-box">
+<figure class="thumbnail-box-sp"><img height="280" alt="Medicom" width="280" src="/jp/~/media/Images/common/country-top/products/cat_medicom_03_A.png?la=ja-JP&amp;hash=2CBA6847BED158DA0224BC3BDAC8F54F1B31D99E" /></figure>
+<dl class="topic-box-nonImg">
+    <dt>メディコム</dt>
+    <dd>日本で初めてのレセプトコンピューターを発売して以来、トップシェアを誇る診療所・保険薬局向け医療情報システム<br />
+    <br />
+    </dd>
+    <dd class="align-right">»　詳細はこちら</dd>
+</dl>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="box-4 border-right">
+<div class="inbox-full">
+<a href="http://future.phchldgs.com/jp" onclick="ga('send', 'event', 'jptop-PHC', 'click', 'http://future.phchldgs.com/jp');" target="_blank">
+<div class="inner-box" style="height: 329px;">
+<div class="content-box">
+<figure class="thumbnail-box"><img height="660" alt="PHC" width="660" src="/jp/~/media/Images/common/country-top/products/cat_PHC.png?la=ja-JP&amp;hash=FC56A2893375A0A02ACD8CC8664D15FA65375248" /></figure>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="box-4 border-right">
+<div class="inbox-full">
+<a href="/jp/diabetescare">
+<div class="inner-box" style="height: 329px;">
+<div class="content-box">
+<figure class="thumbnail-box"><img height="270" alt="Brand Concept" width="540" src="/jp/~/media/Images/common/country-top/products/cat_diabetescare.jpg?la=ja-JP&amp;hash=D4865993A2E4774C3EF9AB8B04D010D051D5ECD0" /></figure>
+<dl class="topic-box">
+    <dt>ダイアベティスケア<br />
+    <br />
+    </dt>
+    <dd><br />
+    <br />
+    </dd>
+</dl>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="row">
+    
+    <div class="col-1">
+        <section class="area">
+            
+                    <header class="header-area">
+                        <h2 class="heading-area" style="height: auto;">
+                            News
+                        </h2>
+                        
+                            <p class="link-header">
+                            <a href="/jp/news">
+                                View All
+                            </a>
+                            </p>
+                        
+                    </header>
+                    <div class="inner-area">
+                        <ul class="list-panel-4">
+                
+                    
+                        <li>
+                            <a href="/jp/news/2017/1004" class="panel" style="height: 449px;">
+                                <p class="thumbnail-product">
+                                    <img src="/jp/~/media/Images/common/news/topics_news_02.jpg?h=460&amp;la=ja-JP&amp;w=460&amp;hash=B2AAE4DF916135522F76F9249A3D0D6E8C4E0F89" alt="" width="460" height="460" />
+                                </p>
+                                <div class="inner-panel">
+                                    <div class="clearfix">
+                                        
+                                                <ul class="category-list">
+                                            
+                                                    <li>
+                                                        <span class="label-medicalit">
+                                                            商品情報
+                                                        </span>
+                                                    </li>
+                                            
+                                                </ul>        
+                                            
+                                        <p class="day-panel">
+                                            2017.10.4(水)
+                                        </p>
+                                    </div>
+                                    <p>
+                                        プレスリリース：新型電動式成長ホルモン製剤注入器※「グロウジェクター®L」が 2017年度グッドデザイン賞を受賞    
+                                    </p>
+                                </div>
+                            </a><!-- /.panel -->
+                        </li>
+                    
+                
+                    
+                        <li>
+                            <a href="/jp/news/2017/0928" class="panel" style="height: 449px;">
+                                <p class="thumbnail-product">
+                                    <img src="/jp/~/media/Images/common/news/topics_news_02.jpg?h=460&amp;la=ja-JP&amp;w=460&amp;hash=B2AAE4DF916135522F76F9249A3D0D6E8C4E0F89" alt="" width="460" height="460" />
+                                </p>
+                                <div class="inner-panel">
+                                    <div class="clearfix">
+                                        
+                                                <ul class="category-list">
+                                            
+                                                    <li>
+                                                        <span class="label-healthcare">
+                                                            企業情報
+                                                        </span>
+                                                    </li>
+                                            
+                                                    <li>
+                                                        <span class="label-healthcare">
+                                                            メディコム
+                                                        </span>
+                                                    </li>
+                                            
+                                                </ul>        
+                                            
+                                        <p class="day-panel">
+                                            2017.9.28(木)
+                                        </p>
+                                    </div>
+                                    <p>
+                                        プレスリリース：パナソニック メディコム九州株式会社の100%子会社化について    
+                                    </p>
+                                </div>
+                            </a><!-- /.panel -->
+                        </li>
+                    
+                
+                    
+                        <li>
+                            <a href="/jp/news/2017/0804_2" class="panel" style="height: 449px;">
+                                <p class="thumbnail-product">
+                                    <img src="/jp/~/media/Images/common/news/topics_news_02.jpg?h=460&amp;la=ja-JP&amp;w=460&amp;hash=B2AAE4DF916135522F76F9249A3D0D6E8C4E0F89" alt="" width="460" height="460" />
+                                </p>
+                                <div class="inner-panel">
+                                    <div class="clearfix">
+                                        
+                                                <ul class="category-list">
+                                            
+                                                    <li>
+                                                        <span class="label-medicalit">
+                                                            商品情報
+                                                        </span>
+                                                    </li>
+                                            
+                                                </ul>        
+                                            
+                                        <p class="day-panel">
+                                            2017.8.4(金)
+                                        </p>
+                                    </div>
+                                    <p>
+                                        自己検査用グルコースキット「コントアネクスト® センサー」を発売    
+                                    </p>
+                                </div>
+                            </a><!-- /.panel -->
+                        </li>
+                    
+                
+                    
+                        <li>
+                            <a href="/jp/news/2017/0804" class="panel" style="height: 449px;">
+                                <p class="thumbnail-product">
+                                    <img src="/jp/~/media/Images/common/news/topics_news_02.jpg?h=460&amp;la=ja-JP&amp;w=460&amp;hash=B2AAE4DF916135522F76F9249A3D0D6E8C4E0F89" alt="" width="460" height="460" />
+                                </p>
+                                <div class="inner-panel">
+                                    <div class="clearfix">
+                                        
+                                                <ul class="category-list">
+                                            
+                                                    <li>
+                                                        <span class="label-healthcare">
+                                                            企業情報
+                                                        </span>
+                                                    </li>
+                                            
+                                                </ul>        
+                                            
+                                        <p class="day-panel">
+                                            2017.8.4(金)
+                                        </p>
+                                    </div>
+                                    <p>
+                                        女性活躍推進法に基づく「えるぼし」の最高段階の認定を取得    
+                                    </p>
+                                </div>
+                            </a><!-- /.panel -->
+                        </li>
+                    
+                
+                        </ul>
+                    </div>
+                
+        </section><!-- /.area -->
+    </div><!-- /.col-1 -->
+    
+</div>
+<section class="area">
+    <header class="header-area">
+        <h2 class="heading-area">
+            Events &amp; Exhibitions
+        </h2>
+            
+            <p class="link-header">
+            <a href="/jp/events">
+                View All
+            </a>
+            </p>
+        
+    </header>
+    <div class="inner-area">
+         
+                <ul class="list-panel-4">
+            
+                    <li>
+                        <a href="/jp/events" class="panel" style="height: 105px;">
+                            <div class="inner-panel">
+                                <p class="day-panel">
+                                    2018.01.24(水)　14:00～16:30<!--
+                                    --><!--
+                                    -->
+                                </p>
+                                <p>
+                                    特定保健指導セミナー
+                                </p>
+                            </div>
+                        </a><!-- /.panel -->
+                    </li>
+            
+                    <li>
+                        <a href="/jp/events" class="panel" style="height: 105px;">
+                            <div class="inner-panel">
+                                <p class="day-panel">
+                                    2018.01.18(木)　10:00～17:00<!--
+                                    --><!--
+                                    -->
+                                </p>
+                                <p>
+                                    データヘルス・予防サービス見本市2017
+                                </p>
+                            </div>
+                        </a><!-- /.panel -->
+                    </li>
+            
+                    <li>
+                        <a href="/jp/events" class="panel" style="height: 105px;">
+                            <div class="inner-panel">
+                                <p class="day-panel">
+                                    2017.12.21(木)　13:30～17:30<!--
+                                    --><!--
+                                    -->
+                                </p>
+                                <p>
+                                    セミナー・メディコム体験会
+                                </p>
+                            </div>
+                        </a><!-- /.panel -->
+                    </li>
+            
+                    <li>
+                        <a href="/jp/events" class="panel" style="height: 105px;">
+                            <div class="inner-panel">
+                                <p class="day-panel">
+                                    2017.12.13(水)　10:00～17:00<!--
+                                    --><!--
+                                    -->
+                                </p>
+                                <p>
+                                    データヘルス・予防サービス見本市2017
+                                </p>
+                            </div>
+                        </a><!-- /.panel -->
+                    </li>
+            
+                </ul><!-- /.list-news -->
+            
+    </div><!-- /.inner-area -->
+</section><!-- /.area -->
+</main><!-- /.container -->
+<div class="container-contact">
+    
+</div><!-- /.container-contact -->
+<footer class="footer-global">
+    
+<ul class="list-sns-overFooter">
+    <li>
+        <a href="https://twitter.com/Panasonic_HC" target="_blank">
+            <img src="/jp/~/media/Images/header/icon_twitter.png?h=24&amp;la=ja-JP&amp;w=24&amp;hash=264A56ED6C36DCEE1B90F723164628A2C91FBE89" alt="icon_twitter" width="24" height="24" />
+        </a>
+    </li>
+    <li>
+        <a href="https://www.facebook.com/PanasonicHealthcare" target="_blank">
+            <img src="/jp/~/media/Images/header/icon_facebook.png?h=24&amp;la=ja-JP&amp;w=24&amp;hash=A375BBB60B92AF3D4574AF567ACA612F26F5D390" alt="icon_facebook" width="24" height="24" />
+        </a>
+    </li>
+    <li>
+        <a href="https://www.youtube.com/user/panasonichealthcare" target="_blank">
+            <img src="/jp/~/media/Images/header/icon_youtube.png?h=24&amp;la=ja-JP&amp;w=24&amp;hash=75A1EF0FFBF5AA996732BE4A332C04FA5D76171B" alt="icon_youtube" width="24" height="24" />
+        </a>
+    </li>
+    
+    
+</ul>
+<nav class="nav-footer">
+<div class="row">
+<div class="col-4 col-sp-2">
+<dl class="link-footer-lv1">
+    <dt><a href="/jp/products">商品一覧</a></dt>
+    <dd>
+    <ul>
+        <li><a href="/jp/biomedical">バイオメディカ</a></li>
+        <li><a href="/jp/medicom">メディコム</a></li>
+        <li><a href="/jp/diabetescare">糖尿病ケア</a></li>
+        <li><a href="/jp/ascensia">アセンシア ダイアベティスケア</a></li>
+    </ul>
+    </dd>
+</dl>
+</div>
+<div class="col-4 col-sp-2">
+<dl class="link-footer-lv1">
+    <dt><a href="/jp/case-studies">導入事例</a></dt>
+    <dd>
+    <ul>
+        <li><a href="/jp/biomedical/case-studies">バイオメディカ</a></li>
+        <li><a href="/jp/medicom/case-studies">メディコム</a></li>
+    </ul>
+    </dd>
+</dl>
+</div>
+<div class="col-4 col-sp-2">
+<dl class="link-footer-lv1">
+    <dt><a href="/jp/corporate">企業情報</a></dt>
+    <dd>
+    <ul>
+        <li><a href="/jp/corporate/profile">会社概要</a></li>
+        <li><a href="/jp/corporate/careers">採用情報</a></li>
+        <li><a href="/jp/corporate/environment">環境活動</a></li>
+    </ul>
+    </dd>
+</dl>
+</div>
+<div class="col-4 col-sp-2">
+<dl class="link-footer-lv1">
+    <dt><a href="/jp/support">サポート</a></dt>
+    <dd>
+    <ul>
+        <li><a href="/jp/catalogs">カタログダウンロード</a></li>
+    </ul>
+    </dd>
+</dl>
+</div>
+</div>
+</nav><!-- /.nav-footer -->
+<div class="info-footer">
+<div class="wrapper-footer">
+<div class="inner-footer">
+<ul class="links-footer-info">
+    <li><a href="/jp/privacy">個人情報保護方針</a></li>
+    <li><a href="/jp/policy">サイトのご利用にあたって</a></li>
+</ul>
+<div class="totop-footer" style="opacity: 0; bottom: -50px;">
+<p class="inner-totop-footer">
+<a href="#top"><img height="32" alt="go to top" width="32" src="/jp/~/media/Images/btn_top.png?la=ja-JP&amp;hash=34DD804270F2AE422D273EB91B907DB3525D61CB" /></a>
+</p>
+</div>
+<p class="copyright"><small>© Panasonic Healthcare Co., Ltd. 2017</small></p>
+</div>
+</div>
+</div>
+
+
+</footer><!-- /.footer-global -->
+        </form>
+        
+        
+    
+
+<div class="bg-modal" style="height: 1668px;"></div><div class="modal"><a href="#" class="btn-modal-close"></a></div><div id="h" style="position: absolute; top: 0px; left: 0px; z-index: -99999; visibility: hidden;">※</div></body></html>

@@ -1,0 +1,852 @@
+<!DOCTYPE html><!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" prefix="og: http://ogp.me/ns#"><![endif]--><!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" prefix="og: http://ogp.me/ns#"><![endif]--><!--[if IE 8]><html class="no-js lt-ie9" prefix="og: http://ogp.me/ns#"><![endif]--><!--[if gt IE 8]><!--><html xmlns="http://www.w3.org/1999/xhtml" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" prefix="og: http://ogp.me/ns#" style=""><!--<![endif]--><head>
+    <meta charset="UTF-8" />
+    <title>Suː5 / スー | 衛生マスク</title>
+    <meta ame="description" content="5層立体マスクSuː5 / スー。特許取得した立体構造と清潔さを保つカバーにより快適な呼吸を実現。花粉、ウィルス、PM2.5対策。" />
+    <meta name="keywords" content="Suː5,YAYA,マスク,mask,スー" />
+    <meta name="viewport" content="width=1080" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta property="og:locale" content="ja_JP" />
+    <meta property="fb:admins" content="192911421068348" />
+    <meta property="og:title" content="Suː5 / スー | 衛生マスク" />
+    <meta property="og:description" content="5層立体マスク Suː5 / スー。特許取得した立体構造と清潔さを保つカバーにより快適な呼吸を実現。花粉、ウィルス、PM2.5対策。" />
+    <meta property="og:url" content="http://yayaproducts.com/su-5/" />
+    <meta property="og:site_name" content="Suː5 / スー | 衛生マスク" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="images/common/logo_ogp.png" />
+    <link rel="shortcut icon" href="images/common/favicon.ico" />
+    <link rel="apple-touch-icon-precomposed" href="images/common/apple-touch-icon-precomposed.png" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic,700,700italic" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="css/style.css" />
+<script src="lib/modernizr.js"></script>
+<script src="js/preload.js"></script>
+</head>
+<body>
+<div class="screen is-load is-hide" id="js-screen"></div>
+<div class="l-wrapper">
+<header class="l-header">
+    <div class="l-header-inner" style="height: 2000px;">
+        <div class="l-header-top">
+            <h1 class="logo">
+                <span class="logo-2x logo-header">SU:5</span>
+            </h1>
+            <div class="l-header-sns">
+                <ul class="sns">
+                    <li class="sns-icon">
+                        <span class="icon-2x icon-facebook"></span>
+                        <a href="https://www.facebook.com/YAYA-192911421068348/?ref=hl" target="_blank">
+                            facebook
+                        </a>
+                    </li>
+                    <li class="sns-icon">
+                        <span class="icon-2x icon-twitter"></span>
+                        <a href="https://twitter.com/yaya_products" target="_blank">
+                            twitter
+                        </a>
+                    </li>
+                    <li class="sns-icon">
+                        <span class="icon-2x icon-insta"></span>
+                        <a href="https://www.instagram.com/yaya_products/?ref=badg" target="_blank">
+                            Instagram
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <nav class="l-header-nav">
+            <ul class="nav">
+                <li class="nav-item">
+                    <a href="#regular">
+                        <p class="nav-title">レギュラー</p>
+                        <p class="nav-tagline">REGULAR</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#carbon">
+                        <p class="nav-title">活性炭入り</p>
+                        <p class="nav-tagline">ACTIVATED CARBON</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#small">
+                        <p class="nav-title">スモール</p>
+                        <p class="nav-tagline">SMALL</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#infomation">
+                        <p class="nav-title">インフォメーション</p>
+                        <p class="nav-tagline">INFORMATION</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#shop">
+                        <p class="nav-title">販売店について</p>
+                        <p class="nav-tagline">SHOP</p>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <div class="l-header-catch">
+            <div class="catch js-catch is-active">
+                <div class="catch-title">
+                    <span>日</span>
+                    <span>々</span>
+                    <span>の</span>
+                    <span>暮</span>
+                    <span>ら</span>
+                    <span>し</span>
+                    <span>に</span>
+                    <span>、</span>
+                    <span>す</span>
+                    <span>っ</span>
+                    <span>と</span>
+                    <span>溶</span>
+                    <span>け</span>
+                    <span>込</span>
+                    <span>む</span>
+                </div>
+                <div class="catch-tagline">
+                    <span>A</span>
+                    <span> </span>
+                    <span>n</span>
+                    <span>e</span>
+                    <span>w</span><span> </span><span>p</span><span>a</span><span>r</span><span>t</span><span> </span><span>o</span><span>f</span><span> </span><span>m</span><span>y</span><span> </span><span>l</span><span>i</span><span>f</span><span>e</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="carousel js-carousel" style="height: 2000px;">
+        <div class="carousel-container">
+            <div class="carousel-filter" style="height: 2000px;"></div>
+            <div class="carousel-item js-carousel-item main-image main-image-01 is-carousel-active" style="opacity: 1; height: 2000px;">
+            </div>
+            <div class="carousel-item is-carousel-hide js-carousel-item main-image main-image-02" style="display: block; height: 2000px;">
+            </div>
+        </div>
+    </div>
+    <div class="carousel-nav js-carousel-nav">
+        <div class="carousel-nav-inner">
+            <div class="carousel-dot js-carousel-dot is-active">
+                <a></a>
+            </div>
+            <div class="carousel-dot js-carousel-dot">
+                <a></a>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="l-sticky-header" id="js-sticky-header">
+    <div class="l-sticky-header-logo">
+        <span class="logo-2x logo-header-sticky"></span>
+    </div>
+    <nav class="l-sticky-header-nav">
+        <ul class="sticky-nav">
+            <li class="sticky-nav-item">
+                <a href="#regular">
+                    <p class="sticky-nav-title">レギュラー</p>
+                    <p class="sticky-nav-tagline">REGULAR</p>
+                </a>
+            </li>
+            <li class="sticky-nav-item">
+                <a href="#carbon">
+                    <p class="sticky-nav-title">活性炭入り</p>
+                    <p class="sticky-nav-tagline">ACTIVATED CARBON</p>
+                </a>
+            </li>
+            <li class="sticky-nav-item">
+                <a href="#small">
+                    <p class="sticky-nav-title">スモール</p>
+                    <p class="sticky-nav-tagline">SMALL</p>
+                </a>
+            </li>
+            <li class="sticky-nav-item">
+                <a href="#infomation">
+                    <p class="sticky-nav-title">インフォメーション</p>
+                    <p class="sticky-nav-tagline">INFORMATION</p>
+                </a>
+            </li>
+            <li class="sticky-nav-item">
+                <a href="#shop">
+                    <p class="sticky-nav-title">販売店について</p>
+                    <p class="sticky-nav-tagline">SHOP</p>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>
+<section class="l-section l-section-regular" id="regular">
+    <div class="l-section-hero hero hero-regular js-hero">
+        <img src="images/image-catch01.jpg" alt="" style="transform: translateY(-200px);" />
+    </div>
+    <div class="l-section-container l-section-container-regular js-container">
+        <div class="l-section-inner">
+            <div class="detail js-detail">
+                <div class="detail-main js-detail-main">
+                    <h1 class="detail-heading">
+                        <span class="icon-2x icon-marker"></span>
+                        REGULAR
+                        <span class="detail-tagline">レギュラー</span>
+                    </h1>
+                    <h2 class="detail-copy">
+                        <p class="detail-copy-ja">
+                            <span>欲</span>
+                            <span>し</span>
+                            <span>か</span>
+                            <span>っ</span>
+                            <span>た</span>
+                            <span>の</span>
+                            <span>は</span>
+                            <span>、</span>
+                            <span>リ</span>
+                            <span>ア</span>
+                            <span>ル</span>
+                            <span>な</span>
+                            <span>機</span>
+                            <span>能</span>
+                            <span>美</span>
+                        </p>
+                        <p class="detail-copy-en">
+                            <span>B</span>
+                            <span>e</span>
+                            <span>a</span>
+                            <span>u</span>
+                            <span>t</span>
+                            <span>y</span>
+                            <span> </span>
+                            <span>t</span>
+                            <span>h</span>
+                            <span>r</span>
+                            <span>o</span>
+                            <span>u</span>
+                            <span>g</span>
+                            <span>h</span>
+                            <span> </span>
+                            <span>f</span>
+                            <span>u</span>
+                            <span>n</span>
+                            <span>c</span>
+                            <span>t</span>
+                            <span>i</span>
+                            <span>o</span>
+                            <span>n</span>
+                        </p>
+                    </h2>
+                    <p class="detail-text">
+                        スムーズに会話ができて<br />
+                        メイクも、ほとんど崩れない。<br />
+                        着けても外しても人目を気にせず、<br />
+                        自然体でいられるデザイン。
+                    </p>
+                </div>
+                <div class="detail-sub js-detail-sub">
+                    <div class="detail-sub-inner">
+                        <div class="detail-tag">
+                            <ul class="tag">
+                                <li class="tag-item">花粉</li>
+                                <li class="tag-item">ウィルス</li>
+                                <li class="tag-item">PM2.5</li>
+                            </ul>
+                        </div>
+                        <div class="detail-data">
+                            <dl class="datalist">
+                                <dt class="datalist-title">本体</dt>
+                                <dd class="datalist-data">ポリプロピレン</dd>
+                                <dt class="datalist-title">ノーズフィッター</dt>
+                                <dd class="datalist-data">ポリエチレン、スチール</dd>
+                                <dt class="datalist-title">耳ひも</dt>
+                                <dd class="datalist-data">ポリウレタン、ポリエステル</dd>
+                                <dt class="datalist-title">サイズ</dt>
+                                <dd class="datalist-data">7.5cm×18.4cm</dd>
+                            </dl>
+                        </div>
+                        <div class="detail-sub-frame">
+                            <svg class="svg svg-frame" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="420" height="237" viewBox="0 0 420 237">
+  <rect x="0.5" y="0.5" width="419" height="236" rx="3" ry="3"/>
+</svg>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="detail-thumbnail js-detail-thumbnail">
+                    <img src="images/image-thumb01.jpg" alt="" />
+                </div>
+            </div>
+            <div class="l-section-inner l-section-inner-mask">
+                <div class="detail-mask detail-mask-regular js-detail-mask">
+                    <img src="images/image-mask-regular.jpg" alt="" />
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="l-section l-section-carbon" id="carbon">
+    <div class="l-section-hero hero hero-carbon js-hero">
+        <img src="images/image-catch02.jpg" alt="" style="transform: translateY(-200px);" />
+    </div>
+    <div class="l-section-container l-section-container-carbon js-container">
+        <div class="l-section-inner">
+            <div class="detail detail-carbon js-detail">
+                <div class="detail-main js-detail-main">
+                    <h1 class="detail-heading">
+                        <span class="icon-2x icon-marker"></span>
+                        ACTIVATED CARBON
+                        <span class="detail-tagline">活性炭入り</span>
+                    </h1>
+                    <div class="detail-copy">
+                        <p class="detail-copy-ja">
+                            <span>日</span>
+                            <span>常</span>
+                            <span>に</span>
+                            <span>溶</span>
+                            <span>け</span>
+                            <span>込</span>
+                            <span>む</span>
+                            <span>、</span>
+                            <span>シ</span>
+                            <span>ン</span>
+                            <span>プ</span>
+                            <span>ル</span>
+                            <span>な</span>
+                            <span>個</span>
+                            <span>性</span></p>
+                        <p class="detail-copy-en">
+                            <span>S</span>
+                            <span>i</span>
+                            <span>m</span>
+                            <span>p</span>
+                            <span>l</span>
+                            <span>y</span>
+                            <span>,</span>
+                            <span> </span>
+                            <span>f</span>
+                            <span>o</span>
+                            <span>r</span>
+                            <span> </span>
+                            <span>d</span>
+                            <span>a</span>
+                            <span>i</span>
+                            <span>l</span>
+                            <span>y</span>
+                            <span> </span>
+                            <span>u</span>
+                            <span>s</span>
+                            <span>e</span>
+                        </p>
+                    </div>
+                    <p class="detail-text">
+                        どんなスタイリングも邪魔しない、<br />
+                        ありそうでなかったシルエット。<br />
+                        花粉やウイルスをカット、<br />
+                        グレイッシュなカラーも魅力。
+                    </p>
+                </div>
+                <div class="detail-sub js-detail-sub">
+                    <div class="detail-sub-inner">
+                        <div class="detail-tag">
+                            <ul class="tag">
+                                <li class="tag-item">花粉</li>
+                                <li class="tag-item">ウィルス</li>
+                                <li class="tag-item">PM2.5</li>
+                                <li class="tag-item">脱臭</li>
+                            </ul>
+                        </div>
+                        <div class="detail-data">
+                            <dl class="datalist">
+                                <dt class="datalist-title">本体</dt>
+                                <dd class="datalist-data">ポリプロピレン、ポリエステル</dd>
+                                <dt class="datalist-title">ノーズフィッター</dt>
+                                <dd class="datalist-data">ポリエチレン、スチール</dd>
+                                <dt class="datalist-title">耳ひも</dt>
+                                <dd class="datalist-data">ポリウレタン、ポリエステル</dd>
+                                <dt class="datalist-title">サイズ</dt>
+                                <dd class="datalist-data">7.5cm×18.4cm</dd>
+                            </dl>
+                        </div>
+                        <div class="detail-sub-frame">
+                            <svg class="svg svg-frame" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="420" height="237" viewBox="0 0 420 237">
+  <rect x="0.5" y="0.5" width="419" height="236" rx="3" ry="3"/>
+</svg>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="detail-thumbnail js-detail-thumbnail">
+                    <img src="images/image-thumb02.jpg" alt="" />
+                </div>
+            </div>
+            <div class="l-section-inner l-section-inner-mask">
+                <div class="detail-mask detail-mask-carbon js-detail-mask">
+                    <img src="images/image-mask-carbon.jpg" alt="" />
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="l-section l-section-small" id="small">
+    <div class="l-section-hero hero hero-small js-hero">
+        <img src="images/image-catch03.jpg" alt="" style="transform: translateY(-200px);" />
+    </div>
+    <div class="l-section-container l-section-container-small js-container">
+        <div class="l-section-inner">
+            <div class="detail js-detail">
+                <div class="detail-main js-detail-main">
+                    <h1 class="detail-heading">
+                        <span class="icon-2x icon-marker"></span>
+                        SMALL
+                        <span class="detail-tagline">スモール</span>
+                    </h1>
+                    <div class="detail-copy">
+                        <p class="detail-copy-ja">
+                            <span>コ</span>
+                            <span>ン</span>
+                            <span>パ</span>
+                            <span>ク</span>
+                            <span>ト</span>
+                            <span>、</span>
+                            <span>だ</span>
+                            <span>け</span>
+                            <span>ど</span>
+                            <span>本</span>
+                            <span>格</span>
+                            <span>仕</span>
+                            <span>様</span>
+                        </p>
+                        <p class="detail-copy-en">
+                            <span>B</span>
+                            <span>i</span>
+                            <span>g</span>
+                            <span> </span>
+                            <span>t</span>
+                            <span>e</span>
+                            <span>c</span>
+                            <span>h</span>
+                            <span>n</span>
+                            <span>o</span>
+                            <span>l</span>
+                            <span>o</span>
+                            <span>g</span>
+                            <span>y</span>
+                            <span>,</span>
+                            <span> </span>
+                            <span>s</span>
+                            <span>m</span>
+                            <span>a</span>
+                            <span>l</span>
+                            <span>l</span>
+                            <span> </span>
+                            <span>s</span>
+                            <span>i</span>
+                            <span>z</span>
+                            <span>e</span>
+                        </p>
+                    </div>
+                    <p class="detail-text">
+                        顔の小さな女性やキッズのための、<br />
+                        デリケートで小ぶりなフォルム。<br />
+                        研究を重ねて開発された立体構造で、<br />
+                        より心地いい着用感が実現。
+                    </p>
+                </div>
+                <div class="detail-sub js-detail-sub">
+                    <div class="detail-sub-inner">
+                        <div class="detail-tag">
+                            <ul class="tag">
+                                <li class="tag-item tag-item-small">花粉</li>
+                                <li class="tag-item tag-item-small">ウィルス</li>
+                                <li class="tag-item tag-item-small">PM2.5</li>
+                            </ul>
+                        </div>
+                        <div class="detail-data">
+                            <dl class="datalist">
+                                <dt class="datalist-title">本体</dt>
+                                <dd class="datalist-data">ポリプロピレン</dd>
+                                <dt class="datalist-title">ノーズフィッター</dt>
+                                <dd class="datalist-data">ポリエチレン、スチール</dd>
+                                <dt class="datalist-title">耳ひも</dt>
+                                <dd class="datalist-data">ポリウレタン、ポリエステル</dd>
+                                <dt class="datalist-title">サイズ</dt>
+                                <dd class="datalist-data">7.5cm×15.5cm</dd>
+                            </dl>
+                        </div>
+                        <div class="detail-sub-frame">
+                            <svg class="svg svg-frame" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="420" height="237" viewBox="0 0 420 237">
+  <rect x="0.5" y="0.5" width="419" height="236" rx="3" ry="3"/>
+</svg>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="detail-thumbnail js-detail-thumbnail">
+                    <img src="images/image-thumb03.jpg" alt="" />
+                </div>
+            </div>
+            <div class="l-section-inner l-section-inner-mask">
+                <div class="detail-mask detail-mask-small js-detail-mask">
+                    <img src="images/image-mask-small.jpg" alt="" />
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="l-section l-section-infomation" id="infomation">
+    <div class="info">
+        <h1 class="info-heading">
+            INFOMATION
+            <span class="info-tagline">インフォメーション</span>
+        </h1>
+        <div class="info-badge">
+            <span class="icon-2x icon-badge"></span>
+        </div>
+        <div class="info-body">
+            <div class="info-mask-bg">
+                <svg class="svg svg-mask-bg" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 453.7 388.1" enable-background="new 0 0 453.7 388.1" xml:space="preserve">
+<g>
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="&#10;&#9;&#9;M261.7,352.3c-20.7,27-64.9,34.8-121.4,34.8c-59.2-7.8-87.2-24.9-116.6-51.9"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2.5" d="M25.6,62.4C67.7-2.8,138.5-16.7,138.5,24.8&#10;&#9;&#9;c0,10.3-0.5,18.6-4.8,36.5"/>
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="&#10;&#9;&#9;M27.1,70.8V56.3C15.4,68,4.6,82.7,1.7,97.3l-0.6,4.5v6c1.1,11.7,8.5,22.8,25.9,31.7"/>
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="&#10;&#9;&#9;M285.5,152.8c-28.2-26.1-119.3-81.1-160.9-94.9c-38.3-12.8-59-9.2-94.9,11.4c-3.1,1.8-6.2,3.6-9.5,5.6&#10;&#9;&#9;c-7.5,8.6-13.5,18.1-15.5,27.7c-0.3,1.4-0.5,2.9-0.6,4.3v5.3l1.7,7c3.1,8.1,10.5,15.3,24,21.7"/>
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="&#10;&#9;&#9;M310.8,150.3c-164.1,17.2-246.7,8.2-283.8-10.8c-17.4-8.9-24.8-20.1-25.9-31.7v191.4v6c3.4,36.6,68.5,67.7,309.7,42.5l30.2-17.8&#10;&#9;&#9;V163.6L310.8,150.3z"/>
+
+
+
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="1.014,4.055" x1="250.5" y1="181.9" x2="295.7" y2="227.1"/>
+
+
+
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="1,4" x1="247.3" y1="330.7" x2="297.5" y2="280.6"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2.5" d="M341,171.3c77.7-8.3,111.4,11.4,111.4,52.9&#10;&#9;&#9;c0,42.7-36.9,87.3-111.4,97.4"/>
+
+
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="1.007,4.028" d="&#10;&#9;&#9;M250.6,144.5c-36-25.9-108.1-67.2-142.1-77.8c-35.3-11-50.8-4.3-83,13.1"/>
+
+
+
+
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="1.002,4.008" d="&#10;&#9;&#9;M224.1,147.2c-38.4-25.1-95.4-56.7-124.5-65.8c-35.3-11-50.8-4.3-83,13.1"/>
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="&#10;&#9;&#9;M14.8,95.4c-0.1,0.1-0.3,0.2-0.4,0.2"/>
+
+
+
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="1.012,4.047" x1="318.3" y1="165.5" x2="318.3" y2="330.4"/>
+
+
+
+
+
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="0.987,3.947" x1="326.4" y1="170.6" x2="326.4" y2="326.5"/>
+
+
+
+
+
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="1.011,4.044" x1="334.6" y1="173.9" x2="334.6" y2="323.5"/>
+
+
+
+
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="0.997,3.988" d="&#10;&#9;&#9;M3.2,136.4c4.1,6.1,11.7,11.1,21.9,18.1c30.6,21.2,134.5,28.5,275.1,12.4"/>
+
+
+
+
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="0.994,3.976" d="&#10;&#9;&#9;M10.9,315.1c3.7,4.1,8.4,8.1,14.2,11.7c34.6,21.5,138.3,25.1,279.9,11.9"/>
+
+
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="&#10;&#9;&#9;M242.2,360c-0.1,0.1-0.3,0.2-0.4,0.2"/>
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="1.009,4.036" d="&#10;&#9;&#9;M238.2,362.2c-24.3,12.5-59,18.3-97.5,18.3c-40.5-5.4-64.3-13.4-84.7-26.8"/>
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="&#10;&#9;&#9;M54.3,352.6c-0.1-0.1-0.3-0.2-0.4-0.3"/>
+</g>
+</svg>
+            </div>
+            <div class="info-mask">
+                <svg class="svg svg-mask" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 453.7 388.1" enable-background="new 0 0 453.7 388.1" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="453.7" height="388.1"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_" overflow="visible"/>
+	</clipPath>
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="&#10;&#9;&#9;M261.7,352.3c-20.7,27-64.9,34.8-121.4,34.8c-59.2-7.8-87.2-24.9-116.6-51.9"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2.5" d="M25.6,62.4C67.7-2.8,138.5-16.7,138.5,24.8&#10;&#9;&#9;c0,10.3-0.5,18.6-4.8,36.5"/>
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="&#10;&#9;&#9;M27.1,70.8V56.3C15.4,68,4.6,82.7,1.7,97.3l-0.6,4.5v6c1.1,11.7,8.5,22.8,25.9,31.7"/>
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="&#10;&#9;&#9;M285.5,152.8c-28.2-26.1-119.3-81.1-160.9-94.9c-38.3-12.8-59-9.2-94.9,11.4c-3.1,1.8-6.2,3.6-9.5,5.6&#10;&#9;&#9;c-7.5,8.6-13.5,18.1-15.5,27.7c-0.3,1.4-0.5,2.9-0.6,4.3v5.3l1.7,7c3.1,8.1,10.5,15.3,24,21.7"/>
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="&#10;&#9;&#9;M310.8,150.3c-164.1,17.2-246.7,8.2-283.8-10.8c-17.4-8.9-24.8-20.1-25.9-31.7v191.4v6c3.4,36.6,68.5,67.7,309.7,42.5l30.2-17.8&#10;&#9;&#9;V163.6L310.8,150.3z"/>
+
+
+
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="1.014,4.055" x1="250.5" y1="181.9" x2="295.7" y2="227.1"/>
+
+
+
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="1,4" x1="247.3" y1="330.7" x2="297.5" y2="280.6"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2.5" d="M341,171.3c77.7-8.3,111.4,11.4,111.4,52.9&#10;&#9;&#9;c0,42.7-36.9,87.3-111.4,97.4"/>
+
+
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="1.007,4.028" d="&#10;&#9;&#9;M250.6,144.5c-36-25.9-108.1-67.2-142.1-77.8c-35.3-11-50.8-4.3-83,13.1"/>
+
+
+
+
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="1.002,4.008" d="&#10;&#9;&#9;M224.1,147.2c-38.4-25.1-95.4-56.7-124.5-65.8c-35.3-11-50.8-4.3-83,13.1"/>
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="&#10;&#9;&#9;M14.8,95.4c-0.1,0.1-0.3,0.2-0.4,0.2"/>
+
+
+
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="1.012,4.047" x1="318.3" y1="165.5" x2="318.3" y2="330.4"/>
+
+
+
+
+
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="0.987,3.947" x1="326.4" y1="170.6" x2="326.4" y2="326.5"/>
+
+
+
+
+
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="1.011,4.044" x1="334.6" y1="173.9" x2="334.6" y2="323.5"/>
+
+
+
+
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="0.997,3.988" d="&#10;&#9;&#9;M3.2,136.4c4.1,6.1,11.7,11.1,21.9,18.1c30.6,21.2,134.5,28.5,275.1,12.4"/>
+
+
+
+
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="0.994,3.976" d="&#10;&#9;&#9;M10.9,315.1c3.7,4.1,8.4,8.1,14.2,11.7c34.6,21.5,138.3,25.1,279.9,11.9"/>
+
+
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="&#10;&#9;&#9;M242.2,360c-0.1,0.1-0.3,0.2-0.4,0.2"/>
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-dash" stroke-dasharray="1.009,4.036" d="&#10;&#9;&#9;M238.2,362.2c-24.3,12.5-59,18.3-97.5,18.3c-40.5-5.4-64.3-13.4-84.7-26.8"/>
+
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#878785" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="&#10;&#9;&#9;M54.3,352.6c-0.1-0.1-0.3-0.2-0.4-0.3"/>
+</g>
+</svg>
+            </div>
+            <div class="info-point info-point-1">
+                <div class="info-point-inner">
+                <span class="info-point-text">
+                    菌の侵入を防ぐカバー
+                </span>
+                    <span class="info-point-marker"></span>
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="183" height="29" viewBox="0 0 183 29">
+  <path d="M1.281,28.000 L28.281,1.000" class="cls-1"/>
+   <path d="M28.281,1.000 L182.281,1.000 " class="cls-1"/>
+</svg>
+
+                </div>
+            </div>
+            <div class="info-point info-point-2">
+            <span class="info-point-text">
+                内側がさらり、やわらか
+            </span>
+                <span class="info-point-marker"></span>
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="230" height="69" viewBox="0 0 230 69">
+  <path d="M1.281,68.000 L68.281,1.000" class="cls-1"/>
+  <path d="M68.281,1.000 L229.281,1.000" class="cls-1"/>
+</svg>
+
+            </div>
+            <div class="info-point info-point-3">
+            <span class="info-point-text">
+                耳にやさしい丸ひも
+            </span>
+                <span class="info-point-marker"></span>
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="199" height="64" viewBox="0 0 199 64">
+  <path d="M2.688,1.280 L64.688,63.280 " class="cls-1"/>
+  <path d="M64.688,63.280 L199.688,63.280" class="cls-1"/>
+</svg>
+
+            </div>
+            <div class="info-point info-point-4">
+            <span class="info-point-text">
+            顔にフィットする<br />
+            高品質ノーズフィッター
+            </span>
+                <span class="info-point-marker"></span>
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="240" height="29" viewBox="0 0 183 29">
+   <path d="M174.281,22 L155.281,1.000" class="cls-1"/>
+   <path d="M155.281,1.000 L-54.719,1.000 " class="cls-1"/>
+</svg>
+            </div>
+            <div class="info-point info-point-5">
+            <span class="info-point-text">
+            口もとの空間をキープ<br />
+            会話もしやすい<br />
+            新型3D構造
+            </span>
+                <span class="info-point-marker"></span>
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="234" height="65" viewBox="0 0 234 64">
+  <path d="M234.000,2.690 L172.000,64.690" class="cls-1"/>
+  <path d="M172.000,63.690 L2.000,63.690" class="cls-1"/>
+</svg>
+
+            </div>
+        </div>
+        <div>※FDA（アメリカ食品医薬品局）認定検査機関のネルソン検査研究所で実証された捕集効率</div>
+    </div>
+</section>
+<section class="l-section l-section-hero" id="hero">
+    <div class="hero hero-info js-hero">
+        <img src="images/image-hero.jpg" alt="" style="transform: translateY(-200px);" />
+        <div class="hero-inner">
+            <div class="hero-heading">
+                <div class="hero-heading-ja">
+                    <span>着</span>
+                    <span>け</span>
+                    <span>て</span>
+                    <span>も</span>
+                    <span>、</span>
+                    <span>外</span>
+                    <span>し</span>
+                    <span>て</span>
+                    <span>も</span>
+                    <span>自</span>
+                    <span>分</span>
+                    <span>ら</span>
+                    <span>し</span>
+                    <span>く</span></div>
+                <div class="hero-heading-en">
+                    <span>K</span>
+                    <span>e</span>
+                    <span>e</span>
+                    <span>p</span>
+                    <span> </span>
+                    <span>t</span>
+                    <span>r</span>
+                    <span>u</span>
+                    <span>e</span>
+                    <span> </span>
+                    <span>t</span>
+                    <span>o</span>
+                    <span> </span>
+                    <span>y</span>
+                    <span>o</span>
+                    <span>u</span>
+                    <span>r</span>
+                    <span>s</span>
+                    <span>e</span>
+                    <span>l</span>
+                    <span>f</span>
+                </div>
+            </div>
+            <div class="hero-wave hero-wave-1"></div>
+            <div class="hero-wave hero-wave-2"></div>
+        </div>
+    </div>
+</section>
+<section class="l-section l-section-store" id="shop">
+    <div class="l-section-inner">
+        <div class="l-shop">
+            <div class="l-shop-list">
+                <div class="shop-heading">
+                    <div class="shop-heading-body">
+                        <h1 class="shop-heading-title">SHOP</h1>
+                        <p class="shop-heading-tagline">販売店について</p>
+                    </div>
+                    <div class="shop-heading-link">
+                        <a href="http://yayaproducts.stores.jp" target="_blank"><span class="shop-heading-link-icon icon-2x icon-nav-arrow-black"></span>オンラインショップはこちら</a>
+                    </div>
+                </div>
+                <div class="l-shop-frame-wrapper">
+                    <div class="l-shop-scroll" id="js-scroll-frame">
+                        <div>
+                            <iframe src="shoplist.html" height="auto" frameborder="0" scrolling="no" class="l-shop-frame" id="js-shop-frame"></iframe>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="l-shop-photo">
+                <div class="shop-photo">
+                    <div class="shop-photo-item" id="shop-photo01">
+                        <img src="images/image-shop01.jpg" alt="" />
+                    </div>
+                    <div class="shop-photo-item" id="shop-photo02">
+                        <img src="images/image-shop02.jpg" alt="" />
+                    </div>
+                    <div class="shop-photo-item" id="shop-photo03">
+                        <img src="images/image-shop03.jpg" alt="" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<footer class="l-footer">
+    <div class="l-footer-top">
+        <div class="l-footer-top-left">
+            <div class="footer-agency">
+                <p>販売元：<span>YAYA</span></p>
+                <p><a href="mailto:info@yayaproducts.com" class="js-email">info@yayaproducts.com</a></p>
+            </div>
+        </div>
+        <div class="l-footer-top-right">
+            <div class="footer-heading">
+                <div class="footer-heading-title">
+                    <img src="images/image-product-name.png" alt="5層・薄型立体マスク スー" />
+                </div>
+                <div class="footer-heading-attend">マスクは感染を完全に防ぐのではありません。</div>
+            </div>
+            <div class="footer-logo"><span class="logo-2x logo-footer"></span></div>
+        </div>
+    </div>
+    <div class="l-footer-bottom">
+        <div class="footer-logo-coporate"><span class="logo-2x logo-yaya"></span></div>
+        <ul class="sns">
+            <li class="sns-icon">
+                <span class="icon-2x icon-facebook"></span>
+                <a href="https://www.facebook.com/YAYA-192911421068348/?ref=hl" target="_blank">
+                    facebook
+                </a>
+            </li>
+            <li class="sns-icon">
+                <span class="icon-2x icon-twitter"></span>
+                <a href="https://twitter.com/yaya_products" target="_blank">
+                    twitter
+                </a>
+            </li>
+            <li class="sns-icon">
+                <span class="icon-2x icon-insta"></span>
+                <a href="https://www.instagram.com/yaya_products/?ref=badg" target="_blank">
+                    Instagram
+                </a>
+            </li>
+        </ul>
+        <div class="copyright">© YAYA. All rights reserved.</div>
+    </div>
+</footer>
+
+<script src="js/vender.js"></script>
+<script src="js/app.js"></script>
+
+
+
+</div>
+
+</body></html>

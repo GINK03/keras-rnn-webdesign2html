@@ -1,0 +1,207 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" prefix="og:http://ogp.me/ns# website:http://ogp.me/ns/website#"><head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>株式会社クラーチ | 新卒採用 | Kuraci Recruit </title>
+<meta name="keywords" content="クラーチ,Kuraci,,採用,新卒,介護,医療,老人ホーム,エントリー" />
+<meta name="description" content="株式会社クラーチの採用情報サイトです。" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="canonical" href="http://www.kuraci.co.jp/recruit/" />
+<!-- OGP -->
+<meta property="fb:app_id" content="1535901826705694" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="株式会社クラーチ | 新卒採用 | Kuraci Recruit " />
+<meta property="og:title" content="株式会社クラーチ丨新卒採用" />
+<meta property="og:url" content="http://www.kuraci.co.jp/recruit/" />
+<meta property="og:image" content="http://www.kuraci.co.jp/recruit/sns.jpg" />
+<meta property="og:description" content="「0からカタチにするチカラ。」Kuraci 採用情報サイト" />
+<!-- css -->
+<link rel="stylesheet" type="text/css" href="common/css/base.css" />
+<link rel="stylesheet" type="text/css" href="common/css/sp.css" />
+<link rel="stylesheet" type="text/css" href="css/top.css" />
+</head>
+<body id="top"><div style="width: 100%; height: 100%; position: absolute; top: 0px; left: 0px; z-index: -1;"></div>
+<div id="cover">
+</div>
+<div id="head_area">
+	<header style="transform: translate(0%, -100%) matrix(1, 0, 0, 1, 0, 0);">
+		<h1><a href="index.html"><img src="images/top_logo.png" alt="株式会社クラーチ 新卒採用" /></a></h1>
+		<div id="toggle"><span></span> <span></span> <span></span></div>
+		<nav>
+			<ul id="gnavi">
+				<li><a href="index.html"><img src="images/gnavi01_pc.png" alt="top" class="switch" style="visibility: visible;" /></a></li>
+				<li><a href="message/index.html"><img src="images/gnavi02_pc.png" alt="message" class="switch" style="visibility: visible;" /></a></li>
+				<li><a href="work/index.html"><img src="images/gnavi03_pc.png" alt="work" class="switch" style="visibility: visible;" /></a></li>
+				<li><a href="company/index.html"><img src="images/gnavi04_pc.png" alt="company" class="switch" style="visibility: visible;" /></a></li>
+				<li><a href="recruit/index.html"><img src="images/gnavi05_pc.png" alt="recruit" class="switch" style="visibility: visible;" /></a></li>
+			</ul>
+			<ul id="entry">
+				<li style="opacity: 0;"><a href="http://www.kuraci.co.jp/recruit/recruit/index.html" target="_blank"><img src="images/btn_navi_entry01_pc.png" alt="新卒ENTRY" class="switch" style="visibility: visible;" /></a></li>
+				<li style="opacity: 0;"><a href="recruit/career.html"><img src="images/btn_navi_entry02_pc.png" alt="中途採用ページ" class="switch" style="visibility: visible;" /></a></li>
+			</ul>
+		</nav>
+	</header><a href="javascript:w=window.open('ex.html','','scrollbars=no,Width=815,Height=615');w.focus();" class=" hide"></a>
+	<div id="visual" class="show">
+		<div id="key_visual" style="opacity: 0;"><img src="images/main_visual.png" alt="" /><img src="images/maskblack_left.png" style="position: absolute; top: 0px; left: 0px;" /></div><h2 class="show" style="z-index: 1; transform: translate3d(-62.8012px, 295px, 0px); opacity: 1;"><img src="images/top_catch01.png" alt="ゼロからカタチにするチカラ。" /></h2>
+		<p style="position: relative;"><img src="images/top_catch_pc.png" alt="10年後、クラーチが新しい介護のスタンダードになっている。介護の新しいカタチ、未来を創造する為に、クラーチはチャレンジを続けます。" class="switch" style="visibility: visible;" /><div style="width: 551px; height: 26px; position: absolute; right: 0px; background-color: rgb(0, 0, 0); top: 0px;"></div><div style="width: 551px; height: 26px; position: absolute; right: 0px; background-color: rgb(0, 0, 0); bottom: 0px;"></div></p>
+		<!--<p id="year"><img src="images/recruit_pc.png" alt="recruiting" class="switch"/></p>-->
+		
+	</div>
+</div><div style="position: absolute; width: 100%; height: 100%; background-color: rgb(255, 255, 255); left: 0px; bottom: -658px; transform: translate(-22.9221%, 0%) translate3d(0px, 0px, 0px);"></div>
+<div id="sp_contents">
+	<div id="message_wrap">
+		<div id="message">
+			<!--<div class="bg01 sp_non"><img src="images/bg_message.png" alt=""/></div>-->
+			<h2><img src="images/title01_pc.png" alt="Message" class="switch" style="visibility: visible;" /></h2>
+			<div class="bg_frame_title sp_non"><img src="images/deco03.png" alt="" /></div>
+			<div class="bg_english sp_non"><img src="images/english01.png" alt="" /></div>
+			<p class="copy"><img src="images/copy_message_pc.png" alt="楽しくなければ仕事じゃない。" class="switch" style="visibility: visible;" /></p>
+			<p>社員のモチベーションが高く、<br class="sp_br" />常にチャレンジを続け、やりたいことを<br class="sp_br" />カタチにしていくのがクラーチでの働き方。<br class="sp_br" />
+            会社も、社員も成長をし続けて未来を切り開く。<br class="sp_br" />10年後、進化を続ける介護が<br class="sp_br" />未来のスタンダードです。</p>
+			<p class="img01"><img src="images/img01_pc.png" alt="" class="switch" style="visibility: visible;" /></p>
+			<p class="btn"><a href="message/index.html"><img src="images/btn_more_pc.png" alt="MORE" class="switch" style="visibility: visible;" /></a></p>
+			<div class="deco01 sp_non"><img src="images/deco09.png" alt="" /></div>
+			<div class="deco02 sp_non"><img src="images/deco02.png" alt="" /></div>
+		</div>
+	</div>
+	<div id="interview_wrap">
+		<div id="interview">
+			<!--<div class="bg01 sp_non"><img src="images/bg_interview.png" alt=""/></div>-->
+			<h2><img src="images/title02_pc.png" alt="" class="switch" style="visibility: visible;" /></h2>
+			<div class="bg_frame_title sp_non"><img src="images/deco03.png" alt="" /></div>
+			<div class="bg_english sp_non"><img src="images/english02.png" alt="" /></div>
+			<div id="interview01">
+				<div class="number"><img src="images/s_title01.png" alt="interview01" /></div>
+				<div class="name"><img src="images/name01_pc.png" alt="Chiaki Mori / クラーチエレガンタ本郷 看護マネージャー" class="switch" style="visibility: visible;" /></div>
+				<div class="deco02 sp_non"><img src="images/bg_photo01.png" alt="" /></div>
+				<div class="photo01"><img src="images/img02_pc.png" alt="" class="switch" style="visibility: visible;" /></div>
+				<div class="deco01 sp_non"><img src="images/deco04.png" alt="" /></div>
+				<div class="photo02 sp_non"><img src="images/img02_01.png" alt="" /></div>
+				<h3><img src="images/title_interview01.png" alt="INTERVIEW 01 医療と介護を融合させたクラーチの“HOSPITALITY”" /></h3>
+				<p>ご入居者一人ひとりに合わせた最高のサポートを考え、唯一無二の看護を目指し、クラーチのホスピタリティを体現します。</p>
+				<p class="btn"><a href="work/interview01.html"><img src="images/btn_more_pc.png" alt="MORE" class="switch" style="visibility: visible;" /></a></p>
+				<div class="house sp_non"><img src="images/deco18.png" alt="" /></div>
+			</div>
+			<div id="interview02">
+				<div class="number"><img src="images/s_title02.png" alt="interview02" /></div>
+				<div class="name"><img src="images/name02_pc.png" alt="Yusuke Katsuro / 本社開発本部 一級建築士" class="switch" style="visibility: visible;" /></div>
+				<div class="deco01 sp_non"><img src="images/deco11.png" alt="" /></div>
+				<div class="deco02 sp_non"><img src="images/deco10.png" alt="" /></div>
+				<div class="photo01"><img src="images/img03_pc.png" alt="" class="switch" style="visibility: visible;" /></div>
+				<div class="house sp_non"><img src="images/deco07.png" alt="" /></div>
+				<h3><img src="images/title_interview02.png" alt="INTERVIEW 02 新たなスタンダードの創造 介護を”DESIGN”する" /></h3>
+				<p>一級建築士として建物の設計だけにとどまらず、運営の充実を視野にいれる。 <br />
+					ハードだけではない、空間、サービス。クラーチは介護をデザインしています。</p>
+				<p class="btn"><a href="work/interview02.html"><img src="images/btn_more_pc.png" class="switch" alt="" style="visibility: visible;" /></a></p>
+				<div class="photo02 sp_non"><img src="images/img03_01.png" alt="" /></div>
+				<div class="deco03 sp_non"><img src="images/deco12.png" alt="" /></div>
+			</div>
+			<div id="interview03">
+				<div class="number"><img src="images/s_title03.png" alt="" /></div>
+				<div class="name"><img src="images/name03_pc.png" alt="Minako Yamamoto / クラーチファミリア佐倉 副ホーム長" class="switch" style="visibility: visible;" /></div>
+				<div class="deco01 sp_non"><img src="images/deco15.png" alt="" /></div>
+				<div class="photo01"><img src="images/img04_pc.png" alt="" class="switch" style="visibility: visible;" /></div>
+				<div class="deco02 sp_non"><img src="images/deco11.png" alt="" /></div>
+				<h3><img src="images/title_interview03.png" alt="INTERVIEW 03 クラーチブランドで“GLOBAL”に挑む" /></h3>
+				<p>アジア諸国における高齢化は、これから加速していくことが確実視されており、それに伴い私たちのビジネス展開の可能性も無限に広がっています。</p>
+				<p class="btn"><a href="work/interview03.html"><img src="images/btn_more_pc.png" alt="MORE" class="switch" style="visibility: visible;" /></a></p>
+				<div class="house sp_non"><img src="images/deco05.png" alt="" /></div>
+				<div class="deco04 sp_non"><img src="images/deco14.png" alt="" /></div>
+				<div class="photo02 sp_non"><img src="images/img04_01.png" alt="" /></div>
+			</div>
+		</div>
+	</div>
+	<div id="company_wrap">
+		<div id="company">
+			<div id="bg_company" class="sp_non"><img src="images/bg_company.jpg" alt="" /></div>
+			<h2><img src="images/title03_pc.png" alt="Company" class="switch" style="visibility: visible;" /></h2>
+			<div class="bg_frame_title sp_non"><img src="images/deco03.png" alt="" /></div>
+			<div class="bg_english sp_non"><img src="images/english03.png" alt="" /></div>
+			<ul>
+				<li><a href="company/business.html"><img src="images/com_navi01_pc.png" alt="事業案内 Business" class="switch" style="visibility: visible;" /></a></li>
+				<li><a href="company/career.html"><img src="images/com_navi02_pc.png" alt="キャリア形成支援 Career support" class="switch" style="visibility: visible;" /></a></li>
+				<li><a href="company/benefits.html"><img src="images/com_navi03_pc.png" alt="福利厚生 Welfare" class="switch" style="visibility: visible;" /></a></li>
+				<li><a href="http://www.kuraci.co.jp/company/" target="_blank"><img src="images/com_navi04_pc.png" alt="会社概要 Company Profile" class="switch" style="visibility: visible;" /></a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="recruit_wrap">
+		<div id="recruit">
+			<!--<div class="sp_non" id="bg_recruit"><img src="images/bg_recruit.png" alt=""/></div>-->
+			<h2><img src="images/title04_pc.png" alt="Recruit" class="switch" style="visibility: visible;" /></h2>
+			<div class="bg_frame_title sp_non"><img src="images/deco16.png" alt="" /></div>
+			<div class="bg_english sp_non"><img src="images/english04.png" alt="" /></div>
+			<div class="deco01 sp_non"><img src="images/deco17.png" alt="" /></div>
+			<ul>
+				<li><a href="https://job.rikunabi.com/2018/company/top/r880971056/" target="_blank"><img src="images/btn_entry01_pc.png" class="switch" alt="新卒ENTRY" style="visibility: visible;" /></a></li>
+				<li><a href="recruit/career.html"><img src="images/btn_entry02_pc.png" class="switch" alt="中途採用ページ" style="visibility: visible;" /></a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="whats_new_wrap" style="display: none;">
+		<div id="whats_new">
+			<!--<div id="bg_whats_new" class="sp_non"><img src="images/bg_new.png" alt=""/></div>-->
+			<h2><img src="images/title05_pc.png" alt="What's New" class="switch" style="visibility: visible;" /></h2>
+			<div class="bg_frame_title sp_non"><img src="images/deco16.png" alt="" /></div>
+			<div class="bg_english sp_non"><img src="images/english05.png" alt="" /></div>
+			<div class="boxset">
+				<div class="box">
+					<p class="img"><a href="https://www.kuraci.co.jp/house/medeina/funabashi/" target="_blank"><img src="news/003_pc.png" class="switch" alt="" style="visibility: visible;" /></a></p>
+					<p><a href="https://www.kuraci.co.jp/house/medeina/funabashi/" target="_blank"><span class="date">2016年6月01日</span><br />
+						千葉県船橋市に「クラーチ・メディーナ船橋」がオープンしました。<br />
+詳細はこちらをご覧ください。</a></p>
+				</div>
+				<div class="box">
+					<p class="img"><a href=""><img src="news/002_pc.png" class="switch" alt="" style="visibility: visible;" /></a></p>
+					<p><a href=""><span class="date">2016年4月22日</span><br />
+						リーダー研修を実施しました。</a></p>
+				</div>
+				<div class="box">
+					<p class="img"><a href="http://www.kuraci.co.jp/2016/04/2016%E5%B9%B4%E5%BA%A6%E3%80%80%E5%85%A5%E7%A4%BE%E5%BC%8F/" target="_blank"><img src="news/001_pc.png" class="switch" alt="" style="visibility: visible;" /></a></p>
+					<p><a href="http://www.kuraci.co.jp/2016/04/2016%E5%B9%B4%E5%BA%A6%E3%80%80%E5%85%A5%E7%A4%BE%E5%BC%8F/" target="_blank"><span class="date">2016年4月1日</span><br />
+						2016年度入社式を行いました。本年度は新卒5名、中途入社12名の総勢17名の入社となります。</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="totop"><img src="common/images/totop.png" alt="" /></div>
+	<div id="banner_area">
+		<div class="inner_box">
+			<ul>
+				<li><a href="http://capimedi.com" target="_blank"><img src="common/images/banner01.png" alt="Capital Medica" /></a></li>
+				<li style="vertical-align:top;"><a href="https://job.rikunabi.com/2018/company/r880971056/" target="new"><img src="https://job.rikunabi.com/2018/static/common/contents/logos/rikunabi/image/rn_logo_b.gif" /></a><br />
+<a href="https://job.rikunabi.com/2018/company/r880971056/" target="new" style="font-size: 10px;">リクナビの弊社画面へ</a></li>
+				<li><a href="http://www.kuraci.co.jp" target="_blank"><img src="common/images/banner03.png" alt="KURACI" /></a></li>
+			</ul>
+		</div>
+	</div>
+	<footer>
+		<div class="inner_box">
+			<ul>
+				<li><a href="http://www.kuraci.co.jp/company/" target="_blank">会社概要</a></li>
+				<li><a href="http://www.kuraci.co.jp/managementcompany/" target="_blank">運営会社について</a></li>
+				<li><a href="http://www.kuraci.co.jp/privacy/" target="_blank">プライバシーポリシー</a></li>
+			</ul>
+			<p id="logo"><img src="common/images/footer_logo.png" alt="" /></p>
+			<p>株式会社クラーチ<br />
+				03‐5501‐2911　平日 AM10:00〜PM5:00<br class="sp_br" />
+				　東京都港区虎ノ門1-2-3虎ノ門清和ビル10階</p>
+			<p id="copy">Copyright © 株式会社クラーチ採用情報 All rights Reserved. </p>
+		</div>
+	</footer>
+</div>
+
+
+
+<!-- js --> 
+<script src="common/js/jquery.js"></script> 
+<script src="common/js/util.js"></script>
+
+<script src="js/jquery.gsap.min.js"></script>
+<script src="js/TweenMax.min.js"></script>
+<script src="js/jquery.mousewheel.min.js"></script>
+<script src="js/pixi.min.js"></script>
+<script src="js/utils.js"></script>
+<script src="js/top_animation.js"></script>
+
+
+</body></html>

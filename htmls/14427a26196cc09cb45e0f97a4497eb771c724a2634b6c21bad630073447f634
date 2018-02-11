@@ -1,0 +1,661 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no" />
+
+    <meta name="keywords" content="正露丸,セイロガン糖衣A,ラッパ整腸薬BF,衛生管理製品シリーズ,二酸化,塩素,クレベリン,二酸化塩素,空間除菌,インフルエンザ,ノロウイルス,ウイルス,企業情報,リクルート,採用情報,ラッパのマーク,大幸薬品株式会社,TAIKO" />
+    <meta name="description" content="ラッパのマークの正露丸と衛生管理製品シリーズでおなじみの大幸薬品株式会社です。「正露丸の真実」や「専門家さま向けの情報」を公開しております。" />
+
+    <meta property="og:title" content="大幸薬品株式会社" />
+    <meta property="og:description" content="ラッパのマークの正露丸と衛生管理製品シリーズでおなじみの大幸薬品株式会社です。「正露丸の真実」や「専門家さま向けの情報」を公開しております。" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.seirogan.co.jp/" />
+    <meta property="og:image" content="http://www.seirogan.co.jp/asset/images/fb.jpg" />
+
+    <title>大幸薬品株式会社</title>
+
+    <link rel="icon" href="/asset/images/favicon.ico" />
+    <link rel="apple-touch-icon-precomposed" href="http://www.seirogan.co.jp/asset/images/webclip.png" />
+
+    <link href="/fw/css/common.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="/asset/css/common.css" rel="stylesheet" type="text/css" media="all" />
+
+    <link href="/asset/css/top.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="/asset/css/jquery.bxslider.css" rel="stylesheet" type="text/css" media="all" />
+
+    <script type="text/javascript" src="//penta.a.one.impact-ad.jp/combo?oid=mone.14925976faa&amp;dd_rft=k&amp;dd_jsonp=a1tracker.cb._10&amp;fu=742e1355-7bd8-4e63-bf36-d6336e751918&amp;src=http%3A%2F%2Fwww.seirogan.co.jp%2F&amp;l=en-us&amp;sr=800x600&amp;vp=2000x2000&amp;cd=24-bit&amp;tgsrc=itm_a1common&amp;mtk=%E6%AD%A3%E9%9C%B2%E4%B8%B8&amp;mtk=%E3%82%BB%E3%82%A4%E3%83%AD%E3%82%AC%E3%83%B3%E7%B3%96%E8%A1%A3A&amp;mtk=%E3%83%A9%E3%83%83%E3%83%91%E6%95%B4%E8%85%B8%E8%96%ACBF&amp;mtk=%E8%A1%9B%E7%94%9F%E7%AE%A1%E7%90%86%E8%A3%BD%E5%93%81%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA&amp;mtk=%E4%BA%8C%E9%85%B8%E5%8C%96&amp;mtk=%E5%A1%A9%E7%B4%A0&amp;mtk=%E3%82%AF%E3%83%AC%E3%83%99%E3%83%AA%E3%83%B3&amp;mtk=%E4%BA%8C%E9%85%B8%E5%8C%96%E5%A1%A9%E7%B4%A0&amp;mtk=%E7%A9%BA%E9%96%93%E9%99%A4%E8%8F%8C&amp;mtk=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6&amp;mtk=%E3%83%8E%E3%83%AD%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9&amp;mtk=%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9&amp;mtk=%E4%BC%81%E6%A5%AD%E6%83%85%E5%A0%B1&amp;mtk=%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88&amp;mtk=%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1&amp;mtk=%E3%83%A9%E3%83%83%E3%83%91%E3%81%AE%E3%83%9E%E3%83%BC%E3%82%AF&amp;mtk=%E5%A4%A7%E5%B9%B8%E8%96%AC%E5%93%81%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE&amp;mtk=TAIKO&amp;dt=%E5%A4%A7%E5%B9%B8%E8%96%AC%E5%93%81%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE" async=""></script><script async="">window.a1tracker&amp;&amp;a1tracker.ready(function(tracker){var doh="mone.14925976faa";if(!doh)return;var params={"event":"","url":"","referrer":"","metakeywords":"","callback":""};if(params.url)tracker.setParams(doh,"url",encodeURIComponent(params.url));if(params.referrer)tracker.setParams(doh,"referrer",encodeURIComponent(params.referrer));if(params.metakeywords){var mk=tracker.getParams(doh,"metakeywords");Array.prototype.push.apply(mk,params.metakeywords.split(","));tracker.setParams(doh,"metakeywords",mk)}tracker.setParams(doh,"tagsource","itm_a1common");var callback=params.callback&amp;&amp;typeof window[params.callback]==="function"?function(err,data){if(!err&amp;&amp;data.segments.length&gt;0)window[params.callback](data.segments);return}:function(){};if(params.event)tracker.send(doh,params.event.split(","),callback);else tracker.send(doh,callback)});</script><script async="" src="//img.ak.impact-ad.jp/ut/a1/tracking.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script src="/asset/js/load.js" type="text/javascript"></script><script type="text/javascript" src="/fw/js/jquery.1.11.1.js"></script><script type="text/javascript" src="/asset/js/jquery-migrate-1.2.1.js"></script><script type="text/javascript" src="/fw/js/jquery.easing.js"></script><script type="text/javascript" src="/fw/js/common.js"></script><script type="text/javascript" src="/asset/js/navigation.js"></script><script type="text/javascript" src="/asset/js/general.js"></script><script type="text/javascript" src="/asset/js/sns.js"></script>
+    <script src="/asset/js/jquery.bxslider.min.js" type="text/javascript"></script>
+    <script src="/asset/js/top.js" type="text/javascript"></script>
+    <!--[if lt IE 9]>
+        <script type="text/javascript" src="/fw/js/html5shiv-printshiv.js"></script>
+        <![endif]-->
+
+    <!-- header_code -->
+    <!-- en redirect -->
+<!-- en redirect -->
+
+<!--[if lt IE 9]>
+<link href="/asset/css/print.css" rel="stylesheet" type="text/css" media="print">
+<![endif]-->
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1960499-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-59728166-1', 'auto');
+  ga('send', 'pageview');
+</script>
+    <!-- header_code -->
+    </head>
+
+    <body id="top" class="fw">
+
+       <!-- Start body Code -->
+              <!-- Start body Code -->
+
+       <div id="pagetop">
+
+        <!-- header -->
+        <div id="navOpen"><a><span class="top"></span><span class="middle"></span><span class="bottom"></span></a></div>
+<div id="search"><a><span class="top"></span><span class="bottom"></span></a></div>
+
+<header id="header">
+    <div class="inner">
+        <figure id="logo"><a href="/"><img src="/asset/images/header/logo.jpg" alt="大幸薬品" /></a></figure>
+        <div id="gNav">
+            <div id="gnavWrap">
+                <ul>
+                    <li class="top active">
+                        <a href="/">ホーム</a>
+                    </li>
+                    <!-- ========================================================= 製品情報 -->
+                    <li class="j_dropdownNav products" id="dropId_0">
+                        <a href="/products/">製品情報</a>
+                        <div class="j_dropdownNavDetail hide" style="height: 0px;">
+                            <div class="inner">
+
+                                <div class="col">
+                                    <div class="col3">
+                                        <p class="ttl">医薬品</p>
+                                        <dl>
+                                            <dt>下痢・軟便に</dt>
+                                            <dd><a href="/products/seirogan/">正露丸</a></dd>
+                                            <dd><a href="/products/toui_a/">セイロガン糖衣Ａ</a></dd>
+                                            <dd><a href="/products/quickc/">正露丸クイックC</a></dd>
+                                        </dl>
+                                        <dl>
+                                            <dt>下痢・突然の腹痛を伴う下痢に</dt>
+                                            <dd><a href="/products/pishut_jo/">ピシャット錠</a></dd>
+                                            <dd><a href="/products/pishut_odjo/">ピシャット下痢止めＯＤ錠</a></dd>
+                                        </dl>
+                                    </div>
+                                    <div class="col3">
+                                        <p class="ttl">指定医薬部外品</p>
+                                        <dl>
+                                            <dt>おなかのハリ、便秘・軟便に</dt>
+                                            <dd><a href="/products/bf/">ラッパ整腸薬ＢＦ</a></dd>
+                                        </dl>
+                                    </div>
+                                    <div class="col3">
+                                        <p class="ttl">雑貨（一般用）</p>
+                                        <dl>
+                                            <dt>ウイルス・菌に</dt>
+                                            <dd><a href="/products/eisei/cleverin_gel.html">クレベリン ゲル</a></dd>
+                                            <dd><a href="/products/eisei/cleverin_spray.html">クレベリン スプレー</a></dd>
+                                            <dd><a href="/products/eisei/cleverin_mini_spray.html">クレベリン ミニスプレー</a></dd>
+                    		                    <dd><a href="/products/eisei/cleverin_powersabre01.html">クレベリン パワーセイバー</a></dd>
+                                            <dd><a href="/products/eisei/wellshield02.html">ウィルシールド ゲルタイプ</a></dd>
+                                            <dd><a href="/products/eisei/wellshield01.html">ウィルシールド スプレータイプ</a></dd>
+                                            <dd><a href="/products/eisei/cleverin_led.html"><span class="indent">【交換用】</span><br />クレベリン LED カートリッジ</a></dd>
+                                        </dl>
+                                        <dl>
+                                            <dt>天然成分の入浴剤</dt>
+                                            <dd><a href="/products/mokusaku/nyuyoku.html">木酢入浴液</a></dd>
+                                        </dl>
+                                    </div>
+                                    <div class="col3">
+                                        <p class="ttl">業務用</p>
+                                        <dl>
+                                            <dt>業務用クレベリン</dt>
+                                            <dd><a href="/products/eisei/cleverin_g.html">クレベリンＧ</a></dd>
+                                            <dd><a href="/products/eisei/cleverin_g_stick.html">クレベリンＧ スティックタイプ</a></dd>
+                                            <dd><a href="/products/eisei/cleverin_powersabre.html">クレベリンG パワーセイバー</a></dd>
+                                            <dd><a href="/products/eisei/cleverin_s.html">クレベリンＳ</a></dd>
+                                            <dd><a href="/products/eisei/cleverin_l.html">クレベリンＬ</a></dd>
+                                        </dl>
+
+                                        <dl>
+                                            <dt>クレベリン発生機</dt>
+                                            <dd><a href="/products/eisei/lispass_neo.html">クレベリン発生機 リスパスＮＥＯ</a></dd>
+                                            <dd><a href="/products/eisei/lispass_s2.html">クレベリン発生機 リスパスＳ-Ⅱ</a></dd>
+                                            <dd><a href="/products/eisei/aqc2.html">クレベリン発生機 ＡＱＣ２０００-Ⅱ</a></dd>
+                                        </dl>
+                                    </div>
+                                </div><!-- /.col -->
+
+                                <div class="col mt20">
+                                    <div class="col6">
+                                        <a href="/contact/faq/" class="btn btnL">よくあるご質問一覧</a>
+                                    </div>
+                                    <div class="col6">
+                                        <a href="/products/" class="btn btnL">製品一覧</a>
+                                    </div>
+                                </div>
+
+                            </div><!-- /.inner -->
+
+                        </div><!-- /.j_dropdownNavDetail -->
+                    </li>
+                    <!-- ========================================================= 製品情報 -->
+
+                    <!-- ========================================================= 学術情報 -->
+                    <li class="medical">
+                        <!-- <a href="/medical/index">学術情報</a> -->
+                        <a href="/medical/">学術情報</a>
+                    </li>
+                    <!-- ========================================================= 学術情報 -->
+
+                    <!-- ========================================================= 企業情報 -->
+                    <li class="corporate j_dropdownNav" id="dropId_1">
+                        <a href="/corporate/">企業情報</a>
+                        <div class="j_dropdownNavDetail hide" style="height: 0px;">
+                            <div class="inner">
+
+                                <div class="col">
+                                    <div class="col3">
+                                        <p class="ttl">大幸薬品が伝えたい事</p>
+                                        <dl>
+                                            <dd><a href="/corporate/company/president.html">ご挨拶</a></dd>
+                                            <dd><a href="/corporate/company/rinen.html">企業理念</a></dd>
+                                            <dd><a href="/corporate/company/vision.html">ビジョン・スローガン</a></dd>
+                                        </dl>
+                                    </div>
+                                    <div class="col3">
+                                        <p class="ttl">会社情報</p>
+                                        <dl>
+                                            <dd><a href="/corporate/company/gaiyo.html">会社概要</a></dd>
+                                            <dd><a href="/corporate/company/jigyou.html">事業内容</a></dd>
+                                            <dd><a href="/corporate/company/yakuin.html">役員</a></dd>
+                                            <dd><a href="/corporate/company/office.html">事業所・グループ会社</a></dd>
+                                            <dd><a href="/corporate/company/history.html">沿革</a></dd>
+                                            <dd><a href="/corporate/company/activity01.html">海外活動</a></dd>
+                                            <dd><a href="http://www.pronexus.co.jp/koukoku/4574/4574.html" target="_blank"><span class="blank">電子公告</span></a></dd>
+                                            <dd><a href="/corporate/company/antisocial_plan.html">反社会的勢力排除に関する方針</a></dd>
+                                        </dl>
+                                    </div>
+                                    <div class="col3">
+                                        <p class="ttl">社会・環境活動</p>
+                                        <dl>
+                                            <dd class="pb15"><a href="/corporate/environment/step.html">社会・環境活動のあゆみ</a></dd>
+                                            <dt>環境活動</dt>
+                                            <dd><a href="/corporate/environment/plan.html">環境方針</a></dd>
+                                            <dd><a href="/corporate/environment/about.html">環境活動について</a></dd>
+                                        </dl>
+                                    </div>
+                                    <div class="col3">
+                                        <img src="/asset/images/header/header_img.jpg" alt="" />
+                                    </div>
+                                </div><!-- /.col -->
+
+                            </div><!-- /.inner -->
+
+                        </div><!-- /.j_dropdownNavDetail -->
+                    </li>
+                    <!-- ========================================================= 企業情報 -->
+
+                    <!-- ========================================================= IR情報 -->
+                    <li class="ir j_dropdownNav" id="dropId_2">
+                        <a href="/ir/">IR情報</a>
+                        <div class="j_dropdownNavDetail hide" style="height: 0px;">
+                            <div class="inner">
+                                <div class="col">
+                                    <div class="col3">
+                                        <p class="ttl">IR情報</p>
+                                        <dl>
+                                            <dd><a href="/ir/ir/news.html">IRニュース一覧</a></dd>
+                                            <dd><a href="/ir/ir/calendar.html">IRスケジュール</a></dd>
+                                            <dd><a href="https://rims.tr.mufg.jp/" target="_blank"><span class="blank">メール配信サービス</span></a></dd>
+                                        </dl>
+                                    </div>
+                                    <div class="col3">
+                                        <p class="ttl">財務ハイライト</p>
+                                        <dl>
+                                            <dd><a href="/ir/ir/highlights.html">連結業績ハイライト</a></dd>
+                                            <dd><a href="/ir/ir/highlights2.html">連結財務状況</a></dd>
+                                            <dd><a href="/ir/ir/highlights3.html">連結キャッシュ・フロー</a></dd>
+                                        </dl>
+                                    </div>
+                                    <div class="col3">
+                                        <p class="ttl">IRライブラリー</p>
+                                        <dl>
+                                            <dd><a href="/ir/ir/press.html">決算短信</a></dd>
+                                            <dd><a href="/ir/ir/presentations.html">決算説明会資料</a></dd>
+                                            <dd><a href="/ir/ir/reports.html">株主通信</a></dd>
+                                            <dd><a href="/ir/ir/meeting.html">株主総会関連資料</a></dd>
+                                            <dd><a href="/ir/ir/yuho.html">有価証券報告書</a></dd>
+                                        </dl>
+                                    </div>
+                                    <div class="col3">
+                                        <p class="ttl">株式情報</p>
+                                        <dl>
+                                            <dd><a href="/ir/ir/stock.html">株式基本情報</a></dd>
+                                            <dd><a href="/ir/ir/dividends.html">配当状況</a></dd>
+                                        </dl>
+                                    </div>
+                                </div><!-- /.col -->
+
+                                <div class="col mt20">
+                                    <div class="col4">
+                                        <a href="/ir/ir/faq.html" class="btn btnL">IRに関するよくあるご質問</a>
+                                    </div>
+                                    <div class="col4">
+                                        <a href="/ir/ir/inquiry.html" class="btn btnL">IRに関するお問い合わせ</a>
+                                    </div>
+                                    <div class="col4">
+                                        <a href="/ir/ir/disclaimers.html" class="btn btnL">免責事項</a>
+                                    </div>
+                                </div>
+
+                            </div><!-- /.inner -->
+
+                        </div><!-- /.j_dropdownNavDetail -->
+                    </li>
+                    <!-- ========================================================= IR情報 -->
+
+                    <!-- ========================================================= 採用情報 -->
+                    <li>
+                        <a href="http://taiko-recruit.jp/" target="_blank">採用情報</a>
+                    </li>
+                    <!-- ========================================================= 採用情報 -->
+
+                    <!-- ========================================================= 健康情報局 -->
+                    <li class="fun j_dropdownNav" id="dropId_3">
+                        <a href="/fun/">健康情報局</a>
+                        <div class="j_dropdownNavDetail hide" style="height: 0px;">
+                            <div class="inner">
+
+                                <div class="col pt20 pb20">
+                                    <div class="col4">
+                                        <a href="/fun/stomach/" class="link">
+                                            <figure class="mb15"><img src="/asset/images/header/header_banner01.jpg" alt="おなかの悩み相談室" /></figure>
+                                            <div>
+                                                <p class="linkTtl">おなかの悩み相談室</p>
+                                                <p>「おなかのエキスパート」大幸薬品が、 あなたの健康をサポート</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="col4">
+                                        <a href="/fun/infection-control/" class="link">
+                                            <figure class="mb15"><img src="/asset/images/header/header_banner02.jpg" alt="これからの衛生管理" /></figure>
+                                            <div>
+                                                <p class="linkTtl">これからの衛生管理</p>
+                                                <p>ここちよい暮らしを支える衛生管理に 関する知識</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="col4">
+                                        <a href="/clo2/" class="link">
+                                            <figure class="mb15"><img src="/asset/images/header/header_banner03.jpg" alt="" /></figure>
+                                            <div>
+                                                <p class="linkTtl">よくわかる二酸化塩素のはなし</p>
+                                                <p>二酸化塩素分子について初めて知る方から、もっと詳しく知りたい方までご覧いただける情報サイトです。</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div><!-- /.col -->
+
+                            </div><!-- /.inner -->
+
+                        </div><!-- /.j_dropdownNavDetail -->
+                    </li>
+                    <!-- ========================================================= 健康情報局 -->
+
+                    <!-- ========================================================= お問い合わせ -->
+                    <li class="contact">
+                        <a href="/contact/">お問い合わせ</a>
+                    </li>
+                    <!-- ========================================================= お問い合わせ -->
+                </ul>
+
+                <nav id="subNav">
+                    <ul>
+                        <li class="sitemap"><a href="/sitemap.html">サイトマップ</a></li>
+                        <li class="other"><a href="/business/clo2/" target="_blank">法人の方へ</a></li>
+                        <li class="global"><a href="/foreign.html"><img src="/asset/images/icon/icon_global.png" alt="" />GLOBAL</a></li>
+                    </ul>
+                </nav><!-- /#subNav -->
+
+            </div><!-- /#gnavWrap -->
+        </div><!-- /#gNav -->
+
+        <div id="searchBox">
+            <form method="get" action="/fess/search" id="form_site_search">
+                <input type="text" name="query" id="site_search" placeholder="サイト内検索" />
+                <input type="submit" value="検 索" class="btn" />
+            </form>
+            <ul class="tb sp">
+              <li><a href="/products/seirogan/seirogan.html">正露丸・セイロガン糖衣Ａ</a></li>
+              <li><a href="/hiyakiogan/">ひやきおーがん</a></li>
+              <li><a href="/pishut_jo/">ピシャット錠</a></li>
+              <li><a href="/bf/">ラッパ整腸薬BF</a></li>
+              <li><a href="/cleverin/">クレベリン</a></li>
+            </ul>
+        </div>
+
+    </div><!-- /.inner -->
+</header>
+        <!-- header -->
+
+        <section id="container">
+
+
+            <div id="contents" class="max">
+                <!-- .mv -->
+                <div class="mv">
+                    <div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 500px;"><ul style="width: 515%; position: relative; transition-duration: 0s; transform: translate3d(-1985px, 0px, 0px);"><li class="bg02 bx-clone" style="float: left; list-style: none; position: relative; width: 1985px;"><img src="/asset/images/top/main02.jpg" alt="クレベリン" /></li>
+                        <li class="bg03" style="float: left; list-style: none; position: relative; width: 1985px;"><img src="/asset/images/top/main03_text.png" alt="世界のお客様に健康という大きな幸せを提供します" /></li>
+                        <li class="bg01" style="float: left; list-style: none; position: relative; width: 1985px;"><img src="/asset/images/top/main01.jpg" alt="正露丸" /></li>
+                        <li class="bg02" style="float: left; list-style: none; position: relative; width: 1985px;"><img src="/asset/images/top/main02.jpg" alt="クレベリン" /></li>
+                    <li class="bg03 bx-clone" style="float: left; list-style: none; position: relative; width: 1985px;"><img src="/asset/images/top/main03_text.png" alt="世界のお客様に健康という大きな幸せを提供します" /></li></ul></div><div class="bx-controls bx-has-pager"><div class="bx-pager bx-default-pager"><div class="bx-pager-item"><a href="" data-slide-index="0" class="bx-pager-link active">1</a></div><div class="bx-pager-item"><a href="" data-slide-index="1" class="bx-pager-link">2</a></div><div class="bx-pager-item"><a href="" data-slide-index="2" class="bx-pager-link">3</a></div></div></div></div>
+                </div>
+                <!-- /.mv -->
+                <section class="productSlider">
+                    <div class="inner">
+                        <h2 class="normal">製品ブランドサイト<a href="/products/genre.html" class="link">一覧へ</a></h2>
+                    </div>
+                    <div>
+                        <div class="bx-wrapper" style="max-width: 1020px; margin: 0px auto;"><div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 221px;"><ul style="width: 715%; position: relative; transition-duration: 0s; transform: translate3d(-1020px, 0px, 0px);"><li style="float: left; list-style: none; position: relative; width: 204px;" class="bx-clone"><a href="/seirogan/"><img src="/asset/images/product/top_slider_seirogan.png" alt="正露丸 セイロガン糖衣Ａクイック 正露丸クイックC" /><span class="double">正露丸<br />セイロガン糖衣Ａ<br />正露丸クイックC</span></a></li><li style="float: left; list-style: none; position: relative; width: 204px;" class="bx-clone"><a href="/pishut_jo/"><img src="/asset/images/product/top_slider_pishut_jo.png" alt="ピシャット錠" /><span>ピシャット錠</span></a></li><li style="float: left; list-style: none; position: relative; width: 204px;" class="bx-clone"><a href="/pishut_odjo/"><img src="/asset/images/product/top_slider_pishut_odjo.png" alt="ピシャット下痢止めＯＤ錠" /><span>ピシャット下痢止めＯＤ錠</span></a></li><li style="float: left; list-style: none; position: relative; width: 204px;" class="bx-clone"><a href="/bf/"><img src="/asset/images/product/top_slider_bf.png" alt="ラッパ整腸薬BF" /><span>ラッパ整腸薬BF</span></a></li><li style="float: left; list-style: none; position: relative; width: 204px;" class="bx-clone"><a href="/cleverin/"><img src="/asset/images/product/top_slider_cleverin.png" alt="クレベリン" /><span>クレベリン</span></a></li>
+                            <li style="float: left; list-style: none; position: relative; width: 204px;"><a href="/seirogan/"><img src="/asset/images/product/top_slider_seirogan.png" alt="正露丸 セイロガン糖衣Ａクイック 正露丸クイックC" /><span class="double">正露丸<br />セイロガン糖衣Ａ<br />正露丸クイックC</span></a></li>
+                            <li style="float: left; list-style: none; position: relative; width: 204px;"><a href="/pishut_jo/"><img src="/asset/images/product/top_slider_pishut_jo.png" alt="ピシャット錠" /><span>ピシャット錠</span></a></li>
+                            <li style="float: left; list-style: none; position: relative; width: 204px;"><a href="/pishut_odjo/"><img src="/asset/images/product/top_slider_pishut_odjo.png" alt="ピシャット下痢止めＯＤ錠" /><span>ピシャット下痢止めＯＤ錠</span></a></li>
+                            <li style="float: left; list-style: none; position: relative; width: 204px;"><a href="/bf/"><img src="/asset/images/product/top_slider_bf.png" alt="ラッパ整腸薬BF" /><span>ラッパ整腸薬BF</span></a></li>
+                            <li style="float: left; list-style: none; position: relative; width: 204px;"><a href="/cleverin/"><img src="/asset/images/product/top_slider_cleverin.png" alt="クレベリン" /><span>クレベリン</span></a></li>
+
+                        <li style="float: left; list-style: none; position: relative; width: 204px;" class="bx-clone"><a href="/seirogan/"><img src="/asset/images/product/top_slider_seirogan.png" alt="正露丸 セイロガン糖衣Ａクイック 正露丸クイックC" /><span class="double">正露丸<br />セイロガン糖衣Ａ<br />正露丸クイックC</span></a></li><li style="float: left; list-style: none; position: relative; width: 204px;" class="bx-clone"><a href="/pishut_jo/"><img src="/asset/images/product/top_slider_pishut_jo.png" alt="ピシャット錠" /><span>ピシャット錠</span></a></li><li style="float: left; list-style: none; position: relative; width: 204px;" class="bx-clone"><a href="/pishut_odjo/"><img src="/asset/images/product/top_slider_pishut_odjo.png" alt="ピシャット下痢止めＯＤ錠" /><span>ピシャット下痢止めＯＤ錠</span></a></li><li style="float: left; list-style: none; position: relative; width: 204px;" class="bx-clone"><a href="/bf/"><img src="/asset/images/product/top_slider_bf.png" alt="ラッパ整腸薬BF" /><span>ラッパ整腸薬BF</span></a></li><li style="float: left; list-style: none; position: relative; width: 204px;" class="bx-clone"><a href="/cleverin/"><img src="/asset/images/product/top_slider_cleverin.png" alt="クレベリン" /><span>クレベリン</span></a></li></ul></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev" href="">Prev</a><a class="bx-next" href="">Next</a></div></div></div>
+                    </div><!-- //.slider -->
+
+                </section><!-- //.inner -->
+
+                <section>
+                    <h2 class="arrow mb0">健康情報局</h2>
+                    <ul class="col colMg0 colMb0 topBnr">
+                        <li class="col6"><a href="/fun/stomach/"><img src="/asset/images/top/banner_infection-control.png" alt="おなかの悩み相談室" /></a></li>
+                        <li class="col6"><a href="/fun/infection-control/"><img src="/asset/images/top/banner_stomach.png" alt="これからの衛生管理" /></a></li>
+                    </ul>
+
+                    <section class="section newsBox">
+                        <div class="inner">
+                            <div class="col">
+                                <div class="news">
+                                    <h2 class="normal">最新のお知らせ<a href="/press/index" class="link">プレスルームへ</a></h2>
+                                    <dl>
+                                                                                    <dt><span class="date">2018.2.9</span><span class="newsInfo">お知らせ</span></dt>
+                                            <dd>
+                                                <a href="/press/info/index/2018?id=arrival_470" class="" target="_self">IR情報が更新されました                                                                                                </a>
+                                            </dd>
+                                                                                    <dt><span class="date">2018.2.9</span><span class="newsInfo">お知らせ</span></dt>
+                                            <dd>
+                                                <a href="http://v4.eir-parts.net/v4Contents/View.aspx?cat=tdnet&amp;sid=1554343" class="blank" target="_blank">【IR情報】平成30年3月期配当予想の修正（増配）に関するお知らせ                                                                                                </a>
+                                            </dd>
+                                                                                    <dt><span class="date">2017.12.6</span><span class="newsPress">プレスリリース</span></dt>
+                                            <dd>
+                                                <a href="/uploads/arrival/pdf_468.pdf" class="" target="_blank">『クレベリン』に、障がいのあるアーティストが描いた「だんだんボックス」パッケージが登場                                                (<img src="/asset/images/icon/icon_pdf.png" alt="" />372KB)                                                </a>
+                                            </dd>
+                                                                                    <dt><span class="date">2017.12.1</span><span class="newsMedia">メディア情報</span></dt>
+                                            <dd>
+                                                <a href="/press/media/index/2017?id=arrival_467" class="" target="_self">テレビ東京「Newsモーニングサテライト」で『クレベリン』が紹介されました。                                                                                                </a>
+                                            </dd>
+                                                                                    <dt><span class="date">2017.11.28</span><span class="newsPress">プレスリリース</span></dt>
+                                            <dd>
+                                                <a href="/uploads/arrival/pdf_465.pdf" class="" target="_blank">大幸薬品のクレベリン技術をドウシシャの「ふとん＆衣類乾燥機」に提供　クレベリンLED搭載、製薬会社の乾燥機が新登場                                                (<img src="/asset/images/icon/icon_pdf.png" alt="" />306KB)                                                </a>
+                                            </dd>
+                                                                            </dl>
+                                </div>
+                                <div class="banner">
+                                    <ul>
+                                        <li class="col4"><a href="/business/clo2/" target="_blank"><span>業務用<br class="sp" />
+                                            衛生管理</span><img src="/asset/images/top/banner_cm.png" alt="企業・法人向け 業務用衛生管理" /></a></li>
+                                            <li class="col4"><a href="/medical/auth.html"><span>学術情報</span><img src="/asset/images/top/banner_medical.png" alt="医療関係者の皆様へ" /></a></li>
+                                            <li class="col4"><a href="/cleverin_led/"><span>クレベリン LED</span><img src="/asset/images/top/banner_cleverin_led.png" alt="クレベリン LED" /></a></li>
+                                            <li class="cm col4"><a href="/cm/"><span>CM情報</span></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section><!-- //.inner -->
+
+                        </section>
+
+
+                        <section class="section about">
+                            <div class="inner">
+                                <div class="col">
+                                    <div class="colInner"><h2>大幸薬品について</h2>
+                                        <div><a href="/corporate/"><img src="/asset/images/top/about_img_corporate.png" alt="企業情報" /><h3>企業情報</h3></a></div>
+                                        <div><a href="/ir/"><img src="/asset/images/top/about_img_ir.png" alt="IR情報" /><h3>IR情報</h3></a></div>
+                                        <div><a href="http://taiko-recruit.jp/" target="_blank"><img src="/asset/images/top/about_img_recruit.png" alt="採用情報" /><h3>採用情報</h3></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+
+                        <section class="section pickup">
+                            <div class="inner">
+                                <h2>ピックアップ</h2>
+                                <div class="col notBreak">
+                                    <div>
+                                        <a href="/cleverin/2min/" class="popupWin">
+                                            <figure><img src="/asset/images/top/pickup_img_co2.png" alt="2分でわかる！二酸化塩素" /></figure>
+                                            <div>
+                                                <h3>2分でわかる！二酸化塩素</h3>
+                                                <p>「二酸化塩素ってなぁに？」<br />
+                                                    皆さんの疑問をマンガでわかりやすく解説しました。
+                                                </p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div>
+                                        <a href="/cleverin/recommend.html" target="_blank">
+                                            <figure><img src="/asset/images/top/pickup_img_cleverin.jpg" alt="クレベリンはどこで使えるの？" /></figure>
+                                            <div>
+                                                <h3>クレベリンはどこで使えるの？</h3>
+                                                <p>製品タイプ別にどこで使えるか、イラスト付きでご紹介。</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div>
+                                        <a href="/products/seirogan/various/factory.html">
+                                            <figure><img src="/asset/images/top/pickup_img_seirogan.png" alt="『正露丸』ができるまで" /></figure>
+                                            <div>
+                                                <h3>『正露丸』ができるまで</h3>
+                                                <p>正露丸がどのようにつくられるか、工場長と一緒に見学してみよう。</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div>
+                                        <a href="/bf/yoga/">
+                                            <figure><img src="/asset/images/top/pickup_img_yoga.png" alt="おなかに効くヨガにチャレンジ" /></figure>
+                                            <div>
+                                                <h3>おなかに効くヨガにチャレンジ</h3>
+                                                <p>ヨガのポーズを覚えて、あなたも"快腸"生活をめざしましょう。</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+
+                    </div><!-- //#contents -->
+
+
+                </section><!-- //#container -->
+
+                <!-- footer -->
+                <div class="pagetop fixed"><a href="#"><img class="off" src="/asset/images/arrow/arrow_top_g.png" alt="" /><img class="on" src="/asset/images/arrow/arrow_top_r.png" alt="" /></a></div>
+
+<footer id="footer">
+
+	<div class="top innerL">
+		<nav>
+			<div class="left">
+				<p class="ttl"><a href="/products/">製品情報</a></p>
+				<div class="col">
+					<div class="col6">
+		                <dl>
+		                    <dt>医薬品</dt>
+		                    <dd><a href="/products/seirogan/">正露丸</a></dd>
+		                    <dd><a href="/products/toui_a/">セイロガン糖衣Ａ</a></dd>
+                            <dd><a href="/products/quickc/">正露丸クイックC</a></dd>
+		                    <dd><a href="/products/pishut_jo/">ピシャット錠</a></dd>
+							<dd><a href="/products/pishut_odjo/">ピシャット下痢止めＯＤ錠</a></dd>
+		                </dl>
+		                <dl>
+		                    <dt>指定医薬部外品</dt>
+		                    <dd><a href="/products/bf/">ラッパ整腸薬ＢＦ</a></dd>
+		                </dl>
+		                <dl>
+		                    <dt>日用雑貨</dt>
+		                    <dd><a href="/products/mokusaku/nyuyoku.html">木酢入浴液</a></dd>
+		                </dl>
+		            </div>
+
+					<div class="col6">
+		                <dl>
+		                    <dt>衛生管理製品　一般用</dt>
+		                    <dd><a href="/products/eisei/cleverin_gel.html">クレベリン ゲル</a></dd>
+		                    <dd><a href="/products/eisei/cleverin_spray.html">クレベリン スプレー</a></dd>
+		                    <dd><a href="/products/eisei/cleverin_mini_spray.html">クレベリン ミニスプレー</a></dd>
+		                    <dd><a href="/products/eisei/cleverin_powersabre01.html">クレベリン パワーセイバー</a></dd>
+		                    <dd><a href="/products/eisei/wellshield02.html">ウィルシールド ゲルタイプ</a></dd>
+		                    <dd><a href="/products/eisei/wellshield01.html">ウィルシールド スプレータイプ</a></dd>
+												<dd><a href="/products/eisei/cleverin_led.html"><span class="indent">【交換用】</span><br />クレベリン LED カートリッジ</a></dd>
+		                </dl>
+		                <dl>
+		                    <dt>衛生管理製品　業務用</dt>
+		                    <dd><a href="/products/eisei/lispass_neo.html">クレベリン発生機 リスパスＮＥＯ</a></dd>
+		                    <dd><a href="/products/eisei/lispass_s2.html">クレベリン発生機 リスパスＳ-Ⅱ</a></dd>
+		                    <dd><a href="/products/eisei/aqc2.html">クレベリン発生機 ＡＱＣ２０００-Ⅱ</a></dd>
+		                    <dd><a href="/products/eisei/cleverin_g.html">クレベリンＧ</a></dd>
+		                    <dd><a href="/products/eisei/cleverin_g_stick.html">クレベリンＧ スティックタイプ</a></dd>
+		                    <dd><a href="/products/eisei/cleverin_powersabre.html">クレベリンG パワーセイバー</a></dd>
+		                    <dd><a href="/products/eisei/cleverin_s.html">クレベリンＳ</a></dd>
+		                    <dd><a href="/products/eisei/cleverin_l.html">クレベリンＬ</a></dd>
+		                </dl>
+		            </div>
+				</div>
+
+			</div>
+			<div class="right">
+				<p class="ttl"><a href="/corporate/">企業情報</a></p>
+                <ul>
+					<li><a href="/corporate/company/president.html">ご挨拶</a></li>
+					<li><a href="/corporate/company/rinen.html">企業理念</a></li>
+					<li><a href="/corporate/company/vision.html">ビジョン・スローガン</a></li>
+					<li><a href="/corporate/company/gaiyo.html">会社概要</a></li>
+					<li><a href="/corporate/company/jigyou.html">事業内容</a></li>
+					<li><a href="/corporate/company/yakuin.html">役員</a></li>
+					<li><a href="/corporate/company/office.html">事業所・グループ会社</a></li>
+					<li><a href="/corporate/company/history.html">沿革</a></li>
+					<li><a href="/corporate/company/activity01.html">海外活動</a></li>
+					<li><a href="http://www.pronexus.co.jp/koukoku/4574/4574.html" target="_blank" class="blank">電子公告</a></li>
+					<li><a href="/corporate/company/antisocial_plan.html">反社会的勢力排除に関する方針</a></li>
+					<li><a href="/corporate/environment/step.html">社会・環境活動のあゆみ</a></li>
+					<li><a href="/corporate/environment/plan.html">環境方針</a></li>
+					<li><a href="/corporate/environment/about.html">環境活動について</a></li>
+                </ul>
+			</div>
+
+			<div class="right">
+				<p class="ttl"><a href="/ir/">IR情報</a></p>
+                <ul>
+					<li><a href="/ir/ir/news.html">IRニュース一覧</a></li>
+					<li><a href="/ir/ir/calendar.html">IRスケジュール</a></li>
+					<li><a href="https://rims.tr.mufg.jp/" target="_blank" class="blank">メール配信サービス</a></li>
+					<li><a href="/ir/ir/highlights.html">連結業績ハイライト</a></li>
+					<li><a href="/ir/ir/highlights2.html">連結財政状況</a></li>
+					<li><a href="/ir/ir/highlights3.html">連結キャッシュ・フロー</a></li>
+					<li><a href="/ir/ir/press.html">決算短信</a></li>
+					<li><a href="/ir/ir/presentations.html">決算説明会資料</a></li>
+					<li><a href="/ir/ir/reports.html">株主通信</a></li>
+					<li><a href="/ir/ir/meeting.html">株主総会関連資料</a></li>
+					<li><a href="/ir/ir/yuho.html">有価証券報告書</a></li>
+					<li><a href="/ir/ir/stock.html">株式基本情報</a></li>
+					<li><a href="/ir/ir/dividends.html">配当状況</a></li>
+					<li><a href="/ir/ir/faq.html">IRに関するよくあるご質問</a></li>
+					<li><a href="/ir/ir/inquiry.html">IRに関するお問い合わせ</a></li>
+					<li><a href="/ir/ir/disclaimers.html">免責事項</a></li>
+                </ul>
+			</div>
+			<div class="right">
+				<p class="ttl"><a href="http://taiko-recruit.jp/" target="_blank" class="blank">採用情報</a></p>
+				<!-- <p class="ttl"><a href="/medical/">学術情報</a></p> -->
+				<p class="ttl"><a href="/medical/">学術情報</a></p>
+				<p class="ttl"><a href="/fun/">健康情報局</a></p>
+				<p class="ttl"><a href="/cm/">CM情報</a></p>
+				<p class="ttl"><a href="/contact/">お問い合わせ</a></p>
+				<p class="ttl"><a href="/foreign.html">GLOBAL</a></p>
+				<p class="ttl"><a href="/sitemap.html">サイトマップ</a></p>
+				<p class="ttl"><a href="/business/clo2/" target="_blank">法人の方へ</a></p>
+				<p class="ttl"><a href="/press/index">プレスルーム</a></p>
+			</div>
+		</nav>
+	</div>
+
+	<div class="middle">
+		<div class="innerL">
+		<figure><a href="http://chlorinedioxide.or.jp/" target="_blank"><img src="/asset/images/footer/footer_banner.jpg" alt="社団法人日本二酸化塩素工業会" /></a></figure>
+		</div>
+	</div>
+
+	<div class="bottom">
+		<div class="innerL">
+			<div class="col">
+				<div class="left">
+
+					<nav>
+						<a href="/guide.html">ご利用規約</a>
+						<a href="/privacy.html" class="large">プライバシーポリシー</a>
+						<a href="/sitemap.html" class="sitemap">サイトマップ</a>
+					</nav>
+
+				</div>
+				<div class="right">
+
+					<div class="text">
+						<p id="address">Copyright(C) Taiko Pharmaceutical Co.,Ltd. <br class="tb sp" />All Rights Reserved.</p>
+						<p>このサイトは日本の法令に準拠して作成されています。</p>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+</footer>
+                <!-- footer -->
+
+            </div>
+
+            <!-- End body Code -->
+                        <!-- End body Code -->
+
+            
+            <script type="text/javascript" charset="UTF-8">document.write(unescape("%3Cscript src='//img.ak.impact-ad.jp/ut/mone.14925976faa_1495.js' type='text/javascript' charset='UTF-8' %3E%3C/script%3E"));</script><script src="//img.ak.impact-ad.jp/ut/mone.14925976faa_1495.js" type="text/javascript" charset="UTF-8"></script>
+
+        
+
+        
+<div id="itm_1495" style="visibility: hidden; display: none;"></div><img src="//m.one.impact-ad.jp/pix?p=206&amp;cust2=5015&amp;t=i" style="display: none;" /><iframe id="aopb_mone.14925976faa" frameborder="0" scrolling="no" width="1" height="1" style="display: none" src="http://img.ak.impact-ad.jp/ut/pb.html"></iframe><img src="//aw.dw.impact-ad.jp/ut/rep?u=1495&amp;v=2&amp;r=http%3A%2F%2Fwww.seirogan.co.jp%2F&amp;t=902" style="display: none;" /></body></html>

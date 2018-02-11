@@ -1,0 +1,316 @@
+<!DOCTYPE html><!--[if IE 6]>
+<html id="ie6" dir="ltr" lang="ja">
+<![endif]--><!--[if IE 7]>
+<html id="ie7" dir="ltr" lang="ja">
+<![endif]--><!--[if IE 8]>
+<html id="ie8" dir="ltr" lang="ja">
+<![endif]--><!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!--><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="ja"><!--<![endif]--><head><style type="text/css">.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}
+</style><link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700" /><style type="text/css">.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px}
+</style><style type="text/css">@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style type="text/css">.gm-style-pbc{transition:opacity ease-in-out;background-color:rgba(0,0,0,0.45);text-align:center}.gm-style-pbt{font-size:22px;color:white;font-family:Roboto,Arial,sans-serif;position:relative;margin:0;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}
+</style>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>春日市白水ヶ丘の内科｜ながの内科</title>
+<meta name="description" content="福岡県春日市白水ヶ丘の内科・皮膚科医 ながの内科のホームページです。地域の皆様に愛される医院になるよう日々努めています。" />
+<link rel="apple-touch-icon-precomposed" href="/_ico/icon.png" /> 
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<meta name="viewport" content="width=1200" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.naganonaika.com/feed" />
+<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.naganonaika.com/feed/rss" />
+<link rel="alternate" type="application/atom+xml" title="Atom 1.0" href="http://www.naganonaika.com/feed/atom" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.naganonaika.com/index.rdf" />
+<link rel="stylesheet" href="http://www.naganonaika.com/wp-content/themes/naganonaika/style.css" type="text/css" />
+<link rel="stylesheet" href="http://www.naganonaika.com/wp-content/themes/naganonaika/css/font-awesome.css" type="text/css" />
+<link href="http://www.naganonaika.com/wp-content/themes/naganonaika/css/index.css" rel="stylesheet" type="text/css" />
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/ja_JP/all.js#xfbml=1&amp;appId=226363100890219"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>	
+<!--[if lte IE 9]>
+<script type="text/javascript" src="http://www.naganonaika.com/wp-content/themes/naganonaika/js/DOMAssistantCompressed-2.8.1.js"></script>
+<script type="text/javascript" src="http://www.naganonaika.com/wp-content/themes/naganonaika/js/ie-css3.js"></script>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!--[if !IE]><!-->
+<link rel="stylesheet" href="http://www.naganonaika.com/wp-content/themes/naganonaika/css/modern.css" type="text/css" />
+<!--<![endif]-->
+<!--[if lte IE 8]>
+<script type="text/javascript" src="http://www.naganonaika.com/wp-content/themes/naganonaika/js/jquery.belatedPNG.min.js"></script>
+<script type="text/javascript">
+$('.png').fixPng();
+</script>
+<link rel="stylesheet" href="http://www.naganonaika.com/wp-content/themes/naganonaika/css/ielte8.css" type="text/css" />
+<![endif]-->
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.cycle2/20130801/jquery.cycle2.min.js"></script>
+<script type="text/javascript" src="http://www.naganonaika.com/wp-content/themes/naganonaika/js/init.js"></script>
+<meta property="og:title" content="春日市白水ヶ丘の内科｜ながの内科" />
+<meta property="og:description" content="福岡県春日市白水ヶ丘の内科・皮膚科医 ながの内科のホームページです。地域の皆様に愛される医院になるよう日々努めています。" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.naganonaika.com/" />
+<meta property="og:image" content="/_ico/icon.png" />
+<meta property="og:site_name" content="春日市白水ヶ丘の内科｜ながの内科" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="fb:app_id" content="226363100890219" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46983262-2', 'naganonaika.com');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" charset="UTF-8" src="http://maps.googleapis.com/maps-api-v3/api/js/31/8a/common.js"></script><script type="text/javascript" charset="UTF-8" src="http://maps.googleapis.com/maps-api-v3/api/js/31/8a/map.js"></script><script type="text/javascript" charset="UTF-8" src="http://maps.googleapis.com/maps-api-v3/api/js/31/8a/util.js"></script><script type="text/javascript" charset="UTF-8" src="http://maps.googleapis.com/maps-api-v3/api/js/31/8a/marker.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://platform.twitter.com/js/button.5f64a1a5864e1229f84c8defd65341b4.js"></script><style type="text/css">.gm-style {
+        font: 400 11px Roboto, Arial, sans-serif;
+        text-decoration: none;
+      }
+      .gm-style img { max-width: none; }</style><script type="text/javascript" charset="UTF-8" src="http://maps.googleapis.com/maps-api-v3/api/js/31/8a/onion.js"></script><script type="text/javascript" charset="UTF-8" src="http://maps.googleapis.com/maps/api/js/ViewportInfoService.GetViewportInfo?1m6&amp;1m2&amp;1d33.46109390258789&amp;2d130.4153537750244&amp;2m2&amp;1d33.56374740600586&amp;2d130.4765510559082&amp;2u14&amp;4sen-US&amp;5e0&amp;6sm%40410000000&amp;7b0&amp;8e0&amp;callback=_xdc_._ifhke4&amp;token=100806"></script><script type="text/javascript" charset="UTF-8" src="http://maps.googleapis.com/maps-api-v3/api/js/31/8a/controls.js"></script><script type="text/javascript" charset="UTF-8" src="http://maps.googleapis.com/maps/vt?pb=!1m4!1m3!1i14!2i14128!3i6570!1m4!1m3!1i14!2i14128!3i6571!1m4!1m3!1i14!2i14129!3i6570!1m4!1m3!1i14!2i14129!3i6571!1m4!1m3!1i14!2i14128!3i6572!1m4!1m3!1i14!2i14129!3i6572!2m3!1e0!2sm!3i410109165!3m14!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5oOiMwMGZmZDV8cC5sOjEzLHAuczotNDk!4e3!12m1!5b1&amp;callback=_xdc_._2nwrrt&amp;token=74488"></script><script type="text/javascript" charset="UTF-8" src="http://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttp%3A%2F%2Fwww.naganonaika.com%2F&amp;callback=_xdc_._myhdlk&amp;token=69963"></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, "hiragino kaku gothic pro",meiryo,"ms pgothic",sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset&gt;div{overflow:hidden}.fb_link img{border:none}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_loader{background-color:#f6f7f9;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title&gt;span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29487d;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f9;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}
+.fb_customer_chat_bounce_in{animation-duration:250ms;animation-name:fb_bounce_in}.fb_customer_chat_bounce_out{animation-duration:250ms;animation-name:fb_fade_out}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}.fb_mobile_overlay_active{height:100%;overflow:hidden;position:fixed;width:100%}@keyframes fb_fade_out{from{opacity:1}to{opacity:0}}@keyframes fb_bounce_in{0%{opacity:0;transform:scale(.8, .8);transform-origin:100% 100%}10%{opacity:.1}20%{opacity:.2}30%{opacity:.3}40%{opacity:.4}50%{opacity:.5}60%{opacity:.6}70%{opacity:.7}80%{opacity:.8;transform:scale(1.03, 1.03)}90{opacity:.9}100%{opacity:1;transform:scale(1, 1)}}</style></head>
+<body id="index" class="home page-template-default page page-id-15">
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_http" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_http" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="http://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#channel=f12624462e9b69&amp;origin=http%3A%2F%2Fwww.naganonaika.com" style="border: none;"></iframe><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#channel=f12624462e9b69&amp;origin=http%3A%2F%2Fwww.naganonaika.com" style="border: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f3f78bb9affe61c" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" src="https://www.facebook.com/connect/ping?client_id=226363100890219&amp;domain=www.naganonaika.com&amp;origin=1&amp;redirect_uri=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FlY4eZXm_YWu.js%3Fversion%3D42%23cb%3Df87467aaed4fa4%26domain%3Dwww.naganonaika.com%26origin%3Dhttp%253A%252F%252Fwww.naganonaika.com%252Ff12624462e9b69%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey" style="display: none;"></iframe></div></div></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/all.js#xfbml=1&amp;appId=226363100890219";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="wrapper">
+    <div class="headWrap" style="opacity: 100; transform: translate(0px, 50px);">
+                <div class="headCopySet">
+            <h2><img class="png" src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/index/copy.png" alt="適切な診療を適切に" /></h2>
+            <h3><img class="png" src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/index/sholder.png" alt="福岡県春日市白水ヶ丘の三角屋根の内科" /></h3>    	
+        </div><!-- headCopySet END -->
+        <div class="slider cycle-slideshow" data-cycle-fx="fade" data-cycle-timeout="4000" data-cycle-speed="800" data-cycle-delay="3000"><img class="png cycle-slide cycle-sentinel" src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/index/img_sld1.png" alt="ながの内科 イメージ1" style="position: static; top: 0px; left: 0px; z-index: 100; opacity: 1; visibility: hidden; display: block;" />
+        	
+        	
+        	
+        	
+        	
+        <img class="png cycle-slide cycle-slide-active" src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/index/img_sld1.png" alt="ながの内科 イメージ1" style="position: absolute; top: 0px; left: 0px; z-index: 100; opacity: 1;" /><img class="png cycle-slide" src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/index/img_sld2.png" alt="ながの内科 イメージ2" style="position: absolute; top: 0px; left: 0px; z-index: 99; display: none;" /><img class="png cycle-slide" src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/index/img_sld3.png" alt="ながの内科 イメージ3" style="position: absolute; top: 0px; left: 0px; z-index: 97; display: none;" /><img class="png cycle-slide" src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/index/img_sld4.png" alt="ながの内科 イメージ4" style="position: absolute; top: 0px; left: 0px; z-index: 96; display: none;" /><img class="png cycle-slide" src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/index/img_sld5.png" alt="ながの内科 イメージ5" style="position: absolute; top: 0px; left: 0px; z-index: 95; display: none;" /></div><!-- slider END -->
+        <div class="snsWrap">
+            <div class="facebook fb-like fb_iframe_widget" data-href="http://www.naganonaika.com" data-layout="standard" data-action="like" data-show-faces="false" data-share="false" fb-xfbml-state="rendered" fb-iframe-plugin-query="action=like&amp;app_id=226363100890219&amp;container_width=70&amp;href=http%3A%2F%2Fwww.naganonaika.com%2F&amp;layout=standard&amp;locale=ja_JP&amp;sdk=joey&amp;share=false&amp;show_faces=false"><span style="vertical-align: bottom; width: 450px; height: 28px;"><iframe name="f1ce75688c3ecc" width="1000px" height="1000px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:like Facebook Social Plugin" src="https://www.facebook.com/plugins/like.php?action=like&amp;app_id=226363100890219&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FlY4eZXm_YWu.js%3Fversion%3D42%23cb%3Df2f0f80d1da174c%26domain%3Dwww.naganonaika.com%26origin%3Dhttp%253A%252F%252Fwww.naganonaika.com%252Ff12624462e9b69%26relation%3Dparent.parent&amp;container_width=70&amp;href=http%3A%2F%2Fwww.naganonaika.com%2F&amp;layout=standard&amp;locale=ja_JP&amp;sdk=joey&amp;share=false&amp;show_faces=false" style="border: none; visibility: visible; width: 450px; height: 28px;" class=""></iframe></span></div>
+            <div class="twitter"><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" title="Twitter Tweet Button" src="https://platform.twitter.com/widgets/tweet_button.36c0c29c73929bf937f4c70adb1a29e4.ja.html#dnt=false&amp;hashtags=naganonaika&amp;id=twitter-widget-0&amp;lang=ja&amp;original_referer=http%3A%2F%2Fwww.naganonaika.com%2F&amp;size=m&amp;text=%E6%98%A5%E6%97%A5%E5%B8%82%E7%99%BD%E6%B0%B4%E3%83%B6%E4%B8%98%E3%81%AE%E5%86%85%E7%A7%91%EF%BD%9C%E3%81%AA%E3%81%8C%E3%81%AE%E5%86%85%E7%A7%91&amp;time=1518320888448&amp;type=share&amp;url=http%3A%2F%2Fwww.naganonaika.com%2F" style="position: static; visibility: visible; width: 67px; height: 20px;"></iframe>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div>
+        </div><!-- snsWrap END -->
+                <header class="clearfix page-header">
+            <div class="inner">
+                <h1><a href="http://www.naganonaika.com/" title="福岡県春日市 ながの内科" style="opacity: 1;"><img class="png" src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/share/logo.png" alt="ながの内科" /></a></h1>
+                <nav class="gnav">
+                    <ul>
+                    	<li><a href="http://www.naganonaika.com/information" title="お知らせ" style="opacity: 1;"><img class="png" src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/share/gnavi1.gif" alt="お知らせ" /></a></li>
+                    	<li><a href="http://www.naganonaika.com/naganonaika" title="当院について" style="opacity: 1;"><img class="png" src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/share/gnavi2.gif" alt="当院について" /></a></li>
+                    	<li><a href="http://www.naganonaika.com/clinic" title="院内紹介" style="opacity: 1;"><img class="png" src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/share/gnavi3.gif" alt="院内紹介" /></a></li>
+                    	<li><a href="http://www.naganonaika.com/doctor" title="院長紹介" style="opacity: 1;"><img class="png" src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/share/gnavi4.gif" alt="院長紹介" /></a></li>
+                    	<li class="snavBase">
+                    		<img class="png" src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/share/gnavi5.gif" alt="診療について" />
+                    		<ul class="snav" style="display: none;">
+                    			<li><a href="http://www.naganonaika.com/medical" title="診療について">診療について</a></li>
+                    			<li><a href="http://www.naganonaika.com/non-insured" title="保険外診療について">保険外診療について</a></li>
+                    		</ul>
+                    	</li>
+                    	<li><a href="http://www.naganonaika.com/medicine" title="処方について" style="opacity: 1;"><img class="png" src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/share/gnavi6.gif" alt="処方について" /></a></li>
+                    </ul>
+                </nav><!-- gnav END -->
+            </div><!-- inner END -->
+        </header>
+    </div>
+        <div class="mainContents clearfix" style="opacity: 100;">        <section class="clearfix sec1">
+            <div class="fL">
+                <h1 class="titDash"><img class="png" src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/index/tit1.gif" alt="患者さんの顔を見ながらの診療を行います。" /></h1>
+                <span>顔を見て話をきき、<br />
+                対話を重ねることを大切にしています。</span>
+            </div>
+            <div class="fR">
+            	<ul>
+            		<li><a href="http://www.naganonaika.com/naganonaika" title="ながの内科について" style="opacity: 1;">当院について</a></li>
+            		<li><a href="http://www.naganonaika.com/clinic" title="院内紹介" style="opacity: 1;">院内紹介</a></li>
+            		<li><a href="http://www.naganonaika.com/doctor" title="医師紹介" style="opacity: 1;">医師紹介</a></li>
+            		<li><a href="http://www.naganonaika.com/medical" title="診療について" style="opacity: 1;">診療について</a></li>
+            		<li><a href="http://www.naganonaika.com/non-insured" title="保険外診療について" style="opacity: 1;">保険外診療について</a></li>
+            		<li><a href="http://www.naganonaika.com/medicine" title="院内処方について" style="opacity: 1;">院内処方について</a></li>
+            	</ul>
+            </div><!-- fR END -->
+        </section><!-- sec1 END -->
+        <section class="information">
+            <h1><img src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/index/tit_jp1.gif" alt="おしらせ" /></h1>
+            <h2><img src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/index/tit_en1.gif" alt="information" /></h2>
+            <em class=" btnInfo"><a class="btnBorder" href="http://www.naganonaika.com/information" title="お知らせ 一覧へ" style="opacity: 1;"><img src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/index/btn_information.gif" alt="お知らせ 一覧へ" /></a></em>
+            <div class="clearfix">
+        		        		                    <article>
+                        <p class="thumb"><a href="http://www.naganonaika.com/archives/355" title="＜内科から＞インフルエンザを早く見つけよう！！ 詳細ページへ" style="opacity: 1;"><img width="212" height="150" src="http://www.naganonaika.com/wp-content/uploads/2015/05/b7955e9ce796d7535347c70b39554696-212x150.png" class="attachment-indexThumb size-indexThumb wp-post-image" alt="" /></a></p>
+                        <strong class="tit"><a href="http://www.naganonaika.com/archives/355" title="＜内科から＞インフルエンザを早く見つけよう！！ 詳細ページへ" style="opacity: 1;">＜内科から＞インフルエンザを早く見つけよう！！</a></strong>
+                        <span class="read"><p>当院では、インフルエンザ早期診断システム 『富士フィルム社製フジドライケム：イムノＡＧ１』を導入しています。 従来の検査方法では発症から半日経過してウイルスが増殖していないと判定できなかった 診断を、高感度検出技術により […]</p>
+</span>
+                        <em class="category"><a href="http://www.naganonaika.com/archives/category/%e5%86%85%e7%a7%91%e3%81%8b%e3%82%89" rel="category tag" style="opacity: 1;">内科から</a></em>
+                    </article>
+        		                    <article>
+                        <p class="thumb"><a href="http://www.naganonaika.com/archives/595" title="＜皮膚科から＞ルミキシル・ナイトクリームが登場しました！ 詳細ページへ" style="opacity: 1;"><img width="212" height="150" src="http://www.naganonaika.com/wp-content/uploads/2018/01/e073ba1835dbd13c279eadc32bd18828-212x150.png" class="attachment-indexThumb size-indexThumb wp-post-image" alt="" /></a></p>
+                        <strong class="tit"><a href="http://www.naganonaika.com/archives/595" title="＜皮膚科から＞ルミキシル・ナイトクリームが登場しました！ 詳細ページへ" style="opacity: 1;">＜皮膚科から＞ルミキシル・ナイトクリームが登場しました！</a></strong>
+                        <span class="read"><p>  ルミキシル・ナイトクリームは、美白化粧品のスタンダードとなったルミキシルにレチノール酸0.2%を加えることにより、目に見える肌の3大老化現象（小じわ、色素沈着、大人のにきび跡）に対処する多機能ナイトクリーム […]</p>
+</span>
+                        <em class="category"><a href="http://www.naganonaika.com/archives/category/%e7%9a%ae%e8%86%9a%e7%a7%91%e3%81%8b%e3%82%89" rel="category tag" style="opacity: 1;">皮膚科から</a></em>
+                    </article>
+        		                    <article>
+                        <p class="thumb"><a href="http://www.naganonaika.com/archives/575" title="＜皮膚科から＞平成30年度　【皮膚科】　月曜・水曜午後の診療時間について 詳細ページへ" style="opacity: 1;"><img width="212" height="150" src="http://www.naganonaika.com/wp-content/uploads/2017/12/70934194c7e0db890d2d6f4295546a35_s-212x150.jpg" class="attachment-indexThumb size-indexThumb wp-post-image" alt="" /></a></p>
+                        <strong class="tit"><a href="http://www.naganonaika.com/archives/575" title="＜皮膚科から＞平成30年度　【皮膚科】　月曜・水曜午後の診療時間について 詳細ページへ" style="opacity: 1;">＜皮膚科から＞平成30年度　【皮膚科】　月曜・水曜午後の診療時間について</a></strong>
+                        <span class="read"><p>平成30年1月より皮膚科の月曜・水曜午後の診療開始時間が変更になります。 月曜・水曜午後　14：30～17：30　（午前の診療はお休みです。） よろしくお願いいたします。 ※皮膚科休診日：月曜・水曜午前、木曜終日、土曜午 […]</p>
+</span>
+                        <em class="category"><a href="http://www.naganonaika.com/archives/category/%e7%9a%ae%e8%86%9a%e7%a7%91%e3%81%8b%e3%82%89" rel="category tag" style="opacity: 1;">皮膚科から</a></em>
+                    </article>
+        		                    <article>
+                        <p class="thumb"><a href="http://www.naganonaika.com/archives/592" title="&lt;皮膚科から＞『塗るヒアルロン酸』と話題の『ラシャスリップス』の取り扱いを開始しました！！ 詳細ページへ" style="opacity: 1;"><img width="212" height="150" src="http://www.naganonaika.com/wp-content/uploads/2018/01/e5b55ec9be12d314b528b0863182266b-212x150.png" class="attachment-indexThumb size-indexThumb wp-post-image" alt="" /></a></p>
+                        <strong class="tit"><a href="http://www.naganonaika.com/archives/592" title="&lt;皮膚科から＞『塗るヒアルロン酸』と話題の『ラシャスリップス』の取り扱いを開始しました！！ 詳細ページへ" style="opacity: 1;">&lt;皮膚科から＞『塗るヒアルロン酸』と話題の『ラシャスリップス』の取り扱いを開始しました！！</a></strong>
+                        <span class="read"><p>『ラシャスリップス』は、医療機関専売の次世代アンチエイジングのリップトリートメントです。医療用成分配合で、唇の保湿やボリュームアップをはかり、ふっくらとした魅力的なリップに導きます。加齢による唇の小じわや乾燥が気になる方 […]</p>
+</span>
+                        <em class="category"><a href="http://www.naganonaika.com/archives/category/%e7%9a%ae%e8%86%9a%e7%a7%91%e3%81%8b%e3%82%89" rel="category tag" style="opacity: 1;">皮膚科から</a></em>
+                    </article>
+        		        		            </div>
+            <p class="bgTab"><img src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/share/bg_tab.gif" /></p>
+        </section><!-- information END -->
+        <section class="access">
+            <h1 class="titDash"><img src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/index/tit2.gif" alt="地域の皆様が健やかな日常生活を過ごされるためのお手伝い" /></h1>
+            <div class="clearfix">
+            	<div class="fL">
+            		<div id="gMap" style="position: relative; overflow: hidden;"><div style="height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223);"><div class="gm-style" style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px;"><div tabindex="0" style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; cursor: url(&quot;http://maps.gstatic.com/mapfiles/openhand_8_8.cur&quot;) 8 8, default;"><div style="z-index: 1; position: absolute; top: 0px; left: 0px; width: 100%; transform-origin: 0px 0px 0px; transform: matrix(1, 0, 0, 1, 0, 0);"><div style="position: absolute; left: 0px; top: 0px; z-index: 100; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div aria-hidden="true" style="position: absolute; left: 0px; top: 0px; z-index: 1; visibility: inherit;"><div style="width: 256px; height: 256px; position: absolute; left: -78px; top: 79px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 178px; top: 79px;"></div><div style="width: 256px; height: 256px; position: absolute; left: -78px; top: -177px;"></div><div style="width: 256px; height: 256px; position: absolute; left: -78px; top: 335px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 178px; top: -177px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 178px; top: 335px;"></div></div></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 101; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 102; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 103; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: -1;"><div aria-hidden="true" style="position: absolute; left: 0px; top: 0px; z-index: 1; visibility: inherit;"><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -78px; top: 79px;"><canvas draggable="false" height="256" width="256" style="user-select: none; position: absolute; left: 0px; top: 0px; height: 256px; width: 256px;"></canvas></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 178px; top: 79px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -78px; top: -177px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -78px; top: 335px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 178px; top: -177px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 178px; top: 335px;"></div></div></div></div><div style="position: absolute; z-index: 0; left: 0px; top: 0px;"><div style="overflow: hidden;"></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div aria-hidden="true" style="position: absolute; left: 0px; top: 0px; z-index: 1; visibility: inherit;"><div style="position: absolute; left: 178px; top: 79px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i14129!3i6571!4i256!2m3!1e0!2sm!3i410109118!3m14!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5oOiMwMGZmZDV8cC5sOjEzLHAuczotNDk!4e0&amp;token=118457" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: -78px; top: 79px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i14128!3i6571!4i256!2m3!1e0!2sm!3i410109118!3m14!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5oOiMwMGZmZDV8cC5sOjEzLHAuczotNDk!4e0&amp;token=111979" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: -78px; top: 335px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i14128!3i6572!4i256!2m3!1e0!2sm!3i410108962!3m14!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5oOiMwMGZmZDV8cC5sOjEzLHAuczotNDk!4e0&amp;token=16396" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: -78px; top: -177px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i14128!3i6570!4i256!2m3!1e0!2sm!3i410109118!3m14!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5oOiMwMGZmZDV8cC5sOjEzLHAuczotNDk!4e0&amp;token=107309" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: 178px; top: 335px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i14129!3i6572!4i256!2m3!1e0!2sm!3i410108962!3m14!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5oOiMwMGZmZDV8cC5sOjEzLHAuczotNDk!4e0&amp;token=22874" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div style="position: absolute; left: 178px; top: -177px; transition: opacity 200ms ease-out;"><img draggable="false" alt="" src="http://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i14129!3i6570!4i256!2m3!1e0!2sm!3i410109118!3m14!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5oOiMwMGZmZDV8cC5sOjEzLHAuczotNDk!4e0&amp;token=113787" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div></div></div></div><div class="gm-style-pbc" style="z-index: 2; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; opacity: 0;"><p class="gm-style-pbt"></p></div><div style="z-index: 3; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px;"><div style="z-index: 1; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px;"></div></div><div style="z-index: 4; position: absolute; top: 0px; left: 0px; width: 100%; transform-origin: 0px 0px 0px; transform: matrix(1, 0, 0, 1, 0, 0);"><div style="position: absolute; left: 0px; top: 0px; z-index: 104; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 105; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 106; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 107; width: 100%;"></div></div></div><div style="margin-left: 5px; margin-right: 5px; z-index: 1000000; position: absolute; left: 0px; bottom: 0px;"><a target="_blank" href="https://maps.google.com/maps?ll=33.51213,130.446229&amp;z=14&amp;t=m&amp;hl=en-US&amp;gl=US&amp;mapclient=apiv3" title="Click to see this area on Google Maps" style="position: static; overflow: visible; float: none; display: inline;"><div style="width: 66px; height: 26px; cursor: pointer;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/google_white5.png" draggable="false" style="position: absolute; left: 0px; top: 0px; width: 66px; height: 26px; user-select: none; border: 0px; padding: 0px; margin: 0px;" /></div></a></div><div style="background-color: white; padding: 15px 21px; border: 1px solid rgb(171, 171, 171); font-family: Roboto, Arial, sans-serif; color: rgb(34, 34, 34); box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 16px; z-index: 10000002; display: none; width: 176px; height: 148px; position: absolute; left: 5px; top: 143px;"><div style="padding: 0px 0px 10px; font-size: 16px;">Map Data</div><div style="font-size: 13px;">Map data ©2018 Google, ZENRIN</div><div style="width: 13px; height: 13px; overflow: hidden; position: absolute; opacity: 0.7; right: 12px; top: 12px; z-index: 10000; cursor: pointer;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/mapcnt6.png" draggable="false" style="position: absolute; left: -2px; top: -336px; width: 59px; height: 492px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div></div><div class="gmnoprint" style="z-index: 1000001; position: absolute; right: 83px; bottom: 0px; width: 63px;"><div draggable="false" class="gm-style-cc" style="user-select: none; height: 14px; line-height: 14px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a style="text-decoration: none; cursor: pointer;">Map Data</a><span style="display: none;">Map data ©2018 Google, ZENRIN</span></div></div></div><div class="gmnoscreen" style="position: absolute; right: 0px; bottom: 0px;"><div style="font-family: Roboto, Arial, sans-serif; font-size: 11px; color: rgb(68, 68, 68); direction: ltr; text-align: right; background-color: rgb(245, 245, 245);">Map data ©2018 Google, ZENRIN</div></div><div class="gmnoprint gm-style-cc" draggable="false" style="z-index: 1000001; user-select: none; height: 14px; line-height: 14px; position: absolute; right: 0px; bottom: 0px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a href="https://www.google.com/intl/en-US_US/help/terms_maps.html" target="_blank" style="text-decoration: none; cursor: pointer; color: rgb(68, 68, 68);">Terms of Use</a></div></div><button draggable="false" title="Toggle fullscreen view" aria-label="Toggle fullscreen view" type="button" style="background: none; border: 0px; margin: 10px 14px; padding: 0px; position: absolute; cursor: pointer; user-select: none; width: 25px; height: 25px; overflow: hidden; top: 0px; right: 0px;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/sv9.png" draggable="false" class="gm-fullscreen-control" style="position: absolute; left: -52px; top: -86px; width: 164px; height: 175px; user-select: none; border: 0px; padding: 0px; margin: 0px;" /></button><div draggable="false" class="gm-style-cc" style="user-select: none; height: 14px; line-height: 14px; display: none; position: absolute; right: 0px; bottom: 0px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a target="_new" title="Report errors in the road map or imagery to Google" href="https://www.google.com/maps/@33.51213,130.446229,14z/data=!10m1!1e1!12b1?source=apiv3&amp;rapsrc=apiv3" style="font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); text-decoration: none; position: relative;">Report a map error</a></div></div><div class="gmnoprint gm-bundled-control gm-bundled-control-on-bottom" draggable="false" controlwidth="28" controlheight="93" style="margin: 10px; user-select: none; position: absolute; bottom: 107px; right: 28px;"><div class="gmnoprint" controlwidth="28" controlheight="55" style="position: absolute; left: 0px; top: 38px;"><div draggable="false" style="user-select: none; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; border-radius: 2px; cursor: pointer; background-color: rgb(255, 255, 255); width: 28px; height: 55px;"><button draggable="false" title="Zoom in" aria-label="Zoom in" type="button" style="background: none; display: block; border: 0px; margin: 0px; padding: 0px; position: relative; cursor: pointer; user-select: none; width: 28px; height: 27px; top: 0px; left: 0px;"><div style="overflow: hidden; position: absolute; width: 15px; height: 15px; left: 7px; top: 6px;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/tmapctrl.png" draggable="false" style="position: absolute; left: 0px; top: 0px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none; width: 120px; height: 54px;" /></div></button><div style="position: relative; overflow: hidden; width: 67%; height: 1px; left: 16%; background-color: rgb(230, 230, 230); top: 0px;"></div><button draggable="false" title="Zoom out" aria-label="Zoom out" type="button" style="background: none; display: block; border: 0px; margin: 0px; padding: 0px; position: relative; cursor: pointer; user-select: none; width: 28px; height: 27px; top: 0px; left: 0px;"><div style="overflow: hidden; position: absolute; width: 15px; height: 15px; left: 7px; top: 6px;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/tmapctrl.png" draggable="false" style="position: absolute; left: 0px; top: -15px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none; width: 120px; height: 54px;" /></div></button></div></div><div class="gm-svpc" controlwidth="28" controlheight="28" style="background-color: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; border-radius: 2px; width: 28px; height: 28px; cursor: url(&quot;http://maps.gstatic.com/mapfiles/openhand_8_8.cur&quot;) 8 8, default; position: absolute; left: 0px; top: 0px;"><div style="position: absolute; left: 1px; top: 1px;"></div><div style="position: absolute; left: 1px; top: 1px;"><div aria-label="Street View Pegman Control" style="width: 26px; height: 26px; overflow: hidden; position: absolute; left: 0px; top: 0px;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/cb_scout5.png" draggable="false" style="position: absolute; left: -147px; top: -26px; width: 215px; height: 835px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div aria-label="Pegman is on top of the Map" style="width: 26px; height: 26px; overflow: hidden; position: absolute; left: 0px; top: 0px; visibility: hidden;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/cb_scout5.png" draggable="false" style="position: absolute; left: -147px; top: -52px; width: 215px; height: 835px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div aria-label="Street View Pegman Control" style="width: 26px; height: 26px; overflow: hidden; position: absolute; left: 0px; top: 0px; visibility: hidden;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/cb_scout5.png" draggable="false" style="position: absolute; left: -147px; top: -78px; width: 215px; height: 835px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div></div></div><div class="gmnoprint" controlwidth="28" controlheight="0" style="display: none; position: absolute;"><div title="Rotate map 90 degrees" style="width: 28px; height: 28px; overflow: hidden; position: absolute; background-color: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; border-radius: 2px; cursor: pointer; display: none;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/tmapctrl4.png" draggable="false" style="position: absolute; left: -141px; top: 6px; width: 170px; height: 54px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div><div class="gm-tilt" style="width: 28px; height: 28px; overflow: hidden; position: absolute; background-color: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; border-radius: 2px; top: 0px; cursor: pointer;"><img alt="" src="http://maps.gstatic.com/mapfiles/api-3/images/tmapctrl4.png" draggable="false" style="position: absolute; left: -141px; top: -13px; width: 170px; height: 54px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" /></div></div></div><div class="gmnoprint" style="margin: 10px; z-index: 0; position: absolute; cursor: pointer; left: 0px; top: 0px;"><div class="gm-style-mtc" style="float: left; position: relative;"><div role="button" tabindex="0" title="Show street map" aria-label="Show street map" aria-pressed="true" draggable="false" style="direction: ltr; overflow: hidden; text-align: center; position: relative; color: rgb(0, 0, 0); font-family: Roboto, Arial, sans-serif; user-select: none; font-size: 11px; background-color: rgb(255, 255, 255); padding: 8px; border-bottom-left-radius: 2px; border-top-left-radius: 2px; background-clip: padding-box; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; min-width: 24px; font-weight: 500;">Map</div><div style="background-color: white; z-index: -1; padding: 2px; border-bottom-left-radius: 2px; border-bottom-right-radius: 2px; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; position: absolute; left: 0px; top: 29px; text-align: left; display: none;"><div draggable="false" title="Show street map with terrain" style="color: rgb(0, 0, 0); font-family: Roboto, Arial, sans-serif; user-select: none; font-size: 11px; background-color: rgb(255, 255, 255); padding: 6px 8px 6px 6px; direction: ltr; text-align: left; white-space: nowrap;"><span role="checkbox" style="box-sizing: border-box; position: relative; line-height: 0; font-size: 0px; margin: 0px 5px 0px 0px; display: inline-block; background-color: rgb(255, 255, 255); border: 1px solid rgb(198, 198, 198); border-radius: 1px; width: 13px; height: 13px; vertical-align: middle;"><div style="position: absolute; left: 1px; top: -2px; width: 13px; height: 11px; overflow: hidden; display: none;"><img alt="" src="http://maps.gstatic.com/mapfiles/mv/imgs8.png" draggable="false" style="position: absolute; left: -52px; top: -44px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none; width: 68px; height: 67px;" /></div></span><label style="vertical-align: middle; cursor: pointer;">Terrain</label></div></div></div><div class="gm-style-mtc" style="float: left; position: relative;"><div role="button" tabindex="0" title="Show satellite imagery" aria-label="Show satellite imagery" aria-pressed="false" draggable="false" style="direction: ltr; overflow: hidden; text-align: center; position: relative; color: rgb(86, 86, 86); font-family: Roboto, Arial, sans-serif; user-select: none; font-size: 11px; background-color: rgb(255, 255, 255); padding: 8px; border-bottom-right-radius: 2px; border-top-right-radius: 2px; background-clip: padding-box; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; min-width: 48px; border-left: 0px;">Satellite</div><div style="background-color: white; z-index: -1; padding: 2px; border-bottom-left-radius: 2px; border-bottom-right-radius: 2px; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; position: absolute; right: 0px; top: 29px; text-align: left; display: none;"><div draggable="false" title="Show imagery with street names" style="color: rgb(0, 0, 0); font-family: Roboto, Arial, sans-serif; user-select: none; font-size: 11px; background-color: rgb(255, 255, 255); padding: 6px 8px 6px 6px; direction: ltr; text-align: left; white-space: nowrap;"><span role="checkbox" style="box-sizing: border-box; position: relative; line-height: 0; font-size: 0px; margin: 0px 5px 0px 0px; display: inline-block; background-color: rgb(255, 255, 255); border: 1px solid rgb(198, 198, 198); border-radius: 1px; width: 13px; height: 13px; vertical-align: middle;"><div style="position: absolute; left: 1px; top: -2px; width: 13px; height: 11px; overflow: hidden;"><img alt="" src="http://maps.gstatic.com/mapfiles/mv/imgs8.png" draggable="false" style="position: absolute; left: -52px; top: -44px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none; width: 68px; height: 67px;" /></div></span><label style="vertical-align: middle; cursor: pointer;">Labels</label></div></div></div></div></div></div></div>
+            	</div>
+            	<div class="fR">
+            		<span>春日市白水ヶ丘にて開院いたしました。<br />
+            		地域の皆様が健やかな日常生活を過ごすうえでの<br />
+            		お手伝いができればと考えております。<br />
+            		気になることは、何でもお気軽に相談いただき、<br />
+            		お役に立てることができれば幸いです。</span>
+            		<strong>ながの内科クリニック</strong>
+            		<address>816-0845<br />
+            		福岡県春日市白水ヶ丘1丁目55 【駐車場14台】<br />
+            		Tel 092-589-3741／FAX 092-510-1483</address>
+
+        		
+
+<table class="timeTable">
+<tbody><tr>
+	<th colspan="2" class="tableTitle">診療時間</th>
+	<th>月</th>
+	<th>火</th>
+	<th>水</th>
+	<th>木</th>
+	<th>金</th>
+	<th>土</th>
+</tr>
+<tr>
+  <td rowspan="2" class="chapter">内科</td>
+	<td class="time">9:00〜12:30</td>
+	<td>●</td>
+	<td>●</td>
+	<td>●</td>
+	<td>●</td>
+	<td>●</td>
+	<td>●</td>
+</tr>
+<tr>
+	<td class="time">14:30〜17:30</td>
+	<td>●</td>
+	<td>●</td>
+	<td>●</td>
+	<td>●</td>
+	<td>●</td>
+	<td>-</td>
+</tr>
+<tr>
+  <td rowspan="2" class="chapter">皮膚科</td>
+	<td class="time">9:00〜12:30</td>
+	<td>-</td>
+	<td>●</td>
+	<td>-</td>
+	<td>-</td>
+	<td>●</td>
+	<td>●</td>
+</tr>
+<tr>
+	<td class="time">14:30〜17:30</td>
+	<td>●</td>
+	<td>●</td>
+	<td>●</td>
+	<td>-</td>
+	<td>●</td>
+	<td>-</td>
+</tr>
+</tbody></table>
+            	</div>
+            </div>
+            <ul class="linkSet">
+            	<li><a href="http://www.naganonaika.com/naganonaika#link2" title="広域地図" style="opacity: 1;">広域地図</a></li>
+            	<li><a href="http://www.naganonaika.com/naganonaika#link3" title="診療時間について" style="opacity: 1;">診療時間について</a></li>
+            </ul><!-- linkSet END -->
+        </section><!-- access END -->
+    </div><!-- mainContents END -->
+</div><!-- wrapper END -->
+<footer style="opacity: 100;">
+    <section class="footerInner">
+        <div class="clearfix">
+        	<h1><a href="http://www.naganonaika.com/" title="ながの内科" style="opacity: 1;"><img src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/share/flogo.gif" alt="ながの内科" /></a></h1>
+        	<h2>816-0845<br />
+        	福岡県春日市白水ヶ丘1丁目55 【駐車場14台】<br />
+        	Tel 092-589-3741 ／ FAX 092-510-1483</h2>
+        </div><!-- clearfix END -->
+        <nav class="fnav">
+            <ul>
+            	<li><a href="http://www.naganonaika.com/information" title="お知らせ" style="opacity: 1;"><img src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/share/fnav1.gif" alt="お知らせ" /></a></li>
+            	<li><a href="http://www.naganonaika.com/naganonaika" title="当院について" style="opacity: 1;"><img src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/share/fnav2.gif" alt="当院について" /></a></li>
+            	<li><a href="http://www.naganonaika.com/clinic" title="院内紹介" style="opacity: 1;"><img src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/share/fnav3.gif" alt="院内紹介" /></a></li>
+            	<li><a href="http://www.naganonaika.com/doctor" title="医師紹介" style="opacity: 1;"><img src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/share/fnav4.gif" alt="医師紹介" /></a></li>
+            	<li class="snavBase">
+            		<img class="png" src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/share/fnav5.gif" alt="診療について" />
+            		<ul class="snav" style="display: none;">
+            			<li><a href="http://www.naganonaika.com/medical" title="診療について">診療について</a></li>
+            			<li><a href="http://www.naganonaika.com/non-insured" title="保険外診療について">保険外診療について</a></li>
+            		</ul>
+            	</li>
+            	<li><a href="http://www.naganonaika.com/medicine" title="処方について" style="opacity: 1;"><img src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/share/fnav6.gif" alt="処方について" /></a></li>
+            </ul>
+        </nav><!-- fnav END -->
+        <p class="btnPageTopP"><a class="btnPageTop" href="#wrapper" title="ページの先頭へ戻る" style="opacity: 1;"><img src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/share/btn_pagetop.gif" alt="ページの先頭へ" /></a></p>
+        <small>© nagano naika ALL RIGHTS RESERVED.</small>
+    </section><!-- footerInner END -->
+</footer>
+<p class="bgCircle1"><img src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/share/bg_circle1.gif" /></p>
+<p class="bgCircle2"><img src="http://www.naganonaika.com/wp-content/themes/naganonaika/img/share/bg_circle2.gif" /></p>
+<script type="text/javascript" src="http://www.naganonaika.com/wp-content/themes/naganonaika/js/jquery.transit.min.js"></script>
+<script type="text/javascript">
+	$(window).load(function(){
+	    $('body#index .headWrap').delay(600).transition({ opacity:100, y: 50 }, 1600, 'easeOutQuart');
+	    $('.mainContents, footer').delay(1600).transition({ opacity:100}, 900, 'easeOutQuad');
+    });	
+
+	$(".imgSlider").cycle({ 
+	    fx: 'fade',
+	    timeout: 3000,
+	    speed: 1000,
+	    pause: 1,
+	    delay: 2000,
+	    fit: 1,
+	    easing : 'easeInOutCubic',
+	    prev:    '#prev',
+	    next:    '#next',
+	    pager:  '#nav', 
+	    pagerAnchorBuilder: function(idx, slide) { 
+	        return '&lt;li&gt;&lt;a href="#"&gt;&lt;/a&gt;&lt;/li&gt;'; 
+	    } 
+	});    
+</script>
+<script type="text/javascript" charset="utf-8" src="http://maps.googleapis.com/maps/api/js?&amp;sensor=false"></script>
+<script type="text/javascript" src="http://www.naganonaika.com/wp-content/themes/naganonaika/js/gmap.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46983262-2', 'naganonaika.com');
+  ga('send', 'pageview');
+
+</script>
+
+<iframe scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/widget_iframe.36c0c29c73929bf937f4c70adb1a29e4.html?origin=http%3A%2F%2Fwww.naganonaika.com" style="display: none;"></iframe><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe"></iframe></body></html>

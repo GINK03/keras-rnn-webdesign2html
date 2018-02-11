@@ -1,0 +1,1020 @@
+<!DOCTYPE html><!--[if lt IE 7 ]> <html lang="ja" class="ie6 ielt8"> <![endif]--><!--[if IE 7 ]>    <html lang="ja" class="ie7 ielt8"> <![endif]--><!--[if IE 8 ]>    <html lang="ja" class="ie8"> <![endif]--><!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" lang="ja"><!--<![endif]--><head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=1024" /><meta name="format-detection" content="telephone=no" />
+<meta name="description" content="井藤漢方製薬は、安全と安心を保証する健康食品の提供を優先し、健康維持、増進をテーマにした多彩な商品をお届けします。" />
+<meta name="keywords" content="健康食品,サプリメント,栄養補助食品,ダイエット,美容,機能性食品,スタミナ,入浴剤,健康飲料,健康茶,スキンケア,医薬品,医薬部外品,化粧品,OEM,受託製造,ODM" />
+<!--Facebook -->
+<meta property="og:type" content="website" /><meta property="og:title" content="健康食品のことなら井藤漢方製薬" />
+<meta property="og:url" content="http://www.itohkampo.co.jp/" />
+<meta property="og:image" content="http://www.itohkampo.co.jp/common/img/thumb_fb.gif" />
+<meta property="og:description" content="井藤漢方製薬は、安全と安心を保証する健康食品の提供を優先し、健康維持、増進をテーマにした多彩な商品をお届けします。" />
+<meta property="og:site_name" content="健康食品のことなら井藤漢方製薬" />
+<!--end -->
+<link rel="apple-touch-icon-precomposed" href="/common/img/icon.png" />
+<link rel="stylesheet" href="/common/css/common.css" media="all" />
+<link rel="stylesheet" href="/common/js/lib/fancybox/jquery.fancybox-1.3.4.css" media="screen, projection" />
+<link rel="stylesheet" href="/common/css/layout.css" media="all" />
+<link rel="stylesheet" href="/common/css/style.css" media="all" />
+<link rel="stylesheet" href="/common/js/lib/royalslider/royalslider.css" media="all" />
+	<link rel="stylesheet" href="/common/css/top.css?dy=160201" media="all" /><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/ja_JP/all.js#xfbml=1"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="//webfont.fontplus.jp/accessor/script/fontplus.js?AoLijhqMriI%3D&amp;pm=1&amp;timeout=3&amp;aa=1&amp;nolist=1" charset="utf-8"></script><style type="text/css" id="fpbf_ac93d8111_css">@font-face { font-family: 'fpbf_ac93d8111'; src: url('http://s3-ap-northeast-1.amazonaws.com/fp-bf/3d4c80e6') format('woff'); }</style>
+<script src="/common/js/plugins.min.js"></script>
+<!--[if lt IE 9]><script src="/common/js/lib/html5shiv-printshiv.js"></script><script src="/common/js/lib/selectivizr-min.js"></script><script src="/common/js/ieAlpha.js"></script><![endif]-->
+<script src="/common/js/lib/jquery.heightLine.js"></script>
+<script src="/common/js/lib/royalslider/jquery.royalslider.min.js"></script>
+	<script src="/common/js/lib/jquery.bxslider/jquery.bxslider.min.js"></script><script src="/common/js/common.min.js"></script>
+
+<title>健康食品のことなら井藤漢方製薬</title>
+<style type="text/css" rel="stylesheet" id="fontplus_css_0">@font-face { font-family: 'I-OTF-UDゴ表示Pro R'; font-weight: Bold; src: url('http://webfont.fontplus.jp/accessor/reqf/con=fp_0345e313618c7b3ba30f0f092eb0ec75&amp;cha=UTF-8&amp;dmode=&amp;aa=1&amp;ab=0&amp;pm=1&amp;fa=SS1PVEYtVUTjgrTooajnpLpQcm8gUg&amp;lst=0&amp;lsc=0&amp;s=44CB44CC44CM44CN44GE44GK44GP44GU44GV44GX44GZ44Gb44Gd44Ge44Gf44Gg44Gh44Gj44Gk44Gm44Gr44Gu44G244G444G-44G_44KA44KC44KE44KK44KL44KM44KP44KS44Ki44Kk44Ko44Kr44Kt44Kv44K144K344K544K644K_44OB44OI44OJ44Od44Og44Oi44Oq44Os44Ot44Oz44O744O85LyB5YWo5Y-W5ZCI5ZOB5ZWG5ZWP5aCx5aOy5aWz5a2m5a6J5b-D5oCn5oOF5oSb5pC65qC55qWt5qW95rWB5rmv55So55S355qG57WE6JGb6LKp6YCa6YWi6aOy6buS'); }
+@font-face { font-family: 'FOT-筑紫明朝 Pro L'; font-weight: Bold; src: url('http://webfont.fontplus.jp/accessor/reqf/con=fp_0345e313618c7b3ba30f0f092eb0ec75&amp;cha=UTF-8&amp;dmode=&amp;aa=1&amp;ab=0&amp;pm=1&amp;fa=Rk9ULeetkee0q-aYjuacnSBQcm8gTA&amp;lst=0&amp;lsc=0&amp;s=KzA0NTY3OEFDREZNU1hhYmNlaWtvcnR544CB44CC44CF44CM44CN44GE44GI44GK44GL44GP44GR44GT44GU44GZ44Gb44Gf44Gg44Gm44Gn44Gq44Gr44Gu44G444G544G_44KB44KC44KJ44KK44KL44KP44KS44KT44Kk44Ko44Kr44Kt44K044K544K644K_44OA44OD44OG44OI44OJ44OL44OT44OW44OX44OZ44Oe44Op44Oq44Or44Ov44Oz44O744O85LiA5Lq65Luj5YWs5YaF5YiG5Yil5ZCI5ZCN5ZCR5ZOB5ZWG5ZaE5aOy5aWz5a6f5a6i5bGK5bm05bqX5byP5b-c5oCn5oG15oSf5oiQ5o6i5o-D5pS55pS75pel5p2Q5qGI5qW15qeY5rGC5rOV55Sf55So55qE55uu556s55-l56S656m257Sg6JGJ6KGo6KaL6Kan6LKp6L6b6L-96YCU6YCf6YGV6YWN6YW46YeO6YeP6ZaT6aOf6aOy77yB77yP772l'); }
+@font-face { font-family: 'FOT-筑紫明朝 Pro R'; font-weight: Bold; src: url('http://webfont.fontplus.jp/accessor/reqf/con=fp_0345e313618c7b3ba30f0f092eb0ec75&amp;cha=UTF-8&amp;dmode=&amp;aa=1&amp;ab=0&amp;pm=1&amp;fa=Rk9ULeetkee0q-aYjuacnSBQcm8gUg&amp;lst=0&amp;lsc=0&amp;s=44CB44CC44GC44GE44GG44GK44GL44GT44GZ44Gc44Gf44Gh44Gj44Gk44Gp44Gr44Gu44Gv44G444G_44KB44KC44KK44KN44Ki44Kv44K344K544K644OD44OI44OU44OX44Oq44O744O85LqV5YWo5YmN5Y-W5ZOB5ZWG5a2Q5a6J5bm85b-D5omL5pa55pil5q-N5ryi55m655uu57WE6Jas6Jek6KO96ZaL6aKo77yB'); }
+@font-face { font-family: 'I-OTF-UDゴ表示Pro L'; font-weight: Bold; src: url('http://webfont.fontplus.jp/accessor/reqf/con=fp_0345e313618c7b3ba30f0f092eb0ec75&amp;cha=UTF-8&amp;dmode=&amp;aa=1&amp;ab=0&amp;pm=1&amp;fa=SS1PVEYtVUTjgrTooajnpLpQcm8gTA&amp;lst=0&amp;lsc=0&amp;s=RmFiY2Vrb-KApuOAgeOAguOAjOOAjeOBguOBhOOBhuOBh-OBiuOBi-OBjOOBjeOBjuOBj-OBkeOBk-OBleOBluOBl-OBmeOBm-OBnOOBneOBn-OBoOOBoeOBo-OBpOOBpeOBpuOBp-OBqOOBqeOBquOBq-OBreOBruOBr-OBsOOBseOBs-OBtuOBvuOBv-OCgOOCgeOCguOChOOCiOOCieOCiuOCi-OCjOOCj-OCkuOCk-OCo-OCpOOCqOOCq-OCreOCr-OCsOOCseOCueOCu-OCveOCv-ODgOODgeODhOODhuODiOODj-ODleODl-ODnuODoOODpOODquODq-ODs-ODu-ODvOS4gOS4iuS5vuS6leS8geS8uOS9v-S_neWFg-WFpeWFrOWGkuWGrOWIhuWIh-WIneWJpOWOn-WQueWTgeWVhuWYmOWbnuWgtOWjsOWkluWkp-Wkq-WomOWto-Wun-WutuWwkeWxiuW3peW3u-W4g-W5vOW6puW8j-W8t-aBr-aEn-aHkOaIkOaJi-aKseaSq-aWmeaWueaXpeaXqeaYpeacn-acrOadseagueavm-awl-awtOayueayu-a3sea5r-a8oueEoeeGseeHpeeKtueQhueUqOeUu-eXh-eXm-eZuueZveearuecoOeglOeptueti-euoeevgOeykue0oOe0sOe1teiCieiCjOiCqeiPnOiRm-iWrOiXpOijveimi-imp-ips-iqreiqv-isneitt-i1sOi-vOmBqemCqumDqOmWi-mYqumYsumbqumgremhhumiqOmjsummmemrmOm8u--8nw'); }
+@font-face { font-family: 'I-OTF-UDゴ表示Pro RA'; font-weight: Bold; src: url('http://webfont.fontplus.jp/accessor/reqf/con=fp_0345e313618c7b3ba30f0f092eb0ec75&amp;cha=UTF-8&amp;dmode=&amp;aa=1&amp;ab=0&amp;pm=1&amp;fa=SS1PVEYtVUTjgrTooajnpLpQcm8gUkE&amp;lst=0&amp;lsc=0&amp;s=44GK44Gb44Gu44KJ44Ki44Kj44OH44Oh5Lq65YCL5ZOB5ZWG5aCx5a6i5oOF5o6y5qeY5rOV55-l6LyJ'); }
+@font-face { font-family: 'I-OTF-UDゴ表示Pro B'; font-weight: Bold; src: url('http://webfont.fontplus.jp/accessor/reqf/con=fp_0345e313618c7b3ba30f0f092eb0ec75&amp;cha=UTF-8&amp;dmode=&amp;aa=1&amp;ab=0&amp;pm=1&amp;fa=SS1PVEYtVUTjgrTooajnpLpQcm8gQg&amp;lst=0&amp;lsc=0&amp;s=5ZOB5ZWG5qSc57Si'); }
+</style><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, "hiragino kaku gothic pro",meiryo,"ms pgothic",sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset&gt;div{overflow:hidden}.fb_link img{border:none}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_loader{background-color:#f6f7f9;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title&gt;span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29487d;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f9;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}
+.fb_customer_chat_bounce_in{animation-duration:250ms;animation-name:fb_bounce_in}.fb_customer_chat_bounce_out{animation-duration:250ms;animation-name:fb_fade_out}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}.fb_mobile_overlay_active{height:100%;overflow:hidden;position:fixed;width:100%}@keyframes fb_fade_out{from{opacity:1}to{opacity:0}}@keyframes fb_bounce_in{0%{opacity:0;transform:scale(.8, .8);transform-origin:100% 100%}10%{opacity:.1}20%{opacity:.2}30%{opacity:.3}40%{opacity:.4}50%{opacity:.5}60%{opacity:.6}70%{opacity:.7}80%{opacity:.8;transform:scale(1.03, 1.03)}90{opacity:.9}100%{opacity:1;transform:scale(1, 1)}}</style></head>
+
+<body>
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_http" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_http" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="http://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#channel=f28d27482132ad&amp;origin=http%3A%2F%2Fwww.itohkampo.co.jp" style="border: none;"></iframe><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#channel=f28d27482132ad&amp;origin=http%3A%2F%2Fwww.itohkampo.co.jp" style="border: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="wrapper" class="full">
+
+<div id="head-fixed">
+<!--//////////////////// HEADER START -->
+<div id="head-wrap">
+<header>
+<h1 id="head-logo"><a href="/"><img src="/common/img/logo.gif" alt="井藤漢方製薬株式会社 おもいを、カタチに。" /></a></h1></header>
+</div>
+<!--//////////////////// HEADER END -->
+
+
+<!--//////////////////// GLOVAL NAVIGATION START -->
+<div id="head-itemwrap" class="snap-drawers">
+<div id="snapleft" class="snap-drawer snap-drawer-left">
+<nav id="gloval-nav">
+<p id="gnav-ttl" class="sp-item">コンテンツ一覧</p>
+<ul id="gnav">
+<li id="gnav-products"><a href="/products/"><span>商品情報</span></a></li>
+<li id="gnav-enjoy"><a href="/enjoy/"><span>楽しむ・学ぶ</span></a></li>
+<li id="gnav-safety"><a href="/safety/"><span>安全・安心への取り組み</span></a></li>
+<li id="gnav-company"><a href="/company/"><span>企業情報</span></a></li>
+<li id="gnav-contact"><a href="/contact/"><span>お問い合わせ</span></a></li>
+</ul>
+
+<p id="head-english" class="head-item"><a href="/global/eng/">English<span>（Corporate information）</span></a></p>
+<p id="head-business" class="head-item"><a href="http://odm.itohkampo.co.jp/" target="_blank">法人のお客様<span>（OEM・ODMのお問い合わせなど）</span></a></p>
+<p id="head-news" class="head-item"><a href="/news/">お知らせ</a></p>
+<p id="head-srch" class="head-item pc-item"><a href="#item-srch" id="inline">商品検索</a></p>
+
+<ul id="content-info-sp" class="sp-item">
+<li><a href="/sitemap/">サイトマップ</a></li>
+<li><a href="/privacy/">プライバシーポリシー</a></li>
+<li><a href="/terms/">サイト利用規約</a></li>
+</ul>
+
+</nav>
+</div>
+</div>
+<!--//////////////////// GLOVAL NAVIGATION END -->
+
+
+<!--//////////////////// ITEM SEARCH START -->
+<div id="item-srch" class="snap-drawers modal-window">
+<div id="snapright" class="snap-drawer snap-drawer-right">
+<form action="/products/list.html" method="">
+
+<p id="snap-srchttl" class="sp-item goB loaded">商品検索</p>
+<!--////////// SIDE START -->
+<div class="srchbox-wrap srchbox-first">
+
+<!--用途・目的から探す -->
+<div class="srch-itemlist">
+<h2 class="minL size18 acc-ttl loaded">用途・目的から探す</h2>
+<ul class="srch-toggle" style="display: block;">
+<li><a href="/products/list.html?use=1">美を追求したい方</a></li>
+<li><a href="/products/list.html?use=2">スムーズな動きのために</a></li>
+<li><a href="/products/list.html?use=3">毎日くっきり</a></li>
+<li><a href="/products/list.html?use=4">野菜不足が気になる方</a></li>
+<li><a href="/products/list.html?use=5">生活習慣が気になる方</a></li>
+<li><a href="/products/list.html?use=6">中高年男性の活力</a></li>
+<li><a href="/products/list.html?use=7">お酒をよく飲む方</a></li>
+<li><a href="/products/list.html?use=8">若々しくありたい方</a></li>
+<li><a href="/products/list.html?use=9">季節の変り目が辛い</a></li>
+<li><a href="/products/list.html?use=10">ダイエットを追求したい方</a></li>
+<li><a href="/products/list.html?use=11">毎日スッキリ</a></li>
+<li><a href="/products/list.html?use=12">毎日のこまやかなお手入れに</a></li>
+</ul>
+</div>
+<!--end -->
+
+
+<!--素材から探す -->
+<div class="srch-itemlist">
+<h2 class="minL size18 acc-ttl loaded">素材から探す</h2>
+<ul class="srch-toggle" style="display: block;">
+<li><a href="/products/list.html?raw=1">プラセンタ</a></li>
+<li><a href="/products/list.html?raw=2">コラーゲン</a></li>
+<li><a href="/products/list.html?raw=3">ヒアルロン酸</a></li>
+<li><a href="/products/list.html?raw=4">青汁</a></li>
+<li><a href="/products/list.html?raw=5">生姜</a></li>
+<li><a href="/products/list.html?raw=6">植物発酵エキス</a></li>
+<li><a href="/products/list.html?raw=7">ブルーベリー</a></li>
+<li><a href="/products/list.html?raw=8">ウコン</a></li>
+<li><a href="/products/list.html?raw=9">マカ</a></li>
+<li><a href="/products/list.html?raw=10">魚油（DHA・EPA）</a></li>
+<li><a href="/products/list.html?raw=11">酢</a></li>
+<li><a href="/products/list.html?raw=12">ビタミン</a></li>
+<li><a href="/products/list.html?raw=13">ミネラル</a></li>
+</ul>
+</div>
+<!--end -->
+
+
+<!--年代別おすすめ商品 -->
+<div class="srch-itemlist">
+<h2 class="minL size18 acc-ttl loaded">年代別おすすめ商品</h2>
+<div class="srch-toggle" style="display: block;">
+<h3 class="icon-male icon-age goR loaded">男性</h3>
+<ul class="age-list">
+<li><a href="/products/list.html?man=20">20代</a></li>
+<li><a href="/products/list.html?man=30">30代</a></li>
+<li><a href="/products/list.html?man=40">40代</a></li>
+<li><a href="/products/list.html?man=50">50代</a></li>
+<li><a href="/products/list.html?man=60">60代</a></li>
+<li><a href="/products/list.html?man=70">70代以上</a></li>
+</ul>
+<h3 class="icon-female icon-age goR loaded">女性</h3>
+<ul class="age-list">
+<li><a href="/products/list.html?woman=20">20代</a></li>
+<li><a href="/products/list.html?woman=30">30代</a></li>
+<li><a href="/products/list.html?woman=40">40代</a></li>
+<li><a href="/products/list.html?woman=50">50代</a></li>
+<li><a href="/products/list.html?woman=60">60代</a></li>
+<li><a href="/products/list.html?woman=70">70代以上</a></li>
+</ul>
+</div>
+</div>
+<!--end -->
+
+
+<!--商品名から探す -->
+<div class="srch-itemlist">
+<h2 class="minL size18 acc-ttl loaded">商品名から探す</h2>
+<ul class="srch-toggle" style="display: block;">
+<li><a href="/products/list.html?initial=1">あ行</a></li>
+<li><a href="/products/list.html?initial=2">か行</a></li>
+<li><a href="/products/list.html?initial=3">さ行</a></li>
+<li><a href="/products/list.html?initial=4">た行</a></li>
+<li><a href="/products/list.html?initial=5">な行</a></li>
+<li><a href="/products/list.html?initial=6">は行</a></li>
+<li><a href="/products/list.html?initial=7">ま行</a></li>
+<li><a href="/products/list.html?initial=8">や行</a></li>
+<li><a href="/products/list.html?initial=9">ら行</a></li>
+<li><a href="/products/list.html?initial=10">わ行</a></li>
+</ul>
+</div>
+<!--end -->
+
+
+<!--キーワードから探す -->
+<div id="srch-keyword" class="srch-itemlist srch-keyword">
+<h2 class="minL size18 loaded">キーワードから探す</h2>
+<span class="pc-float">
+<input name="word" type="text" placeholder="キーワードを入力(JANコードでの検索も可)" class="keyword-w270 pc-item" />
+<input name="word" type="text" placeholder="キーワードまたはJANを入力" class="keyword-w270 sp-item" />
+
+<!--<input name="" type="image" src="/common/img/btn_itemsrch.gif" class="icon-srch pc-item">-->
+<input name="" type="submit" value="検索" class="btn-srch pc-item" onclick="$('input.sp-item[name=word]').remove();" />
+</span>
+<input name="" type="submit" value="検索" class="spside-srch sp-item" onclick="$('input.pc-item[name=word]').remove();" />
+
+
+<!--<span class="pc-item">
+<input name="word" type="text" placeholder="キーワードを入力してください" class="keyword-w270">
+<input name="" type="image" src="/common/img/btn_itemsrch.gif" class="icon-srch">
+</span>
+<span class="sp-item">
+<input name="word" type="text" placeholder="キーワードを入力" class="keyword-w210">
+<input name="" type="submit" value="検索" class="spside-srch">
+</span>-->
+<dl class="frequent-query pc-item">
+<dt>よくある検索：</dt>
+<dd><a href="/products/list.html?word=%E3%82%A4%E3%83%88%E3%82%B3%E3%83%A9">イトコラ</a></dd>
+<dd><a href="/products/list.html?word=%E3%82%A6%E3%82%B3%E3%83%B3">ウコン</a></dd>
+<dd><a href="/products/list.html?word=%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%E8%8C%B6">ダイエット茶</a></dd>
+</dl>
+</div>
+<!--end -->
+
+
+<!--//.srchbox-wrap --></div>
+<!--////////// SIDE END -->
+
+
+<!--////////// SIDE START -->
+<div class="srchbox-wrap">
+
+
+<!--カテゴリーから探す -->
+<div class="srch-itemlist">
+<h2 class="minL size18 acc-ttl loaded">カテゴリーから探す</h2>
+<div class="srch-toggle" style="display: block;">
+<ul class="cat-list">
+<li class="cat-left"><a href="/products/list.html?category=1"><span class="cat-thumb"><img src="/common/img/srch_cat01.jpg" /></span>
+<span class="cat-name">ダイエット食品</span></a></li>
+
+<li class="cat-center"><a href="/products/list.html?category=2"><span class="cat-thumb"><img src="/common/img/srch_cat02.jpg" /></span>
+<span class="cat-name">美容食品</span></a></li>
+
+<li class="cat-right"><a href="/products/list.html?category=3"><span class="cat-thumb"><img src="/common/img/srch_cat03.jpg" /></span>
+<span class="cat-name">健康食品・<br />サプリメント</span></a></li>
+
+<li class="cat-left"><a href="/products/list.html?category=4"><span class="cat-thumb"><img src="/common/img/srch_cat04.jpg" /></span>
+<span class="cat-name">スタミナ食品</span></a></li>
+
+<li class="cat-center"><a href="/products/list.html?category=5"><span class="cat-thumb"><img src="/common/img/srch_cat05.jpg" /></span>
+<span class="cat-name">デイリーフーズ<br />
+（お菓子・甘味料等）</span></a></li>
+
+<li class="cat-right"><a href="/products/list.html?category=6"><span class="cat-thumb"><img src="/common/img/srch_cat06.jpg" /></span>
+<span class="cat-name">健康飲料<br />
+（ドリンク類等）</span></a></li>
+
+<li class="cat-left"><a href="/products/list.html?category=7"><span class="cat-thumb"><img src="/common/img/srch_cat07.jpg" /></span>
+<span class="cat-name">健康茶<br />（ティーバック・<br />粉末等）</span></a></li>
+
+<li class="cat-center"><a href="/products/list.html?category=8"><span class="cat-thumb"><img src="/common/img/srch_cat08.jpg" /></span>
+<span class="cat-name">スキンケア<br />
+（化粧品・入浴剤）</span></a></li>
+
+<li class="cat-right"><a href="/products/list.html?category=9"><span class="cat-thumb"><img src="/common/img/srch_cat09.jpg" /></span>
+<span class="cat-name">医薬品</span></a></li>
+
+<li class="cat-single"><a href="/products/list.html?category=10"><span class="cat-thumb"><img src="/common/img/srch_cat010.jpg" /></span>
+<span class="cat-name">衛生用品</span></a></li>
+
+</ul>
+</div>
+</div>
+<!--end -->
+
+
+
+
+
+<!--//.srchbox-wrap --></div>
+<!--////////// SIDE END -->
+
+</form>
+</div>
+<!--//#item-srch --></div>
+<!--//////////////////// ITEM SEARCH END -->
+
+<!--//#head-fixed --></div>
+
+
+<!--//////////////////// CONTENT START -->
+<section id="content" class="snap-content">
+<div id="inner-content">
+<p id="sp-head-logo" class="sp-item"><a href="/"><img src="/common/img/logo.gif" alt="井藤漢方製薬株式会社 おもいを、カタチに。" /></a></p>
+<ul class="sp-item">
+<li id="sp-head-gnav"><a href="#" id="open-left">メニュー</a></li>
+<li id="sp-head-srch"><a href="#" id="open-right">商品検索</a></li>
+</ul>
+
+
+
+<!--//////////////////// CONTAINER START -->
+<div id="container">
+
+
+<div id="content-wrap">
+
+<div class="sliderContainer fullWidth clearfix">
+<div id="full-width-slider" class="royalSlider heroSlider rsDefault rsHor rsFade" style="height: 820px; cursor: pointer;"><div class="rsOverflow" style="width: 1240px; height: 820px;"><div class="rsContainer"><div style="z-index:0;" class="rsSlide  rsActiveSlide"><a href="/products/2319215.html" style="visibility: visible; opacity: 1; transition: opacity 400ms ease-in-out;">
+    <div id="img14" class="rsContent" style="display: block;">
+        <div class="mcopy rsABlock" data-fade-effect="" data-move-offset="10" data-move-effect="bottom" data-speed="500" style="display: block; transform: translate3d(0px, 0px, 0px); opacity: 1; transition-property: -webkit-transform, opacity; transition-duration: 500ms; transition-timing-function: cubic-bezier(0.39, 0.575, 0.565, 1);">
+        <h2 class="minR other-item loaded">幼いころ、母の手は<br />いつも目の前にあった。</h2>
+        </div>
+        <div class="bcopy rsABlock" data-fade-effect="" data-move-offset="10" data-move-effect="bottom" data-speed="500" style="display: block; transform: translate3d(0px, 0px, 0px); opacity: 1; transition-property: -webkit-transform, opacity; transition-duration: 500ms; transition-timing-function: cubic-bezier(0.39, 0.575, 0.565, 1);">
+        <p class="goL loaded">
+        大根や白菜にまぎれて実家から届いたそのクリームは、どこか懐かしい香りがした。<br />
+        なんだっけ？ となりで眠る娘の頭を撫でて気づく。ああ、これは。<br />
+        つないだ手、毛布をかける手、絵本をめくる手。幼い日、いつもそばにあった香り。<br />
+        「もしもし？届いたよ。いつもありがとう」。感謝の声は、少し深くなっていた。
+        </p>
+        <p class="goL last loaded">おもいを、カタチに。<br />井藤漢方製薬です。</p>
+        </div>
+
+        <div class="item rsABlock" data-fade-effect="" data-move-offset="10" data-move-effect="bottom" data-speed="500" style="display: block; transform: translate3d(0px, 0px, 0px); opacity: 1; transition-property: -webkit-transform, opacity; transition-duration: 500ms; transition-timing-function: cubic-bezier(0.39, 0.575, 0.565, 1);">
+        <img src="img/main_item11.png" alt="" />
+        <h3 class="goR loaded">アロエモイストクリーム</h3>
+        <p class="goL loaded">さっぱりとした使用感で、肌になめらかに伸びる無香料クリーム。適度な水分、油分が皮フを保護し、乾燥や肌あれを防ぎます。うるおい・すこやか素肌をめざす肌に、ハリとツヤを保ちます。</p>
+        </div>
+    </div>
+    </a></div><div style="z-index:0; display:none; opacity:0;" class="rsSlide "><a href="/products/1019422.html">
+	<div id="img2" class="rsContent" style="display: block;">
+		<div class="mcopy rsABlock" data-fade-effect="" data-move-offset="10" data-move-effect="bottom" data-speed="500" style="display: none;">
+		<h2 class="minR other-item loaded">子どもは、かぜの子。<br />うちの子は、春風の子。</h2>
+		</div>
+		<div class="bcopy rsABlock" data-fade-effect="" data-move-offset="10" data-move-effect="bottom" data-speed="500" style="display: none;">
+		<p class="goL loaded">「元気ねぇ」。いつまでも雪の上で走り回る娘を見ながら、そうつぶやいた。<br />
+		いつかの冬、高熱の娘を抱いて大わらわだったのも、嘘のよう。<br />
+		わが家から吹いてきた季節外れの春風が、雪原を走っている。<br />「元気だねぇ…」。強すぎる春風に巻き込まれた夫が、息を切らしながらつぶやいた。</p>
+		<p class="goL last loaded">おもいを、カタチに。<br />井藤漢方製薬です。</p>
+		</div>
+
+		<div class="item rsABlock" data-fade-effect="" data-move-offset="10" data-move-effect="bottom" data-speed="500" style="display: none;">
+		<img src="img/main_item02.png" alt="" />
+		<h3 class="goR loaded">葛根湯</h3>
+		<p class="goL loaded">かぜの初期の症状、早く治したい風邪の症状などに。葛根湯のエキスを飲みやすい顆粒タイプにしました。感冒、鼻かぜ、頭痛、肩こり、筋肉痛、手や肩の痛みなど、早く治したいかぜの症状に。眠くなる成分は入っていません。</p>
+		</div>
+	</div>
+	</a></div></div></div><div class="rsArrow rsArrowLeft rsHidden" style="display: block;"><div class="rsArrowIcn"></div></div><div class="rsArrow rsArrowRight rsHidden" style="display: block;"><div class="rsArrowIcn"></div></div></div>
+</div>
+
+
+
+<!--//////////////////// PICKUP START -->
+<section id="index-pickup" class="shadow-full top-fullbox">
+<div class="sp-pdg">
+<h2 class="fullbox-ttl minR loaded">ピックアップ商品</h2>
+<p class="ttl-sub">井藤漢方製薬の108種の中から<br />新商品、話題の商品、シーズン商品など、今注目の商品をピックアップ！</p>
+
+<section class="shadow-radiusline pickup-lbox set-detail boxTarget" style="cursor: pointer; height: 325px;">
+<p class="pickup-thumb sp-center">
+<a href="/products/1149971.html">
+
+        <img src="/_files/Item/219/img1/1149971_01.jpg" alt="" />    </a></p>
+
+<div class="pickup-detail">
+<ul class="pickup-icon">
+<li><img src="/img/pickup_icon_new.gif" alt="新商品" /></li>
+<li><img src="/img/pickup_icon_topic.gif" alt="話題の商品" /></li>
+</ul>
+<ul class="item-tag">
+<li>魚油(DHA・EPA)</li>
+<li>健康食品・サプリメント</li>
+</ul>
+<h3 class="set-itemname"><a href="/products/1149971.html">キッズハグ ＤＨＡ</a></h3>
+<p class="item-desc">1日当たり50mgのDHAを配合した、ポリポリ食感のチュアブル</p>
+</div>
+
+</section>
+<section class="shadow-radiusline pickup-sbox set-detail boxTarget" style="cursor: pointer; height: 325px;">
+<p class="pickup-thumb sp-center">
+<a href="/products/1149961.html">
+
+        <img src="/_files/Item/218/img1/1149961_01.jpg" alt="" />    </a></p>
+
+<div class="pickup-detail">
+<ul class="pickup-icon">
+<li><img src="/img/pickup_icon_new.gif" alt="新商品" /></li>
+<li><img src="/img/pickup_icon_topic.gif" alt="話題の商品" /></li>
+<li><img src="/img/pickup_icon_season.gif" alt="季節の商品" /></li>
+</ul>
+<ul class="item-tag">
+<li>ビタミン</li>
+</ul>
+<h3 class="set-itemname"><a href="/products/1149961.html">キッズハグ 肝油</a></h3>
+<p class="item-desc">ビタミンAとDにビタミンB群3種類をプラスした、ポリポリ食感のチュアブル</p>
+</div>
+
+</section>
+<section class="shadow-radiusline pickup-sbox set-detail boxTarget" style="cursor: pointer; height: 325px;">
+<p class="pickup-thumb sp-center">
+<a href="/products/1149931.html">
+
+        <img src="/_files/Item/217/img1/1149931-01.jpg" alt="" />    </a></p>
+
+<div class="pickup-detail">
+<ul class="pickup-icon">
+<li><img src="/img/pickup_icon_new.gif" alt="新商品" /></li>
+<li><img src="/img/pickup_icon_topic.gif" alt="話題の商品" /></li>
+</ul>
+<ul class="item-tag">
+<li>健康食品・サプリメント</li>
+</ul>
+<h3 class="set-itemname"><a href="/products/1149931.html">Ｗの乳酸菌 はねかえすチカラ</a></h3>
+<p class="item-desc">乳酸菌の「はねかえす力」に着目！アレンジ自在の顆粒スティック。</p>
+</div>
+
+</section>
+
+
+
+
+
+<!--//.sp-pdg --></div>
+</section>
+<!--//////////////////// PICKUP END -->
+
+
+
+
+
+<!--//////////////////// STORY START -->
+<section id="index-story" class="shadow-full top-fullbox">
+<div class="sp-pdg">
+<h2 class="fullbox-ttl minR loaded">商品開発ストーリー</h2>
+<p class="ttl-sub">井藤漢方製薬の人気商品誕生の経緯について、開発担当者が想いとともにご紹介します。</p>
+
+<section class="shadow-radius storyIn">
+<section class="story" style="height: 397px;">
+
+<div id="storyBoxwrap" class="fadeover rsAutoHeight rsVer" style="height: 397px;"><div class="rsOverflow" style="width: 982px; height: 397px; transition: height 600ms ease-in-out;"><div class="rsContainer" style="transition-duration: 0s; transform: translate3d(0px, 0px, 0px);"><div style="top: 0px;" class="rsSlide "><div class="storyBox" style="visibility: visible; opacity: 1; transition: opacity 400ms ease-in-out;">
+<p class="story-imgarea"><a href="/enjoy/story/tabetemodiet/" class="fadeover"><img src="img/story05.jpg" /></a></p>
+<div class="story-txtarea">
+<dl class="item-label minL loaded">
+<dt>Story 05</dt>
+<dd>食べてもDiet</dd>
+</dl>
+<h2 class="story-ttl minL loaded">ダイエッターの究極のニーズに、<br />こだわりの配合量でお応え。</h2>
+<dl class="story-prof">
+<dt class="goL loaded">企画開発部 商品マーケティンググループ
+<span class="prof-name"><img src="/enjoy/story/tabetemodiet/img/name.gif" alt="" /></span></dt>
+<p class="btn01 goL btn-inline text-r loaded"><a href="/enjoy/story/tabetemodiet/"><span>このストーリーを読む</span></a></p>
+</dl>
+</div>
+</div></div><div style="top: 405px;" class="rsSlide "><div class="storyBox">
+<p class="story-imgarea"><a href="/enjoy/story/folic/" class="fadeover"><img src="img/story06.jpg" /></a></p>
+<div class="story-txtarea">
+<dl class="item-label minL loaded">
+<dt>Story 06</dt>
+<dd>葉酸+マカ／葉酸400 Ca･Feプラス</dd>
+</dl>
+<h2 class="story-ttl minL loaded">成分も、表示も、品揃えも。<br />女性のニーズに応えて日々改善。</h2>
+<dl class="story-prof">
+<dt class="goL loaded">企画開発部 商品管理グループ
+<span class="prof-name"><img src="/enjoy/story/folic/img/name.gif" alt="" /></span></dt>
+<p class="btn01 goL btn-inline text-r loaded"><a href="/enjoy/story/folic/"><span>このストーリーを読む</span></a></p>
+</dl>
+</div>
+</div></div><div style="top: 810px;" class="rsSlide "><div class="storyBox">
+<p class="story-imgarea"><a href="/enjoy/story/blueberry/" class="fadeover"><img src="img/story08.jpg" /></a></p>
+<div class="story-txtarea">
+<dl class="item-label minL loaded">
+<dt>Story 08</dt>
+<dd>ブルーベリールテインプラス</dd>
+</dl>
+<h2 class="story-ttl minL loaded">野生のビルベリーの恵みを<br />間違いなくお客様に届けたい。</h2>
+<dl class="story-prof">
+<dt class="goL loaded">東大阪工場 ソフトカプセル調剤チームリーダー
+<span class="prof-name"><img src="/enjoy/story/blueberry/img/name.gif" alt="" /></span></dt>
+<p class="btn01 goL btn-inline text-r loaded"><a href="/enjoy/story/blueberry/"><span>このストーリーを読む</span></a></p>
+</dl>
+</div>
+</div></div><div style="top: 1215px;" class="rsSlide "><div class="storyBox">
+<p class="story-imgarea"><a href="/enjoy/story/maca4400/" class="fadeover"><img src="img/story07.jpg" /></a></p>
+<div class="story-txtarea">
+<dl class="item-label minL loaded">
+<dt>Story 07</dt>
+<dd>マカ4400速攻MAX</dd>
+</dl>
+<h2 class="story-ttl minL loaded">飲んだ瞬間の「辛い！」を追求。<br />「速攻」実感テイストへ。</h2>
+<dl class="story-prof">
+<dt class="goL loaded">企画開発部 研究開発グループ
+<span class="prof-name"><img src="/enjoy/story/maca4400/img/name.gif" alt="" /></span></dt>
+<p class="btn01 goL btn-inline text-r loaded"><a href="/enjoy/story/maca4400/"><span>このストーリーを読む</span></a></p>
+</dl>
+</div>
+</div></div></div><div class="rsArrow rsArrowLeft rsHidden rsArrowDisabled" style="display: block;"><div class="rsArrowIcn"></div></div><div class="rsArrow rsArrowRight rsHidden" style="display: block;"><div class="rsArrowIcn"></div></div></div><div style="clear:both; float: none;"></div></div><!-- /#storyBoxwrap -->
+
+<!--//////////////////// STORY-NAV START -->
+<ul id="story-nav" class="minL loaded"><li class="active"><img src="img/story_item05.png" alt="食べてもDiet" /><span class="mt25">食べてもDiet</span></li><li><img src="img/story_item06.png" alt="葉酸+マカ／葉酸400 Ca･Feプラス" /><span>葉酸+マカ／葉酸400 Ca･Feプラス</span></li><li><img src="img/story_item08.png" alt="ブルーベリールテインプラス" /><span>ブルーベリール<br />テインプラス</span></li><li><img src="img/story_item07.png" alt="マカ4400速攻MAX" /><span>マカ4400速攻MAX</span></li></ul>
+<!--//////////////////// STORY-NAV END -->
+
+
+</section>
+</section>
+
+
+<!--//.sp-pdg --></div>
+</section>
+<!--//////////////////// STORY END -->
+
+
+
+
+<!--//////////////////// RECOMMEND START -->
+<div class="texture01-full">
+
+<!--//////////////////// CONTROL START -->
+<div class="bx-controls-direction">
+	<a class="bx-prev" href="#">Prev</a>
+	<a class="bx-next" href="#">Next</a>
+</div>
+<!--//////////////////// CONTROL END -->
+
+<section id="related-item" class="top-fullbox">
+
+<h2 class="fullbox-ttl minR loaded">井藤漢方製薬のおすすめ！</h2>
+<p class="ttl-sub">井藤漢方製薬やその商品のことがよくわかるコンテンツをご紹介！おトクなプレゼント情報もあります。</p>
+
+<!--////////// RECOMMEND-BOXWRAP START -->
+<div class="bx-wrapper" style="max-width: 1176px;"><div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 387px;"><div id="recommend-boxwrap" style="width: 1215%; position: relative; transition-duration: 0s; transform: translate3d(-1206px, 0px, 0px);"><section class="shadow-radius recommend-box bx-clone" style="float: left; list-style: none; position: relative; width: 370px; margin-right: 30px; height: 387px;">
+<a href="/enjoy/number/"><p class="recommend-thumb sp-center"><img src="/common/img/recommend02.jpg" alt="" /></p>
+<h3 class="set-recommend">数字で見る！井藤漢方製薬</h3>
+<p class="recommend-desc">あらためて見ると、意外とすごい！？ 井藤漢方製薬を象徴する、いろいろな数字を集めてみました。</p></a>
+</section><section class="shadow-radius recommend-box mr0 glossary bx-clone" style="float: left; list-style: none; position: relative; width: 370px; margin-right: 30px; height: 387px;">
+<a href="/enjoy/glossary/"><p class="recommend-thumb sp-center glossary"><img src="/common/img/recommend05.jpg" alt="" /></p>
+<h3 class="set-recommend">健康食品 成分辞典</h3>
+<p class="recommend-desc">一般的なものから専門的なものまで、健康食品や医薬品などに含まれる成分に関する用語辞典です。</p></a>
+</section><section class="shadow-radius recommend-box ml0 bx-clone" style="float: left; list-style: none; position: relative; width: 370px; margin-right: 30px; height: 387px;">
+<a href="/safety/photo/" target="_blank">
+<p class="recommend-thumb sp-center"><img src="/common/img/recommend01.jpg" alt="" /></p>
+<h3 class="set-recommend">工場フォトツアー</h3>
+<p class="recommend-desc">井藤漢方製薬の工場を見学できます。商品の製造現場、従業員の作業風景などをご紹介しております。</p></a>
+</section>
+
+<!--////////// RECOMMEND-BOX START -->
+<section class="shadow-radius recommend-box mr0" style="float: left; list-style: none; position: relative; width: 370px; margin-right: 30px; height: 387px;">
+<a href="/enjoy/movie/"><p class="recommend-thumb sp-center"><img src="/common/img/recommend14.jpg" alt="" /></p>
+<h3 class="set-recommend">井藤漢方チャンネル</h3>
+<p class="recommend-desc">井藤漢方製薬の企業紹介や商品紹介などの動画を配信しています。</p></a>
+</section>
+<!--////////// RECOMMEND-BOX END -->
+
+<!--////////// RECOMMEND-BOX START -->
+<section class="shadow-radius recommend-box mr0" style="float: left; list-style: none; position: relative; width: 370px; margin-right: 30px; height: 387px;">
+<a href="/point/"><p class="recommend-thumb sp-center"><img src="/common/img/recommend13.jpg" alt="" /></p>
+<h3 class="set-recommend">ポイント貯めて“もらっトク”！キャンペーン</h3>
+<p class="recommend-desc">井藤漢方製薬の商品についている「点数」を集めて、素敵なプレゼントと交換しよう！</p></a>
+</section>
+<!--////////// RECOMMEND-BOX END -->
+
+<!--////////// RECOMMEND-BOX START -->
+<section class="shadow-radius recommend-box mr0" style="float: left; list-style: none; position: relative; width: 370px; margin-right: 30px; height: 387px;">
+<a href="/enjoy/voice/"><p class="recommend-thumb sp-center"><img src="/common/img/recommend04.jpg" alt="" /></p>
+<h3 class="set-recommend">お客様の声をお聞かせください</h3>
+<p class="recommend-desc">商品に対するお客様の声を募集中です。お客様からいただいた貴重なご意見、ご感想を商品の改善、新商品の開発に活かしていきます。</p></a>
+</section>
+<!--////////// RECOMMEND-BOX END -->
+
+<!--////////// RECOMMEND-BOX START -->
+<section class="shadow-radius recommend-box mr0" style="float: left; list-style: none; position: relative; width: 370px; margin-right: 30px; height: 387px;">
+<a href="/enjoy/recipe/proteoglycan/"><p class="recommend-thumb sp-center"><img src="/common/img/recommend12.jpg" alt="" /></p>
+<h3 class="set-recommend">プロテオグリカンコラーゲン使用のおいしいレシピ</h3>
+<p class="recommend-desc">管理栄養士 江川恭子先生監修！エイジングケアを目指す！「プロテオグリカンコラーゲン」使用のおいしいレシピをご紹介します。</p></a>
+</section>
+<!--////////// RECOMMEND-BOX END -->
+
+<!--////////// RECOMMEND-BOX START -->
+<!-- <section class="shadow-radius recommend-box mr0">
+<a href="https://itohkampo.co.jp/enjoy/present_en/"><p class="recommend-thumb sp-center"><img src="/common/img/recommend11.jpg" alt=""></p>
+<h3 class="set-recommend">Present Campaign for Overseas Visitors</h3>
+<p class="recommend-desc">Promotional Campaign to Give Away an Assortment of Selected Itoh Kanpo Pharmaceutical Products Win a free gift set of selected health.</p></a>
+</section> -->
+<!--////////// RECOMMEND-BOX END -->
+
+<!--////////// RECOMMEND-BOX START -->
+<!-- <section class="shadow-radius recommend-box mr0">
+<a href="https://itohkampo.co.jp/enjoy/present/"><p class="recommend-thumb sp-center"><img src="/common/img/recommend10.jpg" alt=""></p>
+<h3 class="set-recommend">豪華美容セットプレゼント</h3>
+<p class="recommend-desc">夏に向けて美を磨くために、井藤漢方から豪華美容セット（8商品分）を10名様にプレゼント！</p></a>
+</section> -->
+<!--////////// RECOMMEND-BOX END -->
+
+<!--////////// RECOMMEND-BOX START -->
+<section class="shadow-radius recommend-box mr0" style="float: left; list-style: none; position: relative; width: 370px; margin-right: 30px; height: 387px;">
+<a class="movie-frame iframe" href="http://www.youtube.com/embed/8ScMDNGq6ss?autoplay=1"><p class="recommend-thumb sp-center"><img src="/common/img/recommend08.jpg" alt="" /></p>
+<h3 class="set-recommend">「動画で見る」井藤漢方製薬のおもい</h3>
+<p class="recommend-desc">「おもいを、カタチに。」井藤漢方製薬のものづくりにかける「おもい」をスペシャルムービーでご紹介します。</p></a>
+</section>
+<!--////////// RECOMMEND-BOX END -->
+
+<!--////////// RECOMMEND-BOX START -->
+<section class="shadow-radius recommend-box mr0" style="float: left; list-style: none; position: relative; width: 370px; margin-right: 30px; height: 387px;">
+<a href="/enjoy/kuromaru/"><p class="recommend-thumb sp-center"><img src="/common/img/recommend07.jpg" alt="" /></p>
+<h3 class="set-recommend">くろまるくん情報</h3>
+<p class="recommend-desc">元気いっぱい！でもちょっぴり弱虫。メタボが気になる新入社員。 目標は、世界中の人を健康にすること！ </p></a>
+</section>
+<!--////////// RECOMMEND-BOX END -->
+
+<!--////////// RECOMMEND-BOX START -->
+<section class="shadow-radius recommend-box mr0" style="float: left; list-style: none; position: relative; width: 370px; margin-right: 30px; height: 387px;">
+<a href="/enjoy/recipe/"><p class="recommend-thumb sp-center"><img src="/common/img/recommend06.jpg" alt="" /></p>
+<h3 class="set-recommend">アレンジレシピ</h3>
+<p class="recommend-desc">いつもの料理に黒酢やコラーゲンを加えるだけで、もっとおいしく、もっとキレイに、もっと健康的に！</p></a>
+</section>
+<!--////////// RECOMMEND-BOX END -->
+
+<!--////////// RECOMMEND-BOX START -->
+<section class="shadow-radius recommend-box" style="float: left; list-style: none; position: relative; width: 370px; margin-right: 30px; height: 387px;">
+<a href="/enjoy/number/"><p class="recommend-thumb sp-center"><img src="/common/img/recommend02.jpg" alt="" /></p>
+<h3 class="set-recommend">数字で見る！井藤漢方製薬</h3>
+<p class="recommend-desc">あらためて見ると、意外とすごい！？ 井藤漢方製薬を象徴する、いろいろな数字を集めてみました。</p></a>
+</section>
+<!--////////// RECOMMEND-BOX END -->
+
+<!--////////// RECOMMEND-BOX START -->
+<section class="shadow-radius recommend-box mr0 glossary" style="float: left; list-style: none; position: relative; width: 370px; margin-right: 30px; height: 387px;">
+<a href="/enjoy/glossary/"><p class="recommend-thumb sp-center glossary"><img src="/common/img/recommend05.jpg" alt="" /></p>
+<h3 class="set-recommend">健康食品 成分辞典</h3>
+<p class="recommend-desc">一般的なものから専門的なものまで、健康食品や医薬品などに含まれる成分に関する用語辞典です。</p></a>
+</section>
+<!--////////// RECOMMEND-BOX END -->
+
+<!--////////// RECOMMEND-BOX START -->
+<section class="shadow-radius recommend-box ml0" style="float: left; list-style: none; position: relative; width: 370px; margin-right: 30px; height: 387px;">
+<a href="/safety/photo/" target="_blank">
+<p class="recommend-thumb sp-center"><img src="/common/img/recommend01.jpg" alt="" /></p>
+<h3 class="set-recommend">工場フォトツアー</h3>
+<p class="recommend-desc">井藤漢方製薬の工場を見学できます。商品の製造現場、従業員の作業風景などをご紹介しております。</p></a>
+</section>
+<!--////////// RECOMMEND-BOX END -->
+
+<section class="shadow-radius recommend-box mr0 bx-clone" style="float: left; list-style: none; position: relative; width: 370px; margin-right: 30px; height: 387px;">
+<a href="/enjoy/movie/"><p class="recommend-thumb sp-center"><img src="/common/img/recommend14.jpg" alt="" /></p>
+<h3 class="set-recommend">井藤漢方チャンネル</h3>
+<p class="recommend-desc">井藤漢方製薬の企業紹介や商品紹介などの動画を配信しています。</p></a>
+</section><section class="shadow-radius recommend-box mr0 bx-clone" style="float: left; list-style: none; position: relative; width: 370px; margin-right: 30px; height: 387px;">
+<a href="/point/"><p class="recommend-thumb sp-center"><img src="/common/img/recommend13.jpg" alt="" /></p>
+<h3 class="set-recommend">ポイント貯めて“もらっトク”！キャンペーン</h3>
+<p class="recommend-desc">井藤漢方製薬の商品についている「点数」を集めて、素敵なプレゼントと交換しよう！</p></a>
+</section><section class="shadow-radius recommend-box mr0 bx-clone" style="float: left; list-style: none; position: relative; width: 370px; margin-right: 30px; height: 387px;">
+<a href="/enjoy/voice/"><p class="recommend-thumb sp-center"><img src="/common/img/recommend04.jpg" alt="" /></p>
+<h3 class="set-recommend">お客様の声をお聞かせください</h3>
+<p class="recommend-desc">商品に対するお客様の声を募集中です。お客様からいただいた貴重なご意見、ご感想を商品の改善、新商品の開発に活かしていきます。</p></a>
+</section></div></div><div class="bx-controls bx-has-pager"><div class="bx-pager bx-default-pager"><div class="bx-pager-item"><a href="" data-slide-index="0" class="bx-pager-link active">1</a></div><div class="bx-pager-item"><a href="" data-slide-index="1" class="bx-pager-link">2</a></div><div class="bx-pager-item"><a href="" data-slide-index="2" class="bx-pager-link">3</a></div><div class="bx-pager-item"><a href="" data-slide-index="3" class="bx-pager-link">4</a></div><div class="bx-pager-item"><a href="" data-slide-index="4" class="bx-pager-link">5</a></div><div class="bx-pager-item"><a href="" data-slide-index="5" class="bx-pager-link">6</a></div><div class="bx-pager-item"><a href="" data-slide-index="6" class="bx-pager-link">7</a></div><div class="bx-pager-item"><a href="" data-slide-index="7" class="bx-pager-link">8</a></div><div class="bx-pager-item"><a href="" data-slide-index="8" class="bx-pager-link">9</a></div><div class="bx-pager-item"><a href="" data-slide-index="9" class="bx-pager-link">10</a></div></div></div></div>
+<!--////////// RECOMMEND-BOXWRAP END -->
+
+</section>
+</div>
+<!--//////////////////// RECOMMEND END -->
+
+
+
+<!--//////////////////// SAFETY START -->
+<div id="index-safety" class="safety-full sp-pdg">
+<img src="img/top_safety.jpg" alt="" class="factory" />
+<section class="top-fullbox">
+<div class="fBox">
+
+<div class="safety-ttlwrap">
+<h2 class="fullbox-ttl minR loaded">安全・安心への取り組み</h2>
+<p class="ttl-sub">すべてのお客様に安全・安心に商品をご利用いただくために、
+井藤漢方製薬はさまざまな角度から品質の向上に取り組んでいます。</p>
+<p class="btn01 goL btn-inline btn-large loaded"><a href="/safety/"><span>詳細を見る</span></a></p>
+<!--//.safety-ttlwrap --></div>
+
+
+<div class="random-switch">
+
+<div class="safety-random safety01 fBox" style="display: none;">
+<dl class="boxTarget" style="cursor: pointer;">
+<dt><a href="safety/itoh/development/">企画開発での取り組み</a></dt>
+<dd>法律でさまざまな規制がある医薬品とは違い、健康食品の品質は大部分がメーカーの自主性に委ねられています。井藤漢方製薬では、「素材の良さを引き出す」という漢方の考え方のもと原材料にこだわり、創業当初から安全・安心第一主義でものづくりに取り組んでいます。</dd>
+</dl>
+<p class="safety-staff"><a href="/safety/itoh/development/"><img src="img/safety_01.jpg" /></a></p>
+<!--//.safety-random --></div>
+
+<div class="safety-random safety02 fBox" style="display: none;">
+<dl class="boxTarget" style="cursor: pointer;">
+<dt><a href="safety/itoh/production/">製造での取り組み</a></dt>
+<dd>健康食品GMPが定める製造基準に則ることはもちろん、医薬品を扱う製薬会社としての信念のもと、安全・安心な製品づくりを心がけています。お客様の手元に届く「ひと粒を大切に」。錠剤の欠けひとつないよう、従業員一体となって取り組んでいます。</dd>
+</dl>
+<p class="safety-staff"><a href="/safety/itoh/production/"><img src="img/safety_02.jpg" /></a></p>
+<!--//.safety-random --></div>
+
+<div class="safety-random safety03 fBox" style="display: block;">
+<dl class="boxTarget" style="cursor: pointer;">
+<dt><a href="safety/itoh/check/">品質検査での取り組み</a></dt>
+<dd>製品として成立させるためには、製造だけでなく、それに伴う品質管理も重要です。井藤漢方製薬では、自社で確かな検査・分析を行い、万全の状態で安全な製品をお届けするため、本社に中央研究室を設けています。正確に、迅速に、常に最新情報をキャッチしながら、健康食品として高いレベルの品質管理に取り組んでいます。</dd>
+</dl>
+<p class="safety-staff"><a href="/safety/itoh/check/"><img src="img/safety_03.jpg" /></a></p>
+<!--//.safety-random --></div>
+
+<div class="safety-random safety04 fBox" style="display: none;">
+<dl class="boxTarget" style="cursor: pointer;">
+<dt><a href="safety/itoh/circulation/">物流での取り組み</a></dt>
+<dd>物流センターに入庫するのは、徹底管理された製造工程、厳重な品質検査等を経て、万全な状態の商品です。その品質・安全性が万一にも損なわれないよう、商品の保管から配送、店頭に向けた活動まで、あらゆるフェーズで徹底した商品管理に取り組んでいます。</dd>
+</dl>
+<p class="safety-staff"><a href="/safety/itoh/circulation/"><img src="img/safety_04.jpg" /></a></p>
+<!--//.safety-random --></div>
+
+<div class="safety-random safety05 fBox" style="display: none;">
+<dl class="boxTarget" style="cursor: pointer;">
+<dt><a href="safety/itoh/support/">品質での取り組み</a></dt>
+<dd>お問い合わせをいただくということは、商品パッケージ等だけでは伝わらなかった情報があったということ。お客様相談室では、さまざまなお問い合わせにご対応するとともに、その内容を次の製品づくりに役立てられるよう取り組んでいます。</dd>
+</dl>
+<p class="safety-staff"><a href="/safety/itoh/support/"><img src="img/safety_05.jpg" /></a></p>
+<!--//.safety-random --></div>
+
+
+<!--//.random-switch --></div>
+
+
+<!--//.sp-pdg --></div>
+</section>
+</div>
+<!--//////////////////// SAFETY END -->
+
+
+
+
+<div class="top-2column fBox">
+<!--//////////////////// NEWS START -->
+<section id="index-news" class="top-shadow inner-2column">
+<div class="info-ttlwrap sp-pdg">
+<h2 class="minL loaded"><span class="inner-ttl">お知らせ</span><span class="btn01 goL btn-inline loaded"><a href="/news/"><span>一覧を見る</span></a></span></h2>
+</div>
+
+<ul class="news-list">
+
+
+<li><span class="news-cat cat-media">メディア掲載</span>
+<span class="news-cat cat-usr">個人のお客様</span>
+<span class="news-cat cat-business">法人のお客様</span>
+<span class="news-date">2018/01/23</span>
+<span class="news-text"><a href="/news/92.html">『月刊ケリー』3月号に【イトコラ コラーゲン低分子ヒアルロン酸】が掲載されました。</a></span></li>
+
+<li><span class="news-cat cat-info">お知らせ</span>
+<span class="news-cat cat-usr">個人のお客様</span>
+<span class="news-cat cat-business">法人のお客様</span>
+<span class="news-date">2017/12/26</span>
+<span class="news-text"><a href="/news/88.html">年末年始休業のお知らせ</a></span></li>
+
+<li><span class="news-cat cat-media">メディア掲載</span>
+<span class="news-cat cat-usr">個人のお客様</span>
+<span class="news-cat cat-business">法人のお客様</span>
+<span class="news-date">2017/12/21</span>
+<span class="news-text"><a href="/news/91.html">『月刊ケリー』2月号に【イトコラ コラーゲン低分子ヒアルロン酸】が掲載されました。</a></span></li>
+
+<li><span class="news-cat cat-products">商品情報</span>
+<span class="news-cat cat-usr">個人のお客様</span>
+<span class="news-cat cat-business">法人のお客様</span>
+<span class="news-date">2017/12/18</span>
+<span class="news-text"><a href="/news/87.html">青魚の成分「DHA」をお菓子感覚で食べられる子供向け栄養サポートサプリ！【キッズハグ DHA】新発売!!</a></span></li>
+
+<li><span class="news-cat cat-media">メディア掲載</span>
+<span class="news-cat cat-usr">個人のお客様</span>
+<span class="news-cat cat-business">法人のお客様</span>
+<span class="news-date">2017/12/08</span>
+<span class="news-text"><a href="/news/90.html">『メナージュケリー』冬号に【イトコラ コラーゲン低分子ヒアルロン酸】が掲載されました。</a></span></li>
+
+
+</ul>
+
+<p class="bnr-discontinued"><a href="/products/discontinued/"><img src="img/bnr_discontinued.jpg" alt="生産終了商品のご案内（生産終了はしておりますが、店頭に並んでいるものもございます。健康食品に関しては賞味期限内であれば問題ございませんので、安心してお召し上がりください。）" /></a></p>
+</section>
+<!--//////////////////// NEWS END -->
+
+<!--//////////////////// FACEBOOK START -->
+<section id="index-facebook" class="top-shadow inner-2column">
+<div class="info-ttlwrap sp-pdg">
+<h2 class="minL loaded"><span class="inner-ttl">Facebook</span><span class="btn01 goL btn-inline loaded"><a href="https://www.facebook.com/itohkampo.official" target="_blank"><span>公式Facebookを見る</span></a></span></h2>
+</div>
+
+<div id="top-likebox" class="pc-item">
+	<div class="fb-page fb_iframe_widget" data-href="https://www.facebook.com/itohkampo.official" data-width="500" data-height="570" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="adapt_container_width=true&amp;app_id=&amp;container_width=499&amp;height=570&amp;hide_cover=false&amp;href=https%3A%2F%2Fwww.facebook.com%2Fitohkampo.official&amp;locale=ja_JP&amp;sdk=joey&amp;show_facepile=true&amp;show_posts=true&amp;small_header=true&amp;width=500"><span style="vertical-align: bottom; width: 499px; height: 570px;"><iframe name="f253f32b138baf" width="500px" height="570px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:page Facebook Social Plugin" src="https://www.facebook.com/plugins/page.php?adapt_container_width=true&amp;app_id=&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FlY4eZXm_YWu.js%3Fversion%3D42%23cb%3Df7ade8cf2a1ef4%26domain%3Dwww.itohkampo.co.jp%26origin%3Dhttp%253A%252F%252Fwww.itohkampo.co.jp%252Ff28d27482132ad%26relation%3Dparent.parent&amp;container_width=499&amp;height=570&amp;hide_cover=false&amp;href=https%3A%2F%2Fwww.facebook.com%2Fitohkampo.official&amp;locale=ja_JP&amp;sdk=joey&amp;show_facepile=true&amp;show_posts=true&amp;small_header=true&amp;width=500" style="border: none; visibility: visible; width: 499px; height: 570px;" class=""></iframe></span></div>
+
+<!-- <div class="fb-like-box" data-href="https://www.facebook.com/itohkampo.official" data-width="100%" data-height="570" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="true" data-show-border="false"></div> -->
+</div>
+
+</section>
+<!--//////////////////// FACEBOOK END -->
+
+<!--//.top-2column --></div>
+
+
+
+
+<!--//////////////////// SERIES START -->
+<section id="index-series" class="shadow-full top-fullbox">
+<div class="sp-pdg">
+<h2 class="fullbox-ttl minR loaded">井藤漢方製薬のシリーズ商品</h2>
+<p class="ttl-sub">井藤漢方製薬の人気シリーズ商品をご紹介！たくさんのお客様からご愛顧いただいています。</p>
+
+
+<!--////////// ITEM START -->
+<section id="index-vinepple" class="series-lbox set-detail shadow-radiusline boxTarget" style="cursor: pointer; height: 354px;">
+<a href="/products/series/vinepple/">
+<h3><img src="/products/img/series_ttl_vinepple.gif" alt="ビネップル" /></h3>
+<p class="item-desc goR loaded">キレイをサポートする、<br />
+飲みやすい黒酢ドリンクシリーズ</p>
+</a>
+</section>
+<!--////////// ITEM END -->
+
+
+<!--////////// ITEM START -->
+<section id="index-bath" class="series-sbox set-detail shadow-radiusline boxTarget" style="cursor: pointer; height: 354px;">
+<a href="/products/series/bathceleb/">
+<h3>バスセレブ</h3>
+<p class="item-desc">家族みんなにやさしい入浴剤シリーズ。いつものお風呂にほっとくつろぐやすらぎの香り。</p>
+</a>
+</section>
+<!--////////// ITEM END -->
+
+
+<!--////////// ITEM START -->
+<section id="index-ex" class="series-sbox set-detail shadow-radiusline boxTarget" style="cursor: pointer; height: 354px;">
+<a href="/products/series/explacenta/">
+<h3>エクスプラセンタ</h3>
+<p class="item-desc">飲むエステ、ワンランク上の美へ。<br />
+内側からしっかり実感できるプラセンタシリーズ。</p>
+</a>
+</section>
+<!--////////// ITEM END -->
+
+
+
+<!--/////////////// SERIES END -->
+
+
+
+<!--//.sp-pdg --></div>
+</section>
+<!--//////////////////// STORY END -->
+
+
+
+<!--//#content-wrap --></div>
+
+
+<!--//#container --></div>
+<!--//////////////////// CONTAINER END -->
+
+
+
+
+
+<!--//////////////////// FOOTER BANNER START -->
+<div id="footer-bnr" class="inner-section ">
+<div class="fBox">
+
+<section class="fbnr-box">
+<a href="http://odm.itohkampo.co.jp/" target="_blank">
+<span><img src="/common/img/foot_business.jpg" alt="" /></span>
+<dl class="fbnr-detail">
+<dt class="minL loaded">法人のお客様向けのご案内<img src="/common/img/icon_win.gif" alt="" class="external" /></dt>
+<dd>ODM・OEMのお問い合わせなどはこちらから</dd>
+</dl>
+</a>
+</section>
+
+<section class="fbnr-box">
+<a href="/products/login.php" target="_blank">
+<span><img src="/common/img/foot_shop.jpg" alt="" /></span>
+<dl class="fbnr-detail">
+<dt class="minL loaded">販売店様向けのご案内<img src="/common/img/icon_win.gif" alt="" class="external" /></dt>
+<dd>商品写真や仕様書、販促ツールなどをご提供</dd>
+</dl>
+</a>
+</section>
+
+<!--//.fBox --></div>
+<!--//#footer-bnr --></div>
+<!--//////////////////// FOOTER BANNER END -->
+
+
+<!--//////////////////// FOOTER START -->
+<div id="footer-wrap" class="fBox">
+<footer>
+<div id="footer-top" class="fBox">
+<p id="fnav-ttl" class="pc-item">
+	<img src="/common/img/footer_ttl_pc.gif" alt="井藤漢方製薬株式会社 おもいを、カタチに。：商品をご愛用いただいている皆さま。流通・販売に携わってくださる皆さま。そして商品をつくるわたしたち。それぞれの「おもい」を「カタチ」に。" />
+	<span class="goR loaded">
+		商品をご愛用いただいている皆さま。<br />
+		流通・販売に携わってくださる皆さま。<br />
+		そして商品をつくるわたしたち。<br />
+		それぞれの「おもい」を「カタチ」に。
+	</span>
+</p>
+<nav id="fnav-wrap" class="pc-item">
+<div id="fnav-products" class="fnav-box" style="height: 230px;">
+<h2><a href="/products/">商品情報</a></h2>
+<ul class="fnav-list">
+<li><a href="/products/#recoitem-wrap">ピックアップ商品</a></li>
+<li><a href="/products/#recoitem-wrap">シリーズ商品</a></li>
+<li><a href="/products/medicines/">イトーの医薬品</a></li>
+<li><a href="/products/#index-ranking">人気ランキング</a></li>
+<li><a href="/products/#index-srch">商品検索</a></li>
+</ul>
+<!--//.fnav-box --></div>
+
+<div id="fnav-enjoy" class="fnav-box" style="height: 230px;">
+<h2><a href="/enjoy/">楽しむ・学ぶ</a></h2>
+<ul class="fnav-list">
+ <li><a href="/enjoy/recipe/">アレンジレシピ</a></li>
+<li><a href="/enjoy/story/vinepple/">商品開発ストーリー</a></li>
+<li><a href="/enjoy/number/">数字で見る井藤漢方</a></li>
+<li><a href="/enjoy/kuromaru/">くろまるくん情報</a></li>
+<li><a href="/enjoy/voice/">お客様の声をお聞かせください</a></li>
+<li class="glossary"><a href="/enjoy/glossary/">健康食品 成分辞典<img src="/common/img/icon_win.gif" alt="" class="external" /></a></li>
+</ul>
+<!--//.fnav-box --></div>
+
+<div id="fnav-safety" class="fnav-box" style="height: 230px;">
+<h2><a href="/safety/">安全・安心への取り組み</a></h2>
+<ul class="fnav-list">
+<li><a href="/safety/itoh/development/">井藤漢方製薬の取り組み</a></li>
+<li><a href="/safety/photo/" target="_blank">工場フォトツアー<img src="/common/img/icon_win.gif" alt="" class="external" /></a></li>
+<li><a href="/safety/meister/">味覚マイスター決定戦</a></li>
+</ul>
+<!--//.fnav-box --></div>
+
+<div id="fnav-company" class="fnav-box" style="height: 230px;">
+<h2><a href="/company/">企業情報</a></h2>
+<ul class="fnav-list">
+<li><a href="/company/message/">社長ごあいさつ</a></li>
+<li><a href="/company/policy/">理念・スローガン</a></li>
+<li><a href="/company/info/">会社概要</a></li>
+<li><a href="/company/history/">沿革</a></li>
+<li><a href="/company/list/">事業所一覧</a></li>
+<li><a href="/company/recruit/">採用情報</a></li>
+</ul>
+<!--//.fnav-box --></div>
+
+<div id="fnav-contact" class="fnav-box" style="height: 230px;">
+<h2><a href="/contact/">お問い合わせ</a></h2>
+<ul class="fnav-list">
+<li><a href="/contact/qa/">よくあるご質問</a></li>
+<li><a href="/contact/form/">お問い合わせフォーム</a></li>
+</ul>
+<!--//.fnav-box --></div>
+</nav>
+<!--//#footer-top --></div>
+
+<div class="pc-item">
+<div class="fb-like fb_iframe_widget" data-href="http://www.itohkampo.co.jp/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false" fb-xfbml-state="rendered" fb-iframe-plugin-query="action=like&amp;app_id=&amp;container_width=1188&amp;href=http%3A%2F%2Fwww.itohkampo.co.jp%2F&amp;layout=button_count&amp;locale=ja_JP&amp;sdk=joey&amp;share=false&amp;show_faces=false"><span style="vertical-align: bottom; width: 87px; height: 20px;"><iframe name="f7bbbdccb3f8dc" width="1000px" height="1000px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:like Facebook Social Plugin" src="https://www.facebook.com/plugins/like.php?action=like&amp;app_id=&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FlY4eZXm_YWu.js%3Fversion%3D42%23cb%3Dfb6b35ae86c434%26domain%3Dwww.itohkampo.co.jp%26origin%3Dhttp%253A%252F%252Fwww.itohkampo.co.jp%252Ff28d27482132ad%26relation%3Dparent.parent&amp;container_width=1188&amp;href=http%3A%2F%2Fwww.itohkampo.co.jp%2F&amp;layout=button_count&amp;locale=ja_JP&amp;sdk=joey&amp;share=false&amp;show_faces=false" style="border: none; visibility: visible; width: 87px; height: 20px;" class=""></iframe></span></div>
+</div>
+
+<ul id="content-info" class="in-block simple-list">
+<li><a href="/news/">お知らせ</a></li>
+<li><a href="/sitemap/">サイトマップ</a></li>
+<li><a href="/privacy/">プライバシーポリシー</a></li>
+<li><a href="/terms/">サイトご利用規約</a></li>
+<li><a href="/global/eng/">English (Corporate information)</a></li>
+</ul>
+<!-- <p id="fnav-ttl-sp" class="sp-item"><img src="/common/img/footer_ttl_pc.gif" alt=""></p> -->
+<p id="fnav-ttl-sp" class="sp-item">
+	<img src="/common/img/footer_ttl_pc.gif" alt="井藤漢方製薬株式会社 おもいを、カタチに。：商品をご愛用いただいている皆さま。流通・販売に携わってくださる皆さま。そして商品をつくるわたしたち。それぞれの「おもい」を「カタチ」に。" />
+	<span class="goR loaded">
+		商品をご愛用いただいている皆さま。<br />
+		流通・販売に携わってくださる皆さま。<br />
+		そして商品をつくるわたしたち。<br />
+		それぞれの「おもい」を「カタチ」に。
+	</span>
+</p>
+
+<p id="pagetop" class="sp-item"><a href="#wrapper"><span>Page top</span></a></p>
+<p id="copyright">Copyright (C) ITOH KANPO PHARMACEUTICAL Co.,Ltd. All Rights Reserved.</p>
+<!--<p id="wiki-notes">ウィキペディア「井藤漢方製薬」2014年3月12日(水)05:11のRapisu yoshiによる投稿は、このWebページの作成者によるものです</p>-->
+<a href="#top" id="page-top" style="display: none;"></a>
+
+</footer>
+<!--//#footer-wrap --></div>
+<!--//////////////////// FOOTER END -->
+
+
+<!--//#inner-content --></div>
+</section>
+<!--//////////////////// CONTENT END -->
+
+
+<!--//#wrapper --></div>
+
+<script src="/common/js/lib/fancybox/jquery.fancybox-1.3.4.js"></script>
+
+<!--[if IE 6.0]>
+<script src="/common/js/lib/minmax.js"></script>
+<![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<!-- <script src="/common/js/responsive.js"></script> -->
+<script src="/common/js/lib/snap.min.js"></script>
+<script src="/common/js/lib/iscroll.js"></script>
+<script src="/common/js/layout.min.js"></script>
+
+<!-- <script src="/common/js/lib/snapmenu.js"></script> -->
+<!--<![endif]-->
+
+<script>
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new
+Date();a=s.createElement(o),
+
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga'
+);
+
+  ga('create', 'UA-46370353-1', 'itohkampo.co.jp');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><span id="fontSizeChange" style="width: 0px; height: 1em; position: absolute; left: 0px; top: 0px;"></span></body></html>

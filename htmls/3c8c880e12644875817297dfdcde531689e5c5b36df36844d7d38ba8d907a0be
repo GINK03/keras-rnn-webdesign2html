@@ -1,0 +1,335 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="ja"><head>
+<meta charset="UTF-8" />
+<title>福岡市南区｜ふくだ内科循環器・糖尿病内科</title>
+<meta name="description" content="福岡市南区長住ある、心臓・血管、糖尿病の専門機関です。循環器科、糖尿病科、かかりつけ医の3つの柱で皆様の健康をサポートします。平成28年1月「ふくだ内科循環器・糖尿病内科」から法人名変更しました。" />
+<meta name="keywords" content="福岡市,南区,長住,循環器,糖尿病科,内科,ふくだ内科,看護師募集" />
+<link rel="apple-touch-icon" href="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/images/iphone_icon-precomposed.png" />
+<meta property="og:image" content="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/images/safe_image.png" />
+<link rel="shortcut icon" href="http://fukuda-c.com/wp/wp-content/themes/fukuda/favicon.ico" />
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCD2pt-GI5nCkq0dmvIVlySZIoygdGxpkw&amp;sensor=false"></script>
+<script src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/js/jquery-1.11.3.min.js"></script>
+<script src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/js/jquery.easing.1.3.js"></script>
+<script src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/js/jquery-cookie.js"></script>
+<script src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/js/jquery.carouFredSel-6.2.1-packed.js"></script>
+<script src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/js/imagelightbox.min.js"></script>
+<script src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/js/imagelightbox.js"></script>
+<script src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/js/imgcentering.js"></script>
+<script src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/js/viewport.js"></script>
+<script src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/js/retina.js"></script>
+<script src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/js/resizer.js"></script>
+<script src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/js/main.js"></script>
+<script src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/js/idx.js"></script>
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/css/select.css" media="all" />
+</head>
+
+<body oncontextmenu="return false;" oncopy="return false;">
+
+<div id="loading" style="display: none;"></div>
+
+<!--idx_main -->
+<section id="idx_main">
+<div class="idx_main_wrap">
+
+<div class="main01"><a href="http://fukuda-c.com/diagnosis/jyunkanki/"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/idx_main_navi01.png" width="105" height="198" alt="循環器科" class="idx_main_btn retina" /></a></div>
+<div class="main02"><a href="http://fukuda-c.com/diagnosis/tounyoubyou/"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/idx_main_navi02.png" width="105" height="198" alt="糖尿病科" class="idx_main_btn retina" /></a></div>
+<div class="main03"><a href="http://fukuda-c.com/diagnosis/naika/"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/idx_main_navi03.png" width="105" height="198" alt="一般内科" class="idx_main_btn retina" /></a></div>
+
+<hgroup>
+<h1><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/idx_main_copy01_pc.png" width="69" height="225" alt="病気を知る・学ぶ、そして向き合う" class="retina imgChange" /></h1>
+<h2><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/idx_main_copy02_pc.png" width="140" height="235" alt="私たちは、治療には「薬」や「注射」だけではなく、「病気を知る・学ぶ」ことが重要だと考えます。" class="retina imgChange" /></h2>
+</hgroup>
+
+</div>
+</section>
+<!--idx_main -->
+
+
+<header>
+<div class="wrapbox01">
+<h1><a href="http://fukuda-c.com/">福岡市南区｜ふくだ内科循環器・糖尿病内科</a></h1>
+<div class="s_menu">メニュー</div>
+<nav class="mainnavi" id="mainnavi">
+<ul>
+<li><a class="navi00" href="http://fukuda-c.com/">トップページ</a></li>
+<li><a class="navi01" href="http://fukuda-c.com/about/">当院について</a></li>
+<li><a class="navi02" href="http://fukuda-c.com/diagnosis/">診療科</a></li>
+<li><a class="navi03" href="http://fukuda-c.com/doctor/">医師紹介</a></li>
+<li><a class="navi04" href="http://fukuda-c.com/facilities/">院内紹介</a></li>
+<li><a class="navi05" href="http://fukuda-c.com/columnlist/">院長コラム</a></li>
+<li><a class="navi06" href="http://fukuda-c.com/recruit/">採用情報</a></li>
+<li><a class="navi07" href="http://fukuda-c.com/access/">交通アクセス</a></li>
+</ul>
+<dl class="tel">
+<dt><a href="tel:092-552-1122">tel.092-552-1122</a></dt>
+<dd>〒811-1362 福岡県福岡市南区長住2丁目1-11</dd>
+</dl>
+</nav>
+</div>
+</header>
+
+
+<!--idx_contents -->
+<div id="idx_contents">
+
+
+<section id="idx_about" class="box01 grade01 mb80 mb_s40">
+<div class="wrapbox01">
+
+<h1 class="subtitle01"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/idx_subtitle01_pc.png" width="76" height="184" alt="当院について" class="retina imgChange copysize01" /></h1>
+
+<div class="box03 right">
+
+<div class="idx_about_img"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/idx_image01.png" width="450" height="326" alt="" /></div>
+
+<div class="idx_about_left">
+<h2><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/idx_copy01_pc.png" width="450" height="54" alt="「循環器科」「糖尿病科」「かかりつけ医」の3つの柱で皆様の健康をサポートします。" class="retina" /></h2>
+<p class="box01 mb30">
+当クリニックは 心臓・血管、糖尿病の専門機関です。<br />
+また内科専門医として、良き「かかりつけ医」でありたいです。<br />
+様々な健康相談に優しく丁寧な診察と説明を行います。<br />
+的確な診断と治療で、地域医療への貢献を目指します。
+</p>
+<span class="box01 text_small01 underline">※平成28年1月から『ふくだ内科 循環器・糖尿病内科』に改称しました。</span>
+</div>
+
+<a href="http://fukuda-c.com/about/" class="btn01">詳しく見る</a>
+
+</div>
+
+</div>
+</section>
+
+
+
+
+<section id="idx_column" class="box01 line01">
+
+<h1 class="subtitle02"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/idx_subtitle02.png" width="114" height="37" alt="院長コラム" class="retina" /></h1>
+
+
+<div class="caroufredsel_wrapper" style="display: block; text-align: start; float: left; position: relative; top: 0px; right: 0px; bottom: 0px; left: 0px; z-index: auto; width: 1985px; height: 257px; margin: 0px 0px 40px; overflow: hidden;"><div id="column_carousel" style="text-align: left; float: none; position: absolute; top: 0px; right: auto; bottom: auto; left: 13px; margin: 0px; z-index: auto; width: 7585px; height: 257px;">
+
+
+
+
+
+<a href="http://fukuda-c.com/column/atherosclerosis-fukuoka-good-cardiologists/" class="column01" style="margin-right: 20px;">
+<div style="position: static; overflow: hidden; background-color: rgb(251, 251, 251);"><img src="http://fukuda-c.com/wp/wp-content/uploads/2016/02/動脈硬化_L-min.jpg" alt="" style="width: auto; height: 100%; position: relative; left: -28.5px; top: 0px;" /></div>
+<h2>動脈硬化：なぜ起こるの？最終的にどうなるの？当院でできる検査</h2>
+</a>
+
+
+<a href="http://fukuda-c.com/column/%e7%b3%96%e5%b0%bf%e7%97%85%e3%82%92%e6%b2%bb%e3%81%99%e3%80%80%e7%a6%8f%e5%b2%a1%e5%b8%82%e3%80%80%e7%b3%96%e5%b0%bf%e7%97%85%e5%b0%82%e9%96%80%e5%8c%bb/" class="column01" style="margin-right: 20px;">
+<div style="position: static; overflow: hidden; background-color: rgb(251, 251, 251);"><img src="http://fukuda-c.com/wp/wp-content/uploads/2016/02/ふくだ内科循環器・糖尿病内科.jpg" alt="" style="width: auto; height: 100%; position: relative; left: -14.5px; top: 0px;" /></div>
+<h2>糖尿病目次： 痩せていてもなる病気です  正しい知識があなたを守ります</h2>
+</a>
+
+
+<a href="http://fukuda-c.com/column/lifestyle-nishihanahata-fukuoka/" class="column01" style="margin-right: 20px;">
+<div style="position: static; overflow: hidden; background-color: rgb(251, 251, 251);"><img src="http://fukuda-c.com/wp/wp-content/uploads/2016/10/福岡市＃生活習慣＃動脈硬化09.jpg" alt="" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px;" /></div>
+<h2>西花畑公民館　生活習慣病について　2016年10月13日</h2>
+</a>
+
+
+<a href="http://fukuda-c.com/column/fukuoka-meii-heartfailure/" class="column01" style="margin-right: 20px;">
+<div style="position: static; overflow: hidden; background-color: rgb(251, 251, 251);"><img src="http://fukuda-c.com/wp/wp-content/uploads/2016/02/スライド1-8.jpg" alt="" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px;" /></div>
+<h2>心不全： 原因・検査・治療</h2>
+</a>
+
+
+<a href="http://fukuda-c.com/column/fukuoka-koketsuatsu-kamen/" class="column01" style="margin-right: 20px;">
+<div style="position: static; overflow: hidden; background-color: rgb(251, 251, 251);"><img src="http://fukuda-c.com/wp/wp-content/uploads/2016/01/スライド1.jpg" alt="" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px;" /></div>
+<h2>高血圧　</h2>
+</a>
+
+
+<a href="http://fukuda-c.com/column/%e7%8b%ad%e5%bf%83%e7%97%87/" class="column01" style="margin-right: 20px;">
+<div style="position: static; overflow: hidden; background-color: rgb(251, 251, 251);"><img src="http://fukuda-c.com/wp/wp-content/uploads/2016/02/スライド1.png" alt="" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px;" /></div>
+<h2>狭心症</h2>
+</a>
+
+
+<a href="http://fukuda-c.com/column/fukuoka-nechuushou-minamiku-naika/" class="column01" style="margin-right: 32px;">
+<div style="position: static; overflow: hidden; background-color: rgb(251, 251, 251);"><img src="http://fukuda-c.com/wp/wp-content/uploads/2016/08/熱中症　塩分水分.jpg" alt="" style="width: auto; height: 100%; position: relative; left: -6px; top: 0px;" /></div>
+<h2>熱中症</h2>
+</a>
+
+
+<a href="http://fukuda-c.com/column/hyperthyroid-koujyousen-fukuoka-minamiku/" class="column01" style="margin-right: 20px;">
+<div style="position: static; overflow: hidden; background-color: rgb(251, 251, 251);"><img src="http://fukuda-c.com/wp/wp-content/uploads/2016/06/福岡市甲状腺.jpg" alt="" style="width: auto; height: 100%; position: relative; left: -14.5px; top: 0px;" /></div>
+<h2>甲状腺機能亢進症</h2>
+</a>
+
+
+<a href="http://fukuda-c.com/column/%e4%be%bf%e7%a7%98%e3%82%88%e3%81%95%e3%82%88%e3%81%86%e3%81%aa%e3%82%89/" class="column01" style="margin-right: 20px;">
+<div style="position: static; overflow: hidden; background-color: rgb(251, 251, 251);"><img src="http://fukuda-c.com/wp/wp-content/uploads/2016/06/福岡市南区　消化器　.jpg" alt="" style="width: 100%; height: auto; position: relative; left: 0px; top: -21px;" /></div>
+<h2>便秘よさようなら</h2>
+</a>
+
+
+<a href="http://fukuda-c.com/column/hba1c%e3%80%80/" class="column01" style="margin-right: 20px;">
+<div style="position: static; overflow: hidden; background-color: rgb(251, 251, 251);"><img src="http://fukuda-c.com/wp/wp-content/uploads/2016/02/スライド1-9.jpg" alt="" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px;" /></div>
+<h2>糖尿病：HbA1c•血糖•インスリンについて知る　</h2>
+</a></div></div>
+
+<span class="column_prev" style="display: block;"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/images/arrow_prev01.png" alt="" width="38" height="38" /></span>
+<span class="column_next" style="display: block;"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/images/arrow_next01.png" alt="" width="38" height="38" /></span>
+
+<div class="box01" align="center"><a href="http://fukuda-c.com/columnlist/" class="btn02 clear_both">院長コラムの一覧を見る</a></div>
+
+</section>
+
+
+
+
+<section id="base_information" class="box01 mb100 mb_s30">
+<div class="wrapbox01 clearfix">
+
+<div class="info_left">
+<dl>
+<dt>お問い合わせ</dt>
+<dd><a href="tel:092-552-1122">tel.092-552-1122</a></dd>
+</dl>
+<div class="box01 mb15"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/images/calendar.png" width="339" height="95" alt="診療日カレンダー" class="retina img_s01" /></div>
+<p class="box01 text_small02 line001">受付時間 / 午前 8:30 - 12:30　午後 13:30 - 17:00<br />
+休診日 / 日祝祭日・土 午後 </p>
+<p class="box01 text_small02">〒811-1362 福岡県福岡市南区長住2丁目1-11</p>
+</div>
+
+<div class="info_map"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/images/map.png" width="480" height="309" alt="アクセスマップ" class="retina img_s01" /></div>
+
+<div class="info_access">
+<h2>バスでお越しの方</h2>
+<p class="box01 text_small02 mb20">天神から / 52・55・152番<br />
+博多駅から / 64・65・67番<br />
+福大病院から / 64番<br />
+大橋から / 2番</p>
+<p class="box01 text_small02">※長住2丁目バス停 徒歩1分</p>
+<a href="http://fukuda-c.com/access/" class="btn01 red">詳しく見る</a>
+</div>
+
+</div>
+</section>
+
+
+
+
+<section id="idx_news" class="box01">
+<div class="wrapbox01">
+
+<h1 class="subtitle01"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/idx_subtitle03_pc.png" width="76" height="137" alt="お知らせ" class="retina imgChange copysize01" /></h1>
+
+<div class="box03 right">
+
+
+<dl class="newslist01">
+<dt>2018.01.16</dt>
+<dd><a href="http://fukuda-c.com/news/%e5%be%85%e3%81%a1%e6%99%82%e9%96%93%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%80%80%e5%88%9d%e8%a8%ba%e3%81%ae%e6%82%a3%e8%80%85%e3%81%95%e3%82%93%e3%83%bb%e7%99%ba%e7%86%b1%e3%82%84%e5%92%b3%e3%81%ae/">【2018年1月の】待ち時間について　初診の患者さん・発熱や咳の患者さんへ</a></dd>
+</dl>
+
+
+<dl class="newslist01">
+<dt>2017.04.27</dt>
+<dd><a href="http://fukuda-c.com/news/goldenweek/">【2018年の】GW（ゴールデンウィーク）診療日</a></dd>
+</dl>
+
+
+<dl class="newslist01">
+<dt>2016.08.24</dt>
+<dd><a href="http://fukuda-c.com/news/fukuoka-gairai-nyuuin-minamiku/">入院・外来リハビリテーションについて</a></dd>
+</dl>
+
+
+</div>
+
+</div>
+</section>
+
+
+<section id="idx_gallery" class="box01">
+
+<div class="caroufredsel_wrapper" style="display: block; text-align: start; float: left; position: relative; top: auto; right: auto; bottom: auto; left: auto; z-index: auto; width: 1985px; height: 222px; margin: 0px; overflow: hidden;"><div id="gallery_carousel" style="text-align: left; float: none; position: absolute; top: 0px; right: auto; bottom: auto; left: -64px; margin: 0px; width: 10441px; height: 222px;"><a href="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image02.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgba(0, 0, 0, 0); margin-right: 2px;"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image02.jpg" alt="" style="width: auto; height: 100%; position: relative; left: -15px; top: 0px;" /></a><a href="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image03.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgba(0, 0, 0, 0); margin-right: 2px;"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image03.jpg" alt="" style="width: auto; height: 100%; position: relative; left: -15px; top: 0px;" /></a><a href="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image04.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgba(0, 0, 0, 0); margin-right: 2px;"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image04.jpg" alt="" style="width: auto; height: 100%; position: relative; left: -15px; top: 0px;" /></a><a href="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image05.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgba(0, 0, 0, 0); margin-right: 2px;"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image05.jpg" alt="" style="width: auto; height: 100%; position: relative; left: -15px; top: 0px;" /></a><a href="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image08.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgba(0, 0, 0, 0); margin-right: 2px;"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image06.jpg" alt="" style="width: auto; height: 100%; position: relative; left: -15px; top: 0px;" /></a><a href="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image07.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgba(0, 0, 0, 0); margin-right: 2px;"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image07.jpg" alt="" style="width: auto; height: 100%; position: relative; left: -15px; top: 0px;" /></a>
+<a href="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image01.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgba(0, 0, 0, 0); margin-right: 2px;"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image01.jpg" alt="" style="width: auto; height: 100%; position: relative; left: -15px; top: 0px;" /></a>
+<a href="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image02.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgba(0, 0, 0, 0); margin-right: 2px;"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image02.jpg" alt="" style="width: auto; height: 100%; position: relative; left: -15px; top: 0px;" /></a>
+<a href="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image03.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgba(0, 0, 0, 0); margin-right: 2px;"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image03.jpg" alt="" style="width: auto; height: 100%; position: relative; left: -15px; top: 0px;" /></a>
+<a href="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image04.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgba(0, 0, 0, 0); margin-right: 2px;"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image04.jpg" alt="" style="width: auto; height: 100%; position: relative; left: -15px; top: 0px;" /></a>
+<a href="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image05.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgba(0, 0, 0, 0); margin-right: 2px;"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image05.jpg" alt="" style="width: auto; height: 100%; position: relative; left: -15px; top: 0px;" /></a>
+<a href="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image08.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgba(0, 0, 0, 0); margin-right: 2px;"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image06.jpg" alt="" style="width: auto; height: 100%; position: relative; left: -15px; top: 0px;" /></a>
+<a href="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image07.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgba(0, 0, 0, 0); margin-right: 2px;"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image07.jpg" alt="" style="width: auto; height: 100%; position: relative; left: -15px; top: 0px;" /></a>
+<a href="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image01.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgba(0, 0, 0, 0); margin-right: 2px;"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/images/gallery/image01.jpg" alt="" style="width: auto; height: 100%; position: relative; left: -15px; top: 0px;" /></a>
+
+
+
+
+
+
+
+</div></div>
+
+<span class="prev" style="display: block;"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/images/arrow_prev01.png" alt="" width="38" height="38" /></span>
+<span class="next" style="display: block;"><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/images/arrow_next01.png" alt="" width="38" height="38" /></span>
+
+</section>
+
+
+
+
+
+<footer>
+<div class="footwrap">
+
+<h1><a href="http://fukuda-c.com/">福岡市南区｜ふくだ内科循環器・糖尿病内科</a></h1>
+<div class="mainnavi">
+<ul>
+<li><a class="navi00" href="http://fukuda-c.com/">トップページ</a></li>
+<li><a class="navi01" href="http://fukuda-c.com/about/">当院について</a></li>
+<li><a class="navi02" href="http://fukuda-c.com/diagnosis/">診療科</a></li>
+<li><a class="navi03" href="http://fukuda-c.com/doctor/">医師紹介</a></li>
+<li><a class="navi04" href="http://fukuda-c.com/facilities/">院内紹介</a></li>
+<li><a class="navi05" href="http://fukuda-c.com/columnlist/">院長コラム</a></li>
+<li><a class="navi06" href="http://fukuda-c.com/recruit/">採用情報</a></li>
+<li><a class="navi07" href="http://fukuda-c.com/access/">交通アクセス</a></li>
+</ul>
+</div>
+<p class="copyright">© FUKUDA CLINIC, All Rights Reserved.</p>
+
+</div>
+</footer>
+
+
+
+</div>
+<!--idx_contents -->
+
+
+<dl id="textsize"> 
+<dt><img src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/images/textsize_copy.png" width="65" height="14" alt="文字サイズ" class="retina" /></dt> 
+<dd class="medium"><a rel="medium" class="styleswitch">普通</a></dd>
+<dd class="large"><a rel="large" class="styleswitch">大きく</a></dd>
+</dl>
+
+
+<div id="pagetop" style="display: none;">PAGETOP</div>
+<script src="http://fukuda-c.com/wp/wp-content/themes/fukuda/common/js/map.js"></script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-73629607-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+</body></html>

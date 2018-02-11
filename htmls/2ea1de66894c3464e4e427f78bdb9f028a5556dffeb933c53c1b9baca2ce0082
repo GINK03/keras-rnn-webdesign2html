@@ -1,0 +1,607 @@
+<!DOCTYPE html><!--[if IE 6 ]><html lang="ja" class="ie6"><![endif]--><!--[if IE 7 ]><html lang="ja" class="ie7"><![endif]--><!--[if IE 8 ]><html lang="ja" class="ie8"><![endif]--><!--[if IE 9 ]><html lang="ja" class="ie9"><![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" lang="ja"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
+
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=1024" />
+	<meta name="keywords" content="桜十字病院,桜十字,熊本,病院,老人,入院,介護,高齢者,内科,神経内科,呼吸器科,消化器科,循環器科,リウマチ膠原病内科,リハビリテーション科,歯科,九州,医療機関,医療" />
+	<meta name="description" content="熊本の地域医療と介護を支える病院｜桜十字病院｜熊本の医療、介護、入院。こころの故郷をめざします。" />
+		
+	<meta property="og:title" content="医療法人 桜十字病院" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://www.sakurajyuji.or.jp/" />
+	<meta property="og:image" content="http://www.sakurajyuji.or.jp/common/images/facebook-ogp-image.png" />
+	<meta property="og:site_name" content="医療法人 桜十字病院" />
+	<meta property="og:description" content="熊本の地域医療と介護を支える病院｜桜十字病院｜熊本の医療、介護、入院。こころの故郷をめざします。" />
+	
+	<title>熊本の地域医療と介護を支える病院｜桜十字病院｜熊本の医療、介護、入院</title>
+	
+	<link rel="icon" href="/favicon.ico" />
+	<link rel="apple-touch-icon-precomposed" href="common/images/apple-touch-icon-precomposed.png" />
+	<link rel="stylesheet" href="common/css/html5reset-1.6.1.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="common/css/init.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="common/css/common.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="css/default_20171015.css" type="text/css" media="all" />
+	
+	<script charset="UTF-8" id="twitter-wjs" async="" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js" gapi_processed="true"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.RJ8Tbj6XCc8.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQE/rs=AGLTcCNogYFgdbsuKlB1OPzpUFb1rTclKQ/cb=gapi.loaded_0" async=""></script><script type="text/javascript" src="//webfont.fontplus.jp/accessor/script/fontplus.js?vVjl562x4Bk%3D&amp;aa=1" charset="utf-8"></script><style type="text/css" id="fpbf_ac93d8111_css">@font-face { font-family: 'fpbf_ac93d8111'; src: url('https://s3-ap-northeast-1.amazonaws.com/fp-bf/3d4c80e6') format('woff'); }</style>
+	<script type="text/javascript" src="https://apis.google.com/js/plusone.js" gapi_processed="true"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="common/js/import.js"></script>
+	<script src="common/js/jquery.easing.1.3.js"></script>
+	<script src="common/js/userAgent.js"></script>
+	<script src="common/js/scrollto.js"></script>
+	<script src="common/js/common.js"></script>
+	<script src="js/jquery.cookie.js"></script>
+	<script src="js/skrollr.js"></script>
+	<script src="js/headline.js"></script>
+	<script src="js/script.js"></script>
+	
+<style type="text/css" rel="stylesheet" id="fontplus_css_0">@font-face { font-family: 'FOT-マティス Pro M'; font-weight: Bold; src: url('https://webfont.fontplus.jp/accessor/reqf/con=fp_9a73631e8e136c13ef36912e74b7fffe&amp;cha=UTF-8&amp;dmode=&amp;aa=1&amp;ab=0&amp;fa=Rk9ULeODnuODhuOCo-OCuSBQcm8gTQ&amp;lst=0&amp;lsc=0&amp;s=QUhNUmFiY2RlaGlrbG1ub3Byc3R1dnl644GE44GL44GV44Gd44Gk44Gm44Gr44Gu44G444G544G-44G_44KJ44KK44KL44Ki44Kn44Kv44Kx44K144K344K444K544K744K_44OD44OG44OI44OJ44OP44OT44OX44On44Oq44Or44Ot44Oz44O744O85Lit5LqI5Lq65LuW5LyB5L-C5YGl5YWQ5YWl5Yy75Y2B5Y2S5Y-W5Y-j5ZKM5Zue5Zyo5aCx5aSW5a2X5a6F5bCP5b2T5b6p5oOF5o6l5paw5pa95pmC5pyf5p2l5qGc5qOf5qWt55eF55mC55qG552A56eR56iu57WE57ep6ISz6Kit6Ki66YCj6ZaT6Zai6Ziy6Zmi6aOf'); }
+@font-face { font-family: 'MatissePro-M'; font-weight: Bold; src: url('https://webfont.fontplus.jp/accessor/reqf/con=fp_9a73631e8e136c13ef36912e74b7fffe&amp;cha=UTF-8&amp;dmode=&amp;aa=1&amp;ab=0&amp;fa=TWF0aXNzZVByby1N&amp;lst=0&amp;lsc=0&amp;s=QUhNUmFiY2RlaGlrbG1ub3Byc3R1dnl644GE44GL44GV44Gd44Gk44Gm44Gr44Gu44G444G544G-44G_44KJ44KK44KL44Ki44Kn44Kv44Kx44K144K344K444K544K744K_44OD44OG44OI44OJ44OP44OT44OX44On44Oq44Or44Ot44Oz44O744O85Lit5LqI5Lq65LuW5LyB5L-C5YGl5YWQ5YWl5Yy75Y2B5Y2S5Y-W5Y-j5ZKM5Zue5Zyo5aCx5aSW5a2X5a6F5bCP5b2T5b6p5oOF5o6l5paw5pa95pmC5pyf5p2l5qGc5qOf5qWt55eF55mC55qG552A56eR56iu57WE57ep6ISz6Kit6Ki66YCj6ZaT6Zai6Ziy6Zmi6aOf'); }
+@font-face { font-family: 'FOT-マティス Pro DB'; font-weight: Bold; src: url('https://webfont.fontplus.jp/accessor/reqf/con=fp_9a73631e8e136c13ef36912e74b7fffe&amp;cha=UTF-8&amp;dmode=&amp;aa=1&amp;ab=0&amp;fa=Rk9ULeODnuODhuOCo-OCuSBQcm8gREI&amp;lst=0&amp;lsc=0&amp;s=44GE44GK44Gb44Gu44KJ44KP44O75LuY5LyR5YWI5YuV5Y-X5ZCI5ZGK5ZWP5aCx5a-f5oOF5paw5pmC5pu05rS755-l6Ki66ZaT'); }
+@font-face { font-family: 'MatissePro-DB'; font-weight: Bold; src: url('https://webfont.fontplus.jp/accessor/reqf/con=fp_9a73631e8e136c13ef36912e74b7fffe&amp;cha=UTF-8&amp;dmode=&amp;aa=1&amp;ab=0&amp;fa=TWF0aXNzZVByby1EQg&amp;lst=0&amp;lsc=0&amp;s=44GE44GK44Gb44Gu44KJ44KP44O75LuY5LyR5YWI5YuV5Y-X5ZCI5ZGK5ZWP5aCx5a-f5oOF5paw5pmC5pu05rS755-l6Ki66ZaT'); }
+@font-face { font-family: 'FOT-マティス Pro L'; font-weight: Bold; src: url('https://webfont.fontplus.jp/accessor/reqf/con=fp_9a73631e8e136c13ef36912e74b7fffe&amp;cha=UTF-8&amp;dmode=&amp;aa=1&amp;ab=0&amp;fa=Rk9ULeODnuODhuOCo-OCuSBQcm8gTA&amp;lst=0&amp;lsc=0&amp;s=44GE44GK44Gb44KP44Ki44Kk44Kv44K144K544K744OD44OI44OX44Oe5ZCI5ZWP5aCx5oOF5paw552A'); }
+@font-face { font-family: 'MatissePro-L'; font-weight: Bold; src: url('https://webfont.fontplus.jp/accessor/reqf/con=fp_9a73631e8e136c13ef36912e74b7fffe&amp;cha=UTF-8&amp;dmode=&amp;aa=1&amp;ab=0&amp;fa=TWF0aXNzZVByby1M&amp;lst=0&amp;lsc=0&amp;s=44GE44GK44Gb44KP44Ki44Kk44Kv44K144K544K744OD44OI44OX44Oe5ZCI5ZWP5aCx5oOF5paw552A'); }
+</style><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset&gt;div{overflow:hidden}.fb_link img{border:none}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_loader{background-color:#f6f7f9;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title&gt;span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29487d;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f9;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}
+.fb_customer_chat_bounce_in{animation-duration:250ms;animation-name:fb_bounce_in}.fb_customer_chat_bounce_out{animation-duration:250ms;animation-name:fb_fade_out}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}.fb_mobile_overlay_active{height:100%;overflow:hidden;position:fixed;width:100%}@keyframes fb_fade_out{from{opacity:1}to{opacity:0}}@keyframes fb_bounce_in{0%{opacity:0;transform:scale(.8, .8);transform-origin:100% 100%}10%{opacity:.1}20%{opacity:.2}30%{opacity:.3}40%{opacity:.4}50%{opacity:.5}60%{opacity:.6}70%{opacity:.7}80%{opacity:.8;transform:scale(1.03, 1.03)}90{opacity:.9}100%{opacity:1;transform:scale(1, 1)}}</style><script type="text/javascript" charset="utf-8" async="" src="https://platform.twitter.com/js/button.5f64a1a5864e1229f84c8defd65341b4.js"></script></head>
+
+<body class="inKv">
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#channel=f3c98183249ac04&amp;origin=https%3A%2F%2Fwww.sakurajyuji.or.jp" style="border: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div></div>
+
+
+<div id="page">
+	
+	<header id="global-header">
+		<div class="wrap">
+			<h1><a href="./"><img src="common/images/logo_white.png" id="logo" alt="桜十字病院" /></a></h1>
+			<div id="head-contents">
+				<h2><img src="common/images/sub_logo_white.png" id="sub-logo" alt="医療法人 桜十字" /></h2>
+				<div id="search">
+					<form id="cse-search-box" action="google.com/cse">
+						<input type="hidden" name="cx" value="011338186713326111849:a3rb2jxi5vs" />
+						<input type="hidden" name="ie" value="UTF-8" />
+						<input type="text" name="q" placeholder="カスタム検索" style="background: url(&quot;https://www.google.com/cse/static/images/1x/googlelogo_lightgrey_46x16dp.png&quot;) left center no-repeat rgb(255, 255, 255); text-indent: 48px;" />
+						<input type="submit" name="sa" />
+					<input name="siteurl" type="hidden" value="www.sakurajyuji.or.jp/" /><input name="ref" type="hidden" value="" /><input name="ss" type="hidden" value="" /></form>
+					<script type="text/javascript" src="//www.google.com/cse/brand?form=cse-search-box&amp;lang=ja"></script>
+				</div>
+				<nav>
+					<ul>
+						<li><a href="news/">新着情報</a></li><!--
+						--><li><a href="terms/sitemap/">サイトマップ</a></li><!--
+						--><li><a href="about/access/">アクセスマップ</a></li><!--
+						--><li><a href="contact/">お問い合わせ</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</header>
+	<div id="keyvisual" class="kv play">
+		<div class="parallax slideshow" data-parallax-depth="0.4" style="transform: translate3d(0px, 0px, 0px);">
+			<ul class="image-reel" style="visibility: visible;">
+				<li class="image-reel-item current"><img src="./images/main-image1.jpg" class="img bg image-reel-item-bg" /></li>
+				<li class="image-reel-item next"><img src="./images/main-image2.jpg" class="img bg image-reel-item-bg" /></li>
+				<li class="image-reel-item"><img src="./images/main-image3.jpg" class="img bg image-reel-item-bg" /></li>
+				<li class="image-reel-item"><img src="./images/main-image4.jpg" class="img bg image-reel-item-bg" /></li>
+				<li class="image-reel-item"><img src="./images/main-image5.jpg" class="img bg image-reel-item-bg" /></li>
+				<li class="image-reel-item"><img src="./images/main-image6.jpg" class="img bg image-reel-item-bg" /></li>
+				<li class="image-reel-item"><img src="./images/main-image7.jpg" class="img bg image-reel-item-bg" /></li>
+				<li class="image-reel-item prev"><img src="./images/main-image8.jpg" class="img bg image-reel-item-bg" /></li>
+			</ul>
+			<img src="./images/kv_blank.png" alt="" class="kv-blank" />
+		</div>
+		
+		<div class="kv-logo-container">
+			<div class="kv-logo">
+				<h1 class="kv-logo__main"><img src="images/catch.png" alt="これからの医療を、こころから。" /></h1>
+				<h2 class="kv-logo__sub"><img src="images/sub_text.png" alt="桜十字病院は、患者さまにこころから満足していただける病院を目指します。" /></h2>
+			</div>
+			<div class="scroll-indicator"></div>
+		</div>
+		
+		<p id="loading"><img src="images/loading.gif" alt="loading..." /></p>
+		
+		<nav id="global-nav">
+			<ul>
+				<li><a href="about/">当院について<span>About us</span></a></li><!--
+				--><li><a href="ambulatory/">外来<span>Ambulatory</span></a></li><!--
+				--><li><a href="hospitalization/">入院<span>Hospitalization</span></a></li><!--
+				--><li><a href="check_up/">健診<span>Medical check up</span></a></li><!--
+				--><li><a href="rehabilitation/">リハビリ<span>Rehabilitation</span></a></li><!--
+				--><li><a href="service/">在宅サービス<span>Home service</span></a></li>
+			</ul>
+		</nav>
+	</div>
+	
+	
+	
+	
+	<div id="menu-area">
+		<section id="menu-totalcare">
+			<a href="about/feature/">
+				<div class="title-wrap">
+					<div>
+						<h2>トータルケア</h2>
+						<p class="eng">Seamless care</p>
+					</div>
+				</div>
+				<span class="circle"></span>
+				<figure><img src="images/icon_totalcare.png" alt="トータルケア" /></figure>
+				<p>急性期をすぎた患者さまが<br />ご自宅に退院されるまで切れ目の<br />ないサポートを行っています。</p>
+				<hr />
+				<p class="more"><span>詳細を見る</span></p>
+			</a>
+		</section><!--
+		--><section id="menu-medical">
+			<a href="hospitalization/receiving/">
+				<div class="title-wrap">
+					<div>
+						<h2>医療関係の皆さまへ</h2>
+						<p class="eng">To all the medical related parties</p>
+					</div>
+				</div>
+				<span class="circle"></span>
+				<figure><img src="images/icon_medical.png" alt="医療関係の皆さまへ" /></figure>
+				<p>在宅復帰のための取り組みを<br />強化し、地域包括ケアシステムの<br />構築に努めます。</p>
+				<hr />
+				<p class="more"><span>詳細を見る</span></p>
+			</a>
+		</section><!--
+		--><section id="menu-hospitalizationreha">
+			<a href="hospitalization/receiving/ward/reha/">
+				<div class="title-wrap">
+					<div>
+						<h2>
+							<span>脳卒中</span><span>リハビリセンター</span>
+							<span class="smalltxt">回復期リハビリテーション病棟</span>
+						</h2>
+						<p class="eng">Convalescence Rehabilitation</p>
+					</div>
+				</div>
+				<span class="circle"></span>
+				<figure><img src="images/icon_hospitalization_reha.png" alt="回復期リハビリテーション病棟" /></figure>
+				<p>急性期病院の治療を<br />スムーズに引き継ぎ、在宅復帰に向けて、<br />集中的にリハビリテーションを行います。</p>
+				<hr />
+				<p class="more"><span>詳細を見る</span></p>
+			</a>
+		</section><!--
+		--><section id="menu-kuchikara">
+			<a href="about/feature/kuchikara/">
+				<div class="title-wrap">
+					<div>
+						<h2><span>口から食べる</span><span>プロジェクト</span></h2>
+						<p class="eng">Kuchi-Kara-Taberu Project</p>
+					</div>
+				</div>
+				<span class="circle"></span>
+				<figure><img src="images/icon_kuchikara.png" alt="口から食べるプロジェクト" /></figure>
+				<p>患者さまに口から食べる喜びを<br />取り戻していただきたい。<br />病院を挙げて取り組んでいます。</p>
+				<hr />
+				<p class="more"><span>詳細を見る</span></p>
+			</a>
+		</section><!--
+		--><section id="menu-food">
+			<a href="about/feature/food/">
+				<div class="title-wrap">
+					<div>
+						<h2>食への取り組み</h2>
+						<p class="eng">Effort to food</p>
+					</div>
+				</div>
+				<span class="circle"></span>
+				<figure><img src="images/icon_food.png" alt="食への取り組み" /></figure>
+				<p>こころとからだの健康をつくるお食事。<br />食べる喜びを感じていただける<br />お食事作りに日々取り組んでいます。</p>
+				<hr />
+				<p class="more"><span>詳細を見る</span></p>
+			</a>
+		</section><!--
+		--><section id="menu-palliative">
+			<a href="hospitalization/palliative/">
+				<div class="title-wrap">
+					<div>
+						<h2>緩和ケア</h2>
+						<p class="eng">Palliative care</p>
+					</div>
+				</div>
+				<span class="circle"></span>
+				<figure><img src="images/icon_palliative.png" alt="緩和ケア" /></figure>
+				<p>がんによる<br />痛みやつらさをやわらげる<br />緩和ケアをご案内します。</p>
+				<hr />
+				<p class="more"><span>詳細を見る</span></p>
+			</a>
+		</section><!--
+		--><section id="menu-ambulatory">
+			<a href="ambulatory/index.php#consultation">
+				<div class="title-wrap">
+					<div>
+						<h2>外来診療時間</h2>
+						<p class="eng">Consultation Schedule</p>
+					</div>
+				</div>
+				<span class="circle"></span>
+				<figure><img src="images/icon_schedule.png" alt="外来診療時間" /></figure>
+				<p>外来各科の<br />診療時間のご案内です。</p>
+				<hr />
+				<p class="more"><span>詳細を見る</span></p>
+			</a>
+		</section><!--
+		--><section id="menu-vaccination">
+			<a href="ambulatory/subject/vaccination/">
+				<div class="title-wrap">
+					<div>
+						<h2>予防接種</h2>
+						<p class="eng">Vaccination</p>
+					</div>
+				</div>
+				<span class="circle"></span>
+				<figure><img src="images/icon_vaccination.png" alt="予防接種" /></figure>
+				<p>インフルエンザから<br />海外渡航時の予防接種まで<br />実施しております。</p>
+				<hr />
+				<p class="more"><span>詳細を見る</span></p>
+			</a>
+		</section><!--
+		--><section id="menu-pediatrics">
+			<a href="ambulatory/subject/pediatrics/">
+				<div class="title-wrap">
+					<div>
+						<h2>小児科</h2>
+						<p class="eng">Pediatrics</p>
+					</div>
+				</div>
+				<span class="circle"></span>
+				<figure><img src="images/icon_pediatrics.png" alt="小児科" /></figure>
+				<p>一般小児科・予防接種に加え<br />発達相談や小児リハビリも<br />実施しています。</p>
+				<hr />
+				<p class="more"><span>詳細を見る</span></p>
+			</a>
+		</section><!--
+		--><section id="menu-corporate">
+			<a href="check_up/corporation/">
+				<div class="title-wrap">
+					<div>
+						<h2>企業健診について</h2>
+						<p class="eng">Corporate medical check up</p>
+					</div>
+				</div>
+				<span class="circle"></span>
+				<figure><img src="images/icon_corporate.png" alt="企業健診について" /></figure>
+				<p>法定健診や人間ドック、<br />各種提出書類の作成サポートや<br />産業医・産業保健など。</p>
+				<hr />
+				<p class="more"><span>詳細を見る</span></p>
+			</a>
+		</section>
+	</div>
+	
+	
+	
+	<div id="banner-area">
+		<ul class="wrap">
+			<li><a href="recruit/kaigo/"><img src="images/banner_recruit_kaigo.jpg" alt="介護職採用情報" /></a></li>
+			<li><a href="recruit/kaigo/about/support/"><img src="images/banner_tr_campaign.jpg" alt="介護の資格無料取得キャンペーン" /></a></li>
+            <li><a href="sasaeria/" target="_blank"><img src="images/banner_sasaeria.jpg" alt="熊本市高齢者支援センター ささえりあ" /></a></li>
+			<li><a href="welfare/letsreha.jr/" target="_blank"><img src="images/banner_letsjr.jpg" alt="児童発達支援事業所 レッツリハ！ジュニア" /></a></li>
+			<li><a href="sakurafuwari/"><img src="images/banner_sakurafuwari.jpg" alt="桜十字病院 広報誌 桜ふわり" /></a></li>
+			<li><a href="kangobu/" target="_blank"><img src="images/banner_kangobu.jpg" alt="桜十字看護部" /></a></li>
+			<li><a href="recruit/"><img src="images/banner_recruit.jpg" alt="採用について" /></a></li>
+			<li><a href="about/feature/flower/"><img src="images/banner_flower.jpg" alt="花いっぱいの病院" /></a></li>
+			<li><a href="satisfactory/"><img src="images/banner_satisfactory.jpg" alt="患者さま満足室" /></a></li>
+            <li><a href="about/feature/illumination/"><img src="images/banner_illumi.jpg" alt="桜十字サンクス・イルミネーション2017" /></a></li>
+            <li><a href="about/feature/illumination/contest/"><img src="images/banner_photocon.jpg" alt="イルミネーションフォトコンテスト2017" /></a></li>
+		</ul>
+	</div>
+	
+	
+	
+	<div id="news-area" class="wrap">
+		<div id="closure" class="list">
+			<h3>休診のお知らせ</h3>
+			<ul class="rss">
+				<li><a href="news/?feed=atom&amp;cat=3">RSS</a></li><!--
+				--><li><a href="news/?cat=3">一覧</a></li>
+			</ul>
+			<ul id="closure-list"><li><a href="https://www.sakurajyuji.or.jp/news/?p=2855"><time>2018.2.7</time><span>小児科</span>2月の変更点のお知らせ</a></li><li><a href="https://www.sakurajyuji.or.jp/news/?p=2852"><time>2018.2.5</time><span></span>2月10日（土）の休診情報</a></li><li><a href="https://www.sakurajyuji.or.jp/news/?p=2850"><time>2018.2.5</time><span></span>2月9日（金）の休診情報</a></li></ul>
+		</div>
+		
+		<div id="post" class="list">
+			<h3>更新情報</h3>
+			<ul class="rss">
+				<li><a href="news/?feed=atom&amp;cat=11">RSS</a></li><!--
+				--><li><a href="news/?cat=11">一覧</a></li>
+			</ul>
+			<ul id="post-list"><li><a href="https://www.sakurajyuji.or.jp/news/?p=2833"><time>2018.1.22</time>緩和ケアのパンフレットを閲覧できるようにいたしました。</a></li><li><a href="https://www.sakurajyuji.or.jp/news/?p=2823"><time>2018.1.4</time>西徹医師の着任に伴う更新を行いました。</a></li><li><a href="https://www.sakurajyuji.or.jp/news/?p=2718"><time>2017.10.27</time>脳卒中リハビリテーションセンターのページを公開いたしました。</a></li></ul>
+		</div>
+		
+		<div id="report">
+			<h3>お知らせ・活動報告</h3>
+			<ul class="rss">
+				<li><a href="news/?feed=atom">RSS</a></li><!--
+				--><li><a href="news/">一覧</a></li>
+			</ul>
+			
+			<div id="post-wrap">
+				<section id="post-hospital">
+					<h4><a href="./news/?cat=1"><span>病院からの</span><span>お知らせ</span></a></h4><article class="up"><a href="https://www.sakurajyuji.or.jp/news/?p=2847"><figure><img src="https://www.sakurajyuji.or.jp/news/wp-content/uploads/2018/02/info20180202.jpg" alt="" /></figure><time>2018.2.2</time>イルミネーションフォトコンテスト2017　結果発表！</a></article><article><a href="https://www.sakurajyuji.or.jp/news/?p=2802"><figure><img src="https://www.sakurajyuji.or.jp/news/wp-content/uploads/2017/12/20171221.jpg" alt="" /></figure><time>2018.1.27</time>【中止】「桜十字病院　脳と臨床研修会」開催のお知らせ</a></article><article><a href="https://www.sakurajyuji.or.jp/news/?p=2792"><figure><img src="https://www.sakurajyuji.or.jp/news/wp-content/uploads/2017/12/20171214.jpg" alt="" /></figure><time>2017.12.15</time>インフルエンザワクチンの接種を再開します。</a></article>
+					<p><a href="news/?cat=1">一覧へ</a></p>
+				</section><!--
+				
+				--><section id="post-kuchikara">
+					<h4><a href="./news/?cat=4"><span>口から食べる</span><span>プロジェクト</span><span>活動報告</span></a></h4><article><a href="https://www.sakurajyuji.or.jp/news/?p=2460"><figure><img src="https://www.sakurajyuji.or.jp/news/wp-content/uploads/2017/06/kuchitabe20170524TB.jpg" alt="" /></figure><time>2017.6.22</time>かたらんね　第2弾のお知らせ</a></article><article><a href="https://www.sakurajyuji.or.jp/news/?p=2451"><figure><img src="https://www.sakurajyuji.or.jp/news/wp-content/uploads/2017/06/kuchitabe20170524TB.jpg" alt="" /></figure><time>2017.5.24</time>かたらんね</a></article><article><a href="https://www.sakurajyuji.or.jp/news/?p=2444"><figure><img src="https://www.sakurajyuji.or.jp/news/wp-content/uploads/2017/06/0520POTT-300x200.jpg" alt="" /></figure><time>2017.5.20</time>POTTセミナー</a></article>
+					<p><a href="news/?cat=4">一覧へ</a></p>
+				</section><!--
+				
+				--><section id="post-event">
+					<h4><a href="./news/?cat=9"><span>イベント</span><span>レポート</span></a></h4><article><a href="https://www.sakurajyuji.or.jp/news/?p=2741"><figure><img src="https://www.sakurajyuji.or.jp/news/wp-content/uploads/2017/11/tb20171117-300x225.jpg" alt="" /></figure><time>2017.11.17</time>イルミネーション点灯式</a></article><article><a href="https://www.sakurajyuji.or.jp/news/?p=2661"><figure><img src="https://www.sakurajyuji.or.jp/news/wp-content/uploads/2017/09/tb201709-300x225.jpg" alt="" /></figure><time>2017.9.16</time>桜十字 敬老祭 2017</a></article><article><a href="https://www.sakurajyuji.or.jp/news/?p=2679"><figure><img src="https://www.sakurajyuji.or.jp/news/wp-content/uploads/2017/10/tb20170708-300x225.jpg" alt="" /></figure><time>2017.7.8</time>桜十字 夏祭り</a></article>
+					<p><a href="news/?cat=9">一覧へ</a></p>
+				</section><!--
+				
+				--><section id="post-daycare">
+					<h4><a href="./news/?cat=1"><span>デイケアからの</span><span>お知らせ</span></a></h4><article><a href="https://www.sakurajyuji.or.jp/news/?p=2550"><figure><img src="https://www.sakurajyuji.or.jp/news/wp-content/uploads/2017/08/daycare201708231-300x225.jpg" alt="" /></figure><time>2017.8.25</time>ひまわり畑</a></article><article><a href="https://www.sakurajyuji.or.jp/news/?p=2480"><figure><img src="https://www.sakurajyuji.or.jp/news/wp-content/uploads/2017/07/daycare201707212-300x400.jpg" alt="" /></figure><time>2017.7.21</time>手作り梅ジュース　試飲会</a></article><article><a href="https://www.sakurajyuji.or.jp/news/?p=1891"><figure><img src="https://www.sakurajyuji.or.jp/news/wp-content/uploads/2016/12/daycare20161220③-300x214.png" alt="" /></figure><time>2016.12.17</time>12/17(土)はアットホームなクリスマス会</a></article>
+					<p><a href="news/?cat=5">一覧へ</a></p>
+				</section><!--
+				
+				--><section id="post-inhome">
+					<h4><a href="./news/?cat=7"><span>在宅部門からの</span><span>お知らせ</span></a></h4><article><a href="https://www.sakurajyuji.or.jp/news/?p=2768"><figure><img src="https://www.sakurajyuji.or.jp/news/wp-content/uploads/2017/12/granpaletta20171207-300x120.jpg" alt="" /></figure><time>2017.12.12</time>Let’s リハ！ in the mall 4号店がグランパレッタ熊本にOPEN</a></article><article><a href="https://www.sakurajyuji.or.jp/news/?p=2519"><figure><img src="https://www.sakurajyuji.or.jp/news/wp-content/uploads/2017/01/info-recruit.jpg" alt="" /></figure><time>2017.8.7</time>【採用情報】Let’s リハ！オープニングスタッフ募集</a></article><article><a href="https://www.sakurajyuji.or.jp/news/?p=2211"><figure><img src="https://www.sakurajyuji.or.jp/news/wp-content/uploads/2017/04/zaitaku20170406TB.png" alt="" /></figure><time>2017.4.7</time>Let’s リハ！in the mall 2号店がゆめタウンはませんにOPENします！</a></article>
+					<p><a href="news/?cat=7">一覧へ</a></p>
+				</section><!--
+				
+				--><section id="post-gallery">
+					<h4><a href="./news/?cat=8"><span>ギャラリーさくら</span><span>からのお知らせ</span></a></h4><article><a href="https://www.sakurajyuji.or.jp/news/?p=2125"><figure><img src="https://www.sakurajyuji.or.jp/news/wp-content/uploads/2017/03/gallery20170306-300x181.jpg" alt="" /></figure><time>2017.3.6</time>寺本勲「私の特選写真展」</a></article><article><a href="https://www.sakurajyuji.or.jp/news/?p=2006"><figure><img src="https://www.sakurajyuji.or.jp/news/wp-content/uploads/2017/02/gallery20170203-300x200.jpg" alt="" /></figure><time>2017.2.3</time>小山益生写眞展</a></article><article><a href="https://www.sakurajyuji.or.jp/news/?p=2002"><figure><img src="https://www.sakurajyuji.or.jp/news/wp-content/uploads/2017/02/20170201gallery.jpg" alt="" /></figure><time>2017.2.1</time>2016イルミネーションフォトコンテスト作品展</a></article>
+					<p><a href="news/?cat=8">一覧へ</a></p>
+				</section>
+			</div>
+			
+		</div>
+		<!-- report end -->
+		
+	</div>
+	<!-- news-area end -->
+
+	<div id="pagetop">
+		<a href="#page" class="anchor">
+			<div class="wrap">
+				<p><span>このページの先頭に戻る</span></p>
+			</div>
+		</a>
+	</div>
+	
+	<footer>
+		<div id="foot-contents">
+			
+			<nav id="foot-nav">
+				<div id="info">
+					<h1><a href="/"><img src="common/images/footer_logo.png" alt="桜十字病院" /></a></h1>
+					<p>〒861-4173<br /><span>熊本県熊本市南区御幸木部</span><span>1丁目1番1号</span><br /><a href="about/access/">アクセスマップ</a></p>
+					<dl>
+						<dt>お問い合わせ先</dt>
+						<dd>電話：096-378-1111<br />メール：info@sakurajyuji.jp</dd>
+						<dt>診察受付時間</dt>
+						<dd>午前 9:00～12:00<br />午後 13:00～17:00<br />休診日 土曜午後・日・祝日</dd>
+					</dl>
+					<ul>
+						<li><a href="http://www.hospitalment.co.jp/" target="_blank">ホスピタルメント</a></li>
+						<li><a href="http://www.sj-fukuoka.or.jp/" target="_blank">桜十字福岡病院</a></li>
+						<li><a href="http://www.sj-yatsushiro.or.jp/" target="_blank">桜十字八代病院</a></li>
+                        <li><a href="http://www.sakurajyuji.or.jp/k-higashi/" target="_blank">桜十字熊本東病院</a></li>
+					</ul>
+					<ul>
+						<li><a href="http://www.sakurajyuji.jp/" target="_blank">桜十字グループ</a></li>
+					</ul>
+					<div class="recruit-link">
+						<a href="kangobu/recruit/graduates/">
+							<p><strong><span>平成30年3月</span><span>新規学卒者</span><br />看護師募集中</strong><br />募集要項はこちら</p>
+						</a>
+					</div>
+				</div>
+			
+				<div>
+					<section>
+						<h2><a href="ambulatory/">外来</a></h2>
+						<ul>
+							<li><a href="ambulatory/examination/">初診・再診の方へ</a></li>
+							<li><a href="ambulatory/subject/">外来診療科目</a></li>
+							<li><a href="ambulatory/subject/endoscope/">内視鏡について</a></li>
+							<li><a href="ambulatory/subject/pylori/">ピロリ菌検査・治療</a></li>
+							<li><a href="ambulatory/subject/sas/">睡眠時無呼吸症候群外来</a></li>
+							<li><a href="ambulatory/subject/copd/">COPDについて</a></li>
+							<li><a href="ambulatory/subject/palliative/">緩和外来</a></li>
+							<li><a href="ambulatory/subject/inspection/">各種検査・二次健診</a></li>
+							<li><a href="ambulatory/subject/upper/"><span>上部消化管内視鏡検査を</span><span>受ける方へ</span></a></li>
+							<li><a href="ambulatory/subject/lower/"><span>下部消化管内視鏡検査を</span><span>受ける方へ</span></a></li>
+							<li><a href="ambulatory/subject/pediatrics/">小児科について</a></li>
+							<li><a href="ambulatory/subject/rheumatism/">リウマチ膠原病内科</a></li>
+							<li><a href="ambulatory/subject/vaccination/">予防接種</a></li>
+						</ul>
+					</section>
+					<section>
+						<h2>関連施設</h2>
+						<ul>
+							<li><a href="http://www.hospitalment.co.jp/sakurajyuji/" target="_blank">ホスピタルメント桜十字</a></li>
+							<li><a href="http://www.hospitalment.co.jp/sakuranishi/" target="_blank"><span>ホスピタルメント</span><span>さくら西館</span></a></li>
+							<li><a href="http://www.hospitalment.co.jp/sakurahigashi/" target="_blank"><span>ホスピタルメント</span><span>さくら東館</span></a></li>
+						</ul>
+					</section>
+				</div><!--
+				
+				--><div>
+					<section>
+						<h2><a href="hospitalization/">入院</a></h2>
+						<ul>
+							<li><a href="hospitalization/procedure/">ご入院の手続き</a></li>
+							<li><a href="hospitalization/meeting/"><span>お見舞い・</span><span>ご面会について</span></a></li>
+							<li><a href="hospitalization/receiving/">医療機関の皆さまへ</a></li>
+							<li><a href="hospitalization/receiving/ward/">入院病棟のご紹介</a></li>
+							<li><a href="hospitalization/palliative/">緩和ケア</a></li>
+						</ul>
+					</section>
+					<section>
+						<h2><a href="rehabilitation/">リハビリ</a></h2>
+						<ul>
+							<li><a href="rehabilitation/feature/">当院のリハビリの特徴</a></li>
+							<li><a href="rehabilitation/child/">小児リハビリ</a></li>
+							<li><a href="rehabilitation/kind/"><span>リハビリの種類</span><span>（疾患別リハビリ）</span></a></li>
+							<li><a href="rehabilitation/eating/">摂食機能療法</a></li>
+							<li><a href="rehabilitation/approach/"><span>リハビリテーション部の</span><span>取り組み</span></a></li>
+							<li><a href="rehabilitation/staff/">スタッフ教育</a></li>
+						</ul>
+					</section>
+					<section>
+						<h2><a href="check_up/">健診・人間ドック</a></h2>
+						<ul>
+							<li><a href="check_up/corporation/"><span>企業の健診・保健</span><span>ご担当者へ</span></a></li>
+							<li><a href="check_up/health_check/">人間ドック</a></li>
+							<li><a href="check_up/periodic/">定期健診</a></li>
+							<li><a href="check_up/company/">入社時健診</a></li>
+							<li><a href="check_up/lifestyle/"><span>生活習慣病予防健診</span><span>（協会けんぽ）</span></a></li>
+							<li><a href="check_up/specialty/">特定健診</a></li>
+							<li><a href="check_up/guidance/">特定保健指導</a></li>
+							<li><a href="check_up/retest/"><span>再検査の通知が</span><span>届いたら</span></a></li>
+							<li><a href="check_up/option/">オプション検査</a></li>
+							<li><a href="check_up/attention/">受診者の皆さまへ</a></li>
+						</ul>
+					</section>
+				</div><!--
+				
+				--><div>
+					<section>
+						<h2><a href="service/">在宅サービス</a></h2>
+						<ul>
+							<li><a href="service/step/"><span>在宅サービス</span><span>利用の手続き</span></a></li>
+							<li><a href="service/daycare/"><span>通所リハビリテーション</span><span>（デイケア）</span></a></li>
+							<li><a href="service/dayservice/">デイサービス Let's リハ！ in the mall</a></li>
+							<li><a href="service/care/">訪問介護サービス</a></li>
+							<li><a href="service/center/">居宅介護支援事業所</a></li>
+							<li><a href="service/rehabilitation/">訪問リハビリテーション</a></li>
+							<li><a href="service/nursing/">訪問看護</a></li>
+							<li><a href="service/massage/">訪問マッサージ</a></li>
+							<li><a href="service/salon/">出張サロン</a></li>
+						</ul>
+					</section>
+					<section>
+						<h2><a href="about/"><span>桜十字病院に</span><span>ついて</span></a></h2>
+						<ul>
+							<li><a href="about/feature/"><span>当院の取り組み </span><span>-トータルケア-</span></a></li>
+							<li><a href="about/management/">病院理念</a></li>
+							<li><a href="about/greeting/">ご挨拶</a></li>
+							<li><a href="about/jcqhc/">病院機能評価認定病院</a></li>
+							<li><a href="about/mlit/"><span>国土交通省協力事業指定</span><span>短期入院協力病院</span></a></li>
+							<li><a href="about/doctor/">医師のご紹介</a></li>
+							<li><a href="about/clinicalindicator/"><span>クリニカル</span><span>インジケーター</span></a></li>
+							<li><a href="about/training/">介護職員初任者研修</a></li>
+							<li><a href="about/access/">アクセスマップ</a></li>
+							<li><a href="about/sakurajyuji/">病院概要</a></li>
+							<li><a href="about/protection/">個人情報保護</a></li>
+							<li><a href="about/patient/">患者さまの権利とお願い</a></li>
+						</ul>
+					</section>
+				</div><!--
+					
+				--><div>
+					<section>
+						<h2><a href="news/">新着情報</a></h2>
+						<ul>
+							<li><a href="news/?cat=1">病院からのお知らせ</a></li>
+							<li><a href="news/?cat=3">休診のお知らせ</a></li>
+							<li><a href="news/?cat=4">口たべ活動報告</a></li>
+							<li><a href="news/?cat=5">デイケアからのお知らせ</a></li>
+							<li><a href="news/?cat=6">リハビリスタッフ紹介</a></li>
+							<li><a href="news/?cat=7">在宅部門からのお知らせ</a></li>
+							<li><a href="news/?cat=8"><span>ギャラリーからの</span><span>お知らせ</span></a></li>
+							<li><a href="news/?cat=9">イベントレポート</a></li>
+							<li><a href="news/?cat=11">更新情報</a></li>
+						</ul>
+					</section>
+					<section>
+						<h2>その他</h2>
+						<ul>
+							<li><a href="satisfactory/">患者さま満足室</a></li>
+							<li><a href="local/">地域連携室</a></li>
+							<li><a href="recruit/">採用について</a></li>
+							<li><a href="sakurafuwari/">広報誌 桜ふわり</a></li>
+							<li><a href="contact/">お問い合わせ</a></li>
+							<li><a href="reception/">受付時間のご案内</a></li>
+							<li><a href="terms/">このサイトについて</a></li>
+							<li><a href="terms/problem/">問題点ご指摘受付</a></li>
+							
+						</ul>
+					</section>
+				</div>
+				
+			</nav>
+		</div>
+		
+		<div id="foot-contents-sub">
+			<h1><img src="common/images/foot_catchcopy.png" alt="これからの医療を、こころから。" /></h1>
+			<p><img src="common/images/foot_subcopy.png" alt="患者さまに心から満足していただける病院を目指します。" /></p>
+			<nav id="foot-nav-sub">
+				<ul>
+					<li><a href="terms/privacy/">プライバシーポリシー</a></li>
+					<li><a href="terms/sitepolicy/">サイトポリシー</a></li>
+					<li><a href="terms/sitemap/">サイトマップ</a></li>
+					<li><a href="terms/problem/">問題点ご指摘受付</a></li>
+				</ul>
+			</nav>
+			<p id="copyright">Copyright © 2015 Sakura Jyuji Hospital. All rights reserved.</p>
+			<aside id="footer-share" class="share-button"><a class="share">シェアする</a></aside>
+		</div>
+		
+	</footer>
+	
+	<nav id="quick-menu" class="">
+		<div id="belt">
+			<div class="wrap">
+				<figure><img src="common/images/icon_quickmenu.png" alt="" /></figure>
+				<h1>お探しの情報は見つかりましたか？</h1>
+				<p>お問い合わせの多い項目のページをご案内いたします。</p>
+				<p id="trigger" class=""><a>表示する</a></p>
+			</div>
+		</div>
+		<div id="quick-contents" class="">
+			<div class="wrap">
+				<section id="visit">
+					<h2>ご来院・お見舞いの方へ</h2>
+					<ul>
+						<li class="tel"><a href="contact/"><span><img src="common/images/icon_tel_visit.png" alt="" /></span>連絡先を調べる</a></li><!--
+						--><li class="schedule"><a href="ambulatory/"><span><img src="common/images/icon_schedule.png" alt="" /></span>外来診療スケジュールを見る</a></li><!--
+						--><li class="access"><a href="about/access/"><span><img src="common/images/icon_access.png" alt="" /></span>当院への行き方を見る</a></li><!--
+						--><li class="time"><a href="reception/"><span><img src="common/images/icon_time.png" alt="" /></span>受付時間を確認する</a></li>
+					</ul>
+				</section><!--
+				--><section id="persons">
+					<h2>医療関係の皆さまへ</h2>
+					<ul>
+						<li class="tel"><a href="local/"><span><img src="common/images/icon_tel_persons.png" alt="" /></span>地域連携室について</a></li><!--
+						--><li class="chart"><a href="hospitalization/receiving/flow/index.php#receive"><span><img src="common/images/icon_chart.png" alt="" /></span>受け入れ可能な状態について</a></li><!--
+						--><li class="chart"><a href="hospitalization/receiving/ward/"><span><img src="common/images/icon_chart.png" alt="" /></span>病棟の種類について</a></li><!--
+						--><li class="chart"><a href="service/"><span><img src="common/images/icon_chart.png" alt="" /></span>在宅サービスについて</a></li><!--
+						--><li class="chart"><a href="hospitalization/receiving/free-bed/"><span><img src="common/images/icon_bed_persons.png" alt="" /></span>現在の空床状況</a></li>
+					</ul>
+				</section>
+			</div>
+		</div>
+	</nav>
+	
+	<div id="qmbg"></div>
+	
+</div>
+
+<div id="share-area">
+	<div id="share-content">
+		<figure><img src="common/images/share_mark.png" alt="shareマーク" /></figure>
+		<h1 class="share-title">このサイトを共有</h1>
+		<p>桜十字病院をご利用中のSNSに投稿して<br />簡単に共有ができます。</p>
+		<ul>
+			<li class="twitter">
+			<iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" title="Twitter Tweet Button" src="https://platform.twitter.com/widgets/tweet_button.36c0c29c73929bf937f4c70adb1a29e4.ja.html#dnt=false&amp;id=twitter-widget-0&amp;lang=ja&amp;original_referer=https%3A%2F%2Fwww.sakurajyuji.or.jp%2F&amp;size=m&amp;text=%E7%86%8A%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F%E5%8C%BB%E7%99%82%E3%81%A8%E4%BB%8B%E8%AD%B7%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E7%97%85%E9%99%A2%EF%BD%9C%E6%A1%9C%E5%8D%81%E5%AD%97%E7%97%85%E9%99%A2%EF%BD%9C%E7%86%8A%E6%9C%AC%E3%81%AE%E5%8C%BB%E7%99%82%E3%80%81%E4%BB%8B%E8%AD%B7%E3%80%81%E5%85%A5%E9%99%A2&amp;time=1518320671886&amp;type=share&amp;url=http%3A%2F%2Fwww.sakurajyuji.or.jp%2F" style="position: static; visibility: visible; width: 67px; height: 20px;" data-url="http://www.sakurajyuji.or.jp/"></iframe>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.charset="UTF-8";js.id=id;js.async=true;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script><!--
+			--></li><li class="facebook"><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.sakurajyuji.or.jp&amp;send=false&amp;layout=box_count&amp;width=72&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=90" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:72px; height:90px;" allowtransparency="true"></iframe></li><!--
+			--><li><div id="plusone" style="text-indent: 0px; margin: 0px; padding: 0px; background: transparent; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 50px; height: 24px;"><iframe ng-non-bindable="" frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 50px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 24px;" tabindex="0" vspace="0" width="100%" id="I0_1518320671702" name="I0_1518320671702" src="https://apis.google.com/se/0/_/+1/fastbutton?usegapi=1&amp;size=tall&amp;origin=https%3A%2F%2Fwww.sakurajyuji.or.jp&amp;url=https%3A%2F%2Fwww.sakurajyuji.or.jp%2F&amp;gsrc=3p&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.RJ8Tbj6XCc8.O%2Fm%3D__features__%2Fam%3DAQE%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCNogYFgdbsuKlB1OPzpUFb1rTclKQ#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh&amp;id=I0_1518320671702&amp;_gfid=I0_1518320671702&amp;parent=https%3A%2F%2Fwww.sakurajyuji.or.jp&amp;pfname=&amp;rpctoken=18207307" data-gapiattached="true" title="G+"></iframe></div><script type="text/javascript">gapi.plusone.render("plusone",{"size":"tall"});</script></li>
+		</ul>
+		
+		<div class="close-area"><a title="Close" class="modal-close"><img src="common/images/share_close.png" /></a></div>
+		
+	</div>
+</div>
+
+
+<span id="_cmp_elm_0_1" style="font-size: 300px; visibility: hidden; position: absolute; white-space: nowrap; line-height: normal; top: -500px; display: none;"><span style="font-family: fpbf_ac93d8111 !important;">AH</span><span style="font-family: IPAPGothic !important;">AH</span><span style="font-family: Century !important;">AH</span></span><span id="_cmp_elm_0_0" style="font-size: 300px; visibility: hidden; position: absolute; white-space: nowrap; line-height: normal; top: -500px; display: none;"><span style="font-family: &quot;FOT-マティス Pro M&quot;, fpbf_ac93d8111 !important;">AH</span><span style="font-family: &quot;FOT-マティス Pro M&quot;, IPAPGothic !important;">AH</span><span style="font-family: &quot;FOT-マティス Pro M&quot;, Century !important;">AH</span></span><span id="_cmp_elm_1_1" style="font-size: 300px; visibility: hidden; position: absolute; white-space: nowrap; line-height: normal; top: -500px; display: none;"><span style="font-family: fpbf_ac93d8111 !important;">AH</span><span style="font-family: IPAPGothic !important;">AH</span><span style="font-family: Century !important;">AH</span></span><span id="_cmp_elm_1_0" style="font-size: 300px; visibility: hidden; position: absolute; white-space: nowrap; line-height: normal; top: -500px; display: none;"><span style="font-family: MatissePro-M, fpbf_ac93d8111 !important;">AH</span><span style="font-family: MatissePro-M, IPAPGothic !important;">AH</span><span style="font-family: MatissePro-M, Century !important;">AH</span></span><span id="_cmp_elm_2_1" style="font-size: 300px; visibility: hidden; position: absolute; white-space: nowrap; line-height: normal; top: -500px; display: none;"><span style="font-family: fpbf_ac93d8111 !important;">いお</span><span style="font-family: IPAPGothic !important;">いお</span><span style="font-family: Century !important;">いお</span></span><span id="_cmp_elm_2_0" style="font-size: 300px; visibility: hidden; position: absolute; white-space: nowrap; line-height: normal; top: -500px; display: none;"><span style="font-family: &quot;FOT-マティス Pro DB&quot;, fpbf_ac93d8111 !important;">いお</span><span style="font-family: &quot;FOT-マティス Pro DB&quot;, IPAPGothic !important;">いお</span><span style="font-family: &quot;FOT-マティス Pro DB&quot;, Century !important;">いお</span></span><span id="_cmp_elm_3_1" style="font-size: 300px; visibility: hidden; position: absolute; white-space: nowrap; line-height: normal; top: -500px; display: none;"><span style="font-family: fpbf_ac93d8111 !important;">いお</span><span style="font-family: IPAPGothic !important;">いお</span><span style="font-family: Century !important;">いお</span></span><span id="_cmp_elm_3_0" style="font-size: 300px; visibility: hidden; position: absolute; white-space: nowrap; line-height: normal; top: -500px; display: none;"><span style="font-family: MatissePro-DB, fpbf_ac93d8111 !important;">いお</span><span style="font-family: MatissePro-DB, IPAPGothic !important;">いお</span><span style="font-family: MatissePro-DB, Century !important;">いお</span></span><span id="_cmp_elm_4_1" style="font-size: 300px; visibility: hidden; position: absolute; white-space: nowrap; line-height: normal; top: -500px; display: none;"><span style="font-family: fpbf_ac93d8111 !important;">いお</span><span style="font-family: IPAPGothic !important;">いお</span><span style="font-family: Century !important;">いお</span></span><span id="_cmp_elm_4_0" style="font-size: 300px; visibility: hidden; position: absolute; white-space: nowrap; line-height: normal; top: -500px; display: none;"><span style="font-family: &quot;FOT-マティス Pro L&quot;, fpbf_ac93d8111 !important;">いお</span><span style="font-family: &quot;FOT-マティス Pro L&quot;, IPAPGothic !important;">いお</span><span style="font-family: &quot;FOT-マティス Pro L&quot;, Century !important;">いお</span></span><span id="_cmp_elm_5_1" style="font-size: 300px; visibility: hidden; position: absolute; white-space: nowrap; line-height: normal; top: -500px; display: none;"><span style="font-family: fpbf_ac93d8111 !important;">いお</span><span style="font-family: IPAPGothic !important;">いお</span><span style="font-family: Century !important;">いお</span></span><span id="_cmp_elm_5_0" style="font-size: 300px; visibility: hidden; position: absolute; white-space: nowrap; line-height: normal; top: -500px; display: none;"><span style="font-family: MatissePro-L, fpbf_ac93d8111 !important;">いお</span><span style="font-family: MatissePro-L, IPAPGothic !important;">いお</span><span style="font-family: MatissePro-L, Century !important;">いお</span></span><iframe scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/widget_iframe.36c0c29c73929bf937f4c70adb1a29e4.html?origin=https%3A%2F%2Fwww.sakurajyuji.or.jp" style="display: none;"></iframe><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe"></iframe></body></html>

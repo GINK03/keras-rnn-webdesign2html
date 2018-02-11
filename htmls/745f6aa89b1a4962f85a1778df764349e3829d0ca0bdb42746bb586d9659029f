@@ -1,0 +1,180 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="ja"><head>
+	<meta charset="UTF-8" />
+	<meta name="description" content="NCD（National Clinical Database）の事業を通じて、外科関連の専門医の適正配置が検討できるだけでなく、臨床現場の治療成績向上に向けた取り組みも支援することが可能となります。" />
+	<meta name="keywords" content="NCD,手術,外科,専門医,医療の質,医療水準" />
+	<title>National Clinical Database 外科系の専門医制度と連携した症例データベース</title>
+	<link href="_css/index.css" rel="stylesheet" type="text/css" />
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="_js/lib/jquery-1.9.1.min.js"></script>
+	<script src="_js/lib/jquery.easing.1.3.js"></script>
+	<script src="_js/lib/augment.min.js"></script>
+	<!--[if lt IE 9]><script src="_js/lib/html5shiv.js"></script><![endif]-->
+	<script src="_js/lib/remodal.js"></script>
+	<script src="_js/lib/owl.carousel.min.js"></script>
+	<script src="_js/lib/jquery.jscrollpane.min.js"></script>
+	<script src="_js/lib/jquery.mousewheel.js"></script>
+	<script src="_js/lib/jquery.cookie.js"></script>
+	<script src="_js/common.js"></script>
+	<script src="_js/index.js"></script>
+</head>
+
+<body class="hov">
+
+	<div id="wrap" class="remodal-bg"><div id="wrapInner">
+
+		<!-- header -->
+		<header id="header">
+			<h1 id="header-logo"><a href="/"><img src="/_img/common/h_logo.png" alt="NCD National Clinical Database" /></a></h1>
+			<nav id="header-nav">
+				<ul>
+					<li class="on first even"><a href="/">ホーム</a></li>
+					<li class="odd"><a href="/about/">NCDについて</a></li>
+					<li class="even"><a href="/start/">新規施設・ユーザー登録</a></li>
+					<li class="odd"><a href="/member/change.html">登録情報変更</a></li>
+					<li class="even"><a href="/info/">お知らせ</a></li>
+					<li class="odd"><a href="/press/">学術研究</a></li>
+					<li class="even"><a href="/faq/">よくある質問</a></li>
+					<li id="nav-websearch" class="odd"><a href="" id="nav-websearch-openBt"><i class="fa fa-search"></i></a>
+						<div id="nav-websearch-form">
+							<div id="srchBox" class="watermark">
+							<form action="/search/" method="get" id="srch" name="form">
+							<input type="text" name="p" id="srchInput" class="" />
+							<input type="hidden" id="fr" name="fr" value="cse" />
+							<input type="hidden" id="ei" name="ei" value="UTF-8" />
+							<input type="hidden" id="csid" name="csid" value="ptwLlCMPYpwNGPd7lo7M4DbRSNxpKhcImF.6RBXxebGgmzIZqROLKfv7ywfGi0c-" />
+							<input type="hidden" name="vs" value="www.ncd.or.jp" id="yjInsite" />
+							<a href="javascript:document.form.submit();" id="nav-websearch-searchBt" onclick="document.getElementById('srchInput').focus();"><i class="fa fa-search"></i></a>
+							<a href="" id="nav-websearch-closeBt"><i class="fa fa-times"></i></a>
+							</form>
+							</div>
+							<img src="//custom.search.yahoo.co.jp/images/window/ptwLlCMPYpwNGPd7lo7M4DbRSNxpKhcImF.6RBXxebGgmzIZqROLKfv7ywfGi0c-.gif" />
+						</div>
+					</li>
+					<li id="nav-contact" class="last even"><a href="/contact/"><i class="fa fa-envelope"></i> お問い合わせ</a></li>
+				</ul>
+			</nav>
+		</header><!-- / header -->
+
+		<!-- contents -->
+		<div id="contents">
+
+			<div class="contentsWrap">
+				<div id="mainBanner" class="main">
+					<ul class="owl-carousel owl-theme owl-loaded">
+						
+						
+						
+					<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1440px, 0px, 0px); transition: 0s; width: 5040px;"><div class="owl-item cloned" style="width: 720px; margin-right: 0px;"><li class="odd"><a href="/about/feedback.html" target="_top"><img src="http://www.ncd.or.jp/wp-content/uploads/2015/08/main_img_1.jpg" alt="フィードバック機能" /></a></li></div><div class="owl-item cloned" style="width: 720px; margin-right: 0px;"><li class="last even"><a href="/about/business.html" target="_top"><img src="http://www.ncd.or.jp/wp-content/uploads/2015/08/main_img_3.jpg" alt="専門医制度と連携した臨床データベース National Clinical Database" /></a></li></div><div class="owl-item active" style="width: 720px; margin-right: 0px;"><li class="first even"><a href="http://www.ncd.or.jp/info/information/1519.html" target="_top"><img src="http://www.ncd.or.jp/wp-content/uploads/2017/12/20171222_2017年度症例締切日（ビッグバナー）最終.jpg" alt="2017年登録症例 登録締切日についてのご案内" /></a></li></div><div class="owl-item" style="width: 720px; margin-right: 0px;"><li class="odd"><a href="/about/feedback.html" target="_top"><img src="http://www.ncd.or.jp/wp-content/uploads/2015/08/main_img_1.jpg" alt="フィードバック機能" /></a></li></div><div class="owl-item" style="width: 720px; margin-right: 0px;"><li class="last even"><a href="/about/business.html" target="_top"><img src="http://www.ncd.or.jp/wp-content/uploads/2015/08/main_img_3.jpg" alt="専門医制度と連携した臨床データベース National Clinical Database" /></a></li></div><div class="owl-item cloned" style="width: 720px; margin-right: 0px;"><li class="first even"><a href="http://www.ncd.or.jp/info/information/1519.html" target="_top"><img src="http://www.ncd.or.jp/wp-content/uploads/2017/12/20171222_2017年度症例締切日（ビッグバナー）最終.jpg" alt="2017年登録症例 登録締切日についてのご案内" /></a></li></div><div class="owl-item cloned" style="width: 720px; margin-right: 0px;"><li class="odd"><a href="/about/feedback.html" target="_top"><img src="http://www.ncd.or.jp/wp-content/uploads/2015/08/main_img_1.jpg" alt="フィードバック機能" /></a></li></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style=""><i class="fa fa-angle-left"></i></div><div class="owl-next" style=""><i class="fa fa-angle-right"></i></div></div><div class="owl-dots" style=""><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div></ul>
+				</div>
+				<div id="dbArea" class="side">
+					<h2><i class="fa fa-user"></i> NCDを利用中の方</h2>
+					<p id="dbArea-dbbt"><a href="https://registry3.ncd.or.jp/karte/htmldoc/login.html" target="_blank"><div style="width: 0px; height: 0px; display: inline; position: relative;"><img src="http://www.ncd.or.jp/_img/index/db_bt_1_s2.png" class="btn" alt="ユーザー専用ページログイン" style="opacity: 0; position: absolute;" /><img src="_img/index/db_bt_1.png" class="btn" alt="ユーザー専用ページログイン" /></div></a></p>
+					<ul>
+						<li class="first even"><a href="member/searchsystem.html"><div style="width: 0px; height: 0px; display: inline; position: relative;"><img src="http://www.ncd.or.jp/_img/index/db_bt_2_s2.png" class="btn" alt="検索システム" style="opacity: 0; position: absolute;" /><img src="_img/index/db_bt_2.png" class="btn" alt="検索システム" /></div></a></li>
+						<li class="odd"><a href="member/change.html"><div style="width: 0px; height: 0px; display: inline; position: relative;"><img src="http://www.ncd.or.jp/_img/index/db_bt_3_s2.png" class="btn" alt="登録情報変更" style="opacity: 0; position: absolute;" /><img src="_img/index/db_bt_3.png" class="btn" alt="登録情報変更" /></div></a></li>
+						<li class="last even"><a href="faq/cat5/"><div style="width: 0px; height: 0px; display: inline; position: relative;"><img src="http://www.ncd.or.jp/_img/index/db_bt_4_s2.png" class="btn" alt="症例登録に関するよくあるご質問" style="opacity: 0; position: absolute;" /><img src="_img/index/db_bt_4.png" class="btn" alt="症例登録に関するよくあるご質問" /></div></a></li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="contentsWrap">
+				<div id="picup" class="main">
+					<ul>
+						<li class="l first even" style="height: 201px;"><a href="about/"><span class="p"><img src="_img/index/img_1.jpg" alt="イメージ：NCDについて" /></span><span class="t">NCDについて<i><img src="_img/index/arrow.jpg" alt="" /></i></span><span class="d">事業概要・沿革など、NCDについて詳しくご紹介。</span></a></li>
+						<li class="l odd" style="height: 201px;"><a href="start/"><span class="p"><img src="_img/index/img_2.jpg" alt="イメージ：ご利用までの流れ" /></span><span class="t">ご利用までの流れ<i><img src="_img/index/arrow.jpg" alt="" /></i></span><span class="d">データベースをご利用いただくための手続き詳細はこちら。</span></a></li>
+						<li class="s even" style="height: 220px;"><a href="start/about_facilitymember.html"><span class="p"><img src="_img/index/img_3.jpg" alt="イメージ：施設会員について" /></span><span class="t">施設会員について<i><img src="_img/index/arrow.jpg" alt="" /></i></span><span class="d">症例登録のほかデータの利活用が可能な施設会員についてはこちら。</span></a></li>
+						<li class="s odd" style="height: 220px;"><a href="start/signup.html"><span class="p"><img src="_img/index/img_4.jpg" alt="イメージ：新規施設・ユーザー登録" /></span><span class="t">新規施設・ユーザー登録<i><img src="_img/index/arrow.jpg" alt="" /></i></span><span class="d">NCD診療科長登録・NCD主任医師登録・データマネージャー登録はこちら。</span></a></li>
+						<li class="s last even" style="height: 220px;"><a href="faq/"><span class="p"><img src="_img/index/img_5.jpg" alt="イメージ：よくある質問" /></span><span class="t">よくある質問<i><img src="_img/index/arrow.jpg" alt="" /></i></span><span class="d">お問い合わせの前に、まずはこちらをご確認ください。</span></a></li>
+					</ul>
+				</div>
+				<div class="side">
+						<div class="sub_banner"><a href="http://www.ncd.or.jp/info/information/1463.html" target="_top"><img src="http://www.ncd.or.jp/wp-content/uploads/2017/11/2017111_施設会費お知らせバナー.jpg" alt="施設会費に関する重要なお知らせ" /></a></div>
+					<div id="information">
+						<h2><i class="fa fa-info-circle"></i> お知らせ・メンテナンス<a href="info/"><i class="fa fa-list-ul"></i> 一覧</a></h2>
+						<div id="tabGroup">
+							<ul class="tab">
+								<li class="tb1 first even on"><a href="#tc1" class="nosm">全て</a></li>
+								<li class="tb2 odd"><a href="#tc2" class="nosm">お知らせ</a></li>
+								<li class="tb3 last even"><a href="#tc3" class="nosm">メンテナンス</a></li>
+							</ul>
+							<div class="tabContents">
+								<ul id="tc1" class="scrollbox jspScrollable" tabindex="0" style="overflow: hidden; padding: 0px; width: 370px;">
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+								<div class="jspContainer" style="width: 370px; height: 280px;"><div class="jspPane" style="padding: 0px; width: 360px; top: 0px;"><li class="first even"><span class="d"><span class="cat cat-mainte"><i class="fa fa-wrench"></i> メンテナンス</span> | <span class="date">2018.02.02</span></span><span class="t"><a href="http://www.ncd.or.jp/info/maintenance/1587.html/">2018年2月8日（木）18:00～19:30 検索システム メンテナンス</a></span></li><li class="odd"><span class="d"><span class="cat cat-mainte"><i class="fa fa-wrench"></i> メンテナンス</span> | <span class="date">2018.02.02</span></span><span class="t"><a href="http://www.ncd.or.jp/info/maintenance/1583.html/">2018年2月6日（火）10:00～13:00 検索システム メンテナンス</a></span></li><li class="even"><span class="d"><span class="cat cat-mainte"><i class="fa fa-wrench"></i> メンテナンス</span> | <span class="date">2018.02.02</span></span><span class="t"><a href="http://www.ncd.or.jp/info/maintenance/1581.html/">【緊急メンテナンス】2018年2月2日(金)　形成外科症例登録システム メンテナンス</a></span></li><li class="odd"><span class="d"><span class="cat cat-info"><i class="fa fa-info-circle"></i> お知らせ</span> | <span class="date">2018.02.01</span> | <span class="new">NEW</span></span><span class="t"><a href="http://www.ncd.or.jp/info/information/1576.html/">日本病理学会　剖検情報登録システム　自施設データダウンロード機能サービス開始のお知らせ</a></span></li><li class="even"><span class="d"><span class="cat cat-mainte"><i class="fa fa-wrench"></i> メンテナンス</span> | <span class="date">2018.01.30</span></span><span class="t"><a href="http://www.ncd.or.jp/info/maintenance/1572.html/">2018年2月1日(木)　症例登録システム メンテナンス</a></span></li><li class="odd"><span class="d"><span class="cat cat-mainte"><i class="fa fa-wrench"></i> メンテナンス</span> | <span class="date">2018.01.22</span></span><span class="t"><a href="http://www.ncd.or.jp/info/maintenance/1563.html/">2018年1月25日(木)　検索システムメンテナンス</a></span></li><li class="even"><span class="d"><span class="cat cat-mainte"><i class="fa fa-wrench"></i> メンテナンス</span> | <span class="date">2018.01.12</span></span><span class="t"><a href="http://www.ncd.or.jp/info/maintenance/1558.html/">2018年1月18日(木)　症例登録システム メンテナンス</a></span></li><li class="odd"><span class="d"><span class="cat cat-info"><i class="fa fa-info-circle"></i> お知らせ</span> | <span class="date">2018.01.11</span></span><span class="t"><a href="http://www.ncd.or.jp/info/information/1550.html/">日本病理学会　2017年度 施設年報学会提出期間について</a></span></li><li class="even"><span class="d"><span class="cat cat-info"><i class="fa fa-info-circle"></i> お知らせ</span> | <span class="date">2018.01.05</span></span><span class="t"><a href="http://www.ncd.or.jp/info/information/1545.html/">日本形成外科学会疾患登録データベース 症例登録に関するお詫びと入力修正のお願い</a></span></li><li class="odd"><span class="d"><span class="cat cat-info"><i class="fa fa-info-circle"></i> お知らせ</span> | <span class="date">2017.12.28</span></span><span class="t"><a href="http://www.ncd.or.jp/info/information/1542.html/">【肝癌登録】　第23回全国原発性肝癌追跡調査　症例登録開始日のお知らせ</a></span></li><li class="more last even"><a href="info/">すべてのお知らせ・メンテナンスを見る</a></li></div><div class="jspVerticalBar"><div class="jspCap jspCapTop"></div><div class="jspTrack" style="height: 280px;"><div class="jspDrag" style="height: 68px;"><div class="jspDragTop"></div><div class="jspDragBottom"></div></div></div><div class="jspCap jspCapBottom"></div></div></div></ul>
+								<ul id="tc2" class="scrollbox jspScrollable" tabindex="0" style="overflow: hidden; padding: 0px; width: 370px; display: none;">
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+								<div class="jspContainer" style="width: 370px; height: 280px;"><div class="jspPane" style="padding: 0px; width: 360px; top: 0px;"><li class="first even"><span class="d"><span class="cat cat-info"><i class="fa fa-info-circle"></i> お知らせ</span> | <span class="date">2018.02.01</span> | <span class="new">NEW</span></span><span class="t"><a href="http://www.ncd.or.jp/info/information/1576.html/">日本病理学会　剖検情報登録システム　自施設データダウンロード機能サービス開始のお知らせ</a></span></li><li class="odd"><span class="d"><span class="cat cat-info"><i class="fa fa-info-circle"></i> お知らせ</span> | <span class="date">2018.01.11</span></span><span class="t"><a href="http://www.ncd.or.jp/info/information/1550.html/">日本病理学会　2017年度 施設年報学会提出期間について</a></span></li><li class="even"><span class="d"><span class="cat cat-info"><i class="fa fa-info-circle"></i> お知らせ</span> | <span class="date">2018.01.05</span></span><span class="t"><a href="http://www.ncd.or.jp/info/information/1545.html/">日本形成外科学会疾患登録データベース 症例登録に関するお詫びと入力修正のお願い</a></span></li><li class="odd"><span class="d"><span class="cat cat-info"><i class="fa fa-info-circle"></i> お知らせ</span> | <span class="date">2017.12.28</span></span><span class="t"><a href="http://www.ncd.or.jp/info/information/1542.html/">【肝癌登録】　第23回全国原発性肝癌追跡調査　症例登録開始日のお知らせ</a></span></li><li class="even"><span class="d"><span class="cat cat-info"><i class="fa fa-info-circle"></i> お知らせ</span> | <span class="date">2017.12.27</span></span><span class="t"><a href="http://www.ncd.or.jp/info/information/1519.html/">2017年症例 登録締切日時についてのお知らせ</a></span></li><li class="odd"><span class="d"><span class="cat cat-info"><i class="fa fa-info-circle"></i> お知らせ</span> | <span class="date">2017.12.01</span></span><span class="t"><a href="http://www.ncd.or.jp/info/information/1498.html/">NCD事務局　年末年始営業日のご案内</a></span></li><li class="even"><span class="d"><span class="cat cat-info"><i class="fa fa-info-circle"></i> お知らせ</span> | <span class="date">2017.11.28</span></span><span class="t"><a href="http://www.ncd.or.jp/info/information/1492.html/">日本形成外科学会疾患登録データベース 2017年分 締切日のお知らせ</a></span></li><li class="odd"><span class="d"><span class="cat cat-info"><i class="fa fa-info-circle"></i> お知らせ</span> | <span class="date">2017.11.01</span></span><span class="t"><a href="http://www.ncd.or.jp/info/information/1463.html/">NCD施設会費未納入に関する重要なお知らせ</a></span></li><li class="even"><span class="d"><span class="cat cat-info"><i class="fa fa-info-circle"></i> お知らせ</span> | <span class="date">2017.09.29</span></span><span class="t"><a href="http://www.ncd.or.jp/info/information/1437.html/">2017年10月5日(木)　症例登録システム メンテナンス・利用者診療管理システム</a></span></li><li class="odd"><span class="d"><span class="cat cat-info"><i class="fa fa-info-circle"></i> お知らせ</span> | <span class="date">2017.09.27</span></span><span class="t"><a href="http://www.ncd.or.jp/info/information/1425.html/">NCD 膵癌登録予後調査締切延長のお知らせ</a></span></li><li class="more last even"><a href="info/?c=information">すべてのお知らせを見る</a></li></div><div class="jspVerticalBar"><div class="jspCap jspCapTop"></div><div class="jspTrack" style="height: 280px;"><div class="jspDrag" style="height: 69px;"><div class="jspDragTop"></div><div class="jspDragBottom"></div></div></div><div class="jspCap jspCapBottom"></div></div></div></ul>
+								<ul id="tc3" class="scrollbox jspScrollable" tabindex="0" style="overflow: hidden; padding: 0px; width: 370px; display: none;">
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+								<div class="jspContainer" style="width: 370px; height: 280px;"><div class="jspPane" style="padding: 0px; width: 360px; top: 0px;"><li class="first even"><span class="d"><span class="cat cat-mainte"><i class="fa fa-wrench"></i> メンテナンス</span> | <span class="date">2018.02.02</span></span><span class="t"><a href="http://www.ncd.or.jp/info/maintenance/1587.html/">2018年2月8日（木）18:00～19:30 検索システム メンテナンス</a></span></li><li class="odd"><span class="d"><span class="cat cat-mainte"><i class="fa fa-wrench"></i> メンテナンス</span> | <span class="date">2018.02.02</span></span><span class="t"><a href="http://www.ncd.or.jp/info/maintenance/1583.html/">2018年2月6日（火）10:00～13:00 検索システム メンテナンス</a></span></li><li class="even"><span class="d"><span class="cat cat-mainte"><i class="fa fa-wrench"></i> メンテナンス</span> | <span class="date">2018.02.02</span></span><span class="t"><a href="http://www.ncd.or.jp/info/maintenance/1581.html/">【緊急メンテナンス】2018年2月2日(金)　形成外科症例登録システム メンテナンス</a></span></li><li class="odd"><span class="d"><span class="cat cat-mainte"><i class="fa fa-wrench"></i> メンテナンス</span> | <span class="date">2018.01.30</span></span><span class="t"><a href="http://www.ncd.or.jp/info/maintenance/1572.html/">2018年2月1日(木)　症例登録システム メンテナンス</a></span></li><li class="even"><span class="d"><span class="cat cat-mainte"><i class="fa fa-wrench"></i> メンテナンス</span> | <span class="date">2018.01.22</span></span><span class="t"><a href="http://www.ncd.or.jp/info/maintenance/1563.html/">2018年1月25日(木)　検索システムメンテナンス</a></span></li><li class="odd"><span class="d"><span class="cat cat-mainte"><i class="fa fa-wrench"></i> メンテナンス</span> | <span class="date">2018.01.12</span></span><span class="t"><a href="http://www.ncd.or.jp/info/maintenance/1558.html/">2018年1月18日(木)　症例登録システム メンテナンス</a></span></li><li class="even"><span class="d"><span class="cat cat-mainte"><i class="fa fa-wrench"></i> メンテナンス</span> | <span class="date">2017.12.27</span></span><span class="t"><a href="http://www.ncd.or.jp/info/maintenance/1536.html/">2018年1月10日(水)　症例登録システム メンテナンス</a></span></li><li class="odd"><span class="d"><span class="cat cat-mainte"><i class="fa fa-wrench"></i> メンテナンス</span> | <span class="date">2017.12.18</span></span><span class="t"><a href="http://www.ncd.or.jp/info/maintenance/1516.html/">2017年12月21日(木)　症例登録システム メンテナンス</a></span></li><li class="even"><span class="d"><span class="cat cat-mainte"><i class="fa fa-wrench"></i> メンテナンス</span> | <span class="date">2017.12.12</span></span><span class="t"><a href="http://www.ncd.or.jp/info/maintenance/1509.html/">2017年12月14日(木)　症例登録システム メンテナンス</a></span></li><li class="odd"><span class="d"><span class="cat cat-mainte"><i class="fa fa-wrench"></i> メンテナンス</span> | <span class="date">2017.12.07</span></span><span class="t"><a href="http://www.ncd.or.jp/info/maintenance/1504.html/">【緊急メンテナンス】2017年12月7日(木)　病理剖検登録システム メンテナンス</a></span></li><li class="more last even"><a href="info/?c=maintenance">すべてのメンテナンスを見る</a></li></div><div class="jspVerticalBar"><div class="jspCap jspCapTop"></div><div class="jspTrack" style="height: 280px;"><div class="jspDrag" style="height: 72px;"><div class="jspDragTop"></div><div class="jspDragBottom"></div></div></div><div class="jspCap jspCapBottom"></div></div></div></ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</div><!-- / contents -->
+	</div></div>
+
+	<!-- footer -->
+	<footer id="footer">
+		<nav id="footer-nav">
+			<div class="inner">
+				<ul>
+					<li class="on first even"><a href="/">ホーム</a></li>
+					<li class="odd"><a href="/about/">NCDについて</a></li>
+					<li class="even"><a href="/start/">新規施設・ユーザー登録</a></li>
+					<li class="odd"><a href="/member/change.html">登録情報変更</a></li>
+					<li class="even"><a href="/info/">お知らせ</a></li>
+					<li class="odd"><a href="/press/">学術研究</a>
+					</li><li class="even"><a href="/faq/">よくある質問</a></li>
+					<li class="odd"><a href="/sitemap/">サイトマップ</a></li>
+					<li class="last even"><a href="/privacypolicy/">プライバシーポリシー</a></li>
+				</ul>
+			</div>
+		</nav>
+		<p id="footer-copy">Copyright © National Clinical Database. All Rights Reserved.</p>
+	</footer><!-- / footer -->
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-21659380-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<div style="position: absolute; z-index: 1000; left: 2000px; top: 1575px; opacity: 0;"><a href="#"><img src="_img/common/pageup.png" /></a></div></body></html>

@@ -1,0 +1,884 @@
+<!DOCTYPE html><!--[if lt IE 7]><html class="ie" lang="ja"><![endif]--><!--[if IE 7]><html class="ie ie7" lang="ja"><![endif]--><!--[if IE 8]><html class="ie ie8" lang="ja"><![endif]--><!--[if IE 9]><html class="ie ie9" lang="ja"><![endif]--><html xmlns="http://www.w3.org/1999/xhtml" lang="ja"><!--<![endif]--><head>
+<meta charset="UTF-8" />
+<!--<meta name="viewport" content="width=1080px">-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<title>ハウスウェルネスフーズ株式会社</title>
+<meta name="keywords" content="ハウスウェルネスフーズ , ハウス , C1000 , 栄養強化米 , ウコンの力 , メガシャキ , ニンニクの力 , 乳酸菌 , HK L-137 , 栄養 , 活力 , 維持" />
+<meta name="description" content="ハウスウェルネスフーズのホームページへようこそ。ハウスウェルネスフーズは「明日への健康なくらしに奉仕する」という企業理念のもと、お客様の健やかなくらしをお手伝いしたいと考えております。" />
+<meta property="og:url" content="http://www.house-wf.co.jp/" />
+<meta property="og:title" content="ハウスウェルネスフーズ株式会社" />
+<meta property="og:description" content="ハウスウェルネスフーズのホームページへようこそ。ハウスウェルネスフーズは「明日への健康なくらしに奉仕する」という企業理念のもと、お客様の健やかなくらしをお手伝いしたいと考えております。" />
+<meta property="og:image" content="http://www.house-wf.co.jp/resource/img/sns.jpg" />
+<meta property="og:site_name" content="" />
+<link rel="stylesheet" type="text/css" href="./common/css/common.css" media="screen,print" />
+<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="./common/css/ie7.css" media="screen,print"><![endif]-->
+<link rel="stylesheet" type="text/css" href="./css/top.css" media="screen,print" />
+<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="./css/ie7.css" media="screen,print"><![endif]-->
+<link href="./bxslider/jquery.bxslider.css" rel="stylesheet" type="text/css" media="screen,print,tv" />
+<script type="text/javascript" async="" src="http://js.ptengine.jp/3fac0e29.js"></script><script type="text/javascript" async="" src=" http://js.ptengine.jp/pta.js"></script><script type="text/javascript" async="" src=" http://js.ptengine.jp/pts.js"></script><script type="text/javascript" src="http://www.google.com/jsapi/"></script>
+<script type="text/javascript" src="./common/js/jquery.js"></script>
+<script type="text/javascript" src="./common/js/plugin.js"></script>
+<script type="text/javascript" src="./common/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="./common/js/common.js"></script>
+<script type="text/javascript" src="./js/top.js"></script>
+
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!-- Adobe DTM Header Code -->
+<script src="//assets.adobedtm.com/57b737743fed4c143c28590efaa1e6c9006aaba5/satelliteLib-832d3759418beeeb31b0b92eb4311fa07947f046.js"></script>
+<!-- End Adobe DTM Header Code -->
+<script src="http://assets.adobedtm.com/57b737743fed4c143c28590efaa1e6c9006aaba5/s-code-contents-502ac23f9fd9285bb1b2770b7d0a194529e18e93.js"></script><script src="http://assets.adobedtm.com/57b737743fed4c143c28590efaa1e6c9006aaba5/scripts/satellite-549cf09d3932390018430000.js"></script><script src="http://assets.adobedtm.com/57b737743fed4c143c28590efaa1e6c9006aaba5/scripts/satellite-549cf0da39323900184c0000.js"></script></head>
+
+<body id="home">
+
+<header class="global"> 
+  <script src="/common/js/fontsize.js"></script> 
+  <script src="/common/js/jquery.cookie.js"></script> 
+  <script src="/common/js/jquery.ah-placeholder.js"></script> 
+  <script>
+		$(function(){
+			$(".font").changeFont();
+			
+		$('[placeholder]').ahPlaceholder({
+			placeholderColor : 'silver',
+			placeholderAttr : 'placeholder',				  
+			likeApple : true
+			 });
+		});
+	</script>
+<input type="hidden" id="dir_nm" value="/" />
+  <nav>
+    <div class="inner">
+      <div class="header_link"> <a href="http://www.house-direct.jp/" class="onlineshop" target="_blank">
+        <div class="left"></div>
+        <p>オンラインショップ</p>
+        </a> </div>
+      <h1><a href="/"><img src="/common/img/header-logo.jpg" alt="ハウスウェルネスフーズ株式会社" /></a></h1>
+      <div class="subBox">
+        <div class="font_size">
+          <p>文字サイズ</p>
+          <ul class="font">
+            <li class="font_s"><span><img src="/common/img/font_s.gif" alt="小" width="32" height="32" /></span></li>
+            <li class="font_m"><span class="active"><img src="/common/img/font_m.gif" alt="中" width="32" height="32" /></span></li>
+            <li class="font_l"><span><img src="/common/img/font_l.gif" alt="大" width="32" height="32" /></span></li>
+          </ul>
+        </div>
+        <div class="search_box">
+          <form action="/search/search.php" method="get">
+            <div class="search">
+              <input type="search" placeholder="サイト内検索" class="textbox" name="q" />
+              <input type="image" src="/common/img/search_btn.gif" alt="送信する" align="middle" class="search_btn" />
+              <button type="submit" class="search_submit"><img src="/common/img/btn_search.gif" alt="検索" /></button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+      <div class="gnav_bg" style="border-bottom: 0;">
+      <ul id="gnav">
+        <li class="gnav01"><a href="/products/products.php?prm=all"><img src="/common/img/gnav_01.gif" alt="商品情報" width="110" height="54" /></a></li>
+        <li class="gnav02"><a href="/cm/"><img src="/common/img/gnav_02.gif" alt="CM・キャンペーン" width="150" height="54" /></a></li>
+        <li class="gnav03"><a href="/quality/"><img src="/common/img/gnav_03.gif" alt="品質への取り組み" width="170" height="54" /></a></li>
+        <li class="gnav04"><a href="/lab/"><img src="/common/img/gnav_04.gif" alt="ウェルネスラボ" width="155" height="54" /></a></li>
+        <li class="gnav05"><a href="/company/"><img src="/common/img/gnav_05.gif" alt="会社情報" width="115" height="54" /></a></li>
+        <li class="gnav06"><a href="/news/"><img src="/common/img/gnav_06.gif" alt="お知らせ" width="100" height="54" /></a></li>
+        <li class="gnav07"><a href="/customer/"><img src="/common/img/gnav_07.gif" alt="お問い合わせ" width="130" height="54" /></a></li>
+      </ul>
+    </div>
+  </nav>
+</header>
+
+<div class="container">
+  <div class="container-inner">
+    <section class="mainimg" style="height: 681px; margin-bottom: 15%;">
+
+      <!-- 幹事の力 バナー s -->
+      <div id="kanjinochikara" style="display:block">
+        <span class="crossmark"><img onclick="$('#kanjinochikara').hide();" src="./img/crossmark.png" alt="閉じる" /></span>
+        <a href="https://ukon.house-wf.co.jp/kanji/" class="kvbnr" target="_blank"><img src="./img/main_bnr_kanji.png" alt="スケジュール調整サポート｜幹事の力" /></a>
+      </div>
+      <!-- 幹事の力 バナー e -->
+
+      <div class="bg_cover" style="display: none;"></div>
+      <div class="slide-image">
+        <ul class="slide-image-inr">
+          <li class="image0"><img class="kv-img" src="../img/main_img_000.jpg" alt="" style="opacity: 1;" /></li>
+          <li class="image1"><img class="kv-img" src="../img/main_img_001.jpg" alt="" /></li>
+          <li class="image2"><img class="kv-img" src="../img/main_img_002.jpg" alt="" /></li>
+          <li class="image3"><img class="kv-img" src="../img/main_img_003.jpg" alt="" /></li>
+          <li class="image4"><img class="kv-img" src="../img/main_img_004.jpg" alt="" /></li>
+          <li class="image5"><img class="kv-img" src="../img/main_img_005.jpg" alt="" /></li>
+<!--          <li class="image6"><img class="kv-img" src="../img/main_img_006.jpg" alt=""></li> -->
+          <li class="image6"><img class="kv-img" src="../img/main_img_007.jpg" alt="" /></li>
+<!--          <li class="image7"><img class="kv-img" src="../img/main_img_008.jpg" alt=""></li> -->
+          <li class="image7"><img class="kv-img" src="../img/main_img_009.jpg" alt="" /></li>
+          <li class="imagelb"><img class="kv-img kv-txt" src="../img/main_img_text_lb.png" alt="毎日の元気を支えるチカラに。" /></li>
+          <li class="imagelw"><img class="kv-img kv-txt" src="../img/main_img_text_lw.png" alt="毎日の元気を支えるチカラに。" /></li>
+          <li class="imagerb"><img class="kv-img kv-txt" src="../img/main_img_text_rb.png" alt="毎日の元気を支えるチカラに。" style="left: -5.65068px; opacity: 0.811644;" /></li>
+          <li class="imagerw"><img class="kv-img kv-txt" src="../img/main_img_text_rw.png" alt="毎日の元気を支えるチカラに。" /></li>
+        </ul>
+      </div>
+      <div class="inner" style="height: 681px;">
+        <h2>毎日の元気を支えるチカラに。</h2>
+        <div class="feature">
+          <div class="bt01">
+            <img class="default" src="img/bt_feature_01.png" alt="栄養" width="180" height="158" />
+            <img class="over" src="img/bt_feature_01_ov.png" alt="栄養 ビタミンをはじめとする栄養素を、もっとおいしく、摂りやすく。毎日に欠かすことができない元気の源をお届けします。" />
+            <img class="over over_c" src="img/bt_feature_01_color.png" alt="" />
+            <p>くらしに欠かせない栄養を。</p>
+          </div>
+          <div class="bt02">
+            <img class="default" src="img/bt_feature_02.png" alt="活力" width="180" height="157" />
+            <img class="over" src="img/bt_feature_02_ov.png" alt="活力 約１世紀にわたるスパイス研究の中から生まれた健康飲料を中心に、活力があふれる元気な毎日をサポートします。" />
+            <img class="over over_c" src="img/bt_feature_02_color.png" alt="" />
+            <p>毎日の元気を支える活力を。</p>
+          </div>
+          <div class="bt03">
+            <img class="default" src="img/bt_feature_03.png" alt="維持" width="180" height="158" />
+            <img class="over" src="img/bt_feature_03_ov.png" alt="維持 乳酸菌HK L-137の持つ作用に着目。その健康を維持する力を、毎日のくらしに役立てるための研究開発に取り組んでいます。" />
+            <img class="over over_c" src="img/bt_feature_03_color.png" alt="" />
+            <p>健やかなカラダを守るチカラを。</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+  </div>
+
+  <div class="container-inner">
+    <section class="product">
+      <div class="inner">
+        <h2><img src="img/ttl_product.jpg" alt="毎日の健康をサポートする機能性の高い商品を。" width="679" height="25" /></h2>
+        <p>機能とおいしさを兼ね備えた幅広い商品ラインアップ。<br />
+          毎日の食を通じて、健やかなくらしをサポートします。</p>
+        <ul>
+          <li class="prod01"> <a href="products/products.php#eiyoukyoukamai"> <img src="img/img_product_kyoukamai.png" alt="栄養強化米" height="180" class="scale" /> <img src="img/name_product_kyokamai.png" alt="栄養強化米" class="tip" width="160" height="64" style="" /> </a> </li>
+          <li class="prod02"> <a href="products/products.php#c1000"> <img src="img/img_product_c1000.png" alt="C1000" height="180" class="scale" /> <img src="img/name_product_c1000.png" alt="C1000" class="tip" width="160" height="64" style="" /> </a> </li>
+          <li class="prod03"> <a href="products/products.php#perfectvitamin"> <img src="img/img_product_perfectvitamin.png" alt="PERFECT VITAMIN" height="180" class="scale" /> <img src="img/name_product_perfectvitamin.png" alt="PERFECT VITAMIN" class="tip" width="160" height="64" style="" /> </a> </li>
+          <li class="prod04"> <a href="products/products.php#ukon"> <img src="img/img_product_ukon.png" alt="ウコンの力" height="180" class="scale" /> <img src="img/name_product_ukon.png" alt="ウコンの力" class="tip" width="160" height="64" style="" /> </a> </li>
+          <li class="prod05"> <a href="products/products.php#megashaki"> <img src="img/img_product_mega_2.png" alt="メガシャキ" height="180" class="scale" /> <img src="img/name_product_mega.png" alt="メガシャキ" class="tip" width="160" height="64" style="" /> </a> </li>
+          <li class="prod06"> <a href="products/products.php#ninnniku"> <img src="img/img_product_ninniku_2.png" alt="ニンニクの力" height="180" class="scale" /> <img src="img/name_product_ninniku.png" alt="ニンニクの力" class="tip" width="160" height="64" style="" /> </a> </li>
+          <li class="prod07"> <a href="products/products.php#housedirect"> <img src="img/img_product_housedirect.png" alt="ハウスダイレクト" height="180" class="scale" /> <img src="img/name_product_housedirect.png" alt="ハウスダイレクト" class="tip" width="160" height="64" style="" /> </a> </li>
+        </ul>
+      </div>
+    </section>
+  </div>
+
+  <div class="banner">
+    <div class="inner">
+      <div class="bx-wrapper" style="max-width: 940px; margin: 0px auto;"><div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 174px;"><ul class="slide" style="width: 1115%; position: relative; transition-duration: 0s; transform: translate3d(-960px, 0px, 0px);"><li style="float: left; list-style: none; position: relative; width: 220px; margin-right: 20px;" class="bx-clone"> <a href="http://ninniku-maca.house-wf.co.jp/" target="_blank"> <span class="bnr-10"><img src="img/bnr_10.jpg?timestamp=1518320913866" alt="ニンニクの力ブランドサイト" /></span>
+          <p>ニンニクの力 マカプラス<br />
+            ブランドサイト</p>
+          </a> </li><li style="float: left; list-style: none; position: relative; width: 220px; margin-right: 20px;" class="bx-clone"> <a href="http://kuromame.house-wf.co.jp/" target="_blank"> <span class="bnr-04"><img src="img/bnr_04.jpg?timestamp=1518320913866" alt="黒豆ココア" /></span>
+          <p>黒豆ココアブランドサイト</p>
+          </a> </li><li style="float: left; list-style: none; position: relative; width: 220px; margin-right: 20px;" class="bx-clone"> <a href="/eiyoukyoukamai/" target="_blank"> <span class="bnr-08"><img src="img/bnr_08.jpg?timestamp=1518320913866" alt="栄養強化米ブランドサイト" /></span>
+          <p>栄養強化米ブランドサイト</p>
+          </a> </li><li style="float: left; list-style: none; position: relative; width: 220px; margin-right: 20px;" class="bx-clone"> <a href="/lacdent/" target="_blank"> <span class="bnr-11"><img src="img/bnr_11.jpg?timestamp=1518320913866" alt="Lacdentブランドサイト" /></span>
+          <p>Lacdent® ブランドサイト</p>
+          </a> </li>
+        <li style="float: left; list-style: none; position: relative; width: 220px; margin-right: 20px;"> <a href="http://ukon.house-wf.co.jp/" target="_blank"> <span class="bnr-01"><img src="img/bnr_01.jpg?timestamp=1518320913866" alt="ウコンの力ブランドサイト" /></span>
+          <p>ウコンの力ブランドサイト</p>
+          </a> </li>
+        <li style="float: left; list-style: none; position: relative; width: 220px; margin-right: 20px;"> <a href="http://ukon.house-wf.co.jp/liverplus/" target="_blank"> <span class="bnr-12"><img src="img/bnr_12.jpg?timestamp=1518320913866" alt="ウコンの力レバープラスブランドサイト" /></span>
+          <p>ウコンの力　レバープラス<br />
+            ブランドサイト</p>
+          </a> </li>
+        <li style="float: left; list-style: none; position: relative; width: 220px; margin-right: 20px;"> <a href="http://c1000.jp/" target="_blank"> <span class="bnr-00"><img src="img/bnr_00.jpg?timestamp=1518320913866" alt="C1000ブランドサイト" /></span>
+          <p>C1000ブランドサイト</p>
+          </a> </li>
+        <li style="float: left; list-style: none; position: relative; width: 220px; margin-right: 20px;"> <a href="http://perfectvitamin.house-wf.co.jp/" target="_blank"> <span class="bnr-14"><img src="img/bnr_14.jpg?timestamp=1518320913866" alt="PERFECT VITAMINブランドサイト" /></span>
+          <p>PERFECT VITAMIN<br />１日分のビタミン　ブランドサイト</p>
+          </a> </li>
+        <li style="float: left; list-style: none; position: relative; width: 220px; margin-right: 20px;"> <a href="http://megashaki.house-wf.co.jp/" target="_blank"> <span class="bnr-09"><img src="img/bnr_09.jpg?timestamp=1518320913866" alt="メガシャキブランドサイト" /></span>
+          <p>メガシャキブランドサイト</p>
+          </a> </li>
+        <li style="float: left; list-style: none; position: relative; width: 220px; margin-right: 20px;"> <a href="http://ninniku-maca.house-wf.co.jp/" target="_blank"> <span class="bnr-10"><img src="img/bnr_10.jpg?timestamp=1518320913866" alt="ニンニクの力ブランドサイト" /></span>
+          <p>ニンニクの力 マカプラス<br />
+            ブランドサイト</p>
+          </a> </li>
+        <li style="float: left; list-style: none; position: relative; width: 220px; margin-right: 20px;"> <a href="http://kuromame.house-wf.co.jp/" target="_blank"> <span class="bnr-04"><img src="img/bnr_04.jpg?timestamp=1518320913866" alt="黒豆ココア" /></span>
+          <p>黒豆ココアブランドサイト</p>
+          </a> </li>
+        <li style="float: left; list-style: none; position: relative; width: 220px; margin-right: 20px;"> <a href="/eiyoukyoukamai/" target="_blank"> <span class="bnr-08"><img src="img/bnr_08.jpg?timestamp=1518320913866" alt="栄養強化米ブランドサイト" /></span>
+          <p>栄養強化米ブランドサイト</p>
+          </a> </li>
+        <li style="float: left; list-style: none; position: relative; width: 220px; margin-right: 20px;"> <a href="/lacdent/" target="_blank"> <span class="bnr-11"><img src="img/bnr_11.jpg?timestamp=1518320913866" alt="Lacdentブランドサイト" /></span>
+          <p>Lacdent® ブランドサイト</p>
+          </a> </li>
+      <li style="float: left; list-style: none; position: relative; width: 220px; margin-right: 20px;" class="bx-clone"> <a href="http://ukon.house-wf.co.jp/" target="_blank"> <span class="bnr-01"><img src="img/bnr_01.jpg?timestamp=1518320913866" alt="ウコンの力ブランドサイト" /></span>
+          <p>ウコンの力ブランドサイト</p>
+          </a> </li><li style="float: left; list-style: none; position: relative; width: 220px; margin-right: 20px;" class="bx-clone"> <a href="http://ukon.house-wf.co.jp/liverplus/" target="_blank"> <span class="bnr-12"><img src="img/bnr_12.jpg?timestamp=1518320913866" alt="ウコンの力レバープラスブランドサイト" /></span>
+          <p>ウコンの力　レバープラス<br />
+            ブランドサイト</p>
+          </a> </li><li style="float: left; list-style: none; position: relative; width: 220px; margin-right: 20px;" class="bx-clone"> <a href="http://c1000.jp/" target="_blank"> <span class="bnr-00"><img src="img/bnr_00.jpg?timestamp=1518320913866" alt="C1000ブランドサイト" /></span>
+          <p>C1000ブランドサイト</p>
+          </a> </li><li style="float: left; list-style: none; position: relative; width: 220px; margin-right: 20px;" class="bx-clone"> <a href="http://perfectvitamin.house-wf.co.jp/" target="_blank"> <span class="bnr-14"><img src="img/bnr_14.jpg?timestamp=1518320913866" alt="PERFECT VITAMINブランドサイト" /></span>
+          <p>PERFECT VITAMIN<br />１日分のビタミン　ブランドサイト</p>
+          </a> </li></ul></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev" href="">Prev</a><a class="bx-next" href="">Next</a></div></div></div>
+    </div>
+  </div>
+
+  <div class="container-inner">
+    <section class="contents">
+      <div class="inner">
+        <h2><img src="img/ttl_contents_02.png" alt="モノづくりへの取り組み" width="327" height="25" /></h2>
+        <ul class="quality_links">
+          <li class="item01"> <a href="/quality/index.html">
+            <div class="image"><img src="img/quality_img_05.jpg" width="460" height="259" alt="" /></div>
+            <p>品質への取り組み</p>
+            </a> </li>
+          <li class="item02"> <a href="/lab/index.html">
+            <div class="image"><img src="img/lab_img_01.jpg" width="460" height="259" alt="" /></div>
+            <p>ウェルネスラボ</p>
+            </a> </li>
+        </ul>
+      </div>
+    </section>
+  </div>
+
+  <div class="news_container">
+    <section class="news">
+      <div id="newsTabs" class="ui-tabs ui-widget ui-widget-content ui-corner-all">
+        <nav>
+          <ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all" role="tablist">
+            <li class="tabnav00 ui-state-default ui-corner-top ui-tabs-active ui-state-active" role="tab" tabindex="0" aria-controls="tab00" aria-labelledby="ui-id-1" aria-selected="true"><a href="#tab00" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-1">ALL</a></li>
+            <li class="tabnav01 ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tab01" aria-labelledby="ui-id-2" aria-selected="false"><a href="#tab01" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-2">商品情報</a></li>
+            <li class="tabnav02 ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tab02" aria-labelledby="ui-id-3" aria-selected="false"><a href="#tab02" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-3">企業情報</a></li>
+            <li class="tabnav03 ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tab03" aria-labelledby="ui-id-4" aria-selected="false"><a href="#tab03" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-4">サイト更新</a></li>
+            <li class="tabnav04 ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tab04" aria-labelledby="ui-id-5" aria-selected="false"><a href="#tab04" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-5">その他</a></li>
+          </ul>
+        </nav>
+        <div class="inner">
+                    <div id="tab00" aria-labelledby="ui-id-1" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false">
+            <ul>
+                            <li>
+                                <a href="/news/detail.php?id=1002000172">
+                                <div class="date">2018年01月25日</div>
+                <div class="category">
+                  <p class="cat02">企業情報</p>
+                </div>
+                <div class="txt">ハウスウェルネスフーズの代表取締役社長就任に関するお知らせ</div>
+                </a> </li>
+                            <li>
+                                <a href="/news/detail.php?id=1002000170">
+                                <div class="date">2017年12月20日</div>
+                <div class="category">
+                  <p class="cat02">企業情報</p>
+                </div>
+                <div class="txt">あなただけの一本でお祝いの席を盛り上げよう！「ウコンの力make」12月20日からスタート</div>
+                </a> </li>
+                            <li>
+                                <a href="/news/detail.php?id=1002000168">
+                                <div class="date">2017年12月01日</div>
+                <div class="category">
+                  <p class="cat02">企業情報</p>
+                </div>
+                <div class="txt">本田翼さんサイン入りビタミンレモンが当たる！C1000｢冬の元気にビタミンCキャンペーン」&amp;ビタミンレモン｢冬季限定メッセージラベル｣12月1日からスタート</div>
+                </a> </li>
+                            <li>
+                                <a href="/news/detail.php?id=1002000167">
+                                <div class="date">2017年11月17日</div>
+                <div class="category">
+                  <p class="cat01">商品情報</p>
+                </div>
+                <div class="txt">スパイシーなカレーの刺激で眠気スッキリ！！「メガシャキ」&lt;スパイシーホットカレー味&gt;11月20日から「Amazon.co.jp」にて限定発売</div>
+                </a> </li>
+                          </ul>
+          </div>
+          <div id="tab01" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
+            <ul>
+                            <li>
+                                <a href="/news/detail.php?id=1002000167">
+                                <div class="date">2017年11月17日</div>
+                <div class="category">
+                  <p class="cat01">商品情報</p>
+                </div>
+                <div class="txt">スパイシーなカレーの刺激で眠気スッキリ！！「メガシャキ」&lt;スパイシーホットカレー味&gt;11月20日から「Amazon.co.jp」にて限定発売</div>
+                </a> </li>
+                            <li>
+                                <a href="/news/detail.php?id=1002000165">
+                                <div class="date">2017年10月19日</div>
+                <div class="category">
+                  <p class="cat01">商品情報</p>
+                </div>
+                <div class="txt">ビタミン全13種類1日分を手軽に！「PERFECT VITAMIN 1日分のビタミン」＜オレンジ味＞10月23日から全国のコンビニエンスストア・駅売店で発売</div>
+                </a> </li>
+                            <li>
+                                <a href="/news/detail.php?id=1002000164">
+                                <div class="date">2017年10月12日</div>
+                <div class="category">
+                  <p class="cat01">商品情報</p>
+                </div>
+                <div class="txt">【価格の訂正】からだ、みつめる、スパイス時間。「&amp;Spice（アンドスパイス）」 10月5日からLOHACO（ロハコ）で発売</div>
+                </a> </li>
+                            <li>
+                                <a href="/news/detail.php?id=1002000163">
+                                <div class="date">2017年10月11日</div>
+                <div class="category">
+                  <p class="cat01">商品情報</p>
+                </div>
+                <div class="txt">松阪牛セットや話題のホットプレートなどパーティーにうれしい賞品が当たる！ウコンの力「その場で当たるキャンペーン」10月16日からスタート</div>
+                </a> </li>
+                          </ul>
+          </div>
+          <div id="tab02" aria-labelledby="ui-id-3" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
+            <ul>
+                            <li>
+                                <a href="/news/detail.php?id=1002000172">
+                                <div class="date">2018年01月25日</div>
+                <div class="category">
+                  <p class="cat02">企業情報</p>
+                </div>
+                <div class="txt">ハウスウェルネスフーズの代表取締役社長就任に関するお知らせ</div>
+                </a> </li>
+                            <li>
+                                <a href="/news/detail.php?id=1002000171">
+                                <div class="date">2017年12月26日</div>
+                <div class="category">
+                  <p class="cat02">企業情報</p>
+                </div>
+                <div class="txt">「白井一夫 お別れの会」のご案内</div>
+                </a> </li>
+                            <li>
+                                <a href="/news/detail.php?id=1002000170">
+                                <div class="date">2017年12月20日</div>
+                <div class="category">
+                  <p class="cat02">企業情報</p>
+                </div>
+                <div class="txt">あなただけの一本でお祝いの席を盛り上げよう！「ウコンの力make」12月20日からスタート</div>
+                </a> </li>
+                            <li>
+                                <a href="/news/detail.php?id=1002000169">
+                                <div class="date">2017年12月05日</div>
+                <div class="category">
+                  <p class="cat02">企業情報</p>
+                </div>
+                <div class="txt">＜訃報＞弊社代表取締役社長　白井一夫逝去のお知らせ</div>
+                </a> </li>
+                          </ul>
+          </div>
+          <div id="tab03" aria-labelledby="ui-id-4" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
+            <ul>
+                          </ul>
+          </div>
+          <div id="tab04" aria-labelledby="ui-id-5" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
+            <ul>
+                            <li>
+                                <a href="/news/detail.php?id=1000000097">
+                                <div class="date">2015年08月03日</div>
+                <div class="category">
+                  <p class="cat04">その他</p>
+                </div>
+                <div class="txt">「ウコンの力」　公式LINEスタンプ配信開始！</div>
+                </a> </li>
+                          </ul>
+          </div>
+          <div class="bnr"><a href="news/" class="list">お知らせ一覧</a></div>
+          <!--<div class="bnr"><a href="" class="rss">RSS</a></div>-->
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <div class="recruit_bnr"> <a href="company/recruit.html"> <img src="img/recruit_bnr.jpg" width="940" height="118" alt="採用情報" /> </a> </div>
+  <div class="recruit_bnr" style="border-top: solid 0px"> <a href="http://ukon.house-wf.co.jp/make/index.html" target="_blank"> <img src="img/ukon_bnr_pc.jpg" width="940" height="118" alt="ウコンの力make" /> </a> </div>
+</div>
+
+<div class="breadClumb-hm">
+  <div class="inner"> ホーム </div>
+</div>
+
+
+	<footer class="global">
+		<div class="footer-contents">
+			<nav class="sitemap">
+				<div class="inner">
+					<ul class="sm01" style="min-height: 139px; clear: both;">
+						<li class="ttl"><a href="/products/products.php#all">商品情報</a></li>
+						<li>
+							<ul class="u01" style="min-height: 139px;">
+								<li><a href="/products/products.php#c1000">C1000</a></li>
+								<li><a href="/products/products.php#perfectvitamin">１日分のビタミン</a></li>
+								<li><a href="/products/products.php#plussy1000">PLUSSY1000</a></li>
+								<li><a href="/products/products.php#eiyoukyoukamai">栄養強化米</a></li>
+							</ul>
+						</li>
+						<li>
+							<ul class="ul02" style="min-height: 139px;">
+								<li><a href="/products/products.php#ukon">ウコンの力</a></li>
+								<li><a href="/products/products.php#megashaki">メガシャキ</a></li>
+								<li><a href="/products/products.php#ninnniku">ニンニクの力</a></li>
+							</ul>
+						</li><li>
+							<ul class="ul03" style="min-height: 139px;">
+								<li><a href="/products/products.php#other">その他の飲料・食品</a></li>
+									<li><a href="/products/products.php#housedirect">ハウスダイレクト</a></li>
+							<!--<li><a href="/products/onlineshop.html">オンラインショップ紹介</a></li>-->
+								<li><a href="/products/closed.html">製造終了商品</a></li>
+							</ul>
+						</li>
+					</ul>
+					<ul class="sm02" style="min-height: 164px; clear: both;">
+						<li class="ttl"><a href="/cm/">キャンペーン・CM</a></li>
+					</ul>
+					<ul class="sm03" style="min-height: 164px;">
+						<li class="ttl"><a href="/quality/">品質への取り組み</a></li>
+						<li><a href="/quality/sozai.html">素材への取り組み</a></li>
+						<li><a href="/quality/production.html">生産への取り組み</a></li>
+						<li><a href="/quality/structure.html">研究開発体制</a></li>
+						<li><a href="/quality/research.html">研究開発分野</a></li>
+					</ul>
+					<ul class="sm04" style="min-height: 164px;">
+						<li class="ttl"><a href="/lab/">ウェルネスラボ</a></li>
+						<li><a href="/lab/vitaminc.html">ビタミンCコラム</a></li>
+						<li><a href="/lab/ukon.html">ウコンコラム</a></li>
+						<li><a href="/lab/hkl-137.html">乳酸菌HK L-137コラム</a></li>
+					</ul>
+					<ul class="sm05" style="min-height: 164px;">
+						<li class="ttl"><a href="/company/">会社情報</a></li>
+						<li>
+							<ul style="min-height: 125px; clear: both;">
+								<li><a href="/company/message.html">トップメッセ―ジ</a></li>
+								<li><a href="/company/philosophy.html">理念・事業領域</a></li>
+								<li><a href="/company/information.html">会社概要</a></li>
+								<li><a href="/company/information02.html">役員一覧</a></li>
+							</ul>
+						</li><li>
+							<ul style="min-height: 125px;">
+								<li><a href="/company/history.html">会社沿革</a></li>
+								<li><a href="/company/environment.html">環境への取り組み</a></li>
+								<li><a href="/company/publicnotice.html">電子公告</a></li>
+								<li><a href="/company/place.html">拠点情報</a></li>
+								<li><a href="/company/recruit.html">採用情報</a></li>
+								<!--<li><a href="">CSR</a></li>-->
+							</ul>
+						</li>
+					</ul>
+					<ul class="sm06" style="min-height: 125px;">
+						<li class="ttl"><a href="/news/">お知らせ</a></li>
+					</ul>
+					<ul class="sm07" style="min-height: 125px;">
+						<li class="ttl"><a href="/customer/">お問い合わせ</a></li>
+						<li><a href="/customer/faq/productsfaq.php">商品別Q&amp;A</a></li>
+						<li><a href="/customer/faq/purposefap.php">目的別Q&amp;A</a></li>
+						<li><a href="/customer/inquiry.html">お問い合わせフォーム</a></li>
+					</ul>
+				</div>
+			</nav>
+			<nav class="grouplink">
+				<div class="inner">
+					<div class="gp_cont">                
+                        <ul class="gp1" style="min-height: 20px; clear: both;">
+							<li><a href="http://housefoods-group.com/" target="_blank">ハウス食品グループ本社株式会社</a></li>
+                        </ul>
+                        <ul class="gp2" style="min-height: 20px;">
+							<li><a href="https://housefoods.jp/index.html" target="_blank">ハウス食品株式会社</a></li>
+                        </ul>
+					</div>                        
+				</div>
+			</nav>
+			<div class="pagetop">
+				<a href="#top"><img src="/common/img/bt_pagetop_arrow.gif" alt="↑" class="arrow" /><img src="/common/img/bt_pagetop.png" alt="PAGE TOP" /></a>
+			</div>
+		</div>
+		
+		<div class="footer-contents2">
+			<h3 style="opacity: 0;"><img src="/common/img/ttl_footer.gif" alt="" /></h3>
+			<div class="copyright">
+				Copyright © HOUSE WELLNESS FOODS Co., LTD. All Rights Reserved.　　<a href="/terms/">ホームページご利用規約</a>　｜　<a href="/social/">ソーシャルメディアご利用規約</a>　｜　<a href="/privacy/">個人情報保護方針</a>
+			</div>
+		</div>
+	</footer>
+<!-- Adobe Marketing Cloud Tag Loader Code
+Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+More info available at http://www.adobe.com/solutions/digital-marketing.html -->
+<script type="text/javascript">//&lt;![CDATA[
+var amc=amc||{};if(!amc.on){amc.on=amc.call=function(){}};
+document.write("&lt;scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/v2/ZDEtaG91c2Vmb29kcy0xNDIxMi0zNDU1/amc.js\"&gt;&lt;/sc"+"ript&gt;");
+//]]&gt;</script><script type="text/javascript" src="//www.adobetag.com/d1/v2/ZDEtaG91c2Vmb29kcy0xNDIxMi0zNDU1/amc.js"></script><script type="text/javascript" id="brightcove">function SiteCatalystJS(window, id, _s, playerName, pageName) {
+	// ---------- CONSTANTS ----------
+	// Event Names
+	var ACTION_PLAYER_LOAD = "Player Load";
+	var ACTION_VIDEO_LOAD = "Video Load";
+	var ACTION_REFERRER_URL = "Referrer URL";
+	var ACTION_MEDIA_BEGIN = "Media Begin";
+	var ACTION_MEDIA_PAUSE = "Media Pause";
+	var ACTION_MEDIA_RESUME = "Media Resume";
+	var ACTION_MEDIA_COMPLETE = "Media Complete";
+	var ACTION_MILESTONE_25 = "25% Milestone Passed";
+	var ACTION_MILESTONE_50 = "50% Milestone Passe";
+	var ACTION_MILESTONE_75 = "75% Milestone Passed";
+	var ACTION_SEEK_FORWARD = "Seeked Forward";
+	var ACTION_SEEK_BACKWARD = "Seeked Backward";
+
+	var MULTI_COUNT = true;
+	var DEBUG = true;
+
+	// Event Attribute Setting (not currently used)
+	var eventList = {
+		PLAYER_LOAD: {name:ACTION_PLAYER_LOAD, enabled:false},
+		VIDEO_LOAD: {name:ACTION_VIDEO_LOAD, enabled:false},
+		REFERRER_URL: {name:ACTION_REFERRER_URL, enabled:false},
+		MEDIA_BEGIN: {name:ACTION_MEDIA_BEGIN, enabled:true},
+		MEDIA_PAUSE: {name:ACTION_MEDIA_PAUSE, enabled:false},
+		MEDIA_RESUME: {name:ACTION_MEDIA_RESUME, enabled:false},
+		MEDIA_COMPLETE: {name:ACTION_MEDIA_COMPLETE, enabled:false},
+		MILESTONE_25: {name:ACTION_MILESTONE_25, enabled:false},
+		MILESTONE_50: {name:ACTION_MILESTONE_50, enabled:false},
+		MILESTONE_75: {name:ACTION_MILESTONE_75, enabled:false},
+		SEEK_FORWARD: {name:ACTION_SEEK_FORWARD, enabled:false},
+		SEEK_BACKWARD: {name:ACTION_SEEK_BACKWARD, enabled:false}
+	};
+
+	// ---------- PARAMETERS ----------
+	var _PLAYER_NAME = null;
+	var _PAGE_NAME = null;
+	var _S = null;
+
+	// ---------- GLOBAL VARIABLES ----------
+	var player;
+	var videoPlayer;
+
+	var experienceModule;
+	var videoPlayerModule;
+	var contentModule;
+	var cuePointModule;
+
+	// Current Video Infomation
+	var _currentVideo;
+	var _customVideoID;
+	var _currentPosition;
+
+	// Flags for tracking
+	var _mediaBegin = false;
+	var _mediaComplete = false;
+	var _mediaPaused = false;
+	var _trackSeekForward = false;
+	var _trackSeekBackward = false;
+	
+	var isPlugin = false;
+	
+	// ---------- Public Functions ----------
+	_PLAYER_NAME = playerName;
+	_PAGE_NAME = pageName;
+	_S = _s;
+	setupSCode(_S);
+
+	// Initializer
+    myLog("initialize: " + id);
+    player = brightcove.api.getExperience(id);
+
+    if (player) {
+        myLog("using universal api");
+    } else {
+        player = brightcove.getExperience(id);
+        isPlugin = true;
+        myLog("using plugin api");
+    }
+    experienceModule = player.getModule(brightcove.api.modules.APIModules.EXPERIENCE);
+
+    var TEMPLATE_READY = brightcove.api.events.ExperienceEvent.TEMPLATE_READY;
+	experienceModule.addEventListener(TEMPLATE_READY, onHTMLTemplateReady);
+
+	// ---------- Callback Functions ----------
+	// Customize trackVariables() to add tracking variables
+	function mediaMonitor(s, media) {
+		if(media.mediaEvent == "OPEN" ||
+			media.mediaEvent == "CLOSE" ||
+			media.mediaEvent == "PLAY" ||
+			media.mediaEvent == "STOP" ||
+			media.mediaEvent == "COMPLETE" ||
+			media.mediaEvent == "MILESTONE"
+		) {
+			trackVariables(media);
+		}
+	}
+
+	function onGetExperienceHandler(result) {
+		if(_PLAYER_NAME == null) {
+			_PLAYER_NAME = ""+result;
+		}
+
+		if(_PAGE_NAME == null) {
+			_PAGE_NAME = location.href
+		}
+
+		myLog("_PLAYER_NAME = " + _PLAYER_NAME);
+		myLog("_PAGE_NAME = " + _PAGE_NAME);
+	}
+
+
+	function onHTMLTemplateReady(event) {
+	    var TEMPLATE_READY = brightcove.api.events.ExperienceEvent.TEMPLATE_READY;
+	    experienceModule.removeEventListener(TEMPLATE_READY, onHTMLTemplateReady);
+
+		// Get Available Modules
+	    videoPlayerModule = player.getModule(brightcove.api.modules.APIModules.VIDEO_PLAYER);
+		contentModule = player.getModule(brightcove.api.modules.APIModules.CONTENT);
+		cuePointModule = player.getModule(brightcove.api.modules.APIModules.CUE_POINTS);
+
+		// Media Events
+		videoPlayerModule.addEventListener(brightcove.api.events.MediaEvent.BEGIN, onHTMLMediaBegin);
+		videoPlayerModule.addEventListener(brightcove.api.events.MediaEvent.CHANGE, onHTMLMediaChange);
+		videoPlayerModule.addEventListener(brightcove.api.events.MediaEvent.COMPLETE, onHTMLMediaComplete);
+		videoPlayerModule.addEventListener(brightcove.api.events.MediaEvent.PLAY, onHTMLMediaPlay);
+		videoPlayerModule.addEventListener(brightcove.api.events.MediaEvent.PROGRESS, onHTMLMediaProgress);
+		videoPlayerModule.addEventListener(brightcove.api.events.MediaEvent.SEEK_NOTIFY, onHTMLMediaSeek);
+		videoPlayerModule.addEventListener(brightcove.api.events.MediaEvent.STOP, onHTMLMediaStop);
+
+		if(isPlugin == false) {
+			experienceModule.getExperienceID(onGetExperienceHandler);
+		} else {
+			onGetExperienceHandler(experienceModule.getExperienceID());
+		}
+
+		processMediaChange(true);
+	}
+
+	// ---------- Event Handlers Start ----------
+	function resetMediaFlags() {
+		_mediaBegin = false;
+		_mediaComplete = false;
+		
+		_mediaPaused = false;
+
+		_trackSeekForward = false;
+		_trackSeekBackward = false;
+	}
+
+	function initialTrackEvent(isFirst) {
+		if(isFirst) {
+			trackEvent("PLAYER_LOAD", document.URL);
+			var referrerURL = document.URL;
+			// var trackingAction = ACTION_REFERRER_URL + referrerURL;
+			//trackEvent(trackingAction, _customVideoID);
+		}
+		trackEvent("VIDEO_LOAD", _customVideoID);
+	}
+
+	function processMediaChange(isFirst) {
+		if(isPlugin == false) {
+			videoPlayerModule.getCurrentVideo(function(video) {
+				_currentVideo = video;
+				_customVideoID = getCustomVideoID(_currentVideo);
+				initialTrackEvent(isFirst);
+			});
+		} else {
+			_currentVideo = videoPlayerModule.getCurrentVideo();
+			_customVideoID = getCustomVideoID(_currentVideo);
+			initialTrackEvent(isFirst);
+		}
+	}
+
+	// ### EVENT HANDLER(MediaChanged) ###
+	function onHTMLMediaChange(event) {
+		showEvent(event);
+		resetMediaFlags();
+		processMediaChange(false);
+	}
+
+	function onHTMLMediaBeginHandler(video) {
+		// Set to indicate that user watched at least one video in a session.
+		// Use Prop to track conversion if needed.
+		_currentVideo = video;
+		_customVideoID = getCustomVideoID(_currentVideo);
+		if(!_mediaBegin) {
+			_S.Media.open(_customVideoID,  Math.ceil(_currentVideo.length/1000), _PLAYER_NAME);
+			_S.Media.play(_customVideoID, 0);
+
+			trackEvent("MEDIA_BEGIN", _customVideoID);
+			_mediaBegin = true;
+			_mediaComplete = false;
+		}
+	}
+
+	// ### EVENT HANDLER(MediaBegin) ###
+	function onHTMLMediaBegin(event) {
+	    showEvent(event);
+		if(isPlugin == false) {
+			videoPlayerModule.getCurrentVideo(onHTMLMediaBeginHandler);
+		} else {
+			onHTMLMediaBeginHandler(videoPlayerModule.getCurrentVideo());
+		}
+	}
+
+	// ### EVENT HANDLER(MediaPlay) ###
+	function onHTMLMediaPlay(event) {
+	    showEvent(event);
+		if(!_mediaBegin) {
+			if(MULTI_COUNT || !_mediaComplete) { 
+				onHTMLMediaBegin(event);
+			}
+		}
+
+		if(_mediaPaused) {
+			_S.Media.play(_customVideoID, Math.round(event.position));
+			_mediaPaused = false;
+			trackEvent("MEDIA_RESUME", _customVideoID);
+		}
+	}
+
+	// ### EVENT HANDLER(MediaStop) ###
+	function onHTMLMediaStop(event) {
+	    showEvent(event);
+		if(!_mediaComplete &amp;&amp; !_mediaPaused) {
+			var stopPos = Math.round(event.position);
+			var videoDuration = Math.floor(_currentVideo.length / 1000) - 0.1;
+			if(stopPos&gt;videoDuration){
+				stopPos=videoDuration
+			}
+			_S.Media.stop(_customVideoID, stopPos);
+			_mediaPaused = true;
+			trackEvent("MEDIA_PAUSE", _customVideoID);
+		}
+	}
+
+	// ### EVENT HANDLER(MediaComplete) ###
+	function onHTMLMediaComplete(event) {
+	    
+		if(!_mediaComplete) {
+			_mediaComplete = true;
+			_mediaBegin = false;
+			
+			trackEvent("MEDIA_COMPLETE", _customVideoID);
+			
+			_S.Media.complete(_customVideoID, Math.floor(_currentVideo.length / 1000) - 0.1);
+			//_S.Media.stop(_customVideoID, Math.floor(_currentVideo.length / 1000) - 0.1);
+			_S.Media.close(_customVideoID);
+		}
+		showEvent(event);
+	}
+
+	// ### EVENT HANDLER(MediaProgress) ###
+	function onHTMLMediaProgress(event) {
+		// showEvent(event);
+		_currentPosition = event.position;
+
+		// Most of the time, mediaComplete will occur here.
+		if( (Math.abs(event.duration - event.position) &lt; 1) &amp;&amp; !_mediaComplete) {
+			videoPlayerModule.removeEventListener(brightcove.api.events.MediaEvent.PROGRESS, onHTMLMediaProgress);
+			onHTMLMediaComplete(event);
+			videoPlayerModule.addEventListener(brightcove.api.events.MediaEvent.PROGRESS, onHTMLMediaProgress);
+		}
+		if(!_mediaComplete) {
+			if(_trackSeekForward) {
+				trackEvent("SEEK_FORWARD", _customVideoID);
+				_trackSeekForward = false;
+			}
+			if(_trackSeekBackward) {
+				trackEvent("SEEK_BACKWARD", _customVideoID);
+				_trackSeekBackward = false;
+			}
+		}
+	}
+
+	function onHTMLMediaSeek(event) {
+	    showEvent(event);
+		if(event.position &gt; _currentPosition) {
+			_trackSeekForward = true;
+		} else {
+			_trackSeekBackward = true;
+		}
+	}
+
+
+	// ---------- Event Handlers End ----------
+
+	// ########## User Setting Start ##########
+	function setupSCode(_s) {
+		_s.Media.monitor = mediaMonitor;
+	}
+
+	// Synthesize the title string for Site Catalyst(Name that will display in the report)
+	// Customizable.
+	function getCustomVideoID(currentVideo) {
+		var customVideoID =  "{null_refid}";
+		if(currentVideo != null) {
+			var refId = currentVideo.referenceID || currentVideo.referenceId || "{null_refid}";
+			customVideoID = refId + " | " + currentVideo.displayName;			
+		}
+		return customVideoID;
+	}
+
+	function trackVariables(media) {
+		myLog("trackVariables: "+media.mediaEvent);
+		if(media.mediaEvent == "MILESTONE") {
+			myLog(media.milestone);
+		}
+/*
+		_S.Media.trackVars = "eVar20,eVar21,events"; // DON'T ADD SPACES
+		_S.eVar20 = ""+_PAGE_NAME;
+		_S.eVar21 = ""+_PLAYER_NAME;
+*/
+		_S.Media.track(_customVideoID);
+		
+		_S.events = "";
+	}
+
+	function trackEvent(event, label) {
+		var eventName = eventList[event].name;
+		var isTrack = eventList[event].enabled;
+		myLog(" EVENT="+eventName+" LABEL="+label+" ENABLED="+isTrack);		
+		return;
+	}
+
+	// ########## User Setting End ##########
+
+	// Utility Functions
+	function G() {
+		return (((1 + Math.random()) * 0x10000) | 0).toString(16).substring(1)
+	}
+	function RANDOM() {
+		return (G() + G() + G()).toUpperCase();
+	}
+	
+	function showEvent(event) {
+		myLog(event.type);
+	}
+	
+	function myLog(str) {
+		(str);
+	}
+}
+; amc.call('getLoaderById', 0).publish('ontagload.brightcove', {id: 'brightcove',tag: amc.call('getById', 'brightcove')})</script><script type="text/javascript" id="sitecatalyst_stub">var s=new SC_Stub();
+s.tagContainerName="HouseGroupsite_s";
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+function SC_Stub(){var t=this,w=t.w=window;t.d=w.document;t._c='s_l';if(!w.s_c_il){w.s_c_il=[];w.s_c_in=0}t._il=w.s_c_il;t._in=w.s_c_in;t._il[t._in]=t;w.s_c_in++;t.fs=function(x,y){if(x&amp;&amp;y){var a=
+x.split(','),b=y.split(','),i,j;for(i=0;i&lt;a.length;i++){for(j=0;j&lt;b.length;j++)if(a[i]==b[j])return 1}}return 0};t.aa=function(a){var b=0,i;if(a){b=[];for(i=0;i&lt;a.length;i++)b[i]=a[i]}return b};t.wl=[
+];t.wq=[];t.createAsynchronousCustomTagHandler=function(o,f){var t=this,x,i;if(!f){f=o;o=0;x=t.w}else{if(!t.w[o])t.w[o]={};x=t.wl[o]=t.w[o]}if(typeof(f)!='object')f=[f];for(i=0;i&lt;f.length;i++)if(!x[f[
+i]])x[f[i]]=new Function('var t=s_c_il['+t._in+'];t.wq[t.wq.length]={'+(o?'o:"'+o+'",':'')+'f:"'+f[i]+'",a:t.aa(arguments)}')};t.as=function(x){var y=[],i;for(i=1;i&lt;x.length;i++)y[y.length]=x[i]
+return y};t.s=0;t.contextData={};t.retrieveLightData={};if(!w.s_giq)w.s_giq=[];t._gi=w.s_gi;w.s_gi=new Function('u','var t=s_c_il['+t._in+
+'],w=t.w,l=t._il,i,j,x,s;u=u.toLowerCase();if(l)for(j=0;j&lt;2;j++)for(i=0;i&lt;l.length;i++){s=l[i];x=s._c;if((!x||x=="s_c"||(j&gt;0&amp;&amp;x=="s_l"))&amp;&amp;s.oun&amp;&amp;(s.oun==u||(s.fs&amp;&amp;s.sa&amp;&amp;s.fs(s.oun,u)))){'+
+'if(s.sa)s.sa(u);return s}}if(!t.oun){t.sa(u);return t}if(t._gi)return t._gi(u);s=new SC_Stub();s.tagContainerName="s_tca_"+w.s_giq.length;s.sa(u);w.s_giq[w.s_giq.length]=s;return s');t.sa=function(u)
+{var t=this;if(t.s)t.s.sa(u);t.un=u;if(!t.oun)t.oun=u;else if(!t.fs(t.oun,u))t.oun+=','+u};t.tq=[];t.track=t.t=function(vo){var t=this,m;if(t.s)return t.s.t(vo);if(!vo)vo={};for(m in t){if(m!='un'
+||t.u!=t.un)vo[m]=t[m]}t.tq[t.tq.length]=vo;t.lnk=t.linkName=t.linkType='';return '';};t.trackLink=t.tl=function(o,u,n,vo){var t=this;if(t.s)return t.s.tl(o,u,v,vo);t.lnk=o;t.linkType=u;t.linkName=n
+return t.t(vo)};t.trackLight=function(p,ss,i,vo){var t=this;if(t.s)return t.s.trackLight(p,ss,i,vo);t.lightProfileID=p;t.lightStoreForSeconds=ss;t.lightIncrementBy=i;return t.t(vo)};t.lmq=[]
+t.loadModule=function(n,u,d){var t=this;if(t.s)return t.s.loadModule(n,u,d);t.lmq[t.lmq.length]={n:n,u:u,d:d};return 0};t.ml=[];t.mmq=[];t.mo=function(m,f){var t=this,i;t.ml[m]=t[m]={};if(f)
+for(i=0;i&lt;f.length;i++)t[m][f[i]]=new Function('var t=s_c_il['+t._in+'];t.mmq[t.mmq.length]={m:"'+m+'",f:"'+f[i]+'",a:t.aa(arguments)}')};t.mo('Media',['open','play','stop','close','track']);t.mo(
+'Survey',['launch']);}; amc.call('getLoaderById', 0).publish('ontagload.sitecatalyst_stub', {id: 'sitecatalyst_stub',tag: amc.call('getById', 'sitecatalyst_stub')})</script><script type="text/javascript" id="sitecatalyst" async="" defer="" src="//www.adobetag.com/d1/v2/ZDEtaG91c2Vmb29kcy0xNDIxMi0zNDU1/live/sitecatalyst.js"></script>
+<!-- End Adobe Marketing Cloud Tag Loader Code -->
+
+
+<!-- Adobe DTM Footer Code -->
+<script type="text/javascript">_satellite.pageBottom();</script><script type="text/javascript">
+    window._pt_lt = new Date().getTime();
+    window._pt_sp_2 = [];
+    _pt_sp_2.push('setAccount,3fac0e29');
+    var _protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    (function() {
+        var atag = document.createElement('script'); atag.type = 'text/javascript'; atag.async = true;
+        atag.src = _protocol + 'js.ptengine.jp/pta.js';
+        var stag = document.createElement('script'); stag.type = 'text/javascript'; stag.async = true;
+        stag.src = _protocol + 'js.ptengine.jp/pts.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(atag, s); s.parentNode.insertBefore(stag, s);
+    })();
+</script>
+<!-- End Adobe DTM Footer Code -->
+
+
+</body></html>

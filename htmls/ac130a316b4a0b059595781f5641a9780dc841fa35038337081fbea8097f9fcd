@@ -1,0 +1,736 @@
+<!DOCTYPE html><!--[if lt IE 7 ]><html class="ie6"><![endif]--><!--[if IE 7 ]><html class="ie7"><![endif]--><!--[if IE 8 ]><html class="ie8"><![endif]--><!--[if IE 9 ]><html class="ie9"><![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=1127" />
+
+		<meta property="og:title" content="美容皮膚科 タカミクリニック" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="https://ssl.takamiclinic.com/" />
+		<meta property="og:image" content="https://ssl.takamiclinic.com/common/images/facebook-ogp-image.png" />
+		<meta property="og:email" content="info@takamiclinic.com" />
+		<meta property="og:phone_number" content="03-5414-6000" />
+		<meta property="og:site_name" content="美容皮膚科 タカミクリニック" />
+		<meta property="og:locale" content="ja_JP" />
+		<meta property="og:description" content="美容皮膚科／東京都港区 表参道。ニキビ治療、ヒアルロン酸注射・注入ならタカミクリニックへ。毛穴治療、シミ、しわ、くま、たるみ等の様々な肌悩み解消、アンチエイジング。" />
+
+		<meta name="Keywords" content="美容皮膚科,ニキビ治療,ヒアルロン酸注射,ヒアルロン酸注入,毛穴治療,シミ治療,アンチエイジング" />
+		<meta name="Description" content="『美容皮膚科タカミクリニック』は、１９９９年東京　表参道に開院以来、美容皮膚科の草分け的存在として、ニキビ・毛穴・シミなどの美肌治療から、しわやたるみ、ヒアルロン酸注入といったエイジング症状に対する治療まで、様々な肌悩みにお応えしております。" />
+
+		<title>美容皮膚科タカミクリニック (東京 表参道) | 公式サイト</title>
+
+		<link rel="shortcut icon" href="./common/images/favicon.ico" />
+		<link rel="apple-touch-icon" href="./common/images/apple-touch-icon.png" />
+		<link rel="stylesheet" href="css/import.css" type="text/css" media="all" />
+		<link rel="stylesheet" href="css/index.css" type="text/css" media="all" />
+		<link rel="stylesheet" href="common/css/animate.css" type="text/css" media="all" />
+		<link rel="alternate" media="only screen and (max-width: 640px)" href="https://ssl.takamiclinic.com/sp/" />
+
+		<script async="" src="//cse.google.com/adsense/search/async-ads.js"></script><script type="text/javascript" async="" src="https://s.yimg.jp/images/listing/tool/ywapb/pb.js"></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.RJ8Tbj6XCc8.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQE/rs=AGLTcCNogYFgdbsuKlB1OPzpUFb1rTclKQ/cb=gapi.loaded_1" async=""></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.RJ8Tbj6XCc8.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQE/rs=AGLTcCNogYFgdbsuKlB1OPzpUFb1rTclKQ/cb=gapi.loaded_0" async=""></script><script id="facebook-jssdk" src="//connect.facebook.net/ja_JP/sdk.js#xfbml=1&amp;appId=719695678078244&amp;version=v2.0"></script><script type="text/javascript" src="https://d-track.send.microad.jp/js/blade_track_jp.js"></script><script type="text/javascript" src="https://y.nakanohito.jp/ua/ya.js"></script><script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion_async.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="//yjtag.yahoo.co.jp/tag?site=3PaDHgN&amp;H=z32mid"></script><script async="" src="//s.yjtag.jp/tag.js#site=3PaDHgN"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//js.fout.jp/redirect.js"></script><script type="text/javascript" async="" src="https://js.fout.jp/segmentation.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=000871214532767105624:ax0iwopl-ko"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NFHN46"></script><script src="https://connect.facebook.net/signals/config/935588053178297?v=2.8.11&amp;r=stable" async=""></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="//typesquare.com/accessor/script/typesquare.js?Y0rf85omYdk%3D" charset="utf-8"></script>
+		<script type="text/javascript" src="common/js/import.js"></script><script src="/common/js/lib/jquery.js"></script><script src="/common/js/lib/jquery.easing.1.3.js"></script><script src="/common/js/lib/modernizr.js"></script><script src="/common/js/pageScroller.js"></script><script src="/common/js/extension.js"></script><style type="text/css"></style><script src="/common/js/modalWindow.js"></script><script src="/common/js/redirect.js"></script><script src="/common/js/common.js"></script>
+		<script type="text/javascript" src="common/js/GlidSlide.js"></script>
+		<script type="text/javascript" src="js/Keyvisual.js"></script>
+		<script type="text/javascript" src="js/script.js"></script>
+		<script type="text/javascript" src="js/headline.js"></script>
+		
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '935588053178297');
+fbq('track', "PageView");</script>
+<noscript>&lt;img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=935588053178297&amp;ev=PageView&amp;noscript=1"
+/&gt;</noscript>
+<!-- End Facebook Pixel Code -->
+
+	<script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/929713340/?random=1518320839390&amp;cv=9&amp;fst=1518320839390&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635471&amp;u_h=600&amp;u_w=800&amp;u_ah=600&amp;u_aw=800&amp;u_cd=24&amp;u_his=2&amp;u_tz=540&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;gtm=G26&amp;frm=0&amp;url=https%3A%2F%2Fssl.takamiclinic.com%2F&amp;tiba=%E7%BE%8E%E5%AE%B9%E7%9A%AE%E8%86%9A%E7%A7%91%E3%82%BF%E3%82%AB%E3%83%9F%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF%20(%E6%9D%B1%E4%BA%AC%20%E8%A1%A8%E5%8F%82%E9%81%93)%20%7C%20%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22search%22%2C%22version%22%3A%221.0%22%2C%22callback%22%3A%22__gcse.scb%22%2C%22style%22%3A%22https%3A%2F%2Fwww.google.com%2Fcse%2Fstatic%2Fstyle%2Flook%2Fv2%2Fdefault.css%22%2C%22language%22%3A%22ja%22%7D%5D%7D" type="text/javascript"></script><link type="text/css" href="https://www.google.com/uds/api/search/1.0/45e50696e04f15ce6310843f10a3a8fb/default+ja.css" rel="stylesheet" /><link type="text/css" href="https://www.google.com/cse/static/style/look/v2/default.css" rel="stylesheet" /><script type="text/javascript" src="https://www.google.com/uds/api/search/1.0/45e50696e04f15ce6310843f10a3a8fb/default+ja.I.js"></script><style type="text/css">.gsc-control-cse{font-family:Arial, sans-serif;border-color:#FFFFFF;background-color:#FFFFFF}.gsc-control-cse .gsc-table-result{font-family:Arial, sans-serif}input.gsc-input,.gsc-input-box,.gsc-input-box-hover,.gsc-input-box-focus{border-color:#BCCDF0}input.gsc-search-button,input.gsc-search-button:hover,input.gsc-search-button:focus{border-color:#336699;background-color:#E9E9E9;background-image:none;filter:none}.gsc-tabHeader.gsc-tabhInactive{border-color:#E9E9E9;background-color:#E9E9E9}.gsc-tabHeader.gsc-tabhActive{border-color:#FF9900;border-bottom-color:#FFFFFF;background-color:#FFFFFF}.gsc-tabsArea{border-color:#FF9900}.gsc-webResult.gsc-result,.gsc-results .gsc-imageResult{border-color:#FFFFFF;background-color:#FFFFFF}.gsc-webResult.gsc-result:hover,.gsc-imageResult:hover{border-color:#FFFFFF;background-color:#FFFFFF}.gs-webResult.gs-result a.gs-title:link,.gs-webResult.gs-result a.gs-title:link b,.gs-imageResult a.gs-title:link,.gs-imageResult a.gs-title:link b{color:#1155CC}.gs-webResult.gs-result a.gs-title:visited,.gs-webResult.gs-result a.gs-title:visited b,.gs-imageResult a.gs-title:visited,.gs-imageResult a.gs-title:visited b{color:#1155CC}.gs-webResult.gs-result a.gs-title:hover,.gs-webResult.gs-result a.gs-title:hover b,.gs-imageResult a.gs-title:hover,.gs-imageResult a.gs-title:hover b{color:#1155CC}.gs-webResult.gs-result a.gs-title:active,.gs-webResult.gs-result a.gs-title:active b,.gs-imageResult a.gs-title:active,.gs-imageResult a.gs-title:active b{color:#1155CC}.gsc-cursor-page{color:#1155CC}a.gsc-trailing-more-results:link{color:#1155CC}.gs-webResult .gs-snippet,.gs-imageResult .gs-snippet,.gs-fileFormatType{color:#333333}.gs-webResult div.gs-visibleUrl,.gs-imageResult div.gs-visibleUrl{color:#009933}.gs-webResult div.gs-visibleUrl-short{color:#009933}.gs-webResult div.gs-visibleUrl-short{display:none}.gs-webResult div.gs-visibleUrl-long{display:block}.gs-promotion div.gs-visibleUrl-short{display:none}.gs-promotion div.gs-visibleUrl-long{display:block}.gsc-cursor-box{border-color:#FFFFFF}.gsc-results .gsc-cursor-box .gsc-cursor-page{border-color:#E9E9E9;background-color:#FFFFFF;color:#1155CC}.gsc-results .gsc-cursor-box .gsc-cursor-current-page{border-color:#FF9900;background-color:#FFFFFF;color:#1155CC}.gsc-webResult.gsc-result.gsc-promotion{border-color:#336699;background-color:#FFFFFF}.gsc-completion-title{color:#1155CC}.gsc-completion-snippet{color:#333333}.gs-promotion a.gs-title:link,.gs-promotion a.gs-title:link *,.gs-promotion .gs-snippet a:link{color:#0000FF}.gs-promotion a.gs-title:visited,.gs-promotion a.gs-title:visited *,.gs-promotion .gs-snippet a:visited{color:#663399}.gs-promotion a.gs-title:hover,.gs-promotion a.gs-title:hover *,.gs-promotion .gs-snippet a:hover{color:#0000FF}.gs-promotion a.gs-title:active,.gs-promotion a.gs-title:active *,.gs-promotion .gs-snippet a:active{color:#0000FF}.gs-promotion .gs-snippet,.gs-promotion .gs-title .gs-promotion-title-right,.gs-promotion .gs-title .gs-promotion-title-right *{color:#000000}.gs-promotion .gs-visibleUrl,.gs-promotion .gs-visibleUrl-short{color:#008000}</style><style type="text/css" rel="stylesheet" id="typesquare_css">@font-face { font-family: 'Ryumin Regular KL'; font-weight: Bold; src: url("//d3pj3vgx4ijpjx.cloudfront.net/accessor_ja/mkfont?condition=3db248bf33b4c8f48d215b0dcb2400e4&amp;eid=Y0rf85omYdk%3D&amp;bw[name]=Chrome&amp;bw[ftf]=0&amp;bw[os]=Linux&amp;location=https%3A%2F%2Fssl.takamiclinic.com%2F&amp;fonts[family]=Ryumin%20Regular%20KL&amp;fonts[str]=56eB44Gf44Gh44Go5LiA57eS44Gr5YON44GN44G%2B44Gb44KT44GL77yf5o6h55So5oOF5aCx44GK55%2Bl44KJ44Oh44OH44Kj44Ki44OL44Kt44OT44O75q%2Bb56m044GX44KP44KL44G%2F44Oz44OB44Ko44Kk44K444Kw44GC44Gq44Gu6IKM5oKp5bCC6ZaA5Yy744GM562U44GI44GZRG9jdHInc2x1bW7opqfjgpLopovpmaLlhoXlh6bmlrnjgrPjgrnnmYLjg4bnvo7lrrnnmq7ohprnp5Hjga%2Fjg5bjg6njg4Djg6vjg7zjg5Xjgqnjg4jjgqfjgrfjg6PohILogqrmurbop6PovKrpg63ms6jlsITCruebruS4i%2BOBj%2Bayu%2BmhlOeZveWQiOWuv%2BOBu%2BOCjeWwj%2BOBqeOBneS7luaWveihk%2BazleaOouips%2BmrmOmVt%2BODkuODremFuOWFpeOCv%2BOCq%2BODn%2BODrOODg%2BODieODquWkluadpeadseS6rOihqOWPgumBk%2BOBpzE45bm044CBMjDkuIfkurrnl4fkvovlrp%2FnuL7jgaTjgaXjgZHov73msYLjgZPjgZrkvb%2Fjgq%2FjgYTjgabjgZjjgoHjgbjjgZTmoYg%3D");}
+@font-face { font-family: 'リュウミン R-KL'; font-weight: Bold; src: url("//d3pj3vgx4ijpjx.cloudfront.net/accessor_ja/mkfont?condition=3db248bf33b4c8f48d215b0dcb2400e4&amp;eid=Y0rf85omYdk%3D&amp;bw[name]=Chrome&amp;bw[ftf]=0&amp;bw[os]=Linux&amp;location=https%3A%2F%2Fssl.takamiclinic.com%2F&amp;fonts[family]=%E3%83%AA%E3%83%A5%E3%82%A6%E3%83%9F%E3%83%B3%20R-KL&amp;fonts[str]=5p2x5Lqs6KGo5Y%2BC6YGT44GnMTjlubTjgIEyMOS4h%2BS6uuOBrueXh%2BS%2Bi%2BWun%2Be4vuOBl%2BOBpOOBpeOBkeOCi%2Bi%2FveaxguOBk%2BOBqOOCkuayu%2BOBmeOCj%2BOBmuS9v%2BODoeOCuee%2BjuWuueearuiGmuenkQ%3D%3D");}
+</style><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/955488941/?random=1518320841798&amp;cv=9&amp;fst=1518320841798&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=600&amp;u_w=800&amp;u_ah=600&amp;u_aw=800&amp;u_cd=24&amp;u_his=2&amp;u_tz=540&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;frm=0&amp;url=https%3A%2F%2Fssl.takamiclinic.com%2F&amp;tiba=%E7%BE%8E%E5%AE%B9%E7%9A%AE%E8%86%9A%E7%A7%91%E3%82%BF%E3%82%AB%E3%83%9F%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF%20(%E6%9D%B1%E4%BA%AC%20%E8%A1%A8%E5%8F%82%E9%81%93)%20%7C%20%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" charset="utf-8" async="" src="https://platform.twitter.com/js/button.5f64a1a5864e1229f84c8defd65341b4.js"></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, "hiragino kaku gothic pro",meiryo,"ms pgothic",sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset&gt;div{overflow:hidden}.fb_link img{border:none}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_loader{background-color:#f6f7f9;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title&gt;span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29487d;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f9;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}
+.fb_customer_chat_bounce_in{animation-duration:250ms;animation-name:fb_bounce_in}.fb_customer_chat_bounce_out{animation-duration:250ms;animation-name:fb_fade_out}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}.fb_mobile_overlay_active{height:100%;overflow:hidden;position:fixed;width:100%}@keyframes fb_fade_out{from{opacity:1}to{opacity:0}}@keyframes fb_bounce_in{0%{opacity:0;transform:scale(.8, .8);transform-origin:100% 100%}10%{opacity:.1}20%{opacity:.2}30%{opacity:.3}40%{opacity:.4}50%{opacity:.5}60%{opacity:.6}70%{opacity:.7}80%{opacity:.8;transform:scale(1.03, 1.03)}90{opacity:.9}100%{opacity:1;transform:scale(1, 1)}}</style><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-webkit-user-select:none;white-space:nowrap}.gsst_e{opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gscsep_a{display:none}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em;-webkit-appearance:button}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gsfe_a{border:1px solid #b9b9b9;border-top-color:#a0a0a0;box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);-moz-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);-webkit-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);}.gsfe_b{border:1px solid #4d90fe;outline:none;box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);-moz-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);-webkit-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);}.gssb_a{padding:0 9px}.gsib_a{padding-right:8px;padding-left:8px}.gsst_a{padding-top:5.5px}.gssb_e{border:0}.gssb_l{margin:5px 0}input.gsc-input::-webkit-input-placeholder{font-size:14px}input.gsc-input:-moz-placeholder{font-size:14px}input.gsc-input::-moz-placeholder{font-size:14px}input.gsc-input:-ms-input-placeholder{font-size:14px}input.gsc-input:focus::-webkit-input-placeholder{color:transparent}input.gsc-input:focus:-moz-placeholder{color:transparent}input.gsc-input:focus::-moz-placeholder{color:transparent}input.gsc-input:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c &gt; tbody &gt; tr,.gssb_c &gt; tbody &gt; tr &gt; td,.gssb_d,.gssb_d &gt; tbody &gt; tr,.gssb_d &gt; tbody &gt; tr &gt; td,.gssb_e,.gssb_e &gt; tbody &gt; tr,.gssb_e &gt; tbody &gt; tr &gt; td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style></head>
+
+	<body style="">
+<!-- 050625 -->
+<!-- Google Tag Manager -->
+<noscript>&lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-NFHN46"
+height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NFHN46');</script>
+<!-- End Google Tag Manager -->
+
+		<div id="wrapper">
+
+			<header id="header" style="width: 1200px;">
+				<h1><a href=""><object data="common/images/tex_takami_logo.svg" type="image/svg+xml" title="美容皮膚科タカミクリニック" width="322" height="24"><img src="common/images/tex_takami_logo.png" alt="美容皮膚科タカミクリニック" /></object></a></h1>		
+				<figure><a href=""><object data="common/images/img_takami_logo.svg" type="image/svg+xml" title="美容皮膚科タカミクリニック" width="142" height="146"></object></a></figure>
+				<nav id="headnav">
+					<ul>
+						<li><a href="about/access.php">アクセスマップ</a></li>
+						<li><a href="about/clinic.php">ご予約・お問い合わせ</a></li>
+						<li id="searchbox">
+							<span class="sbtn"><img src="common/images/icon_glass.png" alt="サイト内検索" /></span>
+							<script>
+								(function() {
+									var cx = '000871214532767105624:ax0iwopl-ko';
+									var gcse = document.createElement('script');
+									gcse.type = 'text/javascript';
+									gcse.async = true;
+									gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//www.google.com/cse/cse.js?cx=' + cx;
+									var s = document.getElementsByTagName('script')[0];
+									s.parentNode.insertBefore(gcse, s);
+								})();
+							</script>
+							<div id="___gcse_0"><div class="gsc-control-searchbox-only gsc-control-searchbox-only-ja" dir="ltr"><form class="gsc-search-box gsc-search-box-tools" accept-charset="utf-8"><table cellspacing="0" cellpadding="0" class="gsc-search-box"><tbody><tr><td class="gsc-input"><div class="gsc-input-box" id="gsc-iw-id1"><table cellspacing="0" cellpadding="0" id="gs_id50" class="gstl_50 " style="width: 100%; padding: 0px;"><tbody><tr><td id="gs_tti50" class="gsib_a"><input autocomplete="off" type="text" size="10" class="gsc-input" name="search" title="検索" id="gsc-i-id1" dir="ltr" spellcheck="false" placeholder="カスタム検索" style="width: 100%; padding: 0px; border: none; margin: 0px; height: auto; outline: none; background: url(&quot;https://www.google.com/cse/static/images/1x/googlelogo_lightgrey_46x16dp.png&quot;) left center no-repeat rgb(255, 255, 255); text-indent: 48px;" /></td><td class="gsib_b"><div class="gsst_b" id="gs_st50" dir="ltr"><a class="gsst_a" href="javascript:void(0)" style="display: none;"><span class="gscb_a" id="gs_cb50">×</span></a></div></td></tr></tbody></table></div></td><td class="gsc-search-button"><input type="image" src="https://www.google.com/uds/css/v2/search_box_icon.png" class="gsc-search-button gsc-search-button-v2" title="検索" /></td><td class="gsc-clear-button"><div class="gsc-clear-button" title="結果をクリア"> </div></td></tr></tbody></table><table cellspacing="0" cellpadding="0" class="gsc-branding"><tbody><tr><td class="gsc-branding-user-defined"></td><td class="gsc-branding-text"><div class="gsc-branding-text">powered by</div></td><td class="gsc-branding-img"><img src="https://www.google.com/cse/static/images/1x/googlelogo_grey_46x15dp.png" class="gsc-branding-img" srcset="https://www.google.com/cse/static/images/2x/googlelogo_grey_46x15dp.png 2x" /></td></tr></tbody></table></form></div></div>
+						</li>
+					</ul>
+				</nav>
+			</header>
+
+			<nav id="globalnav" style="width: 1200px;">
+				<ul id="navigations">
+					<li>
+						<a href="service/" class="pullbtn titfonts">治療のご案内</a>
+						<div class="pull service">
+							<div>
+								<h2 class="titfonts"><a href="service/">治療のご案内</a></h2>
+								<span class="georgia"><a href="service/">Our Service</a></span>
+								<p>タカミクリニックでご提供しております<br />治療メニューについてご案内いたします。</p>
+								<ul class="btnset">
+									<li><a href="service/" class="btn">詳しく見る</a></li>
+								</ul>
+							</div>
+							<div class="cate_2nd">
+								<ul>
+									<li><a href="service/hyaluronan/" class="pull_hyaluronan pullnav">タカミ式ヒアルロン酸注入</a><ul id="pull_hyaluronan" class="fubcategory">
+									<li><a href="service/hyaluronan/case.php">症例写真</a></li>
+									<li><a href="service/hyaluronan/worry.php">ヒアルロン酸注入に不安をお持ちの方へ</a></li>
+									<li><a href="service/hyaluronan/another.php">他院での注入で失敗したとお考えの方へ</a></li>
+									<li><a href="service/hyaluronan/flow.php">治療の流れ</a></li>
+									<li><a href="service/hyaluronan/qa.php">よくあるご質問</a></li>
+									<li><a href="service/hyaluronan/bust.php">バスト・デコルテへの注入</a></li>
+									<li><a href="service/hyaluronan/bunkai.php">ヒアルロン酸分解・修正</a></li>
+									<li><a href="service/hyaluronan/counseling.php">無料カウンセリングについて</a></li>
+									<li><a href="service/hyaluronan/price.php">料金</a></li>
+									<li><a href="http://www.takamiclinic.com/media/category/02-施術名/01-ヒアルロン酸注入/">メディア掲載</a></li>
+									<li><a href="interview/">【対談】比類なき匠が目指す頂上</a></li>
+								</ul></li>
+									<li><a href="service/acne/" class="pull_acne pullnav">ニキビ治療</a><ul id="pull_acne" class="fubcategory">
+                                    <li><a href="service/acne/merit.php">タカミ式ニキビ治療の特長</a></li>
+                                    <li><a href="service/acne/case.php">症例写真</a></li>
+                                    <li><a href="service/acne/operation.php">クリニックでの施術</a></li>
+                                    <li><a href="service/acne/home.php">オリジナル治療薬</a></li>
+                                    <li><a href="service/acne/flow.php">ニキビ治療の流れ</a></li>
+                                    <li><a href="service/acne/online.php">ニキビ遠隔オンライン診療（スマホ通院）</a></li>
+                                    <li><a href="service/acne/first.php">はじめておかかりの方へ</a></li>
+                                    <li><a href="service/acne/price.php">料金</a></li>
+                                    <li><a href="service/nikibi_ato.php">ニキビ跡治療</a></li>
+                                    <li><a href="service/acne/body.php">ボディのニキビ治療</a></li>
+                                    <li><a href="service/acne/child.php">ニキビでお悩みのお子様をお持ちの方へ</a></li>
+                                    <li><a href="service/acne/qa.php">よくあるご質問</a></li>
+                                    <li><a href="http://www.takamiclinic.com/media/category/onayami/01-ニキビ・ニキビ跡/">メディア掲載</a></li>
+                                    <!--li><a href="service/acne/policy.php">ニキビ外来の治療方針</a></li-->
+								</ul></li>
+									<li><a href="service/pore/" class="pull_hai pullnav">毛穴治療</a><ul id="pull_hai" class="fubcategory">
+									<li><a href="service/pore/merit.php">タカミ式毛穴治療の特長</a></li>
+									<li><a href="service/pore/case.php">症例写真</a></li>
+									<li><a href="service/pore/first.php">はじめておかかりの方へ</a></li>
+									<li><a href="service/pore/another.php">他院で治療経験のある方へ</a></li>
+									<li><a href="service/pore/menu.php">毛穴治療メニュー</a></li>
+									<li><a href="service/pore/flow.php">毛穴治療の流れ</a></li>
+									<li><a href="service/pore/kind.php">毛穴の種類</a></li>
+									<li><a href="service/pore/qa.php">よくあるご質問</a></li>
+									<li><a href="service/pore/price.php">料金</a></li>
+									<li><a href="http://www.takamiclinic.com/media/category/onayami/02-毛穴/">メディア掲載</a></li>
+								</ul></li>
+									<li><a href="service/pigmented/" class="pull_ps pullnav">シミ治療</a><ul id="pull_ps" class="fubcategory">
+									<li><a href="service/pigmented/merit.php">タカミ式シミ治療の特長</a></li>
+									<li><a href="service/pigmented/case.php">症例写真</a></li>
+									<li><a href="service/pigmented/first.php">はじめておかかりの方へ</a></li>
+									<li><a href="service/pigmented/another.php">他院で治療経験のある方へ</a></li>
+									<li><a href="service/pigmented/menu.php">シミ治療メニュー</a></li>
+									<li><a href="service/pigmented/flow.php">シミ治療の流れ</a></li>
+									<li><a href="service/pigmented/kind.php">シミの種類</a></li>
+									<li><a href="service/pigmented/kanpan.php">肝斑治療</a></li>
+									<li><a href="service/pigmented/qa.php">よくあるご質問</a></li>
+									<li><a href="service/pigmented/price.php">料金</a></li>
+									<li><a href="http://www.takamiclinic.com/media/category/onayami/05-シミ・美白/">メディア掲載</a></li>
+								</ul></li>
+								</ul>
+								<ul>
+									<li><a href="service/#trouble" class="pull_worry pullnav">お悩みから探す</a><ul id="pull_worry" class="fubcategory">
+									<li><a href="service/acne/">ニキビ</a></li>
+									<li><a href="service/nikibi_ato.php">ニキビ跡治療</a></li>
+									<li><a href="service/pore/">毛穴</a></li>
+									<li><a href="service/pigmented/">シミ</a></li>
+									<li><a href="service/pigmented/kanpan.php">肝斑</a></li>
+									<li><a href="service/shiwa.php">しわ</a></li>
+									<li><a href="service/tarumi.php">たるみ</a></li>
+									<li><a href="service/kuma.php">目の下のくま</a></li>
+									<li><a href="service/kogao.php">小顔・顔痩せ</a></li>
+									<li><a href="service/ashiyase.php">脚痩せ・部分痩せ</a></li>
+									<li><a href="service/esthetic.php">医療エステ</a></li>
+									<li><a href="service/laser_hair_removal.php">医療用レーザー脱毛</a></li>
+									<li><a href="service/hokuro.php">ほくろ除去</a></li>
+									<li><a href="service/taisen.php">二の腕・背中のぶつぶつ（毛孔性苔癬）</a></li>
+									<li><a href="service/bridal.php">ブライダル</a></li>
+									<li><a href="service/brightening.php">美白合宿®</a></li>
+									<li><a href="service/mens.php">男性向けアンチエイジング</a></li>
+									<li><a href="service/armpit_botox.php">両ワキ多汗症 ボトックス注射</a></li>
+									<li><a href="service/pollinosis.php">花粉症ボトックス</a></li>
+								</ul></li>
+									<li><a href="service/#sm" class="pull_method pullnav">施術方法で探す</a><ul id="pull_method" class="fubcategory">
+									<li><a href="service/home_care.php">自宅治療外用薬</a></li>
+									<li><a href="service/led.php">LED治療</a></li>
+									<li><a href="service/ion.php">イオン導入</a></li>
+									<li><a href="service/peeling.php">ソフトピーリング</a></li>
+									<li><a href="service/acne_injection.php">ニキビ圧出・ニキビ注射</a></li>
+									<li><a href="service/acne/operation.php#vbeam">ニキビ跡赤み専用レーザー（Ｖビーム）</a></li>
+									<li><a href="service/agnes.php">皮脂腺熱焼却法（ニキビ）</a></li>
+									<li><a href="service/hyaluronan_acne.php">ニキビ跡ヒアルロン酸注入</a></li>
+									<li><a href="service/photo_facial.php">フォトフェイシャル</a></li>
+									<li><a href="service/meso_facial.php">メソフェイシャル</a></li>
+									<li><a href="service/pigmented/menu.php#c6">レーザートーニング</a></li>
+									<li><a href="service/botox.php">ボトックス注射</a></li>
+									<li><a href="service/vital_injector.php">水光注射</a></li>
+									<li><a href="service/inner_care.php">美容点滴・注射</a></li>
+									<li><a href="service/spots_peel.php">スポッツピール</a></li>
+									<li><a href="service/blackhead.php">角栓除去</a></li>
+									<li><a href="service/fractional.php">フラクショナルレーザー治療</a></li>
+									<li><a href="service/laser.php">レーザー治療</a></li>
+									<li><a href="service/uaccent.php">ウルトラアクセント</a></li>
+									<li><a href="service/tenor.php">テノール</a></li>
+									<li><a href="service/gankin.php">タカミ式顔筋リフト</a></li>
+									<li><a href="service/tarumi.php#menu1">サーマクールCPT</a></li>
+									<li><a href="service/tarumi.php#menu4">サーマクールアイ</a></li>
+									<li><a href="service/threadlift.php">タカミのスレッドリフト</a></li>
+									<li><a href="service/tarumi.php#menu2">ショッピングリフト</a></li>
+									<li><a href="service/tarumi.php#menu3">3Dリフト</a></li>
+									<li><a href="service/tarumi.php#menu5">マドンナリフト</a></li>
+									<!--<li><a href="service/melanino.php">メラニーノ（全身美肌美白マシン）</a></li>-->
+									<li><a href="service/meso_body.php">メソボディ</a></li>
+									<li><a href="service/meso_bust.php">メソバスト</a></li>
+									<li><a href="service/ems.php">タカミ式医療用EMS</a></li>
+									<li><a href="service/bodymaking.php">タカミ式ボディメイキング</a></li>
+									<li><a href="service/shibouyoukai.php">脂肪溶解<span style="font-size: 14px;">輪郭注射®</span></a></li>
+								</ul></li>
+								</ul>
+							</div>
+							<div class="cate_3rd">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</li>
+					<li>
+						<a href="first/" class="pullbtn titfonts">はじめての方へ</a>
+						<div class="pull first">
+							<div>
+								<h2 class="titfonts"><a href="first/">はじめての方へ</a></h2>
+								<span class="georgia"><a href="first/">First visit</a></span>
+								<p>当院にはじめておかかりになる方へ。</p>
+								<ul class="btnset">
+									<li><a href="first/" class="btn">詳しく見る</a></li>
+								</ul>
+							</div>
+							<div class="cate_2nd">
+								<ul>
+									<li class="how"><a href="first/skincare.php">美容皮膚科とは</a></li>
+									<li class="guide"><a href="first/guide.php">ご利用案内</a></li>
+									<li class="flow"><a href="first/flow.php">ご予約からの流れ</a></li>
+									<li class="qa"><a href="first/qa.php">よくあるご質問</a></li>
+								</ul>
+								<h3>関連項目</h3>
+								<ul>
+									<li class="reserve"><a href="about/clinic.php">ご予約・お問い合わせ</a></li>
+									<li class="access"><a href="about/access.php">アクセスマップ</a></li>
+								</ul>
+							</div>
+							<div>
+								<dl>
+									<dt><a href="/about/quality.php"><img src="common/images/bnr_quality.jpg" alt="タカミクリニックの美肌へのこだわり" /></a></dt>
+									<dd>タカミクリニックが開院当初から掲げている肌に対するこだわりをお伝えいたます。</dd>
+								</dl>
+							</div>
+						</div>
+					</li>
+					<li>
+						<a href="about/" class="pullbtn titfonts">タカミクリニックについて</a>
+						<div class="pull about">
+							<div>
+								<h2 class="titfonts"><a href="about/">タカミクリニックについて</a></h2>
+								<span class="georgia"><a href="about/">About Takami Clinic</a></span>
+								<p>当医院の理念や概要について<br />ご紹介いたします。</p>
+								<ul class="btnset">
+									<li><a href="about/" class="btn">詳しく見る</a></li>
+								</ul>
+							</div>
+							<div class="cate_2nd">
+								<ul>
+									<li><a href="about/idea.php">ごあいさつ</a></li>
+									<li><a href="about/clinic.php">施設のご案内</a></li>
+									<li><a href="about/access.php">アクセスマップ</a></li>
+									<li><a href="about/quality.php">美肌へのこだわり</a></li>
+									<li><a href="about/director.php">院長紹介</a></li>
+									<li><a href="about/doctor.php">医師紹介</a></li>
+									<li><a href="media/">出版物・メディア情報</a></li>
+									<li><a href="http://www.takami-recruit.net/" target="_blank">採用について</a></li>
+									<li><a href="column/">Doctor's column</a></li>
+									<li><a href="beauty-news/">Medical Beauty News</a></li>
+								</ul>
+							</div>
+							<div>
+								<dl>
+									<dt><a href="cosme/"><img src="common/images/bnr_cosme.jpg" alt="タカミのコスメ" /></a></dt>
+									<dd>20万人の肌の悩みから誕生した、タカミクリニック開発の院内処方コスメ</dd>
+									<dt><a href="bestclinic/"><img src="common/images/bnr_voce.jpg" alt="VOCE Best salon &amp; clinic" /></a></dt>
+									<dd>VOCE「ベストサロン&amp;クリニック」で、「ベストサロン&amp;クリニック殿堂入り」に選ばれました。</dd>
+								</dl>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</nav>
+			<div id="keyvisual">
+				<section id="kvtex" style="visibility: visible;">
+					<div class="kvtex-container">
+						<h2 class="show" style="transition-delay: 0ms;"><span class="sub"><span class="anm show" style="transition-delay: 0ms; transition-duration: 500ms;">メ</span><span class="anm show" style="transition-delay: 25ms; transition-duration: 500ms;">ス</span></span><span class="sub2"><span class="anm show" style="transition-delay: 50ms; transition-duration: 500ms;">を</span></span><span class="sub"><span class="anm show" style="transition-delay: 75ms; transition-duration: 500ms;">使</span></span><span class="sub2"><span class="anm show" style="transition-delay: 100ms; transition-duration: 500ms;">わ</span><span class="anm show" style="transition-delay: 125ms; transition-duration: 500ms;">ず</span></span><span class="sub"><span class="anm show" style="transition-delay: 150ms; transition-duration: 500ms;">治</span><span class="anm show" style="transition-delay: 175ms; transition-duration: 500ms;">す</span></span><span class="sub2"><span class="anm show" style="transition-delay: 200ms; transition-duration: 500ms;">こ</span><span class="anm show" style="transition-delay: 225ms; transition-duration: 500ms;">と</span><span class="anm show" style="transition-delay: 250ms; transition-duration: 500ms;">を</span></span><span class="sub"><span class="anm show" style="transition-delay: 275ms; transition-duration: 500ms;">追</span><span class="anm show" style="transition-delay: 300ms; transition-duration: 500ms;">求</span></span><span class="sub2"><span class="anm show" style="transition-delay: 325ms; transition-duration: 500ms;">し</span><span class="anm show" style="transition-delay: 350ms; transition-duration: 500ms;">つ</span><span class="anm show" style="transition-delay: 375ms; transition-duration: 500ms;">づ</span><span class="anm show" style="transition-delay: 400ms; transition-duration: 500ms;">け</span><span class="anm show" style="transition-delay: 425ms; transition-duration: 500ms;">る</span></span><br /><span class="anm show" style="transition-delay: 450ms; transition-duration: 500ms;">美</span><span class="anm show" style="transition-delay: 475ms; transition-duration: 500ms;">容</span><span class="anm show" style="transition-delay: 500ms; transition-duration: 500ms;">皮</span><span class="anm show" style="transition-delay: 525ms; transition-duration: 500ms;">膚</span><span class="anm show" style="transition-delay: 550ms; transition-duration: 500ms;">科</span></h2>
+						<h3 class="show" style="transition-delay: 50ms;"><span class="anm show" style="transition-delay: 0ms; transition-duration: 500ms;">東</span><span class="anm show" style="transition-delay: 25ms; transition-duration: 500ms;">京</span><span class="anm show" style="transition-delay: 50ms; transition-duration: 500ms;">表</span><span class="anm show" style="transition-delay: 75ms; transition-duration: 500ms;">参</span><span class="anm show" style="transition-delay: 100ms; transition-duration: 500ms;">道</span><span class="anm show" style="transition-delay: 125ms; transition-duration: 500ms;">で</span><span class="anm show" style="transition-delay: 150ms; transition-duration: 500ms;">1</span><span class="anm show" style="transition-delay: 175ms; transition-duration: 500ms;">8</span><span class="anm show" style="transition-delay: 200ms; transition-duration: 500ms;">年</span><span class="anm show" style="transition-delay: 225ms; transition-duration: 500ms;">、</span><span class="anm show" style="transition-delay: 250ms; transition-duration: 500ms;">2</span><span class="anm show" style="transition-delay: 275ms; transition-duration: 500ms;">0</span><span class="anm show" style="transition-delay: 300ms; transition-duration: 500ms;">万</span><span class="anm show" style="transition-delay: 325ms; transition-duration: 500ms;">人</span><span class="anm show" style="transition-delay: 350ms; transition-duration: 500ms;">の</span><span class="anm show" style="transition-delay: 375ms; transition-duration: 500ms;">症</span><span class="anm show" style="transition-delay: 400ms; transition-duration: 500ms;">例</span><span class="anm show" style="transition-delay: 425ms; transition-duration: 500ms;">実</span><span class="anm show" style="transition-delay: 450ms; transition-duration: 500ms;">績</span></h3>
+						<p class="show" style="transition-delay: 100ms;"><span class="anm show" style="transition-delay: 0ms; transition-duration: 500ms;">タ</span><span class="anm show" style="transition-delay: 25ms; transition-duration: 500ms;">カ</span><span class="anm show" style="transition-delay: 50ms; transition-duration: 500ms;">ミ</span><span class="anm show" style="transition-delay: 75ms; transition-duration: 500ms;">ク</span><span class="anm show" style="transition-delay: 100ms; transition-duration: 500ms;">リ</span><span class="anm show" style="transition-delay: 125ms; transition-duration: 500ms;">ニ</span><span class="anm show" style="transition-delay: 150ms; transition-duration: 500ms;">ッ</span><span class="anm show" style="transition-delay: 175ms; transition-duration: 500ms;">ク</span><span class="anm show" style="transition-delay: 200ms; transition-duration: 500ms;">は</span><span class="anm show" style="transition-delay: 225ms; transition-duration: 500ms;">開</span><span class="anm show" style="transition-delay: 250ms; transition-duration: 500ms;">院</span><span class="anm show" style="transition-delay: 275ms; transition-duration: 500ms;">当</span><span class="anm show" style="transition-delay: 300ms; transition-duration: 500ms;">時</span><span class="anm show" style="transition-delay: 325ms; transition-duration: 500ms;">か</span><span class="anm show" style="transition-delay: 350ms; transition-duration: 500ms;">ら</span><span class="anm show" style="transition-delay: 375ms; transition-duration: 500ms;">「</span><span class="anm show" style="transition-delay: 400ms; transition-duration: 500ms;">肌</span><span class="anm show" style="transition-delay: 425ms; transition-duration: 500ms;">の</span><span class="anm show" style="transition-delay: 450ms; transition-duration: 500ms;">か</span><span class="anm show" style="transition-delay: 475ms; transition-duration: 500ms;">か</span><span class="anm show" style="transition-delay: 500ms; transition-duration: 500ms;">り</span><span class="anm show" style="transition-delay: 525ms; transition-duration: 500ms;">つ</span><span class="anm show" style="transition-delay: 550ms; transition-duration: 500ms;">け</span><span class="anm show" style="transition-delay: 575ms; transition-duration: 500ms;">」</span><span class="anm show" style="transition-delay: 600ms; transition-duration: 500ms;">と</span><span class="anm show" style="transition-delay: 625ms; transition-duration: 500ms;">し</span><span class="anm show" style="transition-delay: 650ms; transition-duration: 500ms;">て</span><span class="anm show" style="transition-delay: 675ms; transition-duration: 500ms;">、</span><br /><span class="anm show" style="transition-delay: 700ms; transition-duration: 500ms;">ニ</span><span class="anm show" style="transition-delay: 725ms; transition-duration: 500ms;">キ</span><span class="anm show" style="transition-delay: 750ms; transition-duration: 500ms;">ビ</span><span class="anm show" style="transition-delay: 775ms; transition-duration: 500ms;">・</span><span class="anm show" style="transition-delay: 800ms; transition-duration: 500ms;">毛</span><span class="anm show" style="transition-delay: 825ms; transition-duration: 500ms;">穴</span><span class="anm show" style="transition-delay: 850ms; transition-duration: 500ms;">・</span><span class="anm show" style="transition-delay: 875ms; transition-duration: 500ms;">シ</span><span class="anm show" style="transition-delay: 900ms; transition-duration: 500ms;">ミ</span><span class="anm show" style="transition-delay: 925ms; transition-duration: 500ms;">と</span><span class="anm show" style="transition-delay: 950ms; transition-duration: 500ms;">い</span><span class="anm show" style="transition-delay: 975ms; transition-duration: 500ms;">っ</span><span class="anm show" style="transition-delay: 1000ms; transition-duration: 500ms;">た</span><span class="anm show" style="transition-delay: 1025ms; transition-duration: 500ms;">一</span><span class="anm show" style="transition-delay: 1050ms; transition-duration: 500ms;">般</span><span class="anm show" style="transition-delay: 1075ms; transition-duration: 500ms;">皮</span><span class="anm show" style="transition-delay: 1100ms; transition-duration: 500ms;">膚</span><span class="anm show" style="transition-delay: 1125ms; transition-duration: 500ms;">科</span><span class="anm show" style="transition-delay: 1150ms; transition-duration: 500ms;">の</span><span class="anm show" style="transition-delay: 1175ms; transition-duration: 500ms;">治</span><span class="anm show" style="transition-delay: 1200ms; transition-duration: 500ms;">療</span><span class="anm show" style="transition-delay: 1225ms; transition-duration: 500ms;">を</span><span class="anm show" style="transition-delay: 1250ms; transition-duration: 500ms;">は</span><span class="anm show" style="transition-delay: 1275ms; transition-duration: 500ms;">じ</span><span class="anm show" style="transition-delay: 1300ms; transition-duration: 500ms;">め</span><span class="anm show" style="transition-delay: 1325ms; transition-duration: 500ms;">、</span><br /><span class="anm show" style="transition-delay: 1350ms; transition-duration: 500ms;">し</span><span class="anm show" style="transition-delay: 1375ms; transition-duration: 500ms;">わ</span><span class="anm show" style="transition-delay: 1400ms; transition-duration: 500ms;">・</span><span class="anm show" style="transition-delay: 1425ms; transition-duration: 500ms;">た</span><span class="anm show" style="transition-delay: 1450ms; transition-duration: 500ms;">る</span><span class="anm show" style="transition-delay: 1475ms; transition-duration: 500ms;">み</span><span class="anm show" style="transition-delay: 1500ms; transition-duration: 500ms;">な</span><span class="anm show" style="transition-delay: 1525ms; transition-duration: 500ms;">ど</span><span class="anm show" style="transition-delay: 1550ms; transition-duration: 500ms;">の</span><span class="anm show" style="transition-delay: 1575ms; transition-duration: 500ms;">ア</span><span class="anm show" style="transition-delay: 1600ms; transition-duration: 500ms;">ン</span><span class="anm show" style="transition-delay: 1625ms; transition-duration: 500ms;">チ</span><span class="anm show" style="transition-delay: 1650ms; transition-duration: 500ms;">エ</span><span class="anm show" style="transition-delay: 1675ms; transition-duration: 500ms;">イ</span><span class="anm show" style="transition-delay: 1700ms; transition-duration: 500ms;">ジ</span><span class="anm show" style="transition-delay: 1725ms; transition-duration: 500ms;">ン</span><span class="anm show" style="transition-delay: 1750ms; transition-duration: 500ms;">グ</span><span class="anm show" style="transition-delay: 1775ms; transition-duration: 500ms;">ま</span><span class="anm show" style="transition-delay: 1800ms; transition-duration: 500ms;">で</span><span class="anm show" style="transition-delay: 1825ms; transition-duration: 500ms;">、</span><br /><span class="anm show" style="transition-delay: 1850ms; transition-duration: 500ms;">美</span><span class="anm show" style="transition-delay: 1875ms; transition-duration: 500ms;">し</span><span class="anm show" style="transition-delay: 1900ms; transition-duration: 500ms;">い</span><span class="anm show" style="transition-delay: 1925ms; transition-duration: 500ms;">肌</span><span class="anm show" style="transition-delay: 1950ms; transition-duration: 500ms;">を</span><span class="anm show" style="transition-delay: 1975ms; transition-duration: 500ms;">手</span><span class="anm show" style="transition-delay: 2000ms; transition-duration: 500ms;">に</span><span class="anm show" style="transition-delay: 2025ms; transition-duration: 500ms;">入</span><span class="anm show" style="transition-delay: 2050ms; transition-duration: 500ms;">れ</span><span class="anm show" style="transition-delay: 2075ms; transition-duration: 500ms;">る</span><span class="anm show" style="transition-delay: 2100ms; transition-duration: 500ms;">た</span><span class="anm show" style="transition-delay: 2125ms; transition-duration: 500ms;">め</span><span class="anm show" style="transition-delay: 2150ms; transition-duration: 500ms;">の</span><span class="anm show" style="transition-delay: 2175ms; transition-duration: 500ms;">治</span><span class="anm show" style="transition-delay: 2200ms; transition-duration: 500ms;">療</span><span class="anm show" style="transition-delay: 2225ms; transition-duration: 500ms;">を</span><span class="anm show" style="transition-delay: 2250ms; transition-duration: 500ms;">幅</span><span class="anm show" style="transition-delay: 2275ms; transition-duration: 500ms;">広</span><span class="anm show" style="transition-delay: 2300ms; transition-duration: 500ms;">く</span><span class="anm show" style="transition-delay: 2325ms; transition-duration: 500ms;">ご</span><span class="anm show" style="transition-delay: 2350ms; transition-duration: 500ms;">提</span><span class="anm show" style="transition-delay: 2375ms; transition-duration: 500ms;">案</span><span class="anm show" style="transition-delay: 2400ms; transition-duration: 500ms;">し</span><span class="anm show" style="transition-delay: 2425ms; transition-duration: 500ms;">て</span><span class="anm show" style="transition-delay: 2450ms; transition-duration: 500ms;">い</span><span class="anm show" style="transition-delay: 2475ms; transition-duration: 500ms;">ま</span><span class="anm show" style="transition-delay: 2500ms; transition-duration: 500ms;">す</span><span class="anm show" style="transition-delay: 2525ms; transition-duration: 500ms;">。</span></p>
+						<!--<a href="https://ssl.takamiclinic.com/news/429/">8/1のNTT回線障害について</a>-->
+					</div>
+				</section>
+				<div id="keyv" class="slideshow">
+					<ul class="image-reel" style="visibility: visible;">
+						<li class="current"><img src="images/img_keyvisual00.jpg" alt="" class="animation" style="width: 1236.36px; height: 680px; left: -18px; top: 0px;" /></li>
+						<li><img src="images/img_keyvisual02.jpg" alt="" style="width: 1236.36px; height: 680px; left: -18px; top: 0px;" /></li>
+						<li><img src="images/img_keyvisual04.jpg" alt="" style="width: 1236.36px; height: 680px; left: -18px; top: 0px;" /></li>
+						<li><img src="images/img_keyvisual06.jpg" alt="" style="width: 1236.36px; height: 680px; left: -18px; top: 0px;" /></li>
+						<li><img src="images/img_keyvisual01.jpg" alt="" style="width: 1236.36px; height: 680px; left: -18px; top: 0px;" /></li>
+
+						<li><img src="images/img_keyvisual03.jpg" alt="" style="width: 1236.36px; height: 680px; left: -18px; top: 0px;" /></li>
+						<li><img src="images/img_keyvisual07.jpg" alt="" style="width: 1236.36px; height: 680px; left: -18px; top: 0px;" /></li>
+					</ul>
+				</div>
+			</div>
+
+			<div id="outpatient">
+				<section class="acne" style="position: relative;">
+					<a href="/service/acne/">
+						<h2 class="titfonts">ニキビ外来</h2>
+						<span class="georgia">Acnes, acne scar</span>
+						<figure><object data="images/icon_acne.svg" type="image/svg+xml" title="" width="60" height="14"><img src="images/icon_acne.png" alt="" /></object></figure>
+						<p><span>20万人の症例実績から生み出された<br />専門ニキビ治療</span></p>
+						<div class="btn">詳しく見る</div>
+					</a>
+					<a href="/service/acne/online.php" style="position: absolute;top: 335px;left: 80px;font-size: 1.2rem;color: #4C74A5;;padding: 10px;">ニキビ遠隔オンライン診療（スマホ通院）<br />
+をおこなっております。<br />詳細はこちら</a>
+				</section>
+				<section class="hfi">
+					<a href="/service/pore/">
+						<h2 class="titfonts">毛穴外来</h2>
+<!--						<span class="georgia">Hair follicle infundibulum</span>-->
+						<span class="georgia">Pores</span>
+						<figure><object data="images/icon_hfi.svg" type="image/svg+xml" title="" width="56" height="40"><img src="images/icon_hfi.png" alt="" /></object></figure>
+						<p><span>症状に合わせて組み合わせる<br />オリジナルの毛穴治療</span></p>
+						<div class="btn">詳しく見る</div>
+					</a>
+				</section>
+				<section class="ps">
+					<a href="/service/pigmented/">
+						<h2 class="titfonts">シミ外来</h2>
+						<span class="georgia">Pigmented spot</span>
+						<figure><object data="images/icon_ps.svg" type="image/svg+xml" title="" width="33" height="33"><img src="images/icon_ps.png" alt="" /></object></figure>
+						<p><span>肌本来の透明感を引き出す<br />独自発想のシミ治療</span></p>
+						<div class="btn">詳しく見る</div>
+					</a>
+				</section>
+			</div>
+
+			<div id="treatment_list">
+				<section id="threadlift">
+					<a href="/service/threadlift.php">
+						<h2 class="titfonts">タカミのスレッドリフト</h2>
+						<span class="georgia">Thread Lift</span>
+						<figure><img src="images/threadlift.png" alt="スレッドリフト" /></figure>
+						<p>メスを使わない最新たるみ治療。<br />安全性の高い医療用の溶ける糸を使用し、<br />切開などの外科的処置の必要がなく、<br />手軽にたるみを改善できる治療法。</p>
+						<div class="btn">詳しく見る</div>
+					</a>
+				</section>
+				<section id="hyaluronan">
+					<a href="/service/hyaluronan/">
+						<h2 class="titfonts">高見院長のヒアルロン酸注入</h2>
+						<span class="georgia">Hyaluronic Acid Injection</span>
+						<figure><img src="images/hyaluronan.png" alt="ヒアルロン酸注入" /></figure>
+						<p>ヒアルロン酸注入顧問指導医、<br />タカミクリニック院長 高見洋による施術。<br />注入はもちろん、“分解してやり直したい”という<br />お悩みにも対応可能です。</p>
+						<div class="btn">詳しく見る</div>
+					</a>
+				</section>
+			</div>
+			
+			<div id="search">
+				<a href="/service/#trouble" class="titfonts">
+					その他のお悩み・施術方法から探す
+					<span class="tex">しわ・たるみ・ほくろ・小顔 など</span>
+					<span class="btn">詳しく見る</span>
+				</a>
+			</div>
+			
+			<div id="pickup" class="GlidSlide" data-speed="1000" data-easing="easeInOutCubic" data-control="true" data-autoplay="true" data-delay="40" data-max="6" data-clickspeed="4">
+				<ul style="opacity: 1;">
+				<li class="0 active" style="transform: translate3d(0px, 0px, 0px);">
+						<a href="/service/brightening.php">
+							<figure><img src="images/index_brightening.png" alt="" /></figure>
+							<span class="category">Our Services</span>
+							<h2 class="titfonts">美白合宿®</h2>
+							<span class="georgia">Brightening intensive plan</span>
+							<p>美の質にこだわる方々から<br />個別に求められ続けてきた<br />短期集中美白治療をメニュー化。</p>
+							<div class="btn">詳しく見る</div>
+						</a>
+					</li>
+					<li class="1" style="transform: translate3d(256px, 0px, 0px);">
+						<a href="/service/tarumi.php">
+							<figure><img src="images/index_tarumiface.png" alt="" /></figure>
+							<span class="category">Our Services</span>
+							<h2 class="titfonts">顔のたるみ治療</h2>
+							<span class="georgia">Sagging face</span>
+							<p>症状に合わせて<br />皮膚の各層へアプローチ<br />メスを使わないたるみ治療。</p>
+							<div class="btn">詳しく見る</div>
+						</a>
+					</li>
+					<li class="2" style="transform: translate3d(512px, 0px, 0px);">
+						<a href="/service/kuma.php">
+							<figure><img src="images/index_kumaface.png" alt="" /></figure>
+							<span class="category">Our Services</span>
+							<h2 class="titfonts">目の下のくま治療</h2>
+							<span class="georgia">Dark circle</span>
+							<p>自己ケアに限界を感じる方へ<br />くまのタイプによって<br />最適な治療をご提案します。</p>
+							<div class="btn">詳しく見る</div>
+						</a>
+					</li>
+					<li class="3" style="transform: translate3d(768px, 0px, 0px);">
+						<a href="/service/shibouyoukai.php">
+							<figure><img src="images/img_fat_dissolv.jpg" alt="" /></figure>
+							<span class="category">Our Services</span>
+							<h2 class="titfonts"><span style="font-size:1.5rem;">脂肪溶解</span>輪郭注射®</h2>
+							<span class="georgia">fat dissolving injection</span>
+							<p>腫れや痛みなどの心配なく、<br />気軽に顔痩せを実現する、<br />最新小顔治療です。</p>
+							<div class="btn">詳しく見る</div>
+						</a>
+					</li>
+					<!--
+					<li>
+						<a href="/service/botox.php">
+							<figure><img src="images/img_our_services.jpg" alt=""></figure>
+							<span class="category">Our Services</span>
+							<h2 class="titfonts">ボトックス注射</h2>
+							<span class="georgia">Botox injection</span>
+							<p>表情じわを改善するだけでなく、<br>小顔や脚痩せも実現。独自の<br>デザイン力で自然で美しい仕上がり。</p>
+							<div class="btn">詳しく見る</div>
+						</a>
+					</li>
+					-->
+					<li class="4" style="transform: translate3d(1024px, 0px, 0px);">
+						<a href="/service/photo_facial.php">
+							<figure><img src="images/img_pf.jpg" alt="" /></figure>
+							<span class="category">Our Services</span>
+							<h2 class="titfonts">フォトフェイシャル</h2>
+							<span class="georgia">Photo Facial</span>
+							<p>当院独自のプログラム。<br />多数のシミ・くすみを同時に解消。<br />肌本来の透明感を引き出します。</p>
+							<div class="btn">詳しく見る</div>
+						</a>
+					</li>
+					<li class="5" style="transform: translate3d(1280px, 0px, 0px);">
+						<a href="/service/bridal.php">
+							<figure><img src="images/index_bridal.png" alt="" /></figure>
+							<span class="category">Our Services</span>
+							<h2 class="titfonts">ブライダルコース</h2>
+							<span class="georgia">Bridal Course</span>
+							<p>大切な挙式を<br />人生史上最も美しく迎える<br />ためのサポートをいたします。</p>
+							<div class="btn">詳しく見る</div>
+						</a>
+					</li>
+
+<!--<li>
+						<a href="/beauty-news/2016autumn1.php">
+							<figure><img src="images/index_autumn.jpg" alt=""></figure>
+							<span class="category">About</span>
+							<h2 class="titfonts">秋のトラブル処方箋</h2>
+							<span class="georgia">Medical　beauty news</span>
+							<p>深まりゆく秋とともに<br>あわられる肌トラブルと<br>解消法を解説。</p>
+							<div class="btn">詳しく見る</div>
+						</a>
+					</li>-->
+
+					<li class="6" style="transform: translate3d(1536px, 0px, 0px);">
+						<a href="/first/skincare.php">
+							<figure><img src="images/img_bs.jpg" alt="" /></figure>
+							<span class="category">About</span>
+							<h2 class="titfonts">美容皮膚科とは</h2>
+							<span class="georgia">About beauty dermatology</span>
+							<p>はじめてで不安をお持ちの方へ、<br />美容皮膚科について<br />ご説明します。</p>
+							<div class="btn">詳しく見る</div>
+						</a>
+					</li>
+					<li class="7" style="transform: translate3d(1792px, 0px, 0px);">
+						<a href="/service/esthetic.php">
+							<figure><img src="images/img_esthetic.jpg" alt="" /></figure>
+							<span class="category">Our Services</span>
+							<h2 class="titfonts">医療エステ</h2>
+							<span class="georgia">Medical Esthetics</span>
+							<p>はじめてのかたでも<br />気軽に医療レベルの効果を<br />実感いただけます。</p>
+							<div class="btn">詳しく見る</div>
+						</a>
+					</li>
+					<!--li>
+						<a href="/service/mens.php">
+							<figure><img src="images/img_men.jpg" alt=""></figure>
+							<span class="category">Our Services</span>
+							<h2 class="titfonts">男性向けアンチエイジング</h2>
+							<span class="georgia">Men's Anti Aging</span>
+							<p>男性向けの高度な<br>アンチエイジング医療を<br>ご提供しています。</p>
+							<div class="btn">詳しく見る</div>
+						</a>
+					</li-->
+					<li class="8" style="transform: translate3d(2048px, 0px, 0px);">
+						<a href="/cosme/">
+							<figure><img src="images/img_products.jpg" alt="" /></figure>
+							<span class="category">Prescription  cosmetics
+</span>
+							<h2 class="titfonts">院内処方コスメ</h2>
+							<span class="georgia">Line of theraputic skin care</span>
+							<p>通院されている<br />患者様だけのために開発した<br />スキンケアラインのご紹介です。
+</p>
+							<div class="btn">詳しく見る</div>
+						</a>
+					</li>
+				</ul>
+			<div class="indicator" style="display: none;"><img src="common/images/indicator_bk.gif" /></div><div class="GlidSlidePrev"></div><div class="GlidSlideNext"></div></div>
+
+			<div id="search">
+				<a href="/column/" class="titfonts column">
+					Doctor's column
+					<span class="sub">あなたの肌悩みに専門医がお答えします</span>
+					<span class="tex">ニキビ・毛穴・しわ・たるみ・アンチエイジング</span>
+					<span class="btn">一覧を見る</span>
+				</a>
+			</div>
+
+			<div id="info">
+				<section id="media">
+					<h2 class="titfonts"><a href="https://ssl.takamiclinic.com/media/">メディア情報</a></h2>
+					<ul class="ui">
+						<li class="rss"><a href="https://ssl.takamiclinic.com/media/feed/"><img src="common/images/icon_rss.png" alt="RSS" /></a></li>
+						<li class="list"><a href="/media/"><img src="common/images/icon_option.png" alt="メディア情報一覧" /></a></li>
+					</ul>
+					<div id="medialist" class="GlidSlide" data-speed="1000" data-easing="easeInOutCubic" data-control="true" data-autoplay="true" data-delay="40" data-max="10" data-clickspeed="4" data-activenum="1" data-rep="1">
+						<ul style="opacity: 1;">
+						<li class="0" style="transform: translate3d(0px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/01-%e3%83%8b%e3%82%ad%e3%83%93%e3%83%bb%e3%83%8b%e3%82%ad%e3%83%93%e8%b7%a1/8355/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2017/08/4d484709ce3679820103d73479a374c6.jpg" alt="" /></figure><span class="category">Magazine</span><h2>ViVi　10月号／講談社<br />ゆりやんレトリィバァの突撃Beauty!!</h2><span class="date">2017/08/23</span></a></li><li class="1 active" style="transform: translate3d(341px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/02-%e6%af%9b%e7%a9%b4/8408/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2018/01/1eb5b646049f61c537e1412167003e84.jpg" alt="" /></figure><span class="category">Magazine</span><h2>FRaU　1月号／講談社<br />“美容厄落とし”しておきませんか？</h2><span class="date">2017/12/12</span></a></li><li class="2" style="transform: translate3d(682px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/03-%e3%81%97%e3%82%8f%e3%83%bb%e3%81%9f%e3%82%8b%e3%81%bf/8403/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2018/01/47adb6f6e2092a2143e6029bcd2677b3.jpg" alt="" /></figure><span class="category">Magazine</span><h2>婦人画報　12月号／ハースト婦人画報社<br />「美容寿命」のためにできること</h2><span class="date">2017/11/01</span></a></li><li class="3" style="transform: translate3d(1023px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/02-%e6%af%9b%e7%a9%b4/8395/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2017/10/0df499becb959c26c2e2e5621703595f.jpg" alt="" /></figure><span class="category">Magazine</span><h2>ar　11月号／主婦と生活社<br />毛穴のすべて</h2><span class="date">2017/10/07</span></a></li><li class="4" style="transform: translate3d(1364px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/01-%e3%83%8b%e3%82%ad%e3%83%93%e3%83%bb%e3%83%8b%e3%82%ad%e3%83%93%e8%b7%a1/8390/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2017/10/3efd6380b2160d1d71c4210aa87bcf12-2.jpg" alt="" /></figure><span class="category">Magazine</span><h2>VOCE　11月号／講談社<br />ベスト美容サロン＆クリニック</h2><span class="date">2017/09/23</span></a></li><li class="5" style="transform: translate3d(1705px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/8383/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2017/10/3efd6380b2160d1d71c4210aa87bcf12-1.jpg" alt="" /></figure><span class="category">Magazine</span><h2>VOCE　11月号／講談社<br />今日から始めたい「毎日マスク」のコツ</h2><span class="date">2017/09/23</span></a></li><li class="6" style="transform: translate3d(2046px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/01-%e3%83%8b%e3%82%ad%e3%83%93%e3%83%bb%e3%83%8b%e3%82%ad%e3%83%93%e8%b7%a1/8379/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2017/10/3efd6380b2160d1d71c4210aa87bcf12.jpg" alt="" /></figure><span class="category">Magazine</span><h2>VOCE　11月号／講談社<br />高橋愛BEAUTY</h2><span class="date">2017/09/23</span></a></li><li class="7" style="transform: translate3d(2387px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/01-%e3%83%8b%e3%82%ad%e3%83%93%e3%83%bb%e3%83%8b%e3%82%ad%e3%83%93%e8%b7%a1/8374/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2017/09/7193df1a28c9ca3fb4ae12a67c611c87.jpg" alt="" /></figure><span class="category">Magazine</span><h2>HONEY　vol.18／ネコ・パブリッシング<br />2017 A/W BEAUTY NEWS</h2><span class="date">2017/09/07</span></a></li><li class="8" style="transform: translate3d(2728px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/02-%e6%af%9b%e7%a9%b4/8366/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2017/09/3afda5fa0f003a8db97b09945ae30d0c.jpg" alt="" /></figure><span class="category">Magazine</span><h2>steady.　10月号／宝島社<br />LET' GO！美容皮膚科！</h2><span class="date">2017/09/07</span></a></li><li class="9" style="transform: translate3d(3069px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/02-%e6%af%9b%e7%a9%b4/8361/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2017/09/c4509f3a113dcbdd40b13d3fe835b19d.jpg" alt="" /></figure><span class="category">Magazine</span><h2>GLOW　10月号／宝島社<br />はじめての美容医療</h2><span class="date">2017/08/28</span></a></li>						<li class="10" style="transform: translate3d(3410px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/01-%e3%83%8b%e3%82%ad%e3%83%93%e3%83%bb%e3%83%8b%e3%82%ad%e3%83%93%e8%b7%a1/8355/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2017/08/4d484709ce3679820103d73479a374c6.jpg" alt="" /></figure><span class="category">Magazine</span><h2>ViVi　10月号／講談社<br />ゆりやんレトリィバァの突撃Beauty!!</h2><span class="date">2017/08/23</span></a></li><li class="11" style="transform: translate3d(3751px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/02-%e6%af%9b%e7%a9%b4/8408/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2018/01/1eb5b646049f61c537e1412167003e84.jpg" alt="" /></figure><span class="category">Magazine</span><h2>FRaU　1月号／講談社<br />“美容厄落とし”しておきませんか？</h2><span class="date">2017/12/12</span></a></li><li class="12" style="transform: translate3d(4092px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/03-%e3%81%97%e3%82%8f%e3%83%bb%e3%81%9f%e3%82%8b%e3%81%bf/8403/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2018/01/47adb6f6e2092a2143e6029bcd2677b3.jpg" alt="" /></figure><span class="category">Magazine</span><h2>婦人画報　12月号／ハースト婦人画報社<br />「美容寿命」のためにできること</h2><span class="date">2017/11/01</span></a></li><li class="13" style="transform: translate3d(4433px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/02-%e6%af%9b%e7%a9%b4/8395/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2017/10/0df499becb959c26c2e2e5621703595f.jpg" alt="" /></figure><span class="category">Magazine</span><h2>ar　11月号／主婦と生活社<br />毛穴のすべて</h2><span class="date">2017/10/07</span></a></li><li class="14" style="transform: translate3d(4774px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/01-%e3%83%8b%e3%82%ad%e3%83%93%e3%83%bb%e3%83%8b%e3%82%ad%e3%83%93%e8%b7%a1/8390/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2017/10/3efd6380b2160d1d71c4210aa87bcf12-2.jpg" alt="" /></figure><span class="category">Magazine</span><h2>VOCE　11月号／講談社<br />ベスト美容サロン＆クリニック</h2><span class="date">2017/09/23</span></a></li><li class="15" style="transform: translate3d(5115px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/8383/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2017/10/3efd6380b2160d1d71c4210aa87bcf12-1.jpg" alt="" /></figure><span class="category">Magazine</span><h2>VOCE　11月号／講談社<br />今日から始めたい「毎日マスク」のコツ</h2><span class="date">2017/09/23</span></a></li><li class="16" style="transform: translate3d(5456px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/01-%e3%83%8b%e3%82%ad%e3%83%93%e3%83%bb%e3%83%8b%e3%82%ad%e3%83%93%e8%b7%a1/8379/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2017/10/3efd6380b2160d1d71c4210aa87bcf12.jpg" alt="" /></figure><span class="category">Magazine</span><h2>VOCE　11月号／講談社<br />高橋愛BEAUTY</h2><span class="date">2017/09/23</span></a></li><li class="17" style="transform: translate3d(5797px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/01-%e3%83%8b%e3%82%ad%e3%83%93%e3%83%bb%e3%83%8b%e3%82%ad%e3%83%93%e8%b7%a1/8374/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2017/09/7193df1a28c9ca3fb4ae12a67c611c87.jpg" alt="" /></figure><span class="category">Magazine</span><h2>HONEY　vol.18／ネコ・パブリッシング<br />2017 A/W BEAUTY NEWS</h2><span class="date">2017/09/07</span></a></li><li class="18" style="transform: translate3d(6138px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/02-%e6%af%9b%e7%a9%b4/8366/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2017/09/3afda5fa0f003a8db97b09945ae30d0c.jpg" alt="" /></figure><span class="category">Magazine</span><h2>steady.　10月号／宝島社<br />LET' GO！美容皮膚科！</h2><span class="date">2017/09/07</span></a></li><li class="19" style="transform: translate3d(6479px, 0px, 0px);"><a href="https://ssl.takamiclinic.com/media/onayami/02-%e6%af%9b%e7%a9%b4/8361/"><figure><img src="https://ssl.takamiclinic.com/fswp/wp-content/uploads/2017/09/c4509f3a113dcbdd40b13d3fe835b19d.jpg" alt="" /></figure><span class="category">Magazine</span><h2>GLOW　10月号／宝島社<br />はじめての美容医療</h2><span class="date">2017/08/28</span></a></li></ul>
+					<div class="indicator" style="display: none;"><img src="common/images/indicator_bk.gif" /></div><div class="GlidSlidePrev"></div><div class="GlidSlideNext"></div></div>
+				</section>
+				<section id="news">
+					<h2 class="titfonts"><a href="/news/">お知らせ</a></h2>
+					<ul class="ui">
+						<li class="rss"><a href="/news/?feed=rss2"><img src="common/images/icon_rss.png" alt="RSS" /></a></li>
+						<li class="list"><a href="/news/"><img src="common/images/icon_option.png" alt="ニュースリリース一覧" /></a></li>
+					</ul>
+					<ul class="newslist"><li><a href="https://ssl.takamiclinic.com/news/494/"><dl><dt>2017.8.3</dt><dd class="category">お知らせ</dd><dd>当院の『スマホ通院』がMISS　Weddingに掲載されました</dd></dl></a></li><li><a href="https://ssl.takamiclinic.com/news/482/"><dl><dt>2017.6.1</dt><dd class="category">お知らせ</dd><dd>ニキビ遠隔オンライン診療(スマホ通院)の予約を開始しました！</dd></dl></a></li><li><a href="https://ssl.takamiclinic.com/news/472/"><dl><dt>2017.3.13</dt><dd class="category">お知らせ</dd><dd>[Doctor’s　Column]ページをUPいたしました！</dd></dl></a></li><li><a href="https://ssl.takamiclinic.com/news/490/"><dl><dt>2017.3.1</dt><dd class="category">お知らせ</dd><dd>春のトラブル処方箋[Medical Beauty News]</dd></dl></a></li><li><a href="https://ssl.takamiclinic.com/news/461/"><dl><dt>2017.1.4</dt><dd class="category">お知らせ</dd><dd>[タカミのスレッドリフト]紹介ページをUPいたしました。</dd></dl></a></li></ul>
+				</section>
+			</div>
+
+			<div id="recruit">
+				<a href="http://www.takami-recruit.net/" target="_blank">
+					<section>
+						<h2 class="titfonts">採用情報</h2>
+						<p class="titfonts">私たちと一緒に働きませんか？</p>
+						<span class="btn">詳しく見る</span>
+					</section>
+				</a>
+			</div>
+
+			
+	<footer id="footer">
+				<nav id="footnav">
+					<section>
+						<h2><a href="service/">治療のご案内</a></h2>
+						<ul>
+							<li><a href="service/hyaluronan/">タカミ式ヒアルロン酸注入</a></li>
+							<li><a href="service/acne/">ニキビ治療</a></li>
+							<li><a href="service/acne/online.php">遠隔診療(オンライン診療)</a></li>
+							<li><a href="service/pore/">毛穴治療</a></li>
+							<li><a href="service/pigmented/">シミ治療</a></li>
+							<li><a href="service/#trouble">お悩みから探す</a></li>
+							<li><a href="service/#sm">施術方法で探す</a></li>
+							<li><a href="service/beautyskin.php">美肌育成外来</a></li>
+							<li><a href="service/esthetic.php">医療エステ</a></li>
+							
+							<li><a href="service/bridal.php">ブライダル</a></li>
+
+							<li><a href="service/mens.php">男性向けアンチエイジング</a></li>
+						</ul>
+					</section>
+					<section>
+						<h2><a href="first/">はじめての方へ</a></h2>
+						<ul>
+							<li><a href="first/skincare.php">美容皮膚科とは</a></li>
+							<li><a href="first/guide.php">ご利用案内</a></li>
+							<li><a href="first/flow.php">ご予約からの流れ</a></li>
+							<li><a href="first/qa.php">よくあるご質問</a></li>
+						</ul>
+					</section>
+					<section>
+						<h2><a href="about/">タカミクリニックについて</a></h2>
+						<ul>
+							<li><a href="about/idea.php">ごあいさつ</a></li>
+							<li><a href="about/clinic.php">施設のご案内</a></li>
+							<li><a href="about/access.php">アクセスマップ</a></li>
+							<li><a href="about/quality.php">美肌へのこだわり</a></li>
+							<li><a href="about/director.php">院長紹介</a></li>
+							<li><a href="about/doctor.php">医師紹介</a></li>
+							<li><a href="media/">出版物・メディア情報</a></li>
+							<li><a href="http://www.takami-recruit.net/" target="_blank">採用情報</a></li>
+							<li><a href="about/clinic.php">ご予約について</a></li>
+						</ul>
+					</section>
+					<section class="other">
+						<h2>その他</h2>
+						<ul>
+							<li><a href="bestclinic/">Voceベストクリニック賞</a></li>
+							<li><a href="column/">Doctor's column</a></li>
+							<li><a href="beauty-news/">Medical Beauty News </a></li>
+							<li><a href="cosme/">院内処方コスメ</a></li>
+
+							<li><a href="news/">お知らせ</a></li>
+							<li><a href="sitemap/">サイトマップ</a></li>
+						</ul>
+					</section>
+				</nav>
+
+				<nav id="footsub">
+					<ul>
+						<li><a href="privacy/">Privacy policy</a></li>
+						<!--li><a href="sitepolicy/">Terms of use</a></li-->
+						<li><a href="sitemap/">Sitemap</a></li>
+						<li><small>Copyright © 2015 Takami clinic. All rights reserved.</small></li>
+					</ul>
+				</nav>
+
+				<div id="social">
+					<ul>
+						<li class="fb">
+							<span class="tex">Facebook</span>
+							<div class="count"><div class="fb-like fb_iframe_widget" data-href="http://www.takamiclinic.com/" data-width="60" data-layout="box_count" data-action="like" data-show-faces="false" data-share="false" fb-xfbml-state="rendered" fb-iframe-plugin-query="action=like&amp;app_id=719695678078244&amp;container_width=60&amp;href=http%3A%2F%2Fwww.takamiclinic.com%2F&amp;layout=box_count&amp;locale=ja_JP&amp;sdk=joey&amp;share=false&amp;show_faces=false&amp;width=60"><span style="vertical-align: bottom; width: 65px; height: 40px;"><iframe name="f2c1713cc1a1b94" width="60px" height="1000px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:like Facebook Social Plugin" src="https://www.facebook.com/v2.0/plugins/like.php?action=like&amp;app_id=719695678078244&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FlY4eZXm_YWu.js%3Fversion%3D42%23cb%3Df13a77a60ef2978%26domain%3Dssl.takamiclinic.com%26origin%3Dhttps%253A%252F%252Fssl.takamiclinic.com%252Ff14253151d57f94%26relation%3Dparent.parent&amp;container_width=60&amp;href=http%3A%2F%2Fwww.takamiclinic.com%2F&amp;layout=box_count&amp;locale=ja_JP&amp;sdk=joey&amp;share=false&amp;show_faces=false&amp;width=60" style="border: none; visibility: visible; width: 65px; height: 40px;" class=""></iframe></span></div></div>
+						</li>
+						<li class="tw">
+							<span class="tex">Twitter</span>
+							<div class="count"><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" title="Twitter Tweet Button" src="https://platform.twitter.com/widgets/tweet_button.36c0c29c73929bf937f4c70adb1a29e4.en.html#dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;original_referer=https%3A%2F%2Fssl.takamiclinic.com%2F&amp;size=m&amp;text=%E7%BE%8E%E5%AE%B9%E7%9A%AE%E8%86%9A%E7%A7%91%20%E3%82%BF%E3%82%AB%E3%83%9F%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&amp;time=1518320841976&amp;type=share&amp;url=http%3A%2F%2Fwww.takamiclinic.com%2F" style="position: static; visibility: visible; width: 60px; height: 20px;" data-url="http://www.takamiclinic.com/"></iframe></div>
+						</li>
+						<li class="gp">
+							<span class="tex">google+</span>
+							<div class="count"><div id="___plusone_0" style="text-indent: 0px; margin: 0px; padding: 0px; background: transparent; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 50px; height: 24px;"><iframe ng-non-bindable="" frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 50px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 24px;" tabindex="0" vspace="0" width="100%" id="I0_1518320841839" name="I0_1518320841839" src="https://apis.google.com/se/0/_/+1/fastbutton?usegapi=1&amp;size=tall&amp;hl=ja&amp;origin=https%3A%2F%2Fssl.takamiclinic.com&amp;url=http%3A%2F%2Fwww.takamiclinic.com%2F&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.RJ8Tbj6XCc8.O%2Fm%3D__features__%2Fam%3DAQE%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCNogYFgdbsuKlB1OPzpUFb1rTclKQ#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&amp;id=I0_1518320841839&amp;_gfid=I0_1518320841839&amp;parent=https%3A%2F%2Fssl.takamiclinic.com&amp;pfname=&amp;rpctoken=10348870" data-gapiattached="true" title="G+"></iframe></div></div>
+						</li>
+					</ul>
+				</div>
+
+				<small class="trademark">東京都港区南青山3-18-20　松本ビル3.4.5F［表参道駅徒歩１分］<br />
+東京都港区南青山3-18-5　モンテプラザ2.3.4F［表参道駅徒歩４分］
+</small>
+
+				<small class="trademark">“タカミ式®”はタカミクリニックの登録商標です。“タカミスキンピール®”は株式会社タカミの登録商標です。</small>
+				
+				<small class="trademark"><a href="http://www.takamiclinic.com/" style="text-decoration:none;color:#999;">美容皮膚科タカミクリニックＴＯＰ</a></small>
+			</footer>
+
+			<div id="ptbtn" class="hide"><a href="#wrapper" class="anchor"></a></div>
+
+			<script src="https://apis.google.com/js/platform.js" async="" defer="" gapi_processed="true">
+			  {lang: 'ja'}
+			</script>
+
+<!-- GoogleAnalytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1856934-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- /GoogleAnalytics -->
+
+
+
+			<!-- 新YTM -->
+			<script type="text/javascript">
+				(function () {
+					var tagjs = document.createElement("script");
+					var s = document.getElementsByTagName("script")[0];
+					tagjs.async = true;
+					tagjs.src = "//s.yjtag.jp/tag.js#site=3PaDHgN";
+					s.parentNode.insertBefore(tagjs, s);
+				}());
+			</script>
+			<noscript>
+				&lt;iframe src="//b.yjtag.jp/iframe?c=3PaDHgN" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"&gt;&lt;/iframe&gt;
+			</noscript>
+		
+			<script>
+				var versaTag = {};
+				versaTag.id = "2440";
+				versaTag.sync = 0;
+				versaTag.dispType = "js";
+				versaTag.ptcl = "HTTPS";
+				versaTag.bsUrl = "bs.serving-sys.com/BurstingPipe";
+				versaTag.activityParams = { "Session":"" };
+				versaTag.retargetParams = {};
+				versaTag.dynamicRetargetParams = {};
+				versaTag.conditionalParams = {};
+			</script>
+			<script id="ebOneTagUrlId" src="https://secure-ds.serving-sys.com/SemiCachedScripts/ebOneTag.js"></script>
+			<noscript>
+				&lt;iframe src="https://bs.serving-sys.com/BurstingPipe?cn=ot&amp;amp;onetagid=2440&amp;amp;ns=1&amp;amp;activityValues=$$Session=[Session]$$&amp;amp;retargetingValues=$$$$&amp;amp;dynamicRetargetingValues=$$$$&amp;amp;acp=$$$$&amp;amp;" style="display:none;width:0px;height:0px"&gt;&lt;/iframe&gt;
+			</noscript>
+<!-- Yahoo Code for your Target List -->
+<script type="text/javascript">
+/* &lt;![CDATA[ */
+var yahoo_ss_retargeting_id = 1000187611;
+var yahoo_sstag_custom_params = window.yahoo_sstag_params;
+var yahoo_ss_retargeting = true;
+/* ]]&gt; */
+</script>
+<script type="text/javascript" src="//s.yimg.jp/images/listing/tool/cv/conversion.js">
+</script>
+<noscript>
+&lt;div style="display:inline;"&gt;
+&lt;img height="1" width="1" style="border-style:none;" alt="" src="//b97.yahoo.co.jp/pagead/conversion/1000187611/?guid=ON&amp;script=0&amp;disvt=false"/&gt;
+&lt;/div&gt;
+</noscript>
+<!-- //Yahoo Code for your Target List -->
+		</div><script type="text/javascript" id="">var _fout_queue=_fout_queue||{};void 0===_fout_queue.segment&amp;&amp;(_fout_queue.segment={});void 0===_fout_queue.segment.queue&amp;&amp;(_fout_queue.segment.queue=[]);_fout_queue.segment.queue.push({user_id:7400});void 0===_fout_queue.redirect&amp;&amp;(_fout_queue.redirect={});_fout_queue.redirect.is_redirect=!0;
+(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"==document.location.protocol?"https://":"http://")+"js.fout.jp/segmentation.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();</script>
+
+		<script type="text/javascript" src="js/JSslider.js"></script>
+	
+
+
+<div id="navol"></div><div class="fb-root"></div><iframe src="https://js.fout.jp/beacon.html?from=dmp" style="display: none;"></iframe>
+      
+      
+      <div style="display: none; visibility: hidden;"><script type="text/javascript">var smnAdvertiserId="00002886";</script><script type="text/javascript" src="//cd.ladsp.com/script/pixel.js"></script></div><div style="display: none; visibility: hidden;">
+<script type="text/javascript">var axel=Math.random()+"",a=1E13*axel;document.write('\x3ciframe src\x3d"https://6343211.fls.doubleclick.net/activityi;src\x3d6343211;type\x3dinvmedia;cat\x3di3wsnsh5;dc_lat\x3d;dc_rdid\x3d;tag_for_child_directed_treatment\x3d;ord\x3d'+a+'?" width\x3d"1" height\x3d"1" frameborder\x3d"0" style\x3d"display:none"\x3e\x3c/iframe\x3e');</script><iframe src="https://6343211.fls.doubleclick.net/activityi;src=6343211;type=invmedia;cat=i3wsnsh5;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=8744353844216.853?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+<noscript></noscript>
+</div><script type="text/javascript" src="https://bs.serving-sys.com/Serving?cn=ot&amp;onetagid=2440&amp;dispType=js&amp;sync=0&amp;sessionid=4032667656845618296&amp;pageurl=$$https%3A//ssl.takamiclinic.com/$$&amp;activityValues=$$Session=1263440017876996847$$&amp;ns=0&amp;rnd=7672609649811797" async=""></script><iframe scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/widget_iframe.36c0c29c73929bf937f4c70adb1a29e4.html?origin=https%3A%2F%2Fssl.takamiclinic.com" style="display: none;"></iframe><iframe width="1" height="1" style="position:absolute; top:-9999px; left: -9999px; border-style: none" src="https://cache.send.microad.jp/js/cookie_enabled_get.html"></iframe><img width="1" height="1" src="https://bs.nakanohito.jp/ua/?uisv=0&amp;from=ua&amp;id=9160360&amp;h=64122597&amp;oem_id=6&amp;mode=default&amp;rand=1830355&amp;url=https%3A%2F%2Fssl.takamiclinic.com%2F&amp;sb=%E7%BE%8E%E5%AE%B9%E7%9A%AE%E8%86%9A%E7%A7%91%E3%82%BF%E3%82%AB%E3%83%9F%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF%20(%E6%9D%B1%E4%BA%AC%20%E8%A1%A8%E5%8F%82%E9%81%93)%20%7C%20%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88&amp;bw=1985&amp;bh=2000&amp;sw=800&amp;sh=600&amp;dpr=1&amp;fp=201802111247211232&amp;count=1&amp;eflg=1" style="display: none;" /><iframe name="oauth2relay883476321" id="oauth2relay883476321" src="https://accounts.google.com/o/oauth2/postmessageRelay?parent=https%3A%2F%2Fssl.takamiclinic.com&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.RJ8Tbj6XCc8.O%2Fm%3D__features__%2Fam%3DAQE%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCNogYFgdbsuKlB1OPzpUFb1rTclKQ#rpctoken=247569515&amp;forcesecure=1" tabindex="-1" aria-hidden="true" style="width: 1px; height: 1px; position: absolute; top: -100px;"></iframe><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#channel=f14253151d57f94&amp;origin=https%3A%2F%2Fssl.takamiclinic.com" style="border: none;"></iframe></div></div></div><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe"></iframe><iframe src="https://bid.g.doubleclick.net/xbbe/pixel?d=KAE" style="display: none;"></iframe><table cellspacing="0" cellpadding="0" class="gstl_50 gssb_c" style="width: 352px; display: none; top: 63px; left: 1522px; position: absolute;"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table></body></html>

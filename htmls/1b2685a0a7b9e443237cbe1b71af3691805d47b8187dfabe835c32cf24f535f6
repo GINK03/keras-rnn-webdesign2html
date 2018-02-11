@@ -1,0 +1,500 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="ja"><head>
+<meta charset="UTF-8" />
+<title>長崎県島原市の産科・婦人科・麻酔科 山崎医院</title>
+<meta name="description" content="長崎県島原市の産科・婦人科・麻酔科 山崎医院です。私たち山崎医院は、島原市に根づいて約70年。出産から育児、その後の暮らしまで末永くサポートしてゆきます。" />
+<meta name="keywords" content="長崎県島原市,産婦人科,婦人科,麻酔科,無痛分娩,不妊治療,出生前診断,更年期外来,月経痛,月経過多,子宮がん検診,乳がん検診" />
+<link rel="apple-touch-icon" href="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/images/iphone_icon-precomposed.png" />
+<link rel="shortcut icon" href="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/favicon.ico" />
+<meta property="og:title" content="長崎県島原市の産科・婦人科・麻酔科 山崎医院" />
+<meta property="og:description" content="長崎県島原市の産科・婦人科・麻酔科 山崎医院です。私たち山崎医院は、島原市に根づいて約70年。出産から育児、その後の暮らしまで末永くサポートしてゆきます。" />
+<meta property="og:image" content="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/images/safe_image.png" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.yamasaki-iin.com/" />
+<meta property="og:site_name" content="長崎県島原市の産科・婦人科・麻酔科 山崎医院" />
+<meta property="og:locale" content="ja_JP" />
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/js/viewport.js"></script>
+<script src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/js/jquery-1.8.3.min.js"></script>
+<script src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/js/jquery.carouFredSel-6.0.4-packed.js"></script>
+<script src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/js/imagelightbox.min.js"></script>
+<script src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/js/imagelightbox.js"></script>
+<script src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/js/imgcentering.js"></script>
+<script src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/js/retina.js"></script>
+<script src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/js/select_idx.js"></script><script src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/js/idx.js"></script><script src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/js/main.js"></script>
+<!--[if lt IE 9]>
+<script src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/js/html5shiv.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/css/select.css" />
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/css/reset.css">
+<link rel="stylesheet" type="text/css" href="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/css/base.css">
+<link rel="stylesheet" type="text/css" href="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/css/idx.css">
+<link rel="stylesheet" type="text/css" href="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/css/common.css">
+<link rel="stylesheet" type="text/css" href="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/css/imagelightbox.css">
+<![endif]-->
+</head>
+
+<body>
+
+<div id="loading" style="display: none;"></div>
+
+<!--header -->
+<header>
+
+<h1><a href="http://www.yamasaki-iin.com/">長崎県島原市の産科婦人科・麻酔科 山崎医院</a></h1>
+
+<div class="s_menu">メニュー</div>
+<nav id="mainnavi">
+<a href="http://www.yamasaki-iin.com/maternity/" class="maternity_btn">産科</a>
+<a href="http://www.yamasaki-iin.com/women/" class="women_btn">婦人科</a>
+<ul>
+<li><a href="http://www.yamasaki-iin.com/about" class="navi01">私たちのこと</a></li>
+<li><a href="http://www.yamasaki-iin.com/information" class="navi02">診療案内</a></li>
+<li><a href="http://www.yamasaki-iin.com/classroom" class="navi03">教室案内</a></li>
+<li><a href="http://www.yamasaki-iin.com/satogaeri" class="navi06">里帰り出産について</a></li>
+<li><a href="http://www.yamasaki-iin.com/access" class="navi04">交通アクセス</a></li>
+<li><a href="http://www.yamasaki-iin.com/contact" class="navi05">お問い合わせ</a></li>
+</ul>
+<dl class="tel">
+<dt>〒855-0823 長崎県島原市湊町350</dt>
+<dd><a href="tel:0957-64-1103">tel.0957-64-1103<span>（代）</span></a></dd>
+</dl>
+<a href="http://www.yamasaki-iin.com/reserve/" class="reserve_btn">ネット予約</a>
+</nav>
+<div class="sp_naviback"></div>
+<a href="http://www.yamasaki-iin.com/reserve/" class="reserve">ネット予約</a>
+
+</header>
+<!--header -->
+
+
+
+<!--idx_main -->
+<section id="idx_main">
+
+<div id="idx_main_slide">
+<img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_main001.jpg" alt="" class="idx_slide01" style="display: inline; opacity: 0.385825;" />
+<img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_main002.jpg" alt="" class="idx_slide02" style="display: inline;" />
+<img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_main003.jpg" alt="" class="idx_slide03" />
+<img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_main004.jpg" alt="" class="idx_slide04" />
+<img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_main005.jpg" alt="" class="idx_slide05" />
+</div>
+
+<ul id="idx_main_copy">
+<li class="copy01" style="display: list-item;"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_maincopy01.png" alt="この地に生まれ" /></li>
+<li class="copy02" style="display: list-item;"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_maincopy02.png" alt="この地で育ち" /></li>
+<li class="copy03"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_maincopy03.png" alt="この地で学び" /></li>
+<li class="copy04"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_maincopy04.png" alt="この地で出会い" /></li>
+<li class="copy05"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_maincopy05.png" alt="そして、この地で育む" /></li>
+</ul>
+
+<div id="idx_photo">
+<img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_main01.jpg" alt="無痛分娩" class="idx_photo001" />
+<img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_main02.jpg" alt="胎児超音波診断・出生前診断" class="idx_photo002" />
+<img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_main03.jpg" alt="妊娠サポート・不妊治療" class="idx_photo003" />
+<img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_main04.jpg" alt="女性のヘルスケア" class="idx_photo004" />
+</div>
+
+<ul id="idx_navi">
+<li><a href="http://www.yamasaki-iin.com/maternity/birth/#001" class="idx_navi01">お産の痛みを和らげたい</a></li>
+<li><a href="http://www.yamasaki-iin.com/maternity/before/#001" class="idx_navi02">お腹の赤ちゃんを知りたい</a></li>
+<li><a href="http://www.yamasaki-iin.com/women/#001" class="idx_navi03">赤ちゃんを授かりたい</a></li>
+<li><a href="http://www.yamasaki-iin.com/women/#002" class="idx_navi04">生理不順・生理痛更年期症状の悩み</a></li>
+</ul>
+
+<ul id="idx_navi02">
+<li><a href="http://www.yamasaki-iin.com/maternity/" class="idx_navi001">産科</a></li>
+<li><a href="http://www.yamasaki-iin.com/women/" class="idx_navi002">婦人科</a></li>
+</ul>
+
+<img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_main_flower.png" class="idx_main_flower" alt="" />
+
+</section>
+<!--idx_main -->
+
+
+<!--idx_wrappar -->
+<div id="idx_wrappar">
+
+
+<!--idx_main -->
+<section id="idx_information" class="clearfix">
+
+<dl class="tel">
+<dt>〒855-0823 長崎県島原市湊町350</dt>
+<dd><a href="tel:0957-64-1103">tel.0957-64-1103<span>（代）</span></a></dd>
+</dl>
+
+<a href="http://www.yamasaki-iin.com/reserve/" class="reserve_btn">ネット予約</a>
+
+<dl class="time">
+<dt>午前</dt>
+<dd>9:00〜12:00</dd>
+</dl>
+
+<dl class="time">
+<dt>午後</dt>
+<dd>14:30〜18:00</dd>
+</dl>
+
+<dl class="time">
+<dt>休診日</dt>
+<dd>木曜午後・日曜・祝日</dd>
+</dl>
+
+<p class="copy">急患と分娩はいつでも受付ます</p>
+
+</section>
+<!--idx_information -->
+
+
+<!--idx_about -->
+<section id="idx_about">
+<div class="idx_about_back"></div>
+<h1 class="idx_subtitle01"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/subtitle01_pc.png" alt="私たちのこと" class="imgChange" /></h1>
+<p><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_copy01_pc.png" alt="私たち山崎医院は、島原市に根づいて約70年。出産から育児、その後の暮らしまで末永くサポートしてゆきます。" width="353" class="imgChange" /></p>
+<a href="http://www.yamasaki-iin.com/about/" class="btn01">MORE</a>
+</section>
+<!--idx_about -->
+
+
+
+<!--idx_gallery -->
+<section id="idx_gallery">
+
+<h1 class="idx_subtitle01"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/subtitle02_pc.png" alt="フォトギャラリー" class="imgChange" /></h1>
+
+<div id="carousel_wrap">
+<div class="caroufredsel_wrapper" style="display: block; text-align: center; float: left; position: relative; top: auto; right: auto; bottom: auto; left: auto; z-index: auto; width: 1985px; height: 140px; margin: 0px; overflow: hidden;"><div id="carousel" style="text-align: left; float: none; position: absolute; top: 0px; right: auto; bottom: auto; left: 216px; margin: 0px; width: 10865px; height: 140px;">
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/02/IMG_1594.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/02/IMG_1594.jpg" alt="&lt;p&gt;下山ファミリーに新しい一員が加わりました。&lt;/p&gt;&#10;" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/02/IMG_1587.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/02/IMG_1587.jpg" alt="&lt;p&gt;宿野部ファミリーに新しい一員が加わりました。&lt;/p&gt;&#10;" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/02/IMG_1597.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/02/IMG_1597.jpg" alt="&lt;p&gt;峯友ファミリーに新しい一員が加わりました。&lt;/p&gt;&#10;" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/02/IMG_1579.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/02/IMG_1579.jpg" alt="&lt;p&gt;内川ファミリーに新しい一員が加わりました。&lt;/p&gt;&#10;" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/02/IMG_1577.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/02/IMG_1577.jpg" alt="&lt;p style=" padding-left:="" 30px"="" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />佐藤<p></p>
+ファミリーに新しい一員が加わりました。" /&gt;
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/02/IMG_1568.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/02/IMG_1568.jpg" alt="&lt;p&gt;吉岡ベビーです。はじめまして！&lt;/p&gt;&#10;" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/02/IMG_1562.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255); margin-right: 235px;"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/02/IMG_1562.jpg" alt="&lt;p&gt;細川&lt;/p&gt;&#10;ベビーです。はじめまして！" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/02/IMG_1545.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/02/IMG_1545.jpg" alt="&lt;p&gt;めぐbaby&lt;/p&gt;&#10;" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1530.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1530.jpg" alt="&lt;p&gt;ビックベビーの誕生です！&lt;/p&gt;&#10;" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1528-1.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1528-1.jpg" alt="&lt;p&gt;林ファミリーに新しい一員が加わりました。&lt;/p&gt;&#10;" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1523.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1523.jpg" alt="&lt;p&gt;はじめまして！紅愛です！！&lt;/p&gt;&#10;" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1502.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1502.jpg" alt="&lt;p&gt;雫月です。6番目です。&lt;/p&gt;&#10;" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1497.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1497.jpg" alt="&lt;p&gt;お姉ちゃんとお兄ちゃんが２人います！&lt;/p&gt;&#10;" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1492.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1492.jpg" alt="&lt;p&gt;横島ベビーです。皆さんよろしくお願いします。&lt;/p&gt;&#10;" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1200.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1200.jpg" alt="&lt;p&gt;三雲&lt;/p&gt;&#10;ファミリーに新しい一員が加わりました。" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1199.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1199.jpg" alt="&lt;p&gt;竹市&lt;/p&gt;&#10;ファミリーに新しい一員が加わりました。" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1475.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1475.jpg" alt="&lt;p&gt;野口ファミリーに新しい一員が加わりました。&lt;/p&gt;&#10;" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1467.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1467.jpg" alt="&lt;p&gt;大津ファミリーに新しい一員が加わりました。&lt;/p&gt;&#10;" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1471-1.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1471-1.jpg" alt="&lt;p&gt;益田ファミリーに新しい一員が加わりました。&lt;/p&gt;&#10;" style="width: 100%; height: auto; position: relative; left: 0px; top: -45.5px;" />
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1459.jpg" data-imagelightbox="f" class="gallery_photo" style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2018/01/IMG_1459.jpg" alt="&lt;p&gt;髙木&lt;/p&gt;&#10;ファミリーに新しい一員が加わりました。" style="width: 100%; height: auto; position: relative; left: 0px; top: -63px;" />
+</a>
+
+</div></div>
+<span class="gall_prev" style="display: block;"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_gallery_prev_pc.png" width="37" height="31" alt="戻る" /></span>
+<span class="gall_next" style="display: block;"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_gallery_next_pc.png" width="37" height="31" alt="次へ" /></span>
+<img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_gallery_grad_left.png" alt="" class="grad_left" />
+<img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_gallery_grad_right.png" alt="" class="grad_right" />
+</div>
+<a href="http://www.yamasaki-iin.com/gallery/" class="btn01">VIEW LIST</a>
+</section>
+<!--idx_gallery -->
+
+
+
+<!--idx_doctor -->
+<section id="idx_doctor" class="clearfix">
+
+<h1 class="idx_subtitle01"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/subtitle03_pc.png" alt="医師・スタッフ紹介" class="imgChange" /></h1>
+
+<div class="doctor_wrap">
+
+<a href="http://www.yamasaki-iin.com/about/#doctor01">
+<dl>
+<dt><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/doctor01.png" alt="" /></dt>
+<dd><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/doctor_name01_pc.png" alt="山崎 裕充" class="imgChange" /></dd>
+</dl>
+</a>
+
+<a href="http://www.yamasaki-iin.com/about/#doctor02">
+<dl>
+<dt><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/doctor02.png" alt="" /></dt>
+<dd><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/doctor_name02_pc.png" alt="山崎 健太郎" class="imgChange" /></dd>
+</dl>
+</a>
+
+<a href="http://www.yamasaki-iin.com/about/#doctor03">
+<dl>
+<dt><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/doctor03.png" alt="" /></dt>
+<dd><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/doctor_name03_pc.png" alt="石崎 庸子" class="imgChange" /></dd>
+</dl>
+</a>
+
+<a href="http://www.yamasaki-iin.com/about/#doctor04">
+<dl>
+<dt><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/doctor04.png" alt="" /></dt>
+<dd><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/doctor_name04_pc.png" alt="石橋 俊秀" class="imgChange" /></dd>
+</dl>
+</a>
+
+<a href="http://www.yamasaki-iin.com/about/#doctor05">
+<dl>
+<dt><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/doctor05.png" alt="" /></dt>
+<dd><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/doctor_name05_pc.png" alt="林田 順子" class="imgChange" /></dd>
+</dl>
+</a>
+
+<a href="http://www.yamasaki-iin.com/about/#doctor"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_doctor_ribbon_btn_pc.png" width="95" height="31" alt="詳しく見る" class="doctor_btn" /></a>
+
+
+</div>
+
+<span class="doc_prev"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_doctor_prev_sp.png" width="37" height="31" alt="戻る" /></span>
+<span class="doc_next"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_doctor_next_sp.png" width="37" height="31" alt="次へ" /></span>
+
+<div class="box03" align="center">
+<a href="http://www.yamasaki-iin.com/about/#doctor" class="btn01 clear_both p_none">MORE</a>
+</div>
+
+</section>
+<!--idx_doctor -->
+
+
+
+<!--idx_banar -->
+<section id="idx_banar" class="clearfix">
+
+
+<a href="http://www.yamasaki-iin.com/shimabara/" class="shimabara"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_banar01_pc.png" alt="しまばら産院〜みなみかぜ〜" /></a>
+
+<div id="idx_banarwrap">
+<ul class="idx_banar01">
+<li><a href="http://www.yamasaki-iin.com/satogaeri/"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_banar02_pc.png" width="250" alt="里帰り出産について" class="imgChange" /></a></li>
+<li><a href="http://www.yamasaki-iin.com/medical/"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_banar03_pc.png" width="250" alt="医療関係者の方へ" class="imgChange" /></a></li>
+<li><a href="http://www.yamasaki-iin.com/recruit/"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_banar04_pc.png" width="250" alt="スタッフ募集" class="imgChange" /></a></li>
+</ul>
+<span class="banar_prev"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_gallery_prev_pc.png" width="37" height="31" alt="戻る" /></span>
+<span class="banar_next"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/images/idx_gallery_next_pc.png" width="37" height="31" alt="次へ" /></span>
+</div>
+
+</section>
+<!--idx_banar -->
+
+</div>
+<!--idx_wrappar -->
+
+<!--footer -->
+<footer>
+
+<section id="footinfo">
+<div class="footwrap">
+
+<div id="leftbox">
+
+<section id="news">
+<h1 class="foot_subtitle01"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/images/foot_subtitle01_pc.png" alt="お知らせ・イベント情報" class="imgChange" /></h1>
+<a href="http://www.yamasaki-iin.com/news/" class="btn01">MORE</a>
+
+
+
+<a href="http://www.yamasaki-iin.com/news/%e7%84%a1%e7%97%9b%e5%88%86%e5%a8%a9%e3%82%af%e3%83%a9%e3%82%b9%e3%83%bb%e5%87%ba%e7%94%9f%e5%89%8d%e8%a8%ba%e6%96%ad%e3%82%af%e3%83%a9%e3%82%b9%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85/" title="無痛分娩クラス・出生前診断クラスのご案内">
+<div class="news_box">
+<div style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2014/09/safe_image.png" alt="" style="width: auto; height: 100%; position: relative; left: -37px; top: 0px;" /></div>
+<dl>
+<dt>2018.01.10</dt>
+<dd>無痛分娩クラス・出生前診断クラスのご案内</dd>
+</dl>
+</div>
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/news/%e5%b9%b4%e6%9c%ab%e5%b9%b4%e5%a7%8b%e4%bc%91%e8%a8%ba%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b-2/" title="年末年始休診のお知らせ">
+<div class="news_box">
+<div style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2016/02/山崎医院アーキスキンマーク小.jpg" alt="" style="width: 100%; height: auto; position: relative; left: 0px; top: -2.5px;" /></div>
+<dl>
+<dt>2017.12.27</dt>
+<dd>年末年始休診のお知らせ</dd>
+</dl>
+</div>
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/news/%e3%81%8a%e7%9b%86%e4%bc%91%e3%81%bf%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/" title="お盆休みのお知らせ">
+<div class="news_box">
+<div><img src="http://www.yamasaki-iin.com/" alt="" /></div>
+<dl>
+<dt>2017.07.12</dt>
+<dd>お盆休みのお知らせ</dd>
+</dl>
+</div>
+</a>
+
+
+<a href="http://www.yamasaki-iin.com/news/%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%87%e3%83%b3%e3%82%a6%e3%82%a4%e3%83%bc%e3%82%af%e4%bc%91%e8%a8%ba%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/" title="ゴールデンウイーク休診のお知らせ">
+<div class="news_box">
+<div style="position: static; overflow: hidden; background-color: rgb(255, 255, 255);"><img src="http://www.yamasaki-iin.com/wp/wp-content/uploads/2016/02/山崎医院アーキスキンマーク小.jpg" alt="" style="width: 100%; height: auto; position: relative; left: 0px; top: -2.5px;" /></div>
+<dl>
+<dt>2017.04.17</dt>
+<dd>ゴールデンウイーク休診のお知らせ</dd>
+</dl>
+</div>
+</a>
+
+
+
+</section>
+
+
+<section id="blog">
+<h1 class="foot_subtitle01"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/images/foot_subtitle02_pc.png" alt="ブログ" class="imgChange" /></h1>
+<a href="http://yamasaki-iin.tumblr.com/" target="_blank" class="btn01">MORE</a>
+<ul id="blog_list">
+<li><a href="http://yamasaki-iin.tumblr.com/post/169953187435" target="_blank">ハンギングチェアを入れ替えてみました</a></li><li><a href="http://yamasaki-iin.tumblr.com/post/168006921725" target="_blank">プラセンタ注射について</a></li><li><a href="http://yamasaki-iin.tumblr.com/post/165257116125" target="_blank">駐車場の灯り</a></li><li><a href="http://yamasaki-iin.tumblr.com/post/165004295930" target="_blank">母体救命講習会</a></li></ul>
+</section>
+
+</div>
+
+<div id="socialbox">
+
+<section id="facebook">
+<h1 class="foot_subtitle01"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/images/foot_subtitle03_pc.png" alt="フェイスブック" class="imgChange" /></h1>
+<div>
+<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fyamasakisanfujinka&amp;width=260&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=185319918206804" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%; height:190px;" allowtransparency="true"></iframe>
+</div>
+</section>
+
+<section id="line">
+<h1 class="foot_subtitle01"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/images/foot_subtitle04_pc.png" alt="ライン" class="imgChange" /></h1>
+<div>
+<img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/images/line_qr.png" alt="" class="qr" />
+<dl>
+<dt>LINEでも様々な情報を発信しています。ぜひご覧下さい。</dt>
+<dd><a href="http://line.naver.jp/ti/p/%40yamasaki-iin"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/images/line_btn_pc.png" alt="友だち追加数" width="130" height="38" border="0" class="imgChange" /></a></dd>
+</dl>
+</div>
+</section>
+
+</div>
+
+</div>
+</section>
+
+
+<section id="foothospital">
+<div class="footwrap clearfix">
+
+<div class="leftbox">
+<h1><a href="http://www.yamasaki-iin.com/">長崎県島原市の産科婦人科・麻酔科 山崎医院</a></h1>
+<dl class="tel">
+<dt>〒855-0823 長崎県島原市湊町350</dt>
+<dd><a href="tel:0957-64-1103">tel.0957-64-1103<span>（代）</span></a></dd>
+</dl>
+
+<div class="box03">
+
+<dl class="time">
+<dt>午前</dt>
+<dd>9:00〜12:00</dd>
+</dl>
+
+<dl class="time">
+<dt>午後</dt>
+<dd>14:30〜18:00</dd>
+</dl>
+
+</div>
+
+<img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/images/foot_schedule_pc.png" class="foot_schedule" alt="" />
+<img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/images/foot_copy_pc.png" class="foot_copy" alt="急患と分娩はいつでも受付ます" />
+
+</div>
+<a href="http://www.yamasaki-iin.com/access/"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/images/foot_map_pc.png" alt="詳しい地図を見る" class="foot_map" /></a>
+
+</div>
+</section>
+
+
+<section id="footnavi">
+<a href="#" class="pagetop"><img src="http://www.yamasaki-iin.com/wp/wp-content/themes/yamasaki/common/images/btn_pagetop_pc.png" width="91" alt="ページトップに戻る" class="imgChange" /></a>
+<ul>
+<li><a href="http://www.yamasaki-iin.com/sitemap">サイトマップ｜</a></li>
+<li><a href="http://www.yamasaki-iin.com/privacy">プライバシーポリシー</a></li>
+</ul>
+<p>Copyright by YAMASAKI CLINIC. All rights reserved. </p>
+
+</section>
+
+
+</footer>
+<!--footer -->
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55382954-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+</body></html>

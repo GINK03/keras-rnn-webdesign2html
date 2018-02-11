@@ -1,0 +1,277 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="ja" class=" js history csstransforms"><head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=1024" />
+	<meta name="robots" content="INDEX, FOLLOW" />
+	<meta name="keywords" content="滋賀県,近江八幡,東近江,歯医者,歯科医院,クラウド歯科" />
+	<meta name="description" content="今までも、これからも、滋賀県近江八幡市に根差すかかりつけの歯医者に。 クラウド歯科 CLOUD DENTAL CLINIC" />
+
+	<title>滋賀県近江八幡市に根差す歯医者 - クラウド歯科 CLOUD DENTAL CLINIC</title>
+	
+	<meta property="og:image" content="http://cloud-dental-clinic.com/images/common/share.jpg" />
+	
+	<link rel="stylesheet" type="text/css" href="/css/layout.css" media="all" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://cloud-dental-clinic.com/feed/?post_type=news" />
+	
+	<!--[if IE]>
+	<script src="/js/html5shiv.min.js"></script>
+	<![endif]-->
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/modernizr.custom.js"></script>
+	<script src="/js/jquery-1.11.1.min.js"></script>
+	<script src="/js/jquery.easing-1.3.min.js"></script>
+	<script src="/js/FLAutoKerning.js"></script>
+	<script src="//maps.googleapis.com/maps/api/js?sensor=false&amp;extension=.js"></script>
+	<script src="/js/jquery.lazylinepainter-1.4.1.min.js"></script>
+	<script src="/js/raphael-min.js"></script>
+	<script src="/js/svgIllust.js"></script>
+	<script src="/js/behavior.js"></script>
+
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-56623875-1', 'auto');
+		ga('send', 'pageview');
+	</script>	
+</head>
+<body id="home" class="op">
+<a id="top"></a>
+<div id="wrap">
+
+	<header id="headerArea">
+		<div class="logo"><img src="/images/common/logo_01.png" width="296" height="18" alt="CLOUD DENTAL CLINIC" /></div>
+		<h1 class="chatch">滋賀県近江八幡市に根差す歯医者-クラウド歯科</h1>
+		<nav class="gnavi">
+			<ul>
+				<li class="home"><a href="/" class="act">ホーム</a></li>
+				<li class="about"><a href="/about/">クラウド歯科について</a></li>
+				<li class="medical"><a href="/medical/">歯の治療について</a></li>
+				<li class="uninsured"><a href="/uninsured/">保険外治療について</a></li>
+				<li class="qa"><a href="/qa/">よくあるご質問</a></li>
+				<li class="recruit"><a href="/recruit/">ス<span style="letter-spacing:-0.05em">タ</span><span style="letter-spacing:-0.075em">ッ</span>フ募集</a></li>
+				<li class="news"><a href="/news/">お知らせ</a></li>
+				<li class="access"><a href="/access/">アクセス</a></li>
+				<li class="reservation"><a href="/reservation/">ご予約</a></li>
+			</ul>
+		</nav>
+		<div class="reservation">
+			<p class="tit"><a href="/reservation/">ご予約</a></p>
+			<dl>
+				<dt class="tel"><img src="/images/common/icon_01.png" width="42" height="14" alt="TEL" /></dt>
+				<dd class="tel"><strong>0748-33-1100</strong></dd>
+				<dt class="time"><img src="/images/common/icon_02.png" width="15" height="15" alt="時間" /></dt>
+				<dd class="time">9:00-12:00 / 14:30-19:00</dd>
+			</dl>
+		</div>
+	</header>
+	
+	<article id="articleArea">
+		
+		<div id="mainArea">
+			<h2 class="tit" style="margin-left: -55px; top: 51px; display: block;"><img src="/images/index/txt_01.png" width="106" height="243" alt="今までも、これからも、近江八幡に根差すかかりつけの歯医者に。" /></h2>
+			<div class="photo lazy-line" id="svgMain" style="margin-left: -348px; width: 697px; height: 503px;"><svg height="503" version="1.1" width="697" xmlns="http://www.w3.org/2000/svg" style="overflow: hidden; position: relative; left: -0.5px;"><desc style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Created with Raphaël 2.1.0</desc><defs style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"/><path fill="none" stroke="#1e99a8" d="M520.027,500.416C591.839,500.416,657.465,435.373,684.0240000000001,301.416C710.5830000000001,167.458,689.5400000000001,1.4159999999999968,559.0270000000002,1.4159999999999968C446.84700000000015,1.4159999999999968,462.56600000000014,15.415999999999997,361.02700000000016,15.415999999999997C253.62900000000016,15.415999999999997,442.42600000000016,15.415999999999997,335.02700000000016,15.415999999999997C240.79700000000014,15.415999999999997,254.03100000000018,1.4159999999999968,137.02700000000016,1.4159999999999968C6.511000000000166,1.4159999999999968,-14.53199999999984,167.458,12.027000000000157,301.416C38.586000000000155,435.373,104.21500000000016,500.416,176.02700000000016,500.416C212.09300000000016,500.416,280.5880000000002,430.416,348.9370000000001,430.416C416.06806372070315,430.416,483.05968128407005,499.1570634756088,519.0505227535003,500.3989674544162" fill-opacity="0" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); fill-opacity: 0; stroke-opacity: 1; stroke-linecap: round; stroke-linejoin: round;"/></svg><div class="white"></div><img src="/images/index/img_01.png" width="694" height="499" alt="" class="fix" /></div>
+			<span class="line svgAnime" id="svgNami" data-delay="1000"><img src="/images/index/line_01.png" width="348" height="83" alt="" /></span>
+		</div>
+		
+		<div id="menuArea">
+			<div class="menu">
+				<div class="item00">
+					<a href="/about/">
+						<div class="img"><img src="/images/index/img_02.jpg" width="296" height="182" alt="クラウド歯科について" /></div>
+						<h3>クラウド歯科について</h3>
+						<ul>
+							<li>詳しくはこちら</li>
+						</ul>
+					</a>
+				</div>
+				<div class="item01">
+					<a href="/medical/">
+						<div class="img"><img src="/images/index/img_03.jpg" width="296" height="182" alt="歯の治療について" /></div>
+						<h3>歯の治療について</h3>
+					</a>
+					<ul>
+						<li class="separate"><a href="/medical/#ippan">一般歯科について</a></li>
+						<li><a href="/medical/#kyosei">矯正歯科について</a></li>
+					</ul>
+				</div>
+				<div class="item02">
+					<a href="/uninsured/">
+						<div class="img"><img src="/images/index/img_04.jpg" width="296" height="182" alt="保険外治療について" /></div>
+						<h3>保険外治療について</h3>
+						<ul>
+							<li>詳しくはこちら</li>
+						</ul>
+					</a>
+				</div>
+			</div>
+		</div>
+		
+		<div id="newsArea">
+		
+					<div class="news">
+				<h3 class="tit"><a href="/news/"><img src="/images/index/txt_02.png" width="25" height="139" alt="お知らせ" /></a></h3>
+				<table class="tbl">
+										<tbody><tr>
+						<th scope="row">2017年04月27日</th>
+						<td><a href="http://cloud-dental-clinic.com/news/2017%e5%b9%b4%e3%80%80%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%87%e3%83%b3%e3%82%a6%e3%82%a3%e3%83%bc%e3%82%af%e3%81%ae%e8%a8%ba%e7%99%82%e6%97%a5%e7%a8%8b/">2017年　ゴールデン<span style="letter-spacing:-0.1em">ウ</span><span style="letter-spacing:-0.1em">ィ</span>ークの診療日程<span class="iconNew"></span></a></td>
+					</tr>
+										<tr>
+						<th scope="row">2015年10月19日</th>
+						<td><a href="http://cloud-dental-clinic.com/news/114%e6%b0%b4%ef%bc%89%e3%80%80%e4%bc%91%e8%a8%ba%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/">11/4(水<span style="letter-spacing:-0.25em">）</span>　休診のお知らせ</a></td>
+					</tr>
+										<tr>
+						<th scope="row">2015年01月07日</th>
+						<td><a href="http://cloud-dental-clinic.com/news/%e3%81%82%e3%81%91%e3%81%be%e3%81%97%e3%81%a6%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99%e3%80%82/">あけましておめでとうございます<span style="letter-spacing:-0.25em">。</span></a></td>
+					</tr>
+										<tr>
+						<th scope="row">2014年12月05日</th>
+						<td><a href="http://cloud-dental-clinic.com/news/%e6%9d%a5%e5%b9%b4%e5%ba%a6%e3%81%8b%e3%82%89%e3%81%ae%e7%9f%af%e6%ad%a3%e6%97%a5%e3%81%ae%e5%a4%89%e6%9b%b4/">来年度からの矯正日の変更</a></td>
+					</tr>
+										<tr>
+						<th scope="row">2014年12月01日</th>
+						<td><a href="http://cloud-dental-clinic.com/news/%ef%bc%8a%e5%b9%b4%e6%9c%ab%e5%b9%b4%e5%a7%8b%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%ef%bc%8a/">＊年末年始のお知らせ＊</a></td>
+					</tr>
+									</tbody></table>
+			</div>
+						
+			<div class="bnr">
+				<span class="line svgAnime" id="svgKumo"><img src="/images/index/line_02.png" width="177" height="93" alt="" /></span>
+				<p class="svgAnime" id="svgEn" data-delay="400"><a href="/recruit/"><img src="/images/index/btn_01.png" width="145" height="145" alt="スタッフ募集" class="fade" /></a></p>
+			</div>
+	
+		</div>
+		
+		<div id="accessArea">
+			<div class="map"><div id="map_canvas"></div></div>
+			<div class="txt">
+				<span class="bg svgAnime" id="svgMap"><img src="/images/index/img_05.png" width="310" height="508" alt="" class="fade" /></span>
+				<h3 class="tit"><img src="/images/index/txt_03.png" width="21" height="99" alt="アクセス" /></h3>
+				<table class="tbl">
+					<tbody><tr>
+						<th scope="row" class="ls8">所在地</th>
+						<td>滋賀県近江八幡市中村町21-12 シオン1階</td>
+					</tr>
+					<tr>
+						<th scope="row">アクセス</th>
+						<td>JRびわこ線近江八幡駅 徒歩7分</td>
+					</tr>
+					<tr>
+						<th scope="row" class="ls8">駐車場</th>
+						<td>14台</td>
+					</tr>
+				</tbody></table>
+			</div>
+		</div>
+		
+		<div id="reservationArea">
+			
+			<div class="time">
+				<h3 class="tit">診療時間</h3>
+				<table class="tbl">
+					<thead>
+						<tr>
+							<th scope="col" class="alignLeft">時間</th>
+							<th scope="col">月</th>
+							<th scope="col">火</th>
+							<th scope="col">水</th>
+							<th scope="col">木</th>
+							<th scope="col">金</th>
+							<th scope="col">土</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th scope="row">9:00-12:00</th>
+							<td><span class="maru">○</span></td>
+							<td><span class="maru">○</span></td>
+							<td><span class="maru">○</span></td>
+							<td>休診日</td>
+							<td><span class="maru">○</span></td>
+							<td><span class="maru">○</span></td>
+						</tr>
+						<tr>
+							<th scope="row">14:30-19:00</th>
+							<td><span class="maru">○</span></td>
+							<td><span class="maru">○</span></td>
+							<td><span class="maru">○</span></td>
+							<td>休診日</td>
+							<td><span class="maru">○</span></td>
+							<td>13:00-16:00</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			
+			<div class="reservation">
+				<h3 class="tit">ご予約</h3>
+				<div class="telWrap">
+					<p class="tel">0748-33-1100</p>
+				</div>
+				<ul class="txt">
+					<li>※予約制です<span style="letter-spacing:-0.25em">。</span>お電話にて予約してください<span style="letter-spacing:-0.25em">。</span></li>
+					<li>※受付時間は終了時間の30分前までです<span style="letter-spacing:-0.25em">。</span></li>
+				</ul>
+				<div class="urlWrap">
+					<p class="url">
+						<a href="http://www.e8148.net/cloud/" target="_blank">
+							<span class="urlInner">
+								<span class="name">インター<span style="letter-spacing:-0.05em">ネ</span><span style="letter-spacing:-0.075em">ッ</span>ト予約</span>
+								<span class="address">http://www.e8148.net/cloud/</span>
+							</span>
+						</a>
+					</p>
+				</div>
+				<ul class="txt">
+					<li>※パソコ<span style="letter-spacing:-0.25em">ン</span><span style="letter-spacing:-0.25em">・</span>携帯電<span style="letter-spacing:-0.25em">話</span><span style="letter-spacing:-0.25em">・</span>スマートフォン共通のアドレスです<span style="letter-spacing:-0.25em">。</span></li>
+					<li>※ご予約の登<span style="letter-spacing:-0.25em">録</span><span style="letter-spacing:-0.25em">・</span>確<span style="letter-spacing:-0.25em">認</span><span style="letter-spacing:-0.25em">・</span>変更等が行えます<span style="letter-spacing:-0.25em">。</span></li>
+					<li>※メールアドレスの登<span style="letter-spacing:-0.25em">録</span><span style="letter-spacing:-0.25em">・</span>変更等もこちらから行えます<span style="letter-spacing:-0.25em">。</span></li>
+				</ul>
+			</div>
+			
+		</div>
+	
+	</article>	
+	
+		
+	<footer id="footerArea">
+		<div class="footerInner">
+			<dl class="item00">
+				<dt>クラウド歯科</dt>
+				<dd>滋賀県近江八幡市中村町21-12　シオン1階</dd>
+				<dd>電話 0748-33-1100　FAX 0748-36-7757</dd>
+			</dl>
+			<table class="item01">
+				<tbody><tr>
+					<th scope="col"><span style="letter-spacing:-0.25em">月</span><span style="letter-spacing:-0.25em">・</span><span style="letter-spacing:-0.25em">火</span><span style="letter-spacing:-0.25em">・</span><span style="letter-spacing:-0.25em">水</span><span style="letter-spacing:-0.25em">・</span>金</th>
+					<th scope="col">9:00-12:00 / 14:30-19:00</th>
+				</tr>
+				<tr>
+					<th scope="row">土</th>
+					<td>9:00-12:00 / 13:00-16:00</td>
+				</tr>
+				<tr>
+					<th scope="row">休診日</th>
+					<td>日曜日<span style="letter-spacing:-0.25em">、</span>祝日<span style="letter-spacing:-0.25em">、</span>木曜</td>
+				</tr>
+			</tbody></table>
+			<div class="item02"><a href="/plus/" target="_blank"><img src="/images/common/bnr_01.png" width="296" height="96" alt="五感で満足する治療。クラウド歯科プラス CLOUD DENTAL CLINIC PLUS" /></a></div>
+			<nav class="item03">
+				<ul>
+					<li><a href="/">ホーム</a></li>
+					<li><a href="/about/">クラウド歯科について</a></li>
+					<li><a href="/medical/">歯の治療について</a></li>
+					<li><a href="/uninsured/">保険外治療について</a></li>
+					<li><a href="/qa/">よくあるご質問</a></li>
+					<li><a href="/recruit/">ス<span style="letter-spacing:-0.05em">タ</span><span style="letter-spacing:-0.075em">ッ</span>フ募集</a></li>
+					<li><a href="/news/">お知らせ</a></li>
+					<li><a href="/access/">アクセス</a></li>
+					<li class="lastChild"><a href="/reservation/">ご予約</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="pagetop out"><a href="#top" class="hash">PAGE TOP</a></div>
+		<div class="copyright">©2014 Cloud Dental Clinic All Rights Reserved.</div>
+	</footer>
+</div>
+
+</body></html>

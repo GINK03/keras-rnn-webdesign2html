@@ -1,0 +1,331 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="ja"><head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="content-style-type" content="text/css" />
+	<meta http-equiv="content-script-type" content="text/javascript" />
+	<meta name="robots" content="index, follow" />
+	<title>リクルート|小倉記念病院</title>
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<meta name="copyright" content="" />
+	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta property="og:type" content="article" />
+	<meta property="og:description" content="小倉記念病院は、高い専門性・緊急性のある診療、手術を要する医療を提供することが、ここ福岡・北九州（小倉）地域の住民・患者の皆様への役割と考えています。地域の医療施設が役割分担し、協力して医療を完結する「地域完結型医療」を目指します。" />
+	<meta property="og:title" content="患者さんの幸せと地域医療を支える｜小倉記念病院" />
+	<meta property="og:url" content="http://www.kokurakinen.or.jp/" />
+	<meta property="og:image" content="http://www.kokurakinen.or.jp/images/ogimage.jpg" />
+	<meta property="og:site_name" content="小倉記念病院" />
+	<link rel="stylesheet" href="../common/css/recruit-top.min.css" />
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/common/js/jquery-1.11.1.min.js"></script>
+<!--[if lt IE 9]>
+	<script src="../common/js/html5shiv.js"></script>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<script src="../common/js/jquery.belatedPNG.min.js"></script>
+	<script src="../common/js/jquery.backgroundSize.js"></script>
+	<script src="../common/js/rem.min.js"></script>
+<![endif]-->
+</head>
+
+<body>
+
+<header>
+	<div id="siteLogo"><a href="/"><img src="/common/images/logo.png" alt="" /></a></div>
+	<div id="headerBtnArea">
+		<p id="shareBtn" class="headerBtn"><a href=""><img src="/recruit/images/img_share.png" alt="Share" /></a></p>
+		<p id="facebookBtn" class="headerBtn"><a href="https://www.facebook.com/pages/小倉記念病院/703019479789510" target="_blank"><img src="/images/btn_facebook.png" alt="Facebook" /></a></p>
+	</div>
+	<img src="./images/img_main.jpg" alt="" />
+	<nav id="globalNavi">
+		<ul>
+			<li class="menu01"><a href="/recruit/">TOP</a></li>
+			<li class="menu02"><a href="/recruit/concept/">採用コンセプト</a></li>
+			<li class="menu03"><a href="/recruit/stage/">働く舞台を知る</a></li>
+			<li class="menu04"><a href="/recruit/saiyo/">採用を知る</a></li>
+			<li class="menu05"><a href="/recruit/event/">イベントを知る</a></li>
+			<li class="menu06"><a href="/recruit/fukurikosei/">福利厚生を知る</a></li>
+		</ul>
+	</nav>
+<p id="fzSwitch"><a href="#">文字サイズ　拡大</a></p></header>
+
+<div id="contents">
+	<section id="main">
+		<div id="localMenu">
+			<ul class="threeColumn mb2">
+				<li class="bgPink" data-count="784">
+					<a href="/recruit/kango-bu/">
+						<p class="title">看護部</p>
+						<p class="portrait">
+							<img src="./images/img_kangobu.jpg" alt="看護部" />
+						</p>
+						<div class="count" style="width: 96px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_7.png" /><img class="numShadow" src="/common/images/ico_num_7_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_8.png" /><img class="numShadow" src="/common/images/ico_num_8_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_4.png" /><img class="numShadow" src="/common/images/ico_num_4_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgBlue" data-count="10">
+					<a href="/recruit/syoki_kensyui/">
+						<p class="title">初期臨床研修医</p>
+						<p class="portrait">
+							<img src="./images/img_shokirinshou.jpg" alt="初期臨床研修医" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_1.png" /><img class="numShadow" src="/common/images/ico_num_1_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_0.png" /><img class="numShadow" src="/common/images/ico_num_0_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgYellow" data-count="12">
+					<a href="/recruit/kouki_kensyui/">
+						<p class="title">後期臨床研修医</p>
+						<p class="portrait">
+							<img src="./images/img_koukirinshou.jpg" alt="後期臨床研修医" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_1.png" /><img class="numShadow" src="/common/images/ico_num_1_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_2.png" /><img class="numShadow" src="/common/images/ico_num_2_shadow.png" /></div></div>
+					</a>
+				</li>
+			</ul>
+			<ul class="fourColumn mb2">
+				<li class="bgYellowgreen" data-count="39">
+					<a href="/recruit/junkanki_syureni/">
+						<p class="title">循環器内科修練医</p>
+						<p class="portrait">
+							<img src="./images/img_junkan.jpg" alt="循環器内科修練医" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_3.png" /><img class="numShadow" src="/common/images/ico_num_3_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_9.png" /><img class="numShadow" src="/common/images/ico_num_9_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgBlue" data-count="39">
+					<a href="/recruit/fuseimyaku_syureni/">
+						<p class="title">不整脈専門修練医</p>
+						<p class="portrait">
+							<img src="./images/img_fuseimyaku.jpg" alt="不整脈専門修練医" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_3.png" /><img class="numShadow" src="/common/images/ico_num_3_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_9.png" /><img class="numShadow" src="/common/images/ico_num_9_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgYellow" data-count="39">
+					<a href="/recruit/kekkanintervention_syureni/">
+						<p class="title doubleLine"><span class="fz8">末梢血管インターベンション</span><br />専門修練医</p>
+						<p class="portrait">
+							<img src="./images/img_kekkanintervention.jpg" alt="末梢血管インターベンション専門修練医" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_3.png" /><img class="numShadow" src="/common/images/ico_num_3_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_9.png" /><img class="numShadow" src="/common/images/ico_num_9_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgBeige" data-count="39">
+					<a href="/recruit/shd-course/shidoi/">
+						<p class="title doubleLine"><span class="fz8">Structural Heart Disease Course</span><br />専門修練医</p>
+						<p class="portrait">
+							<img src="./images/img_senmon.jpg" alt="専門修練医" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_3.png" /><img class="numShadow" src="/common/images/ico_num_3_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_9.png" /><img class="numShadow" src="/common/images/ico_num_9_shadow.png" /></div></div>
+					</a>
+				</li>
+			</ul>
+			<ul class="sixColumn">
+				<li class="bgLightblue" data-count="08">
+					<a href="/recruit/shinzoukekkangeka/">
+						<p class="title">心臓血管外科医</p>
+						<p class="portrait">
+							<img src="./images/img_shinzoukekkangeka.jpg" alt="心臓血管外科医" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_0.png" /><img class="numShadow" src="/common/images/ico_num_0_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_8.png" /><img class="numShadow" src="/common/images/ico_num_8_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgPalegreen" data-count="16">
+					<a href="/recruit/masuikai_ishi/">
+						<p class="title">麻酔科医</p>
+						<p class="portrait">
+							<img src="./images/img_masui.jpg" alt="麻酔科医" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_1.png" /><img class="numShadow" src="/common/images/ico_num_1_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_6.png" /><img class="numShadow" src="/common/images/ico_num_6_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgBeige" data-count="09">
+					<a href="/recruit/shoukaki-naikai_ishi/">
+						<p class="title">消化器内科医</p>
+						<p class="portrait">
+							<img src="./images/img_shoukaki.jpg" alt="消化器内科医" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_0.png" /><img class="numShadow" src="/common/images/ico_num_0_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_9.png" /><img class="numShadow" src="/common/images/ico_num_9_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgOrange" data-count="03">
+					<a href="/recruit/ketsueki-naikai/">
+						<p class="title">血液内科医</p>
+						<p class="portrait">
+							<img src="./images/img_ketsuekinaikai.jpg" alt="血液内科医" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_0.png" /><img class="numShadow" src="/common/images/ico_num_0_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_3.png" /><img class="numShadow" src="/common/images/ico_num_3_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgLightblue" data-count="34">
+					<a href="/recruit/yakuzaishi/">
+						<p class="title">薬剤師</p>
+						<p class="portrait">
+							<img src="./images/img_yakuzaishi.jpg" alt="薬剤師" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_3.png" /><img class="numShadow" src="/common/images/ico_num_3_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_4.png" /><img class="numShadow" src="/common/images/ico_num_4_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgPurple" data-count="41">
+					<a href="/recruit/hosyasen-gishi/">
+						<p class="title">放射線技師</p>
+						<p class="portrait">
+							<img src="./images/img_housyasen.jpg" alt="放射線技師" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_4.png" /><img class="numShadow" src="/common/images/ico_num_4_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_1.png" /><img class="numShadow" src="/common/images/ico_num_1_shadow.png" /></div></div>
+					</a>
+				</li>
+			</ul>
+			<ul class="sixColumn">
+				<li class="bgOrange" data-count="63">
+					<a href="/recruit/kensa-gishi/">
+						<p class="title">臨床検査技師</p>
+						<p class="portrait">
+							<img src="./images/img_kensagishi.jpg" alt="臨床検査技師" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_6.png" /><img class="numShadow" src="/common/images/ico_num_6_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_3.png" /><img class="numShadow" src="/common/images/ico_num_3_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgOrange" data-count="19">
+					<a href="/recruit/kogaku-gishi/">
+						<p class="title">臨床工学技士</p>
+						<p class="portrait">
+							<img src="./images/img_kougakugishi.jpg" alt="臨床工学技士" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_1.png" /><img class="numShadow" src="/common/images/ico_num_1_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_9.png" /><img class="numShadow" src="/common/images/ico_num_9_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgDarkblue" data-count="18">
+					<a href="/recruit/rigakuryohoshi/">
+						<p class="title">理学療法士</p>
+						<p class="portrait">
+							<img src="./images/img_rigakuryouhoushi.jpg" alt="理学療法士" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_1.png" /><img class="numShadow" src="/common/images/ico_num_1_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_8.png" /><img class="numShadow" src="/common/images/ico_num_8_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgPurple" data-count="06">
+					<a href="/recruit/sagyoryohoshi/">
+						<p class="title">作業療法士</p>
+						<p class="portrait">
+							<img src="./images/img_sagyouryouhoushi.jpg" alt="作業療法士" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_0.png" /><img class="numShadow" src="/common/images/ico_num_0_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_6.png" /><img class="numShadow" src="/common/images/ico_num_6_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgYellowgreen" data-count="03">
+					<a href="/recruit/gengochokakushi/">
+						<p class="title">言語聴覚士</p>
+						<p class="portrait">
+							<img src="./images/img_gengochoukakushi.jpg" alt="言語聴覚士" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_0.png" /><img class="numShadow" src="/common/images/ico_num_0_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_3.png" /><img class="numShadow" src="/common/images/ico_num_3_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgPink" data-count="07">
+					<a href="/recruit/kanri-eiyoshi/">
+						<p class="title">管理栄養士</p>
+						<p class="portrait">
+							<img src="./images/img_kanrieiyoushi.jpg" alt="管理栄養士" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_0.png" /><img class="numShadow" src="/common/images/ico_num_0_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_7.png" /><img class="numShadow" src="/common/images/ico_num_7_shadow.png" /></div></div>
+					</a>
+				</li>
+			</ul>
+			<ul class="sixColumn">
+				<li class="bgPalegreen" data-count="29">
+					<a href="/recruit/eiyoshi/">
+						<p class="title">栄養士・調理師</p>
+						<p class="portrait">
+							<img src="./images/img_eiyoushi.jpg" alt="栄養士・調理師" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_2.png" /><img class="numShadow" src="/common/images/ico_num_2_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_9.png" /><img class="numShadow" src="/common/images/ico_num_9_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgLightblue" data-count="03">
+					<a href="/recruit/chiken-coordinator_01/">
+						<p class="title ls">治験コーディネーター</p>
+						<p class="portrait">
+							<img src="./images/img_chiken.jpg" alt="治験コーディネーター" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_0.png" /><img class="numShadow" src="/common/images/ico_num_0_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_3.png" /><img class="numShadow" src="/common/images/ico_num_3_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgYellow" data-count="04">
+					<a href="/recruit/shino-kunrenshi/">
+						<p class="title">視能訓練士</p>
+						<p class="portrait">
+							<img src="./images/img_shinoukunren.jpg" alt="視能訓練士" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_0.png" /><img class="numShadow" src="/common/images/ico_num_0_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_4.png" /><img class="numShadow" src="/common/images/ico_num_4_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgBeige" data-count="05">
+					<a href="/recruit/socialworker/">
+						<p class="title">ソーシャルワーカー</p>
+						<p class="portrait">
+							<img src="./images/img_socialworker.jpg" alt="ソーシャルワーカー" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_0.png" /><img class="numShadow" src="/common/images/ico_num_0_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_5.png" /><img class="numShadow" src="/common/images/ico_num_5_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgPink" data-count="57">
+					<a href="/recruit/kangojyosyu/">
+						<p class="title">看護助手</p>
+						<p class="portrait">
+							<img src="./images/img_kangojoshu.jpg" alt="看護助手" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_5.png" /><img class="numShadow" src="/common/images/ico_num_5_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_7.png" /><img class="numShadow" src="/common/images/ico_num_7_shadow.png" /></div></div>
+					</a>
+				</li>
+				<li class="bgLightblue" data-count="04">
+					<a href="/recruit/hokenshi/">
+						<p class="title">保健師</p>
+						<p class="portrait">
+							<img src="./images/img_hokenshi.jpg" alt="保健師" />
+						</p>
+						<div class="count" style="width: 64px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_0.png" /><img class="numShadow" src="/common/images/ico_num_0_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_4.png" /><img class="numShadow" src="/common/images/ico_num_4_shadow.png" /></div></div>
+					</a>
+				</li>
+			</ul>
+			<ul class="sixColumn mod">
+				<li class="bgPaleblue" data-count="113">
+					<a href="/recruit/management-staff/">
+						<p class="title">事務部</p>
+						<p class="portrait">
+							<img src="./images/img_jimubu.jpg" alt="事務部" />
+						</p>
+						<div class="count" style="width: 96px;"><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_1.png" /><img class="numShadow" src="/common/images/ico_num_1_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_1.png" /><img class="numShadow" src="/common/images/ico_num_1_shadow.png" /></div><div class="numInner" style="width: 32px;"><img class="numOutline" src="/common/images/ico_num_3.png" /><img class="numShadow" src="/common/images/ico_num_3_shadow.png" /></div></div>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</section><!--/ #main -->
+</div><!--/ #contents -->
+
+<footer>
+	<div class="inner">
+		<div id="footerMenu">
+			<ul>
+				<li><a href="../privacy/">個人情報保護方針</a></li>
+				<li><a href="../sitemap/">サイトマップ</a></li>
+				<li><a href="http://www.shisenkai.jp/" target="_blank">一般財団法人 平成紫川会</a></li>
+				<li><a href="../gallery/" target="_blank">フォトギャラリー</a></li>
+				<li><a href="/common/pdf/fb_unyou.pdf" target="_blank">Facebook運用ポリシー</a></li>
+			</ul>
+		</div>
+		<p id="copyright">Copyright © 2014Kokura Kinen Hospital All rights reserved. </p>
+	</div>
+</footer>
+
+<script src="../common/js/share.js"></script>
+<script src="../common/js/recruit.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-55024782-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+
+</body></html>

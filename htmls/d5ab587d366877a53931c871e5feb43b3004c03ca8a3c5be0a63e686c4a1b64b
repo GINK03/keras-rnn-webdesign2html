@@ -1,0 +1,235 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta charset="UTF-8" />
+<title>松山市六軒家のひなた歯科クリニック</title>
+<meta name="description" content="一般歯科、小児歯科、歯周病治療、ホワイトニングのひなた歯科クリニック（愛媛県松山市六軒家）笑顔で通院できるクリニックを目指して診療しています。" />
+<meta name="Keywords" content="ひなた歯科,歯医者,デンタルクリニック,松山,愛媛,愛媛県松山市六軒家町" />
+<meta property="og:title" content="ひなた歯科クリニック" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://hinata-dental.net/" />
+<meta property="og:image" content="http://hinata-dental.net/img/ogp.jpg" />
+<meta property="og:description" content="一般歯科、小児歯科、歯周病治療、ホワイトニングのひなた歯科クリニック（愛媛県松山市六軒家）笑顔で通院できるクリニックを目指して診療しています。どうぞ宜しくお願いします。" />
+<meta name="author" content="ひなた歯科クリニック" />
+<meta name="copyright" content="Copyright (C) HINATA DENTAL CLINIC. All Rights Reserved." />
+
+<link rel="shortcut icon" href="/img/favicon.ico" />
+<link href="css/common.css" rel="stylesheet" type="text/css" />
+<link href="css/animate.css" rel="stylesheet" type="text/css" />
+<link href="css/scroll.css" rel="stylesheet" type="text/css" />
+<script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/ja_JP/sdk.js#xfbml=1&amp;appId=1484433355165658&amp;version=v2.0"></script><script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/wow.js"></script>
+<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
+<script type="text/javascript" src="js/jquery.jscrollpane.min.js"></script>
+<script type="text/javascript" src="js/jquery.bgswitcher.js"></script>
+<script type="text/javascript" src="js/free.js"></script>
+
+<script type="text/javascript" charset="utf-8" async="" src="https://platform.twitter.com/js/button.5f64a1a5864e1229f84c8defd65341b4.js"></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, "hiragino kaku gothic pro",meiryo,"ms pgothic",sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset&gt;div{overflow:hidden}.fb_link img{border:none}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_loader{background-color:#f6f7f9;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title&gt;span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29487d;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f9;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}
+.fb_customer_chat_bounce_in{animation-duration:250ms;animation-name:fb_bounce_in}.fb_customer_chat_bounce_out{animation-duration:250ms;animation-name:fb_fade_out}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}.fb_mobile_overlay_active{height:100%;overflow:hidden;position:fixed;width:100%}@keyframes fb_fade_out{from{opacity:1}to{opacity:0}}@keyframes fb_bounce_in{0%{opacity:0;transform:scale(.8, .8);transform-origin:100% 100%}10%{opacity:.1}20%{opacity:.2}30%{opacity:.3}40%{opacity:.4}50%{opacity:.5}60%{opacity:.6}70%{opacity:.7}80%{opacity:.8;transform:scale(1.03, 1.03)}90{opacity:.9}100%{opacity:1;transform:scale(1, 1)}}</style></head><body id="pagetop" class="top" style="background-position: center top;"><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_http" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_http" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="http://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#channel=f2055e8c19a79bc&amp;origin=http%3A%2F%2Fhinata-dental.net" style="border: none;"></iframe><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#channel=f2055e8c19a79bc&amp;origin=http%3A%2F%2Fhinata-dental.net" style="border: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&amp;appId=1484433355165658&amp;version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<!--[if !IE]>-->
+<script type="text/javascript" src="js/free.js"></script>
+<!--<![endif]-->
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!--[if gt IE 8]>
+<script type="text/javascript">
+if(!navigator.userAgent.match(/(iPhone|android|iPad)/)){
+new WOW().init();
+}
+</script>
+<![endif]-->
+<!--[if !IE]> -->
+<script type="text/javascript">
+if(!navigator.userAgent.match(/(iPhone|android|iPad)/)){
+new WOW().init();
+}
+</script>
+<!-- <![endif]-->
+
+<script type="text/javascript">
+$(function(){
+$('.news').jScrollPane();
+});
+    
+  
+</script>
+
+
+
+
+
+
+
+
+<div class="netyoyaku">
+<p style="right:0"><a href="https://ssl.haisha-yoyaku.jp/x7946996/login/serviceAppoint/index?SITE_CODE=hp" target="_blank">ネットで予約</a></p>
+</div>
+
+
+<div id="target"></div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-55726181-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+
+<article class="headaddress">
+<address>
+<p class="close"><img src="img/close.png" alt="閉じる" /></p>
+<div class="addresstxt">
+<a href="/access/index.html#map">〒791-8021 愛媛県松山市六軒家町<br />4-16T.Sビル2F（旧猿渡歯科跡）</a>
+</div>
+</address>
+<p class="shopinfo  wow bounceInDown" data-wow-duration="0.4s" data-wow-delay="1.8s" style="visibility: visible; animation-duration: 0.4s; animation-delay: 1.8s; animation-name: bounceInDown;"><img src="img/shopinfo.png" alt="" class="shopicon" /></p>
+</article>
+
+<header class="header">
+<h1><img src="img/logo.png" alt="ひなた歯科クリニック" /></h1>
+<address class="headtel"><p><img src="img/tel_head.png" alt="089-922-6600　ご予約やお問い合わせはこちらから" /></p></address>
+</header>
+
+<section class="topmainimg">  
+<div class="circlewrap">
+<div class="circle wow fadeIn" data-wow-duration="1.5s" data-wow-delay="1" style="visibility: visible; animation-duration: 1.5s; animation-name: fadeIn;">
+<p class="top_copy wow fadeIn" data-wow-duration="1.0s" data-wow-delay="4.3" style="visibility: visible; animation-duration: 1s; animation-name: fadeIn;"><img src="img/top_copy.png" alt="" /></p>
+<h2 class="wow fadeIn" data-wow-duration="1.0s" data-wow-delay="4.3" style="visibility: visible; animation-duration: 1s; animation-name: fadeIn;">当院では、治療前に患者様のお話を<br />
+十分に伺い安心して治療が受けられるような<br />
+雰囲気づくりを心掛け患者様ひとりひとり、<br />
+１本１本の歯を大切に診療します。<br />
+</h2>
+</div>
+</div>
+<div class="topmain">
+<div class="topmainwrap">
+ <p class="kira1 wow rotateIn animated" data-wow-duration="0.8s" data-wow-delay="2s" data-wow-iteration="6" style="visibility: visible; animation-duration: 0.8s; animation-delay: 2s; animation-iteration-count: 6; animation-name: rotateIn;"><img src="img/top_illust_kira1.png" alt="" /></p>
+ <p class="kira2 wow rotateIn animated" data-wow-duration="0.8s" data-wow-delay="2.3s" data-wow-iteration="6" style="visibility: visible; animation-duration: 0.8s; animation-delay: 2.3s; animation-iteration-count: 6; animation-name: rotateIn;"><img src="img/top_illust_kira2.png" alt="" /></p>
+ <p class="kira3 wow rotateIn animated" data-wow-duration="0.8s" data-wow-delay="2.5s" data-wow-iteration="6" style="visibility: visible; animation-duration: 0.8s; animation-delay: 2.5s; animation-iteration-count: 6; animation-name: rotateIn;"><img src="img/top_illust_kira2.png" alt="" /></p>
+ <p class="kira4 wow rotateIn animated" data-wow-duration="0.8s" data-wow-delay="2.6s" data-wow-iteration="6" style="visibility: visible; animation-duration: 0.8s; animation-delay: 2.6s; animation-iteration-count: 6; animation-name: rotateIn;"><img src="img/top_illust_kira3.png" alt="" /></p>
+ <p class="kira5 wow rotateIn animated" data-wow-duration="0.8s" data-wow-delay="2.7s" data-wow-iteration="6" style="visibility: visible; animation-duration: 0.8s; animation-delay: 2.7s; animation-iteration-count: 6; animation-name: rotateIn;"><img src="img/top_illust_kira3.png" alt="" /></p>
+ <p class="kira6 wow rotateIn animated" data-wow-duration="0.8s" data-wow-delay="2.9s" data-wow-iteration="6" style="visibility: visible; animation-duration: 0.8s; animation-delay: 2.9s; animation-iteration-count: 6; animation-name: rotateIn;"><img src="img/top_illust_kira3.png" alt="" /></p> 
+<p class="top_illust1 wow bounceInLeft" data-wow-duration="0.6s" data-wow-delay="1.3s" style="visibility: visible; animation-duration: 0.6s; animation-delay: 1.3s; animation-name: bounceInLeft;"><img src="img/top_illust_1.png" alt="" /></p>
+<p class="top_illust2 wow bounceInRight" data-wow-duration="0.6s" data-wow-delay="1.5s" style="visibility: visible; animation-duration: 0.6s; animation-delay: 1.5s; animation-name: bounceInRight;"><img src="img/top_illust_2.png" alt="" /></p>
+</div>
+</div>
+</section> 
+
+
+
+<section class="topmainimg2">  
+<div class="circlewrap">
+<div class="circle">
+<p class="top_copy wow animated" style="visibility: visible;"><img src="img/top_copy.png" alt="" /></p>
+<h2>当院では、治療前に患者様のお話を<br />
+十分に伺い安心して治療が受けられるような<br />
+雰囲気づくりを心掛け患者様ひとりひとり、<br />
+１本１本の歯を大切に診療します。<br />
+</h2>
+</div>
+</div>
+<div class="topmain">
+</div>
+</section> 
+
+
+
+
+
+
+
+
+
+
+<nav class="mainnav">
+<ul>
+<li class="m1"><a href="/greetings/"><img src="img/menu_1_off.gif" alt="院長挨拶" /></a></li>
+<li class="m2"><a href="/dentistry/"><img src="img/menu_2_off.gif" alt="診療のご案内" /></a></li>
+<li class="m3"><a href="/introduction/"><img src="img/menu_3_off.gif" alt="施設・設備紹介" /></a></li>
+<li class="m4"><a href="/access/"><img src="img/menu_4_off.gif" alt="アクセス" /></a></li>
+</ul>
+</nav>
+
+<div class="wrapper">
+
+<section class="left">
+   <p><img src="img/newstit.png" alt="ひなた歯科NEWS" /></p>
+    <div class="news jspScrollable" tabindex="0" style="overflow: hidden; padding: 0px; width: 623px;">
+        
+    <div class="jspContainer" style="width: 623px; height: 342px;"><div class="jspPane" style="padding: 0px; width: 609px; top: 0px;"><dl>
+           <!-- ▼▼▼▼▼▼▼▼▼▼▼▼ここからNEWS内容▼▼▼▼▼▼▼▼▼▼▼▼ -->
+  <dt class="nob"><span>2017.12.15</span></dt>
+           <dd class="nob">年末は12/29(金)午前中(9:00～12:30)まで診療。<br />年始は1/5(金)より診療いたします。<br />
+</dd><dt class="yellow"><span>2017.08.06</span></dt>
+           <dd>8/11(金)～8/16(水)はお盆休みの為休診いたします。<br />
+</dd><dt><span>2017.02.05</span></dt>
+           <dd>2/8(水)午後から2/11(土)まで研修の為休診いたします。<br />
+</dd><dt class="yellow"><span>2016.9.6</span></dt>
+           <dd>9月17日(土)は院長研修の為、休診いたします。<br />
+なお、9月15日(木)は診療いたします。</dd><dt><span>2016.8.7</span></dt>
+            <dd>8/11～15(木・金・土・日・月)はお盆休みの為休診いたします。<br />
+なお、8月18日(木)は診療いたします。
+</dd><dt class="yellow"><span>2016.4.29</span></dt>
+            <dd>GW中はカレンダー通りの診療です。<br />4/30（土）5/2（月）は通常通り診療いたします。
+            </dd><dt><span>2015.12.14</span></dt>
+            <dd>年末は12/30(水)午前中(9:00～12:30)まで診療。<br />年始は1/5(火)より診療いたします。</dd><dt class="yellow"><span>2015.11.19</span></dt>
+            <dd>研修会の為、12/12（土）終日 臨時休診いたします。</dd>
+            <dt><span>2015.09.10</span></dt>
+            <dd>9/20～23（日・月・火・水）は休診いたします。なお9/24（木）は診療いたします。</dd>
+            <dt class="yellow"><span>2015.07.05</span></dt>
+            <dd>研修会の為、7/11（土）午後 臨時休診いたします。</dd>
+            <dt><span>2015.06.18</span></dt>
+            <dd>ホームページを公開しました。</dd>
+            
+            <dt class="yellow"></dt>
+            <dd></dd>
+            
+            <!-- ▼▼▼▼▼▼▼▼▼▼▼▼ここまでNEWS内容▼▼▼▼▼▼▼▼▼▼▼▼ -->
+        </dl></div><div class="jspVerticalBar"><div class="jspCap jspCapTop"></div><div class="jspTrack" style="height: 342px;"><div class="jspDrag" style="height: 147px;"><div class="jspDragTop"></div><div class="jspDragBottom"></div></div></div><div class="jspCap jspCapBottom"></div></div></div></div>
+    <!--
+    <p class="banner"><a href="dentistry/index.html#takuji"><img src="img/banner.jpg" alt="無料託児サービス（要予約）小さなお子様をお持ちの患者様でも安心"></a></p>
+    -->
+</section>
+
+<section class="right">
+    <p class="address"><a href="access/index.html#map">愛媛県松山市六軒家町<br />4-16T.Sビル2F（旧猿渡歯科跡）</a></p>
+</section>
+
+</div>
+
+<footer class="footer">
+<div class="footerwrap">
+
+<div id="sns_head">
+<p class="tw">
+<iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" title="Twitter Tweet Button" src="https://platform.twitter.com/widgets/tweet_button.36c0c29c73929bf937f4c70adb1a29e4.ja.html#dnt=true&amp;id=twitter-widget-0&amp;lang=ja&amp;original_referer=http%3A%2F%2Fhinata-dental.net%2F&amp;size=m&amp;text=%E4%B8%80%E8%88%AC%E6%AD%AF%E7%A7%91%E3%80%81%E5%B0%8F%E5%85%90%E6%AD%AF%E7%A7%91%E3%80%81%E6%AD%AF%E5%91%A8%E7%97%85%E6%B2%BB%E7%99%82%E3%80%81%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AE%E3%81%B2%E3%81%AA%E3%81%9F%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF%EF%BC%88%E6%84%9B%E5%AA%9B%E7%9C%8C%E6%9D%BE%E5%B1%B1%E5%B8%82%E5%85%AD%E8%BB%92%E5%AE%B6%EF%BC%89%E7%AC%91%E9%A1%94%E3%81%A7%E9%80%9A%E9%99%A2%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%E8%A8%BA%E7%99%82%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82&amp;time=1518320789879&amp;type=share&amp;url=http%3A%2F%2Fhinata-dental.net%2F" style="position: static; visibility: visible; width: 67px; height: 20px;"></iframe>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</p>
+<div class="fb-like fb fb_iframe_widget" data-href="http://hinata-dental.net/" data-width="130" data-layout="button" data-action="like" data-show-faces="false" data-share="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="action=like&amp;app_id=1484433355165658&amp;container_width=0&amp;href=http%3A%2F%2Fhinata-dental.net%2F&amp;layout=button&amp;locale=ja_JP&amp;sdk=joey&amp;share=true&amp;show_faces=false&amp;width=130"><span style="vertical-align: bottom; width: 107px; height: 20px;"><iframe name="f34307dbf0f014" width="130px" height="1000px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:like Facebook Social Plugin" src="https://www.facebook.com/v2.0/plugins/like.php?action=like&amp;app_id=1484433355165658&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FlY4eZXm_YWu.js%3Fversion%3D42%23cb%3Df27d55209fc8a0c%26domain%3Dhinata-dental.net%26origin%3Dhttp%253A%252F%252Fhinata-dental.net%252Ff2055e8c19a79bc%26relation%3Dparent.parent&amp;container_width=0&amp;href=http%3A%2F%2Fhinata-dental.net%2F&amp;layout=button&amp;locale=ja_JP&amp;sdk=joey&amp;share=true&amp;show_faces=false&amp;width=130" style="border: none; visibility: visible; width: 107px; height: 20px;" class=""></iframe></span></div>
+</div>
+
+<small>Copyright (c) 2015 Hinata Dental Clinic. All Rights reserved.</small>
+</div>
+</footer>
+
+<p class="pagetop" id="pagetopbtn" style="display: none;"><a href="#pagetop"><img src="img/pagetop_off.png" alt="ページトップへ" /></a></p>
+
+
+<iframe scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/widget_iframe.36c0c29c73929bf937f4c70adb1a29e4.html?origin=http%3A%2F%2Fhinata-dental.net" style="display: none;"></iframe><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe"></iframe></body></html>

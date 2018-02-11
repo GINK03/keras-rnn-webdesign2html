@@ -1,0 +1,326 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class="js localstorage canvas svgclippaths mediaqueries no-touchevents cssanimations csstransforms objectfit object-fit flexbox hasScrollbar" lang="ja" style=""><head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <title>TOPページ | 株式会社パレンテ</title>
+        <meta name="description" content="株式会社パレンテは、コンタクトレンズのネットショップ運営を軸とし、商品の仕入れから企画、サイト製作及びシステム開発、サポート、配送までを自社一貫でご提供できることを強みとしています。" />
+        <meta name="keywords" content="株式会社パレンテ, パレンテ, parente, パレンテ コンタクト" />
+        <meta name="viewport" content="width=device-width" />
+        <link rel="stylesheet" href="/css/normalize.min.css" />
+        <link rel="stylesheet" href="/css/common.css" />
+        <link rel="stylesheet" href="/css/main.css" />
+        <link rel="stylesheet" href="/css/home.css" />
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/vendor/modernizr.min.js"></script>
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-24476891-12', 'parente.jp');
+			ga('send', 'pageview');
+		</script>
+    </head>
+    <body data-page="home" class="loaded">
+        <div id="overlay"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" class="loader"><path d="M22 41c-10.5 0-19-8.5-19-19s8.5-19 19-19 19 8.5 19 19-8.5 19-19 19"/></svg></div>
+        <div id="wrapper">
+            <header id="header" class="main"><!-- header.html -->
+    <h1 class="header_logo"><a href="/"><img src="/img/common/logo.png" alt="Parente" width="88" height="32" /></a></h1>
+    <nav class="header_nav">
+        <ul class="nav-list">
+            <li class="nav-item nav_0"><a href="/">TOP</a></li>
+            <li class="nav-item nav_1"><a href="/vision.html">企業方針</a>
+                <ul class="sub-nav-list">
+                    <li class="sub-nav-item nav_1_0"><a href="/vision.html">企業理念</a></li>
+                    <li class="sub-nav-item nav_1_1"><a href="/action.html">私たちの姿勢</a></li>
+                </ul>
+            </li>
+            <li class="nav-item nav_2"><a href="/service.html">事業紹介</a>
+                <ul class="sub-nav-list">
+                    <li class="sub-nav-item nav_2_0"><a href="/service.html">事業一覧</a></li>
+                    <li class="sub-nav-item nav_2_1"><a href="/ec.html">EC事業</a></li>
+                    <li class="sub-nav-item nav_2_2"><a href="/spa.html">SPA事業</a></li>
+                    <li class="sub-nav-item nav_2_3"><a href="/web.html">WEBサービス事業</a></li>
+                </ul>
+            </li>
+            <li class="nav-item nav_3"><a href="/company.html">企業情報</a>
+                <ul class="sub-nav-list">
+                    <li class="sub-nav-item nav_3_0"><a href="/company.html">会社概要</a></li>
+                    <li class="sub-nav-item nav_3_1"><a href="/greeting.html">社長挨拶</a></li>
+                    <li class="sub-nav-item nav_3_2"><a href="/performance.html">企業実績</a></li>
+                    <li class="sub-nav-item nav_3_3"><a href="/csr.html">CSR活動</a></li>
+                </ul>
+            </li>
+            <li class="nav-item nav_4"><a href="/recruit.html">採用情報</a></li>
+            <li class="nav-item nav_5"><a href="#news-section">ニュースリリース</a></li>
+            <li class="nav-item nav_6"><a href="/contact.html">お問い合わせ</a></li>
+        </ul>
+    </nav>
+    <a id="nav-toggle"><div class="bar"><span></span></div>menu</a>
+</header>
+
+            <main id="main">
+                <div class="alphabet pc-only">
+                    <img src="/img/alphabet_p.png" alt="P" width="170" height="240" class="alphabet_01_p" data-prlx="2" style="transform: translateY(-17.67px);" />
+                    <img src="/img/alphabet_a.png" alt="A" width="209" height="240" class="alphabet_02_a" data-prlx="2" style="transform: translateY(-4.69px);" />
+                    <img src="/img/alphabet_r.png" alt="R" width="167" height="240" class="alphabet_03_r" data-prlx="2" style="transform: translateY(-0.71px);" />
+                    <img src="/img/alphabet_e.png" alt="E" width="167" height="240" class="alphabet_04_e" data-prlx="2" style="transform: translateY(7.02px);" />
+                    <img src="/img/alphabet_n.png" alt="N" width="210" height="240" class="alphabet_05_n" data-prlx="2" style="transform: translateY(43.15px);" />
+                    <img src="/img/alphabet_t.png" alt="T" width="178" height="240" class="alphabet_06_t" data-prlx="2" style="transform: translateY(68.97px);" />
+                    <img src="/img/alphabet_e.png" alt="E" width="167" height="240" class="alphabet_07_e" data-prlx="2" style="transform: translateY(64.4px);" />
+                </div>
+                <div id="visual" class="home-visual">
+                    <h1 class="visual_title">Be free to <span class="accent">choose</span></h1>
+                    <h2 class="visual_lead">選択できる豊かさを。</h2>
+                    <a href="#philosophy-section" class="visual_arrow"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 10" width="19" height="10"><path d="M15.9 0l-6.4 6.7-6.4-6.7h-3.1l9.5 10 9.5-10z"/></svg></a>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 1300" class="visual_bg">
+                        <image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/visual_top.jpg" x="0" y="-100" width="1366" height="1500" clip-path="url(#visual_mask)" data-prlx="3"/>
+                        <clipPath id="visual_mask"><path d="M1366 1180l-1366 120v-1300h1366z"/></clipPath>
+                    </svg>
+                </div>
+
+                <section id="philosophy-section" class="with-bg">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 570" class="bg">
+                        <rect fill="#fff" clip-path="url(#philosophy-section_mask)" x="0" y="0" width="1366" height="570"/>
+                        <clipPath id="philosophy-section_mask"><path d="M0 570v-450l1366-120v450l-1366 120z"/></clipPath>
+                    </svg>
+                    <div class="section_inner" data-appeared="true">
+                        <h3 class="section_lead">“ここちよい”を<br class="sp-only" />提供します</h3>
+                        <p class="txt alignC mb-5">”ここちよい”サービス提供にこだわりたい。<br />コンタクトレンズのみならず、すべての人の選択肢を広げるお手伝いをITで実現する会社です。 </p>
+                        <span class="appear-wrap"><a href="/vision.html" class="btn hard ajax">企業理念</a></span>
+                    </div>
+                </section>
+
+                <section id="service-section">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 122" class="top-skew"><path fill="#fff" d="M0 122v-1.9l1366-120.1v122h-1366z"/></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 122" class="btm-skew"><path fill="#fff" d="M1366 0v1.9l-1366 120.1v-122h1366z"/></svg>
+                    <div class="section_inner" data-appeared="true">
+                        <h2 class="section_title"><span class="en">Service</span><span class="ja">事業紹介</span></h2>
+                        <h3 class="section_lead">お買い物が楽しく<br class="sp-only" />便利なものに</h3>
+                        <p class="txt alignC mb-5">EC事業、SPA事業、WEBサービス事業を中心に、<br />常に新しいサービスを作っていきます。</p>
+                        <span class="appear-wrap"><a href="/service.html" class="btn soft ajax">事業紹介</a></span>
+                        <div class="obj pc-only">
+                            <img src="/img/top_service_card_01.png" alt="" width="263" height="271" class="obj_card_1" data-prlx="8" style="transform: translateY(2.81px);" />
+                            <img src="/img/top_service_card_02.png" alt="" width="194" height="257" class="obj_card_2" data-prlx="8" style="transform: translateY(2.59px);" />
+                            <img src="/img/top_service_card_03.png" alt="" width="197" height="122" class="obj_card_3" data-prlx="8" style="transform: translateY(4.35px);" />
+                            <img src="/img/top_service_card_04.png" alt="" width="135" height="259" class="obj_card_4" data-prlx="8" style="transform: translateY(4.97px);" />
+                            <img src="/img/top_service_ec_02.png" alt="" width="324" height="339" class="obj_2" data-prlx="6" style="transform: translateY(5.87px);" />
+                            <img src="/img/top_service_spa_01.png" alt="" width="342" height="220" class="obj_3" data-prlx="2" style="transform: translateY(8.76px);" />
+                            <img src="/img/top_service_spa_02.png" alt="" width="289" height="161" class="obj_4" data-prlx="5" style="transform: translateY(5.08px);" />
+                            <img src="/img/top_service_web.png" alt="" width="360" height="308" class="obj_5" data-prlx="3" style="transform: translateY(9.78px);" />
+                        </div>
+                    </div>
+                </section>
+
+                <section id="recruit-section">
+                    <div class="section_inner" data-appeared="false">
+                        <h2 class="section_title"><span class="en">Recruit</span><span class="ja">採用情報</span></h2>
+                        <figure class="choice-parente">
+                            <img src="/img/common/choice_parente.png" alt="Choice! Parente" width="298" height="185" />
+                            <figcaption class="badge">中途採用<br />募集中</figcaption>
+                        </figure>
+                        <h3 class="section_lead"><span class="bg_white">一つのことを成し遂げ、<br class="sp-only" />やり切る満足感</span></h3>
+                        <p class="txt alignC mb-5"><span class="bg_white">「ここちよい」サービスや、お客様目線を大事にするメンバーの採用に積極的です。</span></p>
+                        <span class="appear-wrap"><a href="/recruit.html" class="btn soft ajax">採用情報</a></span>
+                    </div>
+                </section>
+
+                <section id="topics-section">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 122" class="top-skew"><path fill="#fff" d="M0 122v-1.9l1366-120.1v122h-1366z"/></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 122" class="btm-skew"><path fill="#fff" d="M1366 0v1.9l-1366 120.1v-122h1366z"/></svg>
+                    <div class="section_inner">
+                        <div class="topic-wrap column" data-appeared="false">
+                            <section class="topic col3">
+                                <a href="/company.html">
+                                    <h4 class="topic_title"><span class="en">Company</span><span class="ja">会社概要</span></h4>
+                                    <figure class="topic_figure">
+                                        <figcaption class="txt matchHeight" style="height: 44px;">当社の会社概要をご覧ください。</figcaption>
+                                        <span class="topic_img"><img src="/img/common/thumb_top_company.jpg" alt="" width="288" height="259" /></span>
+                                    </figure>
+                                    <span class="hov-arr"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 16"><path d="M22 8l-8-8h-3l7 7h-18v2h18l-7 7h3z"/></svg></span>
+                                </a>
+                            </section>
+                            <section class="topic col3">
+                                <a href="/greeting.html">
+                                    <h4 class="topic_title"><span class="en">Greeting</span><span class="ja">社長挨拶</span></h4>
+                                    <figure class="topic_figure">
+                                        <figcaption class="txt matchHeight" style="height: 44px;">買い物体験をさらに進化させ、より良い選択肢を提供します。</figcaption>
+                                        <span class="topic_img"><img src="/img/common/thumb_top_message.jpg" alt="" width="288" height="259" /></span>
+                                    </figure>
+                                    <span class="hov-arr"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 16"><path d="M22 8l-8-8h-3l7 7h-18v2h18l-7 7h3z"/></svg></span>
+                                </a>
+                            </section>
+                            <section class="topic col3">
+                                <a href="/csr.html">
+                                    <h4 class="topic_title"><span class="en">CSR</span><span class="ja">CSR活動</span></h4>
+                                    <figure class="topic_figure">
+                                        <figcaption class="txt matchHeight" style="height: 44px;">パレンテではWAVEによる収益の一部を社会貢献活動に寄付をするプロジェクトを推進しています。</figcaption>
+                                        <span class="topic_img"><img src="/img/common/thumb_top_csr.jpg" alt="" width="288" height="259" /></span>
+                                    </figure>
+                                    <span class="hov-arr"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 16"><path d="M22 8l-8-8h-3l7 7h-18v2h18l-7 7h3z"/></svg></span>
+                                </a>
+                            </section>
+                        </div>
+
+                        <hr class="sp-only" />
+
+                        <section id="news-section" class="topic" data-appeared="false">
+                            <h4 class="topic_title"><span class="en">News</span><span class="ja">ニュース</span></h4>
+                            <ul class="news-list column">
+                                <li class="news-item">
+                                    <a href="/news/20170720.html">
+                                        <dl class="news-detail matchHeight" style="height: 141px;">
+                                            <dt class="news-date">2017.07.20</dt>
+                                            <dd class="news-type">リリース</dd>
+                                            <dd class="txt">入山法子さんをイメージキャラクターに迎え、WAVEブランドサイトをリニューアル致しました。</dd>
+                                        </dl>
+                                        <span class="read-arr en"><span class="read-arr_inner">Read<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 16"><path d="M22 8l-8-8h-3l7 7h-18v2h18l-7 7h3z"/></svg></span></span>
+                                    </a>
+                                </li>
+                                <li class="news-item">
+                                    <dl class="news-detail matchHeight" style="height: 141px;">
+                                        <dt class="news-date">2016.11.08</dt>
+                                        <dd class="news-type">リリース</dd>
+                                        <dd class="txt">パレンテコーポレートサイトをリニューアルいたしました。</dd>
+                                    </dl>
+                                    <span class="read-arr en"><span class="read-arr_inner">Read<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 16"><path d="M22 8l-8-8h-3l7 7h-18v2h18l-7 7h3z"/></svg></span></span>
+                                </li>
+                                <li class="news-item">
+                                    <a href="http://www.wavecontact.jp/" target="_blank">
+                                        <dl class="news-detail matchHeight" style="height: 141px;">
+                                            <dt class="news-date">2016.10.18</dt>
+                                            <dd class="news-type">リリース</dd>
+                                            <dd class="news-link">ブランドサイト</dd>
+                                            <dd class="txt">自社製品のワンデーコンタクトレンズ「WAVEワンデー UV エアスリム」「WAVEワンデー UV ウォータースリム」を販売開始しました。</dd>
+                                        </dl>
+                                        <span class="read-arr en"><span class="read-arr_inner">Read<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 16"><path d="M22 8l-8-8h-3l7 7h-18v2h18l-7 7h3z"/></svg></span></span>
+                                    </a>
+                                </li>
+                                <li class="news-item">
+                                    <a href="/news/20161013.html">
+                                        <dl class="news-detail matchHeight" style="height: 141px;">
+                                            <dt class="news-date">2016.10.13</dt>
+                                            <dd class="news-type">お知らせ</dd>
+                                            <dd class="news-link">詳細ページあり</dd>
+                                            <dd class="txt">YAHOO!ショッピング「Area Awards 2016」において、3つの賞を受賞しました。</dd>
+                                        </dl>
+                                        <span class="read-arr en"><span class="read-arr_inner">Read<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 16"><path d="M22 8l-8-8h-3l7 7h-18v2h18l-7 7h3z"/></svg></span></span>
+                                    </a>
+                                </li>
+                                <li class="news-item">
+                                    <a href="/news/20160126.html">
+                                        <dl class="news-detail matchHeight" style="height: 141px;">
+                                            <dt class="news-date">2016.01.26</dt>
+                                            <dd class="news-type">お知らせ</dd>
+                                            <dd class="news-link">詳細ページあり</dd>
+                                            <dd class="txt">楽天市場「ショップ・オブ・ジ・エリア 2015」を受賞しました。</dd>
+                                        </dl>
+                                        <span class="read-arr en"><span class="read-arr_inner">Read<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 16"><path d="M22 8l-8-8h-3l7 7h-18v2h18l-7 7h3z"/></svg></span></span>
+                                    </a>
+                                </li>
+                                <li class="news-item">
+                                    <a href="http://www.wavecontact.jp/ring/" target="_blank">
+                                        <dl class="news-detail matchHeight" style="height: 141px;">
+                                            <dt class="news-date">2015.12.10</dt>
+                                            <dd class="news-type">リリース</dd>
+                                            <dd class="news-link">ブランドサイト</dd>
+                                            <dd class="txt">自社製品のカラーコンタクトレンズ「WAVEワンデー RING（UVカット付き）」を販売開始しました。</dd>
+                                        </dl>
+                                        <span class="read-arr en"><span class="read-arr_inner">Read<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 16"><path d="M22 8l-8-8h-3l7 7h-18v2h18l-7 7h3z"/></svg></span></span>
+                                    </a>
+                                </li>
+                                <li class="news-item">
+                                    <a href="http://www.wavecontact.jp/" target="_blank">
+                                        <dl class="news-detail matchHeight" style="">
+                                            <dt class="news-date">2015.08.31</dt>
+                                            <dd class="news-type">リリース</dd>
+                                            <dd class="news-link">ブランドサイト</dd>
+                                            <dd class="txt">自社製品の2ウィークコンタクトレンズ「WAVE 2ウィーク UV」を販売開始しました。</dd>
+                                        </dl>
+                                        <span class="read-arr en"><span class="read-arr_inner">Read<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 16"><path d="M22 8l-8-8h-3l7 7h-18v2h18l-7 7h3z"/></svg></span></span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </section>
+                    </div>
+                </section>
+
+                <section id="banner-section">
+                    <div class="section_inner" data-appeared="false">
+                        <ul class="bnr-list column">
+                            <li class="bnr-item col2">
+                                <a href="http://www.wavecontact.jp/" target="_blank">
+                                    <img src="/img/common/bnr_wave.png" alt="WAVEコンタクト" width="480" height="190" />
+                                </a>
+                            </li>
+                            <li class="bnr-item col2">
+                                <a href="/recruit.html">
+                                    <img src="/img/common/bnr_choice_parente.png" alt="パレンテの採用" width="480" height="190" />
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </section>
+            </main>
+
+            <footer id="footer"><!-- footer.html -->
+    <div class="footer_inner" data-appeared="false">
+        <nav class="footer_sitemap">
+            <ul class="sitemap-list">
+                <li class="sitemap-item link_0"><a href="/">TOP</a></li>
+                <li class="sitemap-item link_1"><a href="/vision.html">企業方針</a>
+                    <ul class="sub-sitemap-list">
+                        <li class="sub-sitemap-item link_1_0"><a href="/vision.html">企業理念</a></li>
+                        <li class="sub-sitemap-item link_1_1"><a href="/action.html">私たちの姿勢</a></li>
+                    </ul>
+                </li>
+                <li class="sitemap-item link_2"><a href="/service.html">事業紹介</a>
+                    <ul class="sub-sitemap-list">
+                        <li class="sub-sitemap-item link_2_0"><a href="/service.html">事業一覧</a></li>
+                        <li class="sub-sitemap-item link_2_1"><a href="/ec.html">EC事業</a></li>
+                        <li class="sub-sitemap-item link_2_2"><a href="/spa.html">SPA事業</a></li>
+                        <li class="sub-sitemap-item link_2_3"><a href="/web.html">WEBサービス事業</a></li>
+                    </ul>
+                </li>
+                <li class="sitemap-item link_3"><a href="/company.html">企業情報</a>
+                    <ul class="sub-sitemap-list">
+                        <li class="sub-sitemap-item link_3_0"><a href="/company.html">会社概要</a></li>
+                        <li class="sub-sitemap-item link_3_1"><a href="/greeting.html">社長挨拶</a></li>
+                        <li class="sub-sitemap-item link_3_2"><a href="/performance.html">企業実績</a></li>
+                        <li class="sub-sitemap-item link_3_3"><a href="/csr.html">CSR活動</a></li>
+                    </ul>
+                </li>
+                <li class="sitemap-item link_4"><a href="/recruit.html">採用情報</a>
+                    <ul class="sub-sitemap-list">
+                        <li class="sub-sitemap-item link_4_1"><a href="/recruit/message.html">代表メッセージ</a></li>
+                        <li class="sub-sitemap-item link_4_2"><a href="/recruit/project.html">プロジェクト紹介</a></li>
+                        <li class="sub-sitemap-item link_4_3"><a href="/recruit/member.html">メンバー紹介</a></li>
+                        <li class="sub-sitemap-item link_4_4"><a href="/recruit/talk.html">社員座談会</a></li>
+                        <li class="sub-sitemap-item link_4_5"><a href="/recruit/data.html">パレンテデータ</a></li>
+                        <li class="sub-sitemap-item link_4_6"><a href="/recruit/career.html">募集職種一覧</a></li>
+                    </ul>
+                </li>
+                <li class="sitemap-item link_5"><a href="#news-section">ニュースリリース</a></li>
+                <li class="sitemap-item link_6"><a href="/contact.html">お問い合わせ</a></li>
+            </ul>
+        </nav>
+        <a href="#top" id="pagetop">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 13">
+                <path d="M9 4.4l-4.5-4.4-4.5 4.4v1.6l4-3.9v10.9h1v-10.9l4 3.9z"/>
+            </svg>
+        </a>
+        <p class="copyright"><small>© PARENTE</small></p>
+        <ul class="footer_link">
+            <li class="footer_link_item"><a href="/privacy.html">プライバシーポリシー</a></li>
+            <li class="footer_link_item"><a href="/sitemap.html">サイトマップ</a></li>
+        </ul>
+    </div>
+</footer>
+        </div>
+        <script src="/js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="/js/vendor/jquery.pjax.min.js"></script>
+        <script src="/js/vendor/plugins.js"></script>
+        <script src="/js/common.js"></script>
+        <script src="/js/main.js"></script>
+    
+
+</body></html>
