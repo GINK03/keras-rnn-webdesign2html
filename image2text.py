@@ -19,6 +19,7 @@ import glob
 import copy
 import os
 import re
+
 input_tensor1 = Input(shape=(150, 150, 3))
 vgg_model     = VGG16(include_top=False, weights='imagenet', input_tensor=input_tensor1)
 vgg_x         = vgg_model.layers[-1].output
@@ -31,9 +32,9 @@ input_tensor2 = Input(shape=(20, 1800))
 encoded = Concatenate(axis=1)( [vgg_x, input_tensor2] )
 
 x           = Bi(LSTM(500, recurrent_dropout=0.05, recurrent_activation='tanh', return_sequences=False))(encoded)
-x           = Dropout(0.1)(x)
+x           = Dropout(0.10)(x)
 x           = Dense(2600, activation='relu')(x)
-x           = Dropout(0.25)(x)
+x           = Dropout(0.10)(x)
 x           = Dense(2600, activation='relu')(x)
 x           = Dropout(0.10)(x)
 decoded     = Dense(1800, activation='softmax')(x)
@@ -93,7 +94,7 @@ def train():
       Xs2 = np.load(f'dataset/{name}-xs2.npy')
       ys = np.load(f'dataset/{name}-ys.npy')
 
-      optims = [Adam(), SGD(), RMSprop()]
+      optims = [Adam(), SGD()]
       print(optims)
 
       print_callback = LambdaCallback(on_epoch_end=callbacks)
