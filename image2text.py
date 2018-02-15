@@ -31,7 +31,8 @@ input_tensor2 = Input(shape=(20, 1800))
 
 encoded = Concatenate(axis=1)( [vgg_x, input_tensor2] )
 
-x           = Bi(LSTM(500, recurrent_dropout=0.05, recurrent_activation='tanh', return_sequences=False))(encoded)
+x           = Bi(GRU(300, recurrent_dropout=0.2, recurrent_activation='tanh', return_sequences=False))(encoded)
+#x           = Bi(GRU(300, recurrent_dropout=0.2, recurrent_activation='tanh', return_sequences=False))(x)
 x           = Dropout(0.10)(x)
 x           = Dense(2600, activation='relu')(x)
 x           = Dropout(0.10)(x)
@@ -40,7 +41,7 @@ x           = Dropout(0.10)(x)
 decoded     = Dense(1800, activation='softmax')(x)
 
 model       = Model([input_tensor1, input_tensor2], decoded)
-model.compile(optimizer=Adam(), loss='categorical_crossentropy')
+model.compile(optimizer=Adam(lr=0.0001, decay=0.03), loss='categorical_crossentropy')
 
 """
 0 <keras.engine.topology.InputLayer object at 0x7f9ecfcea4a8>
@@ -72,6 +73,7 @@ model.compile(optimizer=Adam(), loss='categorical_crossentropy')
 
 for layer in model.layers[:18]:
   layer.trainable = False
+  print(layer)
   ...
 
 buff = None
@@ -82,29 +84,27 @@ def callbacks(epoch, logs):
   print("logs", logs)
 
 def train():
+  if '--resume' in sys.argv:
+    model.load_weights(sorted(glob.glob('./models/*')).pop(0))
   has = set()
   for name in glob.glob('dataset/*'):
     ha = name.split('/').pop().split('-').pop(0)
     has.add(ha)
   has = [sorted(list(has)).pop(0)]
   print(has)
-  for i in range(1000):
+  for i in range(100):
     for name in sorted(has):
       Xs1 = np.load(f'dataset/{name}-xs1.npy')
       Xs2 = np.load(f'dataset/{name}-xs2.npy')
       ys = np.load(f'dataset/{name}-ys.npy')
 
-      optims = [Adam(), SGD()]
-      print(optims)
 
       print_callback = LambdaCallback(on_epoch_end=callbacks)
-      batch_size = random.randint( 64, 98 )
-      random_optim = random.choice( optims )
-      print( random_optim )
-      model.optimizer = random_optim
-      model.fit( [Xs2, Xs1], ys,  shuffle=True, batch_size=batch_size, epochs=5, callbacks=[print_callback] )
-      model.save("models/%9f_%09d.h5"%(buff['loss'], i))
-      print("saved ..")
+      batch_size = random.randint( 127, 128 )
+      model.optimizer = Adam(lr=0.0003*(1.0 - i*0.10))
+      model.fit( [Xs2, Xs1], ys,  shuffle=True, batch_size=batch_size, epochs=1, callbacks=[print_callback] )
+    model.save("models/%9f_%09d.h5"%(buff['loss'], i))
+    print("saved ..")
 
 def predict():
   c_i = pickle.loads( open("dataset/c_i.pkl", "rb").read() )
