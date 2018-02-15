@@ -22,59 +22,31 @@ import re
 
 input_tensor1 = Input(shape=(150, 150, 3))
 vgg_model     = VGG16(include_top=False, weights='imagenet', input_tensor=input_tensor1)
-vgg_x         = vgg_model.layers[-1].output
+vgg_x         = vgg_model.layers[-2].output
 vgg_x         = Flatten()(vgg_x)
-vgg_x         = Dense(1800, activation='relu')(vgg_x)
-vgg_x         = RepeatVector(20)(vgg_x)
+vgg_x         = Dense(1, activation='tanh')(vgg_x)
+vgg_x         = RepeatVector(30)(vgg_x)
 
-input_tensor2 = Input(shape=(20, 1800))
+input_tensor2 = Input(shape=(30, 1800))
 
-encoded = Concatenate(axis=1)( [vgg_x, input_tensor2] )
+packed        = GRU(300, activation='relu', dropout=0.1, recurrent_dropout=0.1, recurrent_activation='tanh', return_sequences=True)(input_tensor2)
 
-x           = Bi(GRU(300, recurrent_dropout=0.2, recurrent_activation='tanh', return_sequences=False))(encoded)
-#x           = Bi(GRU(300, recurrent_dropout=0.2, recurrent_activation='tanh', return_sequences=False))(x)
-x           = Dropout(0.10)(x)
-x           = Dense(2600, activation='relu')(x)
-x           = Dropout(0.10)(x)
-x           = Dense(2600, activation='relu')(x)
-x           = Dropout(0.10)(x)
-decoded     = Dense(1800, activation='softmax')(x)
+encoded       = Concatenate(axis=2)( [vgg_x, packed] )
+print(encoded.shape)
+x             = GRU(300, activation='relu', dropout=0.1, recurrent_dropout=0.1, recurrent_activation='tanh', return_sequences=False)(encoded)
 
-model       = Model([input_tensor1, input_tensor2], decoded)
-model.compile(optimizer=Adam(lr=0.0001, decay=0.03), loss='categorical_crossentropy')
+x             = Dense(2600, activation='relu')(x)
+decoded       = Dense(1800, activation='softmax')(x)
 
-"""
-0 <keras.engine.topology.InputLayer object at 0x7f9ecfcea4a8>
-1 <keras.layers.convolutional.Conv2D object at 0x7f9ece6220f0>
-2 <keras.layers.convolutional.Conv2D object at 0x7f9e8deb02e8>
-3 <keras.layers.pooling.MaxPooling2D object at 0x7f9e8de4ee10>
-4 <keras.layers.convolutional.Conv2D object at 0x7f9e8de58550>
-5 <keras.layers.convolutional.Conv2D object at 0x7f9e8de62e10>
-6 <keras.layers.pooling.MaxPooling2D object at 0x7f9e8de6bf60>
-7 <keras.layers.convolutional.Conv2D object at 0x7f9e8ddfe5c0>
-8 <keras.layers.convolutional.Conv2D object at 0x7f9e8de06c50>
-9 <keras.layers.convolutional.Conv2D object at 0x7f9e8de0dfd0>
-10 <keras.layers.pooling.MaxPooling2D object at 0x7f9e8de20cc0>
-11 <keras.layers.convolutional.Conv2D object at 0x7f9e8de29f98>
-12 <keras.layers.convolutional.Conv2D object at 0x7f9e8ddbb5f8>
-13 <keras.layers.convolutional.Conv2D object at 0x7f9e8ddc3eb8>
-14 <keras.layers.pooling.MaxPooling2D object at 0x7f9e8ddd6d30>
-15 <keras.layers.convolutional.Conv2D object at 0x7f9e8ddde630>
-16 <keras.layers.convolutional.Conv2D object at 0x7f9e8dde6ef0>
-17 <keras.layers.convolutional.Conv2D object at 0x7f9e8ddef588>
-18 <keras.layers.pooling.MaxPooling2D object at 0x7f9e8dd81f60>
-19 <keras.layers.core.Dense object at 0x7f9e8dd94a90>
-20 <keras.layers.core.Flatten object at 0x7f9e8dd9c908>
-21 <keras.layers.core.Dense object at 0x7f9e8dd9c6d8>
-22 <keras.layers.core.RepeatVector object at 0x7f9e8dcf3978>
-23 <keras.layers.wrappers.Bidirectional object at 0x7f9e8dcfd9b0>
-24 <keras.layers.wrappers.TimeDistributed object at 0x7f9e8dba6ac8>
-"""
+model         = Model([input_tensor1, input_tensor2], decoded)
 
 for layer in model.layers[:18]:
   layer.trainable = False
   print(layer)
   ...
+model.compile(optimizer=Adam(lr=0.0001, decay=0.03), loss='categorical_crossentropy')
+
+
 
 buff = None
 def callbacks(epoch, logs):
@@ -90,18 +62,23 @@ def train():
   for name in glob.glob('dataset/*'):
     ha = name.split('/').pop().split('-').pop(0)
     has.add(ha)
-  has = [sorted(list(has)).pop(0)]
+  #has = [sorted(list(has)).pop(0)]
   print(has)
-  for i in range(100):
+
+  init_rate = 0.0002
+  decay     = 0.02
+  for i in range(50):
+    Xs1, Xs2, ys = [None, None, None]
     for name in sorted(has):
       Xs1 = np.load(f'dataset/{name}-xs1.npy')
       Xs2 = np.load(f'dataset/{name}-xs2.npy')
       ys = np.load(f'dataset/{name}-ys.npy')
 
-
       print_callback = LambdaCallback(on_epoch_end=callbacks)
-      batch_size = random.randint( 127, 128 )
-      model.optimizer = Adam(lr=0.0003*(1.0 - i*0.10))
+      batch_size = random.choice([50,100])
+      lr = init_rate*( 1.0 - i*decay )
+      print(f'now lr is {lr:0.12f}')
+      model.optimizer = Adam(lr=lr, amsgrad=False)
       model.fit( [Xs2, Xs1], ys,  shuffle=True, batch_size=batch_size, epochs=1, callbacks=[print_callback] )
     model.save("models/%9f_%09d.h5"%(buff['loss'], i))
     print("saved ..")

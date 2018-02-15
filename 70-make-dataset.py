@@ -15,17 +15,18 @@ for name in sorted(glob.glob('html_vec/*')):
   print(text)
 
   Xs1, Xs2, ys = [],[],[]
-  for i in range(len(text) - 20):
-    x1 = [ [0.0]*len(feat_index) for _ in range(20) ]
-    for cur,index in enumerate(text[i:i+20]):
+  for i in range(len(text) - 30):
+    x1 = [ [0.0]*len(feat_index) for _ in range(30) ]
+    for cur,index in enumerate(text[i:i+30]):
       x1[cur][index] = 1.0 
     ybase = [0.0]*len(feat_index)
-    ybase[ text[i+20] ] = 1.0
+    ybase[ text[i+30] ] = 1.0
     y = ybase
 
     Xs1.append(x1)
     Xs2.append(img)
     ys.append(y)  
+
   Xs1 = np.array(Xs1)
   np.save(f'dataset/{ha}-xs1.npy', Xs1)
   del Xs1
