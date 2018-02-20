@@ -1,16 +1,18 @@
 import glob
 
 import pickle
+
 import gzip
 
 import json
 
 import numpy as np
-feat_index = json.load(open('feat_index.json'))
-for name in sorted(glob.glob('html_vec/*')):
-  ha = name.split('/').pop()
 
-  img = pickle.load(open(f'mini_image/{ha}', 'rb'))
+import hashlib
+
+feat_index = json.load(open('feat_index.json'))
+for name in sorted(glob.glob('html_vec/*'))[:2]:
+  img = pickle.load(open(f'mini_image/{name.split("/").pop()}', 'rb'))
   text = pickle.load(open(name,'rb'))
   print(text)
 
@@ -27,12 +29,22 @@ for name in sorted(glob.glob('html_vec/*')):
     Xs2.append(img)
     ys.append(y)  
 
+    # blobのサイズを100にして、行う
+    if len(Xs1) == 100: 
+      Xs1 = np.array(Xs1)
+      Xs2 = np.array(Xs2)
+      ys = np.array(ys)
+      
+      blob = gzip.compress( pickle.dumps( (Xs1, Xs2, ys) ) )
+      ha   = hashlib.sha256(blob).hexdigest()
+      open(f'dataset/{ha}', 'wb').write( blob )
+      Xs1, Xs2, ys = [],[],[]
+ 
+  # 残った微妙なやつを回収する
   Xs1 = np.array(Xs1)
-  np.save(f'dataset/{ha}-xs1.npy', Xs1)
-  del Xs1
   Xs2 = np.array(Xs2)
-  np.save(f'dataset/{ha}-xs2.npy', Xs2)
-  del Xs2
   ys = np.array(ys)
-  np.save(f'dataset/{ha}-ys.npy', ys)
-
+  blob = gzip.compress( pickle.dumps( (Xs1, Xs2, ys) ) )
+  ha   = hashlib.sha256(blob).hexdigest()
+  open(f'dataset/{ha}', 'wb').write( blob )
+  
